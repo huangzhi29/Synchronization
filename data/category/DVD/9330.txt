@@ -1,0 +1,25 @@
+id:9330
+asin:1565957008
+title:Playboy - Wet & Wild
+group:DVD
+salesrank:5495
+similar:5
+categories:3
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( P )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:14
+review:AUP755LX3TYJU:5
+review:A3VBF9ZZFQPR82:5
+review:A934KQO4YFLX2:4
+review:A1QL7CMSEY39E9:4
+review:A1R0SKT0NEQ1LE:5
+review:AX2HGJXNXSC2L:1
+review:A2FPYE2INRTBNP:3
+review:AQV1W2Z8HHOZW:5
+review:AKHG0EACM58C4:5
+review:A2LI1LOWMX341S:4
+review:AW8T96Z2PISNM:5
+review:A3HIJQZA6CQTJU:4
+review:A9Q1Y0PLTCFHO:4
+review:A3PWF2AQ5XYALW:4

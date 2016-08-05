@@ -1,0 +1,39 @@
+id:1293
+asin:B000056N8H
+title:Ride
+group:DVD
+salesrank:26040
+similar:5
+categories:26
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Sports;General
+category:;DVD;Genres;Comedy;By Theme;Showbiz
+category:;DVD;Directors;( S )
+category:;DVD;Actors & Actresses;( A )
+category:;DVD;Actors & Actresses;( B );Brown, Downtown Julie
+category:;DVD;Actors & Actresses;( C );Campbell, Luther
+category:;DVD;Actors & Actresses;( D );DeLeon, Idalis
+category:;DVD;Actors & Actresses;( E );Edmonds, Dartanyan
+category:;DVD;Actors & Actresses;( F );Fingaz, Sticky
+category:;DVD;Actors & Actresses;( H )
+category:;DVD;Actors & Actresses;( L );Lover, Ed
+category:;DVD;Actors & Actresses;( S );Starr, Fredro
+category:;DVD;Actors & Actresses;( T );Torry, Guy
+category:;DVD;Actors & Actresses;( W );Williams, Kelly Shanygne
+category:;DVD;Actors & Actresses;( W );Witherspoon, John
+category:;DVD;Actors & Actresses;( Y );Yoba, Malik
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Dimension Films
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( R )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:5
+review:A9Q28YTLYREO7:1
+review:A3RI9UWBHQ6D51:4
+review:A21279TEPJ8YJ9:2
+review:A294NX543NLBWZ:5
+review:ARFRYHIVP6VPP:3

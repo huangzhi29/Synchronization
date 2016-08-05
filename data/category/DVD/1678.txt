@@ -1,0 +1,169 @@
+id:1678
+asin:B00008WJD6
+title:Just Married
+group:DVD
+salesrank:16635
+similar:5
+categories:19
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Nothing Goes Right
+category:;DVD;Genres;Comedy;Farce
+category:;DVD;Genres;Comedy;By Theme;Love & Romance;Wedding Bells
+category:;DVD;Actors & Actresses;( B );Barry, Raymond J
+category:;DVD;Actors & Actresses;( G );Gaynes, George
+category:;DVD;Actors & Actresses;( M );Mazur, Monet
+category:;DVD;Actors & Actresses;( M );Moscow, David
+category:;DVD;Actors & Actresses;( M );Murphy, Brittany
+category:;DVD;Actors & Actresses;( R );Rasche, David
+category:;DVD;Actors & Actresses;( T );Thomas, Alex
+category:;DVD;Genres;Comedy;Romantic Comedies;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( J )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Comedy;Screwball Comedy
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;All Fox Titles
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Comedy
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Fox DVD Budget Store;DVDs Under $15
+reviews:142
+review:A2XQNSC4QPRL6L:4
+review:A3RTKFSANUEC2F:4
+review:A27CZPNYB2ZBE6:1
+review:A1PAN1ZMKTSIG8:4
+review:A1R50XV06JOG39:5
+review:A33PC4QGWZSDFG:2
+review:A2TQVVTFRJJCXK:5
+review:A364FBCXZ6ODRG:5
+review:A3UN6WX5RRO2AG:5
+review:A3713PP4MADKED:4
+review:A38KTSQ2S9CTEF:4
+review:AXBOHQD0QA5WR:4
+review:A17IEXOXYLAWNC:5
+review:A39TROXL1OCDI6:5
+review:A103KNDW8GN92L:4
+review:A3K7WDRNIMB49W:1
+review:AR3E40N3A498T:4
+review:A1NT0VAJPXBY2H:5
+review:A2LEALE7QMVR9O:4
+review:A1SHXMC4X7X1SE:3
+review:A1TF9EYT8FEPZP:5
+review:A2ARRAMXWT83PT:4
+review:A1ORXGOILZTFS9:5
+review:A2MCPSBFXA0SS3:5
+review:A3PVPCBSYHQG1U:5
+review:A3GQ3Z7JFO65XO:5
+review:A2XPOS3OU726VH:5
+review:A2Q3DYJLJYDNNT:4
+review:AJ5ZWQRZB2ZOQ:4
+review:ANPZ329LX5W4J:4
+review:A1C5KB7EJYT8Q9:4
+review:A2S39FZGUWZ10A:1
+review:AKA8MZ3YQLXGL:3
+review:AO6QESQ28PTDT:4
+review:AO6QESQ28PTDT:4
+review:A2LQH1K01P6VKQ:5
+review:A34VYH8JJX3IV8:5
+review:A2AOZQ3WTNVVOK:3
+review:A56HXFPP8GUCS:3
+review:APZYPSOQE9RQP:5
+review:AV3PA7P5P3G4Q:4
+review:A391YPR0NFTCLK:5
+review:A3SYMLB8JSW5VD:3
+review:A3IRAQ780H0FMB:1
+review:AYGNILJG2C3RJ:4
+review:A3RB6NQOLOBXYD:1
+review:A3UN6WX5RRO2AG:5
+review:AG2ZRFW9E48VG:1
+review:A33AJILPKUD1JJ:4
+review:ABXA6Q0I9L7L8:4
+review:A17IW1FNE5CPC0:1
+review:A3VI5KB0S88U32:5
+review:A301UQO9WS7ANI:4
+review:A1L9ZFFO2BP8Y4:2
+review:A1NV8HZTGKIPXQ:3
+review:A17TZ4F2521YBZ:4
+review:A3G1WDBH64M8XV:5
+review:A1FXAJODX11WLF:2
+review:A3E51RY6Z6E79D:4
+review:A3F3B6HY9RJI04:3
+review:A3HR0V43CV3WC1:3
+review:A1V3IO23FZFF9L:3
+review:A1YQ6QB2127AJ4:4
+review:A2GNVLK09GZ1LZ:4
+review:A3K1LK6DJCVPUK:2
+review:A3L7MW2D8IVTLH:4
+review:A14I8ZJU04OU03:4
+review:AF2ZT2LQTSXRJ:3
+review:A2VVIGNFSCULUS:1
+review:A3O7PV6FVKK3TB:3
+review:A2ASEBCEN9ZWTZ:4
+review:AK4ECS41CVWNG:5
+review:A3UARKRWA7E8R2:4
+review:AW5V6FU0GJJT3:2
+review:AAMU7OY19KBWG:1
+review:A3RYBMVQNIU3R1:3
+review:AHCVWPLA1O4X8:2
+review:A2MOYTJCDZ3B6A:4
+review:AX19A39YU2Y71:3
+review:A20MBUOT9S7AEP:1
+review:A1O66I20SU7WNH:3
+review:A1O66I20SU7WNH:3
+review:A1VFCX7D378LXO:5
+review:A1VFCX7D378LXO:5
+review:A1Q5P5K0IWEOSJ:2
+review:A2F021E095XONW:5
+review:A1FP8KXBZ2ACKB:1
+review:A1PI5EB4NBXC3E:4
+review:A1XBSD8BC6JDWD:1
+review:A1XJOSJN6FHFO0:5
+review:A1S5B32WYMEE44:3
+review:A2S6ZVYAK8YTY4:1
+review:A3EH76UZCIWDJX:4
+review:AO4J90YPX5RU6:3
+review:A1JNUHRXIQX0B4:5
+review:A3P1A63Q8L32C5:3
+review:A2JSV9BQV0244K:1
+review:A2QH5NMHW1KTJ1:1
+review:A3J32CP7XVRNS8:3
+review:A3R6AVME2VRW9Q:1
+review:A2BZWG2LTJZGBQ:2
+review:AFVNWL92Z8HGF:1
+review:A1MN3M9KV5QIRW:4
+review:A283IDDLZ6KZWH:2
+review:A15BKI8TSS1X00:1
+review:A1UMAPW7Z7GUEG:4
+review:A1R602SXNGOMJ4:4
+review:A13DRH017BAN4I:1
+review:A3ENQCENR5ZL6F:5
+review:A2D3NT0E2XV0JD:2
+review:ABO2ZI2Y5DQ9T:3
+review:A3KL7NXOAGKD3U:3
+review:A25XWMECVIEC9Z:1
+review:A1WSCQL9NKVJ0V:4
+review:AO3JW5VHT2GQ:2
+review:A21279TEPJ8YJ9:4
+review:A2NJO6YE954DBH:3
+review:A3HD49D8511MFB:3
+review:A1X8R7C44LWJXY:4
+review:A35VZ2I2URR5VJ:2
+review:A3IPO6P4LHZ0NS:1
+review:A2V5PPTX0SN5QK:1
+review:A1X120435NMZYY:5
+review:A2R4XG0L7Z01V8:3
+review:A2SGR7LE899LGG:1
+review:A3PHTB9X7B11XL:2
+review:A1H13QND23P6NH:1
+review:ARUNC33SCAROY:1
+review:A37PV5GMP2ILJC:1
+review:A2JG7P54DEUOB5:1
+review:A3GA09FYFKL4EY:5
+review:ASJ89T42CIUHU:5
+review:A2095I7N24SZK7:5
+review:A1HX00DL0SZM1G:3
+review:A3ATTCCO32ZXET:3
+review:A2MS6UV7ZGTMLR:3
+review:A3L1FJU0KCRAGG:1
+review:A1XCM3X4GOZHYJ:5
+review:A1DBQURAZBR8T:5
+review:A11R16C1ZKEWOI:5
+review:A1Z77YM0EUKRLV:1
+review:A1TK6R2JSC97HL:2

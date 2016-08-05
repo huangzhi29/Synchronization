@@ -1,0 +1,14 @@
+id:7343
+asin:B00005B3Z0
+title:Penthouse - 1997 Pet of the Year Play-Off & 1998 Winners
+group:DVD
+salesrank:23890
+similar:5
+categories:3
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( P )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:3
+review:A1R0SKT0NEQ1LE:2
+review:ACKZBU3W33CMJ:2
+review:A2D66KSHQQHOSD:4

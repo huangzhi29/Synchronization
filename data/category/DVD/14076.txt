@@ -1,0 +1,54 @@
+id:14076
+asin:B000051XK1
+title:Cardcaptor Sakura - Everlasting Memories (Vol. 2)
+group:DVD
+salesrank:30287
+similar:5
+categories:6
+category:;DVD;Actors & Actresses;( H );Hill, Matt
+category:;DVD;Actors & Actresses;( J );Jaud, Janyse
+category:;DVD;Actors & Actresses;( S );Switzer, Bill
+category:;DVD;Genres;Anime & Manga;General
+category:;DVD;Genres;Anime & Manga;Characters & Series;Cardcaptor Sakura
+category:;DVD;Special Features;Titles;( C )
+reviews:40
+review:A1ZDGHF6RZZ3WW:5
+review:A1OEAOOTS8EG8F:5
+review:A1ABC2WKM9OF66:5
+review:ATEGEW47VASPR:5
+review:A1OEAOOTS8EG8F:1
+review:A1OEAOOTS8EG8F:1
+review:A3QNR48Q244779:5
+review:AYTEDBIDT2J93:5
+review:A3GPQPK0O7J2HN:5
+review:AKFVX5CFY5E4J:4
+review:A2OZO7STB9J2FH:5
+review:ARXE94XPTOTFA:2
+review:AUPDKI75BA5NV:5
+review:A3UN6WX5RRO2AG:5
+review:A35032NS4CWUB7:5
+review:AUVMH013AVLOY:5
+review:A31DXEXFK6BQYR:5
+review:A3EF7FT1BYGF58:5
+review:A2NIVVPEEXM6QK:1
+review:A126ZFKYBHQCMO:1
+review:A126ZFKYBHQCMO:1
+review:A4KYPFMO7XCPY:5
+review:A1DBZTIAURKVMC:5
+review:A3OXFO1BH832DI:4
+review:A3AT1LCGY969GS:3
+review:A34LBUHZ5DX4SF:5
+review:ACR5FVXLWVYJZ:4
+review:A1HP4DJF7JF3HP:5
+review:A3NCJRQN5B7BIM:1
+review:A3NCJRQN5B7BIM:5
+review:A2F9AGLWLR7PFN:5
+review:A97E5JRB2VQR8:4
+review:A3UN6WX5RRO2AG:5
+review:A30VMAZAXMOSD9:5
+review:A29L1PB64IGN0D:5
+review:A1939NPDF6PABW:5
+review:AKS7W2L5XXVZB:4
+review:A1VZA7V8HJ2SZ6:3
+review:AVW53YQVEJ2UT:5
+review:A1C7DHM80G7MQI:1

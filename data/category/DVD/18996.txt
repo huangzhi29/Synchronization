@@ -1,0 +1,45 @@
+id:18996
+asin:B00008CMT4
+title:Two Mules For Sister Sara
+group:DVD
+salesrank:1955
+similar:5
+categories:15
+category:;DVD;Genres;Westerns;General
+category:;DVD;Genres;Westerns;Comedy
+category:;DVD;Actors & Actresses;( E );Eastwood, Clint
+category:;DVD;Actors & Actresses;( M );MacLaine, Shirley
+category:;DVD;Actors & Actresses;( M );Morin, Alberto
+category:;DVD;Actors & Actresses;( S );Silvestre, Armando
+category:;DVD;Directors;( S );Siegel, Don
+category:;DVD;Special Features;Today's Deals in DVD;Westerns
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( T )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Westerns
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Westerns;Western Stars;Clint Eastwood
+reviews:22
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:3
+review:A1RVCFPN5F0RCP:4
+review:A2BSZPRBKYAB2K:5
+review:A2CJRM6JR282RX:5
+review:A3UDYY6L2NH3JS:3
+review:A1SMQ10BRQLIW8:2
+review:AGOHW680WF4KR:3
+review:A2OOD9YA0HJUK7:5
+review:AUATN3YRWG0EJ:4
+review:AP9OG9RV9K98E:2
+review:ADQUYF87X0M1G:5
+review:A3GBPL7EUMJFET:5
+review:A3MZUEDRLO6SAE:5
+review:APM06HT7JIPZ5:4
+review:A18Y3VRG7OP4J2:4
+review:A20VHAA0J5RFYH:5
+review:A1OTGBG66P6K5Y:5
+review:A2P6X4VHFDDDB4:5
+review:A3495GB5MLS7YQ:5
+review:AK61LQI92GTCH:4
+review:A1ADO4SWOUVOVF:3

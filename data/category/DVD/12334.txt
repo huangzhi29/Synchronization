@@ -1,0 +1,40 @@
+id:12334
+asin:B00005TPL2
+title:Dinner with Friends
+group:DVD
+salesrank:13293
+similar:5
+categories:20
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( C );Collette, Toni
+category:;DVD;Actors & Actresses;( K );Kinnear, Greg
+category:;DVD;Actors & Actresses;( M );MacDowell, Andie
+category:;DVD;Actors & Actresses;( Q );Quaid, Dennis
+category:;DVD;Directors;( J );Jewison, Norman
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Drama;Love & Romance;Marriage
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Drama;Love & Romance;Crumbling Marriages
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Love & Romance
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Love & Romance
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Television;HBO;Drama
+category:;DVD;Genres;Drama;Television;General
+reviews:12
+review:A3RUTSTH1KJ49F:4
+review:A3CPX27XQ4BOKX:5
+review:A204906HLJ443E:5
+review:AXQ7DX3HCCPLM:4
+review:A101VYVQR1Y70U:4
+review:A3ODGAW5Z2EJ1M:4
+review:A30MPW1HK5BYHU:5
+review:A1XHZGO4JZTZNJ:5
+review:A1MYDYK6074EFI:5
+review:A328S9RN3U5M68:5
+review:A37I888FZVQQC2:5
+review:A3O0NA9V3FHUL2:5

@@ -1,0 +1,27 @@
+id:11433
+asin:B00006IUFU
+title:Gokudo - Finale Extraordinaire
+group:DVD
+salesrank:55573
+similar:5
+categories:4
+category:;DVD;Actors & Actresses;( S );Sugawara, Bunta
+category:;DVD;Actors & Actresses;( W );Wakayama, Tomisaburo
+category:;DVD;Special Features;Titles;( G )
+category:;DVD;Genres;Anime & Manga;By Studio;Media Blasters;All
+reviews:15
+review:A3A1DMIJ4OYD6B:4
+review:A294DWRBQUOIK4:1
+review:A3UN6WX5RRO2AG:5
+review:A23C46B4XLTLE2:5
+review:A2K1KD958R1Q8R:3
+review:A2F6UZ8BMH45GX:4
+review:A3AAK33K3BUUTM:5
+review:A2O96O6I6K4VFI:5
+review:AK09YMTX4ZQP6:4
+review:A2FEQLYSOU9LTN:5
+review:A1UCWFR4D0YU5H:5
+review:AMY5FH3WYKZQT:5
+review:A18C9NHPC7UIWD:3
+review:A20UZVED3PVW5E:4
+review:AUS2EQT4NU3BF:4

@@ -1,0 +1,33 @@
+id:14394
+asin:B00006FDAG
+title:The Great Valley Adventure- The Land Before Time II
+group:DVD
+salesrank:12827
+similar:5
+categories:12
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;Adventure
+category:;DVD;Genres;Kids & Family;Dinosaurs
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Actors & Actresses;( I );Ingle, John
+category:;DVD;Actors & Actresses;( M );Mars, Kenneth
+category:;DVD;Genres;Kids & Family;Characters & Series;Land Before Time
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( G )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:13
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:3
+review:A2MOBMVHECYVLE:5
+review:A2T3ZJ83LDDSCL:1
+review:A3IY54P2NDQPDU:4
+review:AQQBKQCXFYAUR:5
+review:AH5575LDUQOC1:4
+review:AOO8ZPYD9E30H:1
+review:A2E3IB2ZHJ7QXJ:2
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A1IVKT0H30C3FI:5
+review:A3UN6WX5RRO2AG:1

@@ -1,0 +1,54 @@
+id:19694
+asin:B00002ND79
+title:Forget Paris
+group:DVD
+salesrank:6282
+similar:5
+categories:26
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( A );Albert, Marv
+category:;DVD;Actors & Actresses;( C );Costanzo, Robert
+category:;DVD;Actors & Actresses;( C );Crystal, Billy
+category:;DVD;Actors & Actresses;( H );Hickey, William
+category:;DVD;Actors & Actresses;( K );Kavner, Julie
+category:;DVD;Actors & Actresses;( M );Mantegna, Joe
+category:;DVD;Actors & Actresses;( M );Masur, Richard
+category:;DVD;Actors & Actresses;( M );Moriarty, Cathy
+category:;DVD;Actors & Actresses;( S );Spencer, John
+category:;DVD;Actors & Actresses;( S );Stevenson, Cynthia
+category:;DVD;Actors & Actresses;( W );Winger, Debra
+category:;DVD;Actors & Actresses;( W );Wright, Tom
+category:;DVD;Directors;( C );Crystal, Billy
+category:;DVD;Genres;Comedy;Romantic Comedies;General
+category:;DVD;Genres;Comedy;Romantic Comedies;Contemporary
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( F )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Drama;Love & Romance;Crumbling Marriages
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;Comedy Stars;Billy Crystal
+reviews:20
+review:A2U78IIHSCXKJO:5
+review:AOD2NSE7DM7LS:5
+review:ATVPDKIKX0DER:5
+review:A9Q28YTLYREO7:4
+review:AE12AEJFCOGGY:3
+review:A1WGF3DAX2WUV0:5
+review:A3MSFYMP4FTOBS:5
+review:A1ZTE3K3EN4TS3:5
+review:A1939AKFHYI56L:4
+review:A1W4OHE7P8UQ9K:4
+review:A281NPSIMI1C2R:3
+review:A2HWD9PTM7RBXN:4
+review:A2N0N7TE76XHO2:5
+review:A1L8HRCM60W0W7:5
+review:A2ZSC81MXLBELX:4
+review:A1KALHQD4LWAKO:4
+review:A1TK6R2JSC97HL:4
+review:A39GH2BZBPH7ED:3
+review:A37VF51O89UTIV:1
+review:A1IKOYZVFHO1XP:5

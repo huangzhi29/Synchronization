@@ -1,0 +1,10 @@
+id:12614
+asin:B000063K1E
+title:Red Shoe Diaries - Temple of Flesh
+group:DVD
+salesrank:42671
+similar:5
+categories:2
+category:;DVD;Actors & Actresses;( D );Duchovny, David
+category:;DVD;Special Features;Titles;( R )
+reviews:0

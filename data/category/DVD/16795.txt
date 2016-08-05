@@ -1,0 +1,14 @@
+id:16795
+asin:B000055ZLF
+title:Cyberotica
+group:DVD
+salesrank:51937
+similar:0
+categories:3
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:3
+review:A21V5WEENOOJSL:4
+review:A1GA8R4GKI0X8D:1
+review:A21V5WEENOOJSL:4

@@ -1,0 +1,15 @@
+id:14987
+asin:B00006JMT3
+title:Michael Douglas Collection (The American President/Falling Down/A Perfect Murder - Special Edition)
+group:DVD
+salesrank:48549
+similar:5
+categories:7
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( D );Douglas, Michael
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Formats;Boxed Sets;Action & Adventure
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Action & Adventure
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;DVD;Special Features;Fully Loaded DVDs;Special Editions
+reviews:0

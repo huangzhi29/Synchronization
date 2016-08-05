@@ -1,0 +1,64 @@
+id:14371
+asin:0792846087
+title:Interiors
+group:DVD
+salesrank:30380
+similar:5
+categories:20
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( H );Hurt, Mary Beth
+category:;DVD;Actors & Actresses;( J );Jordan, Richard
+category:;DVD;Actors & Actresses;( K );Keaton, Diane
+category:;DVD;Actors & Actresses;( P );Page, Geraldine
+category:;DVD;Actors & Actresses;( S );Stapleton, Maureen
+category:;DVD;Actors & Actresses;( W );Waterston, Sam
+category:;DVD;Directors;( A );Allen, Woody
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;MGM DVDs Under $20
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( I )
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;All MGM Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;By Theme;Psychological Drama
+category:;DVD;Genres;Drama;Family Life;General
+category:;DVD;Genres;Drama;Family Life;Fathers & Daughters
+category:;DVD;Genres;Drama;Family Life;Mothers & Daughters
+category:;DVD;Genres;Drama;By Theme;Haunted by the Past
+category:;DVD;Genres;Drama;Family Life;Brothers & Sisters
+category:;DVD;Genres;Drama;Love & Romance;Crumbling Marriages
+reviews:36
+review:A30N5LJ0PETEXY:5
+review:APC21B3WJDKPX:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A3T7MC28NFTYCH:5
+review:ACPLJ6XRXIZKD:5
+review:A17Z13IWLRGI1M:5
+review:A39W6I1F8S0ZZ9:5
+review:A1G14DZALDDCDW:4
+review:A3664K3GZV3LLY:4
+review:A3V9DRUZCJNCRW:5
+review:A3V9DRUZCJNCRW:5
+review:AOPPHDPD830VJ:5
+review:AC32305TO79HL:4
+review:A1WQ395I7D1E6M:3
+review:A15RB66290XLRH:5
+review:A3J2CGLKCCPSBE:4
+review:A3R2YB0WTTB0IJ:5
+review:A2WXE8KCIRC60L:2
+review:A2OO9DS1RY5KXU:5
+review:A3C6X0DAM87GN4:4
+review:A69PNVYB12WHO:4
+review:A2ATROOIWHGFWM:4
+review:AQTCGYM0JKR16:1
+review:A2U6DQZPE4A8K8:5
+review:A32J72BI0MY7Z5:5
+review:API2R8JKUHUJX:4
+review:A3LTXTXN8YP26O:4
+review:A2XBHTO796G85B:3
+review:A38ZNHOJMXWHR2:4
+review:A328S9RN3U5M68:5
+review:ADLW008FW8PQE:4
+review:AI1ILPM8C5TNC:5
+review:A3I7OX03X6KDMN:4
+review:AQUU8S55JGY2H:4
+review:A20IIR0422G3A5:5

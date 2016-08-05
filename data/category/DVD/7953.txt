@@ -1,0 +1,64 @@
+id:7953
+asin:B00005OBAL
+title:The Golden Bowl
+group:DVD
+salesrank:13009
+similar:5
+categories:25
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( B );Beckinsale, Kate
+category:;DVD;Actors & Actresses;( D );Day, Nicholas
+category:;DVD;Actors & Actresses;( E );Eyre, Peter
+category:;DVD;Actors & Actresses;( F );Fox, James
+category:;DVD;Actors & Actresses;( G );Grace, Nickolas
+category:;DVD;Actors & Actresses;( H );Huston, Anjelica
+category:;DVD;Actors & Actresses;( N );Nolte, Nick
+category:;DVD;Actors & Actresses;( N );Northam, Jeremy
+category:;DVD;Actors & Actresses;( P );Potter, Madeleine
+category:;DVD;Actors & Actresses;( T );Thurman, Uma
+category:;DVD;Directors;( I );Ivory, James
+category:;DVD;Genres;Art House & International;By Theme;Period Piece
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( G )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;Drama
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;By Theme;Americans Abroad
+category:;DVD;Genres;Drama;Family Life;Fathers & Daughters
+category:;DVD;Genres;Drama;Love & Romance;Crumbling Marriages
+category:;DVD;Genres;Drama;Love & Romance;Infidelity & Betrayal
+reviews:31
+review:A1L4VIXS67DQJY:3
+review:A3BRFTTMKVJLWW:5
+review:A2IG2FG7L85RMU:3
+review:A3FLRD99CN5THL:3
+review:A3C0QW38ODO7CX:4
+review:A3ODMXM61IT3YK:5
+review:A1J2931UBBJPXM:2
+review:A3FDYIMXSEXQJC:2
+review:A2I02P5ZOHV4W:4
+review:A2I02P5ZOHV4W:4
+review:AI0S4RCD61GEC:3
+review:A2I24XP6DC6M60:4
+review:A3V9WAOTC14KNU:4
+review:A281NPSIMI1C2R:4
+review:A2F360E27EXDCE:4
+review:A3HD7SVBY4JZOW:3
+review:ABO2ZI2Y5DQ9T:3
+review:A1UDE8WP2D7IV3:2
+review:AU78WGAXA3IY1:2
+review:A37F1G84K35FCZ:3
+review:A2NSDLHSG4YBHV:4
+review:A3EVTOTQ993XS1:2
+review:A308S1JAA20KNC:1
+review:AYDH2M9RNRTM8:1
+review:A3I7EHVQ4AAKFV:4
+review:A3ODMXM61IT3YK:4
+review:A226HIHIVFUPLL:5
+review:A3J9V8R4PYA9GW:3
+review:A1D1BASTY6UAYZ:1
+review:A319KYEIAZ3SON:4
+review:A2WSLBI6HGSKPF:4

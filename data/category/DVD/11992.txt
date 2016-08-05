@@ -1,0 +1,13 @@
+id:11992
+asin:B00005AXAF
+title:Playboy - Club Lingerie
+group:DVD
+salesrank:42456
+similar:5
+categories:3
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( P )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:2
+review:A934KQO4YFLX2:3
+review:A1CT0ROSIIL62F:4

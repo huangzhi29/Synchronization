@@ -1,0 +1,39 @@
+id:1057
+asin:B000063JZE
+title:Devil Hunter Yohko Collection 1
+group:DVD
+salesrank:34901
+similar:5
+categories:2
+category:;DVD;Genres;Anime & Manga;By Studio;ADV Films
+category:;DVD;Special Features;Titles;( D )
+reviews:29
+review:A1PER5RI2ZT537:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A3DA5LDQVF52HN:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:A3TE4O3A90SP51:5
+review:A25U1ZGNUJFS50:5
+review:A3H4Q499JXMP3X:4
+review:A3UN6WX5RRO2AG:5
+review:A13SMNS5QLSC9Y:4
+review:A39ZIHRZO1PIVC:5
+review:A3GPQPK0O7J2HN:5
+review:ATKXVS59GDODZ:5
+review:A2DAAMUSTGYOK7:4
+review:A2KCK3NB52KCZB:4
+review:A30C90D4BXDJD2:5
+review:A2U3NU2PVE3TQW:4
+review:A2WCTJZU6QASS6:2
+review:A12TB6FUGGKGNQ:5
+review:A3AJ9AR2L85UL7:5
+review:A2L4XGVPR42KHL:4
+review:AS59CQEWEAZ7T:5
+review:AL2O68IRYACIB:4
+review:A1VUYC1SRHO7UK:5
+review:A2VXRPI97FQQLA:5
+review:A25TN5K3J49GPO:4
+review:A2T7TZBOTP68C7:4
+review:A2A9CTHGP21PTJ:5

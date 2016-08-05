@@ -1,0 +1,50 @@
+id:1562
+asin:B00004I9Z1
+title:The Total-Body Yoga Workout
+group:DVD
+salesrank:25046
+similar:5
+categories:11
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Fitness & Yoga;Series;Gaiam
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Fitness & Yoga;By Instructor;Suzanne Deason
+category:;DVD;Genres;Fitness & Yoga;By Instructor;Rodney Yee
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Fitness & Yoga;By Body Part;Abs
+category:;DVD;Genres;Fitness & Yoga;Yoga;General
+category:;DVD;Genres;Fitness & Yoga;Yoga;By Body Part;Abs
+category:;DVD;Genres;Fitness & Yoga;Yoga;For Beginners
+reviews:31
+review:A2PK5OYQ3F5J8U:3
+review:A1962GE6SDPPL2:4
+review:A26576LCYLA85K:2
+review:AMVRYALJB1ZQH:4
+review:A12A8LU93A132U:3
+review:A1V11OX8UUYC8A:4
+review:A1NGZ42UJ3G17K:4
+review:A3S4CGO3L3DMUX:4
+review:A7YA5CWHZTFB5:4
+review:A23JMEGF3X4SIN:4
+review:AM77VSZUX8CN7:3
+review:A13T8G7L04CQ48:4
+review:AONF6Y36P9AQM:4
+review:A374CIGGZCQO39:4
+review:A3J4BB6NCXQILE:2
+review:A1LYZ4AYQ45S91:3
+review:AMGS09D7QK3YQ:3
+review:A3D550GH0U6T5C:4
+review:AMWA4HWO2D4CH:5
+review:AO91QULT11JE7:4
+review:A85G9HZJ69U39:3
+review:A1UYYWGVJG36XN:2
+review:A31YC4EFOUUEOO:3
+review:AJFXM69ELNRAN:5
+review:A18B5BMJNCRZ5C:2
+review:A30UGHCJSZN8G4:2
+review:A1WHYIJ8U3S95A:5
+review:AK7CAW3N1XZV6:4
+review:A129S0F43CN6I9:3
+review:A3I929LZ36YQGW:5
+review:A2B7MGTSS3O1JA:5

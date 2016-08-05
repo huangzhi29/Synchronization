@@ -1,0 +1,22 @@
+id:4537
+asin:B00000IBQ5
+title:An Intimate Evening with Anne Murray
+group:DVD
+salesrank:27357
+similar:5
+categories:9
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Concerts;General
+category:;DVD;Special Features;Today's Deals in DVD;Music Video & Concerts
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( I )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Music Video & Concerts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:5
+review:A2J0U1XP6JPL9L:5
+review:AWIJ70ZBT434S:5
+review:A2AM21TZ3GPW2L:5
+review:A2BTCKOCHOZUUU:3
+review:AYJ2JH31SQ2KM:4

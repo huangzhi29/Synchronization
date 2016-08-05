@@ -1,0 +1,15 @@
+id:11440
+asin:B00006IUFM
+title:Todd Richards' Trick Tips, Vol. 1
+group:DVD
+salesrank:36325
+similar:1
+categories:5
+category:;DVD;Genres;Sports;General
+category:;DVD;Genres;Sports;Skiing & Snow Sports
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( T )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:2
+review:A2FCZC53GE0ANA:5
+review:A2GI20TIXMTSOE:5

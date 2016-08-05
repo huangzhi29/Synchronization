@@ -1,0 +1,30 @@
+id:1278
+asin:B000056N8Z
+title:Back Stage
+group:DVD
+salesrank:12630
+similar:5
+categories:12
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Documentary;General
+category:;DVD;Actors & Actresses;( R );Redman
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Genres;Musicals & Performing Arts;Documentary
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Dimension Films
+category:;DVD;Genres;Music Video & Concerts;Rap & Hip-Hop;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:10
+review:A39PKVAKFGAPZ0:5
+review:A2882TJXX2R5A6:5
+review:A18UXYA26JWQJ2:4
+review:AGAMDS21PJZPK:4
+review:A3QCU21MHRZG4T:4
+review:A1X910WAOVYV8M:4
+review:A1IB0MQ654ZQ8B:3
+review:A1ZPWQAV56C3RJ:5
+review:A3G22GXU824XVN:4
+review:A1XJ96PHR36UQF:4

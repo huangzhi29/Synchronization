@@ -1,0 +1,20 @@
+id:13944
+asin:B00006SFJ1
+title:The Return of Chandu
+group:DVD
+salesrank:32210
+similar:5
+categories:10
+category:;DVD;Actors & Actresses;( L );Lugosi, Bela
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( R )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Daring Rescues
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;Fantasy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;Fantasy
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:2
+review:A1VIQ0EZ109SK5:4
+review:A3P603GVJIGKAN:4

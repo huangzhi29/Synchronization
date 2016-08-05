@@ -1,0 +1,28 @@
+id:7707
+asin:B00006BS78
+title:Tuvalu
+group:DVD
+salesrank:13960
+similar:5
+categories:6
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;By Genre;Comedy
+category:;DVD;Genres;Art House & International;By Genre;Drama
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Comedy;Black Comedy
+reviews:14
+review:A2GALF73EVUUCV:5
+review:AF962QVDNYZXZ:5
+review:A2JZLPHBHKBAD4:5
+review:A21603VSO4SM29:4
+review:A1XK7BP089SYRY:5
+review:A3CN9CCJUNIPKT:4
+review:A1SBOQLJZ4PDF8:4
+review:A2HDGBUR4UYW6G:1
+review:AY6LEQA6J8175:5
+review:A3MLO4GAD2O9DL:4
+review:A2PO8SBDNF1FB2:4
+review:A3OR8CY22WLESB:5
+review:A1T10KH2TIF9KZ:5
+review:A3U9AP0J53UF1G:5

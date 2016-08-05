@@ -1,0 +1,48 @@
+id:4200
+asin:B00004RFID
+title:Andy Kaufman
+group:DVD
+salesrank:22575
+similar:5
+categories:10
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Documentary;General
+category:;DVD;Actors & Actresses;( D );Danza, Tony
+category:;DVD;Actors & Actresses;( H );Henner, Marilu
+category:;DVD;Actors & Actresses;( K );Kaufman, Andy
+category:;DVD;Actors & Actresses;( L );Letterman, David
+category:;DVD;Actors & Actresses;( W );Williams, Robin
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+reviews:30
+review:ATVPDKIKX0DER:4
+review:A2NWIKLO77ZNI4:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ARSCS6UFXJZKL:5
+review:APQ9X04FYPFFA:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:5
+review:A3NUGL03H533SX:3
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:3
+review:A9TQZVXOUOJ21:5
+review:A1SYDKR7BYIX5:5
+review:A1FLD5LFCP7FDA:4
+review:A26S2KJDEV934T:3
+review:ANVMYQWSEWUJX:4
+review:A1NVAOLH7ODPII:5
+review:AA0JLFSQW376N:5
+review:A2IZZQ4C1NIR5I:5
+review:A16EAJTQ59LK8Z:4
+review:A5QDZEOIMQ4LW:5
+review:A3L5965NY9SJAX:4
+review:A3L5965NY9SJAX:4
+review:ACQ3GKXJWT96Z:4
+review:A10SF632VL1A69:5
+review:A13LU15OCKJXM7:5
+review:A37HV1234KIIMC:5

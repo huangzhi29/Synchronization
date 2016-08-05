@@ -1,0 +1,22 @@
+id:211
+asin:B00007L4N1
+title:DC Talk
+group:DVD
+salesrank:46276
+similar:4
+categories:8
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Other Music;Christian & Gospel
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Special Interests;Religion & Spirituality;Christian DVD;Music
+reviews:6
+review:A1TTKJIKU5WS:5
+review:A1QRFJXDOTH1UA:4
+review:A3EACCD7KJ7968:5
+review:A3NMUSGMW1M7M6:5
+review:A1KF0XFAO2WNWK:5
+review:A2NQYMIDZKOCUV:5

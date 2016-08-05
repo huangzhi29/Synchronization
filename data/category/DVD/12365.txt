@@ -1,0 +1,13 @@
+id:12365
+asin:B00005TPLB
+title:Mercado de Abasto
+group:DVD
+salesrank:59208
+similar:0
+categories:5
+category:;DVD;Genres;Art House & International;By Country;Argentina
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Art House & International;By Genre;Classics;General
+reviews:0

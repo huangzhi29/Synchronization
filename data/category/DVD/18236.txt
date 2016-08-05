@@ -1,0 +1,56 @@
+id:18236
+asin:B000085EFN
+title:Sasquatch
+group:DVD
+salesrank:17235
+similar:5
+categories:10
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Action & Adventure;By Theme;Monster Movies
+category:;DVD;Genres;Horror;Things That Go Bump;Monsters
+category:;DVD;Actors & Actresses;( H );Henriksen, Lance
+category:;DVD;Actors & Actresses;( R );Roth, Andrea
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:38
+review:A2KVJL0CYC7YA6:5
+review:A1SBXI7K9NH9XN:3
+review:AE1U23EYB7X84:4
+review:A17SSDHFR1Z2KL:5
+review:A214NHULS3H7OX:2
+review:A2VFKIR5I7DG5T:4
+review:A24H35U47VPA9P:2
+review:A1LZ3Z5ZZAWFRL:2
+review:A8V9ZG97RB51B:4
+review:A1PIX0JWQDWQBU:1
+review:A1PIX0JWQDWQBU:1
+review:A3JBQ745B76JO4:2
+review:A3QIVW3MEH1SKA:3
+review:A17EN3U7FW6CDP:3
+review:A3G9IHPPLH1806:4
+review:A1Z0I821C8S78Z:1
+review:A2I0VDBGSQ5BHE:1
+review:A8T2PNNJMORTV:1
+review:A2WA5J7H99KL4D:1
+review:A3KQSGHPFMFB1F:5
+review:A331OF34UX4Y1K:2
+review:A1VS6IV9RWYT7M:3
+review:AMCNC5VLHARW9:2
+review:A2062FPGYJ6IQM:2
+review:A2V4K232ZRPQXL:2
+review:A3O536E2YOKK4Y:3
+review:A1N9XT14P0V7D4:1
+review:AGTFW4TAC7W2H:4
+review:ADPBN9FLO0R4R:1
+review:A181DMMT0VUI69:1
+review:A1GH097VLZ10SN:1
+review:A273W0YPXUOAJO:1
+review:A1AQH9I5J6A86G:1
+review:ATQTE464YAZM1:1
+review:API63OEKU4XVO:3
+review:AK1H48BMANGLD:1
+review:A1IKUOJNLAHHFT:3
+review:A2917YA6E07QUF:1

@@ -1,0 +1,19 @@
+id:15738
+asin:B00005B34R
+title:Kodo
+group:DVD
+salesrank:55026
+similar:0
+categories:5
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;World Music
+category:;DVD;Genres;Art House & International;By Original Language;Japanese
+category:;DVD;Special Features;Titles;( K )
+category:;DVD;Genres;Music Video & Concerts;New Age;General
+reviews:6
+review:A1HSAT4UL2HLAJ:1
+review:A3KLYXOWPZ7YER:3
+review:A2B2WTKCG9R3CY:1
+review:A8DS1NET2IBZC:4
+review:A3HPDR6EXVDLUH:4
+review:ASZH16H2ZVWK7:1

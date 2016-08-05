@@ -1,0 +1,24 @@
+id:349
+asin:B00004U0FN
+title:Perceval
+group:DVD
+salesrank:17659
+similar:5
+categories:9
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( L );Luchini, Fabrice
+category:;DVD;Directors;( R );Rohmer, Eric
+category:;DVD;Genres;Art House & International;By Theme;Period Piece
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;France;French New Wave
+category:;DVD;Special Features;Titles;( P )
+reviews:7
+review:A2O0YSO0G4T5OP:5
+review:A30NZYWSJ5WT7I:2
+review:A3FPZMRKRAH6GW:5
+review:A2VUP5US1F5HG5:3
+review:A111BH1GN0D33Z:2
+review:A1GBD4BA10ZVBG:5
+review:A2519788C514WB:5

@@ -1,0 +1,37 @@
+id:151
+asin:B00000IC82
+title:Laurel & Hardy - Flying Deuces/Utopia
+group:DVD
+salesrank:44671
+similar:1
+categories:16
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( C );Caprioli, Vittorio
+category:;DVD;Actors & Actresses;( D );Delair, Suzy
+category:;DVD;Actors & Actresses;( F );Frees, Paul
+category:;DVD;Actors & Actresses;( H );Hardy, Oliver
+category:;DVD;Actors & Actresses;( L );Laurel, Stan
+category:;DVD;Directors;( B );Berry, John
+category:;DVD;Directors;( W );Whelan, Tim
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:13
+review:A37WY3YLWPZ8UD:3
+review:A2LJWJ3KWO02OV:4
+review:A9N8NYT142U8C:1
+review:A1DMYUSXX77JEW:3
+review:A2NJO6YE954DBH:4
+review:A347U0NEORT4EC:4
+review:A2YQ2BJEVSLOMZ:2
+review:A2D05D1GAYQQXQ:2
+review:A1YIWDKM1292L4:2
+review:A18EUFJ763H6N9:4
+review:AOK51PED51KHN:4
+review:AYPCUQS6ARWFH:3
+review:A1MCMV356IIT3Z:1

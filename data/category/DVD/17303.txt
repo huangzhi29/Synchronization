@@ -1,0 +1,95 @@
+id:17303
+asin:0800141849
+title:The Mirror Has Two Faces
+group:DVD
+salesrank:6206
+similar:5
+categories:28
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( B );Bacall, Lauren
+category:;DVD;Actors & Actresses;( B );Bridges, Jeff
+category:;DVD;Actors & Actresses;( B );Brosnan, Pierce
+category:;DVD;Actors & Actresses;( E );Elg, Taina
+category:;DVD;Actors & Actresses;( M );Macpherson, Elle
+category:;DVD;Actors & Actresses;( M );Marsh, Ali
+category:;DVD;Actors & Actresses;( P );Pendleton, Austin
+category:;DVD;Actors & Actresses;( R );Rogers, Mimi
+category:;DVD;Actors & Actresses;( S );Segal, George
+category:;DVD;Actors & Actresses;( S );Smith, Amber
+category:;DVD;Actors & Actresses;( S );Stefanson, Leslie
+category:;DVD;Actors & Actresses;( S );Streisand, Barbra
+category:;DVD;Actors & Actresses;( V );Vaccaro, Brenda
+category:;DVD;Directors;( S );Streisand, Barbra
+category:;DVD;Genres;Comedy;Romantic Comedies;General
+category:;DVD;Genres;Comedy;Romantic Comedies;Contemporary
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;Love & Romance;Crumbling Marriages
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;Comedy Stars;Barbra Streisand
+reviews:59
+review:A2MUDTR6GHWAWQ:5
+review:AWIZSOOECU1V2:1
+review:ATVPDKIKX0DER:1
+review:A2FCZWERYYC18B:1
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A158CIG8WKG3S4:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A17K4Y9DBHBP99:4
+review:ATVPDKIKX0DER:5
+review:A27GI12XQR7ZEU:3
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:5
+review:A3B0EQRSEH8IFV:4
+review:A1T88KN7ARNEX9:5
+review:AVYSPKC0HCVGG:1
+review:A2GM9GNP2G8HO1:1
+review:AQ78LZHEQJIBK:5
+review:A147RVFHD8D4A0:5
+review:ASVPW5809Q0JI:5
+review:A3VETI46QAP7C1:1
+review:A10GI7HCPT27SZ:5
+review:A25QNUPOT2VKSU:5
+review:A201SSTKGOJ206:4
+review:A1BJOEQSRX2IBM:4
+review:A1I7IFB39E6AKL:1
+review:A27Q94E0ES7LZU:3
+review:AED6KI8T2OEZU:5
+review:A2LU07V4UKRGZ4:5
+review:A2JIU9KUIZ71E2:3
+review:A3PKIZ1JPMFUQJ:1
+review:AYKELBZM1SH87:3
+review:A1YU3JQIT9421C:2
+review:A329U9CDUPKXAC:5
+review:A23QV4QCY57EES:1
+review:A3PKIZ1JPMFUQJ:1
+review:ADJBUPS8SJHTC:5
+review:AMIEW7FDD2CTL:4
+review:A26D5IRV2OLU4B:5
+review:A1TV5FU0WXFSBI:5
+review:A2GHW2FS1PWZHP:5
+review:A25A0MJV5TXDR8:1
+review:A20I9B4JJC6QW:5
+review:AJY367M61PKMD:5
+review:AL2Q8YF4HB33:5
+review:A2BBBI5EML5HBD:3
+review:A3SGHTUG8I8YK2:4
+review:A2DS532SLTFWFK:4
+review:A37RVCSXRWTW6U:2
+review:A3H6MNSBAZDRJF:1
+review:A3QYCV8KZGSIIE:5
+review:A3SMT15X2QVUR8:5
+review:A3A03ETOTJRR0T:4
+review:A25US4VM596MHQ:4
+review:A2JDZ43BRAZYPM:5
+review:A2I1BZGK92F7JY:5
+review:A3LZGLA88K0LA0:3
+review:A2HSR6AJSDG5X0:5

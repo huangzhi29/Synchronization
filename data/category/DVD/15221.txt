@@ -1,0 +1,68 @@
+id:15221
+asin:6304602901
+title:Police Academy
+group:DVD
+salesrank:21528
+similar:5
+categories:29
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Slapstick
+category:;DVD;Genres;Comedy;By Theme;Bumbling Cops
+category:;DVD;Actors & Actresses;( C );Cattrall, Kim
+category:;DVD;Actors & Actresses;( E );Easterbrook, Leslie
+category:;DVD;Actors & Actresses;( G );Gaynes, George
+category:;DVD;Actors & Actresses;( G );Graf, David
+category:;DVD;Actors & Actresses;( G );Guttenberg, Steve
+category:;DVD;Actors & Actresses;( M );Mahler, Bruce
+category:;DVD;Actors & Actresses;( R );Ramsey, Marion
+category:;DVD;Actors & Actresses;( S );Scott, Debralee
+category:;DVD;Actors & Actresses;( S );Scott, Donovan
+category:;DVD;Actors & Actresses;( S );Smith, Bubba
+category:;DVD;Actors & Actresses;( S );Spelvin, Georgina
+category:;DVD;Actors & Actresses;( T );Thomson, Scott
+category:;DVD;Actors & Actresses;( W );Winslow, Michael
+category:;DVD;Directors;( W );Wilson, Hugh
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Comedy
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;Slapstick
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;Slapstick
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:31
+review:ATVPDKIKX0DER:5
+review:A33K8J335X16NP:5
+review:ATVPDKIKX0DER:4
+review:A2V9A4HN0RPTK4:5
+review:AJV09MAGYI7M0:1
+review:A16VBHOH9BMEXM:5
+review:A13QEWIM64D5LI:1
+review:A10ZXTP5V0BJFZ:1
+review:A3L0QPH9C60S4V:5
+review:A1PPDQCBU4RCK8:4
+review:A1JHYNEVQ3WKAV:4
+review:A19V0VJMKKRMC8:5
+review:A1RZ1KIP4LJYDZ:4
+review:A2YN80WBBQEDI2:5
+review:AWFKBGCP5IGME:4
+review:A1G5LJ8T1IGYC5:4
+review:AEFRJ6ZBKGZV2:5
+review:A1Y0IC6A7NCV6:5
+review:A1XF48V7WYKFQQ:5
+review:A2ZQD77EEXEPM6:5
+review:A2ZQD77EEXEPM6:5
+review:A2ZQD77EEXEPM6:5
+review:A2ZQD77EEXEPM6:5
+review:A2ZQD77EEXEPM6:5
+review:A2ZQD77EEXEPM6:5
+review:A2ZQD77EEXEPM6:5
+review:A1IKOYZVFHO1XP:5
+review:A2P49WD75WHAG5:5
+review:A2FEGRJQNU51P9:4
+review:A3RNC9BGR4J1ZF:5
+review:AQ01Q3070LT29:4

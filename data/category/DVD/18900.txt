@@ -1,0 +1,80 @@
+id:18900
+asin:B00007AJE3
+title:Eye See You (aka D-Tox)
+group:DVD
+salesrank:18392
+similar:5
+categories:35
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Mystery & Suspense;Thrillers
+category:;DVD;Actors & Actresses;( A );Alvarado, Angela
+category:;DVD;Actors & Actresses;( B );Berenger, Tom
+category:;DVD;Actors & Actresses;( F );Flanery, Sean Patrick
+category:;DVD;Actors & Actresses;( F );Fulford, Christopher
+category:;DVD;Actors & Actresses;( H );Henry, Tim
+category:;DVD;Actors & Actresses;( H );Howard, Rance
+category:;DVD;Actors & Actresses;( K );Kristofferson, Kris
+category:;DVD;Actors & Actresses;( L );Lang, Stephen
+category:;DVD;Actors & Actresses;( M );Mathews, Hrothgar
+category:;DVD;Actors & Actresses;( M );Meyer, Dina
+category:;DVD;Actors & Actresses;( P );Patrick, Robert
+category:;DVD;Actors & Actresses;( P );Prosky, Robert
+category:;DVD;Actors & Actresses;( S );Stallone, Sylvester
+category:;DVD;Actors & Actresses;( V );Vance, Courtney B
+category:;DVD;Actors & Actresses;( W );Wright, Jeffrey
+category:;DVD;Directors;( G );Gillespie, Jim
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;Detectives
+category:;DVD;Genres;Mystery & Suspense;Crime;Cops
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( E )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;By Theme;Haunted by the Past
+category:;DVD;Genres;Mystery & Suspense;By Theme;Mind Games
+category:;DVD;Genres;Mystery & Suspense;By Theme;Serial Killers
+category:;DVD;Genres;Action & Adventure;Action Stars;Sylvester Stallone
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:37
+review:A39BXIKAWL4PEP:1
+review:AOUAB9HQJVDVA:5
+review:A331OF34UX4Y1K:2
+review:AL277B4AQCWBG:2
+review:A278MK07M6EEK6:5
+review:A5S89DQM6X0RK:5
+review:A1ZTSOBAPOWT3:5
+review:A1EI65WJC85U68:2
+review:A1HDXYGPTLYBFE:2
+review:APP8XWYYV4PAA:1
+review:A3MAJ8CTMXQZ9E:1
+review:AQ0EO10KTRJ4V:4
+review:A2UVK58DUZKLOR:3
+review:A350ZW1EXUP536:3
+review:A3DY46ZABF4CMQ:1
+review:A3N3IUQ0M4PBQ4:1
+review:AAJ0EEWCGQ0L1:1
+review:A2T2ENF8E9FX68:4
+review:ACAOWFOYGG5G4:5
+review:A366K2MZSW7Y11:4
+review:A3L2U581LL17EB:3
+review:A2JH39V83E2BQU:5
+review:A6Y8XFUY7E9G7:3
+review:ABO2ZI2Y5DQ9T:2
+review:A1WOFFWF8UYPJ2:2
+review:A26BQFYFLO3QR0:2
+review:A1PQNUIMLIOJ7R:2
+review:A2FWNTUH3BPP4J:5
+review:A3ELSU1SHRX09Y:3
+review:A2XVRCU5DQBULH:2
+review:AJYILFULOQ3CX:1
+review:A13D1WTFEMS9VH:2
+review:A82LIVYSX6WZ9:2
+review:A2XALXPBC0JKQI:4
+review:A3LZGLA88K0LA0:3
+review:A2JG0Z691ZEC5:5
+review:APLYNQG7Q2GK6:4

@@ -1,0 +1,66 @@
+id:6255
+asin:6305551235
+title:Desert Heat
+group:DVD
+salesrank:21645
+similar:5
+categories:30
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( A );Avildsen, Jonathan
+category:;DVD;Actors & Actresses;( C );Cummins, Gregory Scott
+category:;DVD;Actors & Actresses;( D );Damme, Jean Claude Van
+category:;DVD;Actors & Actresses;( D );Drake, Larry
+category:;DVD;Actors & Actresses;( E );Erwin, Bill
+category:;DVD;Actors & Actresses;( F );Fitzpatrick, Gabrielle
+category:;DVD;Actors & Actresses;( K );Kober, Jeff
+category:;DVD;Actors & Actresses;( K );Koslo, Paul
+category:;DVD;Actors & Actresses;( M );Mitchell, Silas Weir
+category:;DVD;Actors & Actresses;( P );Pointer, Priscilla
+category:;DVD;Actors & Actresses;( P );Pressly, Jaime
+category:;DVD;Actors & Actresses;( R );Rainey, Ford
+category:;DVD;Actors & Actresses;( S );Schiavelli, Vincent
+category:;DVD;Actors & Actresses;( T );Trejo, Danny
+category:;DVD;Genres;Action & Adventure;Martial Arts;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;Martial Arts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;Martial Arts
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Action & Adventure;Action Stars;Jean Claude Van Damme
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;Martial Arts
+category:;DVD;Genres;Action & Adventure;By Theme;Revenge
+reviews:28
+review:A3GJ1F69K7I6PO:4
+review:A1CQM3J50J62KB:2
+review:A1M6EFFG2T89NR:4
+review:ATVPDKIKX0DER:4
+review:APETPUR0PWVNE:4
+review:AZLKSS92NH9K7:5
+review:A1HNCPVDNGV32F:5
+review:A1HNCPVDNGV32F:5
+review:A1HNCPVDNGV32F:5
+review:A1ARKWR6JTW87I:5
+review:AUJ7EWRKOSGHE:5
+review:A3QD00AD2HF375:1
+review:A31SJGU1RMNB8D:5
+review:AOENSAAXT4FZ7:4
+review:A341E0Q1O5GH4H:5
+review:A3P0IDN2BTGNLQ:5
+review:A2QWCGMHFNKXQV:4
+review:A3MMXG2I10Q9P3:5
+review:AD4I990C6W5DC:3
+review:A1AYVMM92AIT6U:3
+review:A1ZTSOBAPOWT3:5
+review:AZBHFIT7BKB03:5
+review:A2XVRCU5DQBULH:2
+review:A3RB6NQOLOBXYD:5
+review:A2KZ7N1FO394AZ:3
+review:A2KJOWQAADBFM8:5
+review:A1G5LJ8T1IGYC5:1
+review:A2TAPSNKK9AFSQ:5

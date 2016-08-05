@@ -1,0 +1,20 @@
+id:1632
+asin:B00005NB90
+title:Dragon Ball Z - Babidi - Battle Royal
+group:DVD
+salesrank:39595
+similar:5
+categories:4
+category:;DVD;Genres;Kids & Family;Characters & Series;Dragon Ball
+category:;DVD;Genres;Anime & Manga;General
+category:;DVD;Genres;Kids & Family;Characters & Series;Cartoon Network;General
+category:;DVD;Special Features;Titles;( D )
+reviews:8
+review:A3PVTILPPRSN0O:5
+review:A3KVPMJQRH88HD:4
+review:AJ73MLH94VXXN:5
+review:A17PQ5GCZCUHYN:5
+review:A2L4N46L662JB7:4
+review:A2O0CFU9Q9XK3:4
+review:A2HOM6XN2BABJT:3
+review:A3NVNRFVGHOWHU:3

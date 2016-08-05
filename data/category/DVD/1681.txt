@@ -1,0 +1,66 @@
+id:1681
+asin:B00005NB9Y
+title:Just Visiting
+group:DVD
+salesrank:10520
+similar:5
+categories:17
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Fish Out of Water
+category:;DVD;Actors & Actresses;( A );Applegate, Christina
+category:;DVD;Actors & Actresses;( B );Badel, Sarah
+category:;DVD;Actors & Actresses;( G );Glenister, Robert
+category:;DVD;Actors & Actresses;( M );McDowell, Malcolm
+category:;DVD;Actors & Actresses;( P );Plimpton, George
+category:;DVD;Actors & Actresses;( R );Reno, Jean
+category:;DVD;Actors & Actresses;( R );Ross, Matt
+category:;DVD;Actors & Actresses;( W );Wilson, Bridgette
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( J )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:41
+review:AQAHYZURWHHB3:3
+review:A12QHGYPU153CW:5
+review:ATVPDKIKX0DER:5
+review:A2LAAATIVLRJLS:5
+review:A2PQYNMMY193W1:5
+review:A1HGI8MVHPG8R9:5
+review:A3FVZYN24BCKT7:5
+review:A19V0VJMKKRMC8:5
+review:AGPW2IL75AFV:5
+review:AGPW2IL75AFV:5
+review:A1J2931UBBJPXM:4
+review:A27X0UC2IUI829:5
+review:A3BEFLKLOVTU8R:5
+review:ANPXMT8E4XKSL:3
+review:A1XN2AAQAT41HX:5
+review:A3RYUK7MT9KZHH:2
+review:A1KD8NJPZ01R37:3
+review:A2IPIVM5PB9LYB:3
+review:A1Y6RSVBKGEIH3:4
+review:A2C6TR2TC07I9O:5
+review:A17XBOTFMQ0KAQ:5
+review:A19WRXQ7EG8QF5:3
+review:A1CN5VPM4TDZCV:5
+review:A1IWWRZJOXOSYP:2
+review:A2W3TP0F5Z6VXP:5
+review:A2XL25D4JUMBZ5:3
+review:A255HCMQL25NOS:5
+review:A3T8G3FN3H3948:4
+review:ABO2ZI2Y5DQ9T:3
+review:A1KD8NJPZ01R37:5
+review:ARXYA33E9G233:5
+review:A1NZ6PHPRS32NV:3
+review:A3NGX923WVC2V:5
+review:A1W8P37KWND39T:1
+review:A33JTV5NFVRI9O:2
+review:A1ARPLFACHIK7Y:5
+review:A3HXN12HT06VBO:5
+review:AV4D30FUSOZH3:4
+review:A3UN6WX5RRO2AG:5
+review:A22RT2OKDYPB7Q:1
+review:A3UN6WX5RRO2AG:5

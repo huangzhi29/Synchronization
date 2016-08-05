@@ -1,0 +1,69 @@
+id:14530
+asin:6305252572
+title:48 HRS
+group:DVD
+salesrank:2081
+similar:5
+categories:32
+category:;DVD;Genres;Action & Adventure;Crime
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Action & Adventure;Comic Action
+category:;DVD;Genres;Action & Adventure;By Theme;Buddy Films
+category:;DVD;Genres;Action & Adventure;By Theme;Police & Detective Films
+category:;DVD;Genres;Action & Adventure;By Theme;Odd Couples
+category:;DVD;Actors & Actresses;( A );Allen, Todd
+category:;DVD;Actors & Actresses;( B );Banks, Jonathan
+category:;DVD;Actors & Actresses;( C );Crosby, Denise
+category:;DVD;Actors & Actresses;( J );James, Brion
+category:;DVD;Actors & Actresses;( K );Kelly, David Patrick
+category:;DVD;Actors & Actresses;( L );Landham, Sonny
+category:;DVD;Actors & Actresses;( M );McRae, Frank
+category:;DVD;Actors & Actresses;( M );Murphy, Eddie
+category:;DVD;Actors & Actresses;( N );Nolte, Nick
+category:;DVD;Actors & Actresses;( O );O'Toole, Annette
+category:;DVD;Actors & Actresses;( R );Remar, James
+category:;DVD;Actors & Actresses;( R );Rose, Margot
+category:;DVD;Directors;( H );Hill, Walter
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;Comedy Stars;Eddie Murphy
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Comedy
+category:;DVD;Genres;Action & Adventure;By Theme;Race Against Time
+reviews:29
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A9Q28YTLYREO7:4
+review:AENK4X1X4C5CM:4
+review:A1C7QKP8PU0XS8:4
+review:AIGNHBYSQ6YGI:4
+review:AK2AQIULQDFS5:4
+review:A2TAV6XYP1UB4P:4
+review:A2BKDRIUWA6BAW:5
+review:A1CZICCYP2M5PX:4
+review:A23HTHSRWOI7Y0:4
+review:A51IK68MWKV5R:4
+review:A3CGVO10F7NPMJ:4
+review:A34XPZS5DXA6HA:5
+review:A1X910WAOVYV8M:5
+review:AOVJYIUATQKR5:4
+review:A1G5LJ8T1IGYC5:5
+review:A2I3PGEX2A61KE:5
+review:A3W18T2ITHXW5O:3
+review:A28Z9VFE69AHXB:5
+review:A1PMPSDLEWPRJC:4
+review:AYWPAOQQ6YGX2:5
+review:A314LCGWS08QFM:5
+review:A3S98L5B1SR9P1:5
+review:A3N5XIM9R2OQH0:5
+review:A1ZNIK3L8NQ930:1
+review:A3CIYAHOSN4F0Z:5
+review:AESPP8H6PG602:5
+review:A2JJVCE4MWPQX9:5

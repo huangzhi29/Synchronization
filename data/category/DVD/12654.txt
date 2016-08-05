@@ -1,0 +1,26 @@
+id:12654
+asin:B000063K12
+title:Guru, the Mad Monk
+group:DVD
+salesrank:46238
+similar:5
+categories:15
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Occult
+category:;DVD;Actors & Actresses;( L )
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Horror;By Theme;Gothic
+category:;DVD;Special Features;Titles;( G )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Occult
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Gothic
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Occult
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Gothic
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:3
+review:ANJGZJL5GYS8F:2
+review:A2HBHUK4K1AJTY:5
+review:A3VY4KU3TNPAO7:5

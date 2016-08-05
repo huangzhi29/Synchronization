@@ -1,0 +1,16 @@
+id:18970
+asin:B00007AJEC
+title:Peter Sellers Collection (I'm All Right Jack/Heavens Above!/Hoffman/Two-Way Stretch/The Smallest Show on Earth/Carlton-Browne of the F.O.)
+group:DVD
+salesrank:28531
+similar:5
+categories:6
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( S );Sellers, Peter
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Formats;Boxed Sets;Comedy
+category:;DVD;Genres;Comedy;Comedy Stars;Peter Sellers
+category:;DVD;Formats;Boxed Sets;Classics
+reviews:2
+review:AFKLRT48SV5LX:5
+review:A3628L43ZVEMP5:3

@@ -1,0 +1,10 @@
+id:14439
+asin:B00006FDA7
+title:Sherlock Hound - Case File 5
+group:DVD
+salesrank:47378
+similar:5
+categories:2
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Genres;Anime & Manga;Characters & Series;Sherlock Hound
+reviews:0

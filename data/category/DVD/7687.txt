@@ -1,0 +1,113 @@
+id:7687
+asin:B00006BS7P
+title:Leslie Sansone - Two Mile Walk
+group:DVD
+salesrank:15979
+similar:5
+categories:12
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Actors & Actresses;( S );Sansone, Leslie
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Fitness & Yoga
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Fitness & Yoga
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Fitness & Yoga;By Instructor;Leslie Sansone
+category:;DVD;Genres;Fitness & Yoga;Walking
+category:;DVD;Genres;Fitness & Yoga;General
+reviews:93
+review:ADQ8WENUICXUC:5
+review:A3BGRUK533UD75:5
+review:A1SOQEDO3IDUOD:5
+review:A3RW3VORFMX07C:5
+review:ATVPDKIKX0DER:5
+review:A2PVG37J9SKMX5:5
+review:A21L50RSF5CJIA:2
+review:A130PEKTXRZJOG:4
+review:ATVPDKIKX0DER:5
+review:A1X6TNYEV6Z168:4
+review:AY55R37A4ZOMG:5
+review:A32EDCY2ITL7FJ:5
+review:A1WUK1DHT3MDEJ:5
+review:A3K4FOGI9Y6PNL:5
+review:ATVPDKIKX0DER:5
+review:A3AYVN6ZCLEMF1:5
+review:A170B4MJZSJGNA:5
+review:AFTGWWECNDAIW:5
+review:A1TP0MOYCW725O:5
+review:A1LQ2CI4WOY50U:3
+review:A2XJD5MOD2REXR:3
+review:AJ09ITQVXNXRL:5
+review:A3C980KOM8KRYG:5
+review:A19PQGWZDTPKV:4
+review:A3V2UNA728PU0A:4
+review:AULBYPXSTPORM:1
+review:A1JU4S08OQITGY:5
+review:A27YUPRUIHUL2S:3
+review:A1183JSEDZGW1F:5
+review:APN4CPMQWU100:5
+review:A3IYXIAPYFFMEX:4
+review:AOCC72ZW47DZQ:5
+review:AEQQW63Y0KM8A:5
+review:A1P4F6HIXU6WYE:4
+review:A1YBLJV3ZA961U:5
+review:AWHDEB189SE9:5
+review:A14ZGJ8CZG751Z:4
+review:ARVUP37A6AQ7R:5
+review:A2TNI4MUY01ZWI:5
+review:A26ZDF3062SJVR:5
+review:AAWE9YE03UCI4:5
+review:A3V2UNA728PU0A:5
+review:A6YW41DQ74RZC:5
+review:A1CNG6AJ0BOB7V:5
+review:A2H8VDD97RBUTW:5
+review:A3KV4RQE2FVIZ0:4
+review:A245CIUUP5AUVG:4
+review:A1B9DF3HLECRC:5
+review:A3GP4RAHEX99EV:4
+review:A4QNK9B8HMQF8:5
+review:A3SFZ5NP7L6TII:5
+review:AOJA09U83116P:5
+review:A1XL6X7ZV6XQ5V:4
+review:A341B41AKCE4O5:5
+review:A1BC9R2AWYW2WT:5
+review:A1RXLZY53ZQ6UT:5
+review:A3UHTO0ACF05VC:4
+review:A3FRGUEABGKLCQ:5
+review:A2326BW2NLFOHZ:4
+review:A3DDJ7GUIIOMBI:5
+review:A2IWO5WAPII6VY:4
+review:A283HN8S6I9KWU:5
+review:AVKSGYJSFRL3I:5
+review:A3TNA5UDIWL2LT:4
+review:A2MPF4XGRLSXVN:5
+review:A34S92CYB783L5:5
+review:A2D5RITYPZKZMB:5
+review:ANPK9K9O7S3W9:4
+review:ADNDS4R0DM9QD:1
+review:A1VJ0NIYLST7R8:5
+review:APY95TS03GJZX:5
+review:AKYZ2D4LBO3VM:4
+review:A2E1EFNIZL2FVA:5
+review:AKR9FJ13BG2RT:3
+review:A3UO4TNELHHBIR:5
+review:A12M55VTMX0V24:5
+review:A9L0HHCBLGFQV:5
+review:A156PMHOVV6FV:5
+review:A2PFG357EUS15G:5
+review:A2AYJJAFNSGSU1:3
+review:A1WG31DQ90LYI:3
+review:A2YOU3BRPALNKM:5
+review:A1TKK8JBWQ0IY7:4
+review:AUZ8ZG4AB8HC2:5
+review:A2JE3ED40C5Q68:5
+review:A2A9MMHIZ48G3D:5
+review:A2A9MMHIZ48G3D:5
+review:A11NOO384U6BTX:5
+review:A18NFXHKXN2BNO:5
+review:A108P33MBHGP08:5
+review:A1S8NFZC85K10X:5
+review:A3FUF2IW4CI896:4
+review:A3FEX2RN3Q5XT4:5

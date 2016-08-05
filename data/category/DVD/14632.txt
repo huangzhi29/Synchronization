@@ -1,0 +1,20 @@
+id:14632
+asin:B00007G1TT
+title:Genma Wars
+group:DVD
+salesrank:64048
+similar:0
+categories:2
+category:;DVD;Special Features;Titles;( G )
+category:;DVD;Genres;Anime & Manga;By Studio;Media Blasters;All
+reviews:10
+review:ATVPDKIKX0DER:1
+review:A235R4I1UDLD9S:1
+review:ATVPDKIKX0DER:1
+review:A2VN1TMGK69XT4:3
+review:A1LYV1YQSCHUSX:2
+review:A1KGKKLZPKUH5M:4
+review:A3UN6WX5RRO2AG:5
+review:A2HTMBBXBAMTTA:1
+review:A3SVORI32F1UWD:5
+review:A3SVORI32F1UWD:5

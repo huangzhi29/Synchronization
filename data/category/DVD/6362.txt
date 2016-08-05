@@ -1,0 +1,33 @@
+id:6362
+asin:B00007D00L
+title:AM/PM Stretch for Health
+group:DVD
+salesrank:1371
+similar:5
+categories:6
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Fitness & Yoga;Series;Gaiam
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Fitness & Yoga;Stretching
+reviews:19
+review:ADIOJ35TO3H4M:5
+review:A3DJSJ68ODUZU8:5
+review:A350IS7BE08BBB:5
+review:ATNEJDFH67LB4:5
+review:A24663NUV1QSVP:5
+review:A192KJRH1NLKUN:5
+review:A13702W39MCL0K:5
+review:A3AHDR4F2J7YXX:5
+review:A3E10FXCJGNH5X:5
+review:A2OD2J8ILL2RQ3:5
+review:A2DFCWCJYG9HPM:4
+review:A2I8OE8Y0X7T31:5
+review:A3BRJASAI6B7IF:5
+review:A30638B9S2GOM8:4
+review:A3G70XRVGQJSD4:5
+review:A2AUG4B0A8UUOG:5
+review:A1VYFNCO6H0G6I:5
+review:A4K6EAHKPT46P:3
+review:APT9XJBS3LY64:1

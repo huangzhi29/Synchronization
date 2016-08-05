@@ -1,0 +1,33 @@
+id:3423
+asin:6305871418
+title:Tina Turner - Rio '88
+group:DVD
+salesrank:28071
+similar:5
+categories:13
+category:Music;Styles;R&B;Soul;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( T );Turner, Tina
+category:Music;Styles;Pop;Adult Contemporary;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Artists;Turner, Tina
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( T )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:12
+review:A2CI4Q06AZ1WOW:5
+review:AMNH6QFIRIA7O:4
+review:A1XWPFXGQ8QWNK:3
+review:A3RZ12JDSR3UZC:4
+review:A3NURXG7IR8FSN:4
+review:A2D5BGCNBZVN93:5
+review:A1WBYVK5MRBYY6:4
+review:A77184QJM3PM:4
+review:A2EJKD5DQJCU1U:4
+review:A2U9LPORS5P7G3:5
+review:AQ9XQBOAHB999:5
+review:A1QZZRLRYSCCII:5

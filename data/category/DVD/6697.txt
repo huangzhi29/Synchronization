@@ -1,0 +1,25 @@
+id:6697
+asin:B00005V9ID
+title:Fast Sofa
+group:DVD
+salesrank:31169
+similar:5
+categories:11
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( B );Busey, Jake
+category:;DVD;Actors & Actresses;( G );Glover, Crispin
+category:;DVD;Actors & Actresses;( G );Goldberg, Adam
+category:;DVD;Actors & Actresses;( L );Lyonne, Natasha
+category:;DVD;Actors & Actresses;( M );McKay, Anthony Norman
+category:;DVD;Actors & Actresses;( R );Roberts, Eric
+category:;DVD;Actors & Actresses;( S );Shadix, Glenn
+category:;DVD;Actors & Actresses;( T );Tilly, Jennifer
+category:;DVD;Special Features;Titles;( F )
+reviews:6
+review:A41L6S7YCLRL4:5
+review:A2QEPWOXQ6CMGM:1
+review:A9Q28YTLYREO7:1
+review:A3G8PL7WJLG2ID:5
+review:A213LQNQQD7UE7:5
+review:A2X0A2J0ZV1GTY:4

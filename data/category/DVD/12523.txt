@@ -1,0 +1,57 @@
+id:12523
+asin:B00005KAQJ
+title:Recess - School's Out
+group:DVD
+salesrank:6764
+similar:5
+categories:23
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Genres;Kids & Family;10-12 Years
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Genres;Kids & Family;Comedy
+category:;DVD;Specialty Stores;Disney Home Video;By Age;7-11 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;For the Whole Family
+category:;DVD;Actors & Actresses;( B );Beasley, Allyce
+category:;DVD;Actors & Actresses;( C );Coleman, Dabney
+category:;DVD;Actors & Actresses;( C );Collins, Rickey Dshon
+category:;DVD;Actors & Actresses;( C );Crane, Rachel
+category:;DVD;Actors & Actresses;( G );Goulet, Robert
+category:;DVD;Actors & Actresses;( H );Hart, Melissa Joan
+category:;DVD;Actors & Actresses;( J );Johnson, Ashley
+category:;DVD;Actors & Actresses;( L );Lawrence, Andrew
+category:;DVD;Actors & Actresses;( M );MacNicol, Peter
+category:;DVD;Actors & Actresses;( M );Martin, Andrea
+category:;DVD;Actors & Actresses;( M );Mead, Courtland
+category:;DVD;Actors & Actresses;( S );Segall, Pamela
+category:;DVD;Actors & Actresses;( W );Woods, James
+category:;DVD;Genres;Kids & Family;By Theme;On the Road
+category:;DVD;Special Features;Titles;( R )
+category:;DVD;Genres;Kids & Family;By Theme;Mischievous Children
+reviews:26
+review:A35RDX6W4CINQ9:3
+review:AZRJD36DTXFIW:1
+review:A1KF6NB2RUACIQ:5
+review:A6A0LTYEAMAP5:4
+review:A1ULVQ9TTCW7PU:4
+review:AR35JVSORLY4W:5
+review:A19K5DILM15WU3:5
+review:A2RHV42BTJSVON:5
+review:A1C9GCHR99WX3F:5
+review:A2886UKKULZINB:1
+review:A3UN6WX5RRO2AG:5
+review:A34W7QA4J5UTOR:4
+review:A237RI4S8TKFI4:4
+review:AB9ZE7OCYUW7A:5
+review:AY5AV7OG7UAJ7:5
+review:A2EHC1S1DQ3ZON:5
+review:A3K8LDT8URZWLH:5
+review:A2CNW5PQ5UEYLJ:3
+review:A21GP5DQVQTS7V:4
+review:ANXFNLN3C1HKD:5
+review:A3AKLKK6YRGMXL:4
+review:A1FP2LA6M2OJX0:4
+review:AHNPUTPGZXVA0:5
+review:ATWJNE06EI6JF:5
+review:A3O2CBQ7S36L6D:2
+review:A1VHQYC3U4P6IV:4

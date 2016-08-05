@@ -1,0 +1,26 @@
+id:6599
+asin:B00000JYX8
+title:Tower of Evil
+group:DVD
+salesrank:34861
+similar:5
+categories:10
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Slasher Flicks
+category:;DVD;Actors & Actresses;( C );Coulouris, George
+category:;DVD;Actors & Actresses;( F );Fowlds, Derek
+category:;DVD;Actors & Actresses;( H );Haworth, Jill
+category:;DVD;Actors & Actresses;( P );Price, Dennis
+category:;DVD;Actors & Actresses;( W );Watson, Jack
+category:;DVD;Genres;Cult Movies;Horror
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+reviews:8
+review:A268KZHM3C1EP5:2
+review:A1V5G1O9TRGO7M:4
+review:A2Y093UVFQTJ3O:4
+review:A3E2UT8NVCLMLH:2
+review:AFOK05KDCHSHL:3
+review:A1CQJYMTE8C6WJ:5
+review:A3B58ORBYIT63Z:5
+review:A18V2GPLODXPGN:4

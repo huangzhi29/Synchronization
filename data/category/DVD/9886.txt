@@ -1,0 +1,50 @@
+id:9886
+asin:0767827635
+title:Stir Crazy
+group:DVD
+salesrank:5129
+similar:5
+categories:26
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Buddy Films
+category:;DVD;Genres;Comedy;By Theme;Fish Out of Water
+category:;DVD;Genres;Comedy;By Theme;Comedy of Errors
+category:;DVD;Genres;Comedy;Comic Criminals
+category:;DVD;Actors & Actresses;( B );Banks, Jonathan
+category:;DVD;Actors & Actresses;( B );Brooks, Joel
+category:;DVD;Actors & Actresses;( B );Brown, Georg Stanford
+category:;DVD;Actors & Actresses;( C );Corbin, Barry
+category:;DVD;Actors & Actresses;( C );Coster, Nicolas
+category:;DVD;Actors & Actresses;( J );Johnson, Doug
+category:;DVD;Actors & Actresses;( N );Nelson, Craig T
+category:;DVD;Actors & Actresses;( P );Pryor, Richard
+category:;DVD;Actors & Actresses;( W );Wilder, Gene
+category:;DVD;Actors & Actresses;( W );Williams, Jobeth
+category:;DVD;Directors;( P );Poitier, Sidney
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;Comedy Stars;Gene Wilder
+category:;DVD;Genres;Comedy;Comedy Stars;Richard Pryor
+reviews:16
+review:ATVPDKIKX0DER:3
+review:A1VBOTYUOSOTZE:5
+review:ATVPDKIKX0DER:5
+review:A1D2HNZ1JISWNY:5
+review:A1D2HNZ1JISWNY:5
+review:A1SBQN2FIDDD2R:5
+review:A1SBQN2FIDDD2R:5
+review:A37FUJC2L7DSPT:1
+review:A116UAF7VAPQQO:4
+review:A12NDOGUFO3LOI:5
+review:A2UNYXX7E004TN:5
+review:A103KNDW8GN92L:4
+review:A3S7OX3P1OTJ2L:5
+review:A12IQ99MWM9YQ8:3
+review:A37VF51O89UTIV:5
+review:A3ASR7JA7MPKW4:3

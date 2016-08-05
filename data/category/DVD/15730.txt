@@ -1,0 +1,27 @@
+id:15730
+asin:B00005B34Y
+title:Gluck - Orphée et Eurydice / Robert Wilson · John Eliot Gardiner - Kozená · Bender · Petibon - Théâtre du Chatelet
+group:DVD
+salesrank:28447
+similar:5
+categories:8
+category:;DVD;Genres;Art House & International;By Original Language;French
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Directors;( L );Large, Brian
+category:;DVD;Special Features;Titles;( G )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Composer;Gluck, Christoph Willibald
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Historical Period;Classical (c.1770-1830)
+reviews:11
+review:A1IJMXISOAJIS7:5
+review:A2IH7O56WZ61Z5:3
+review:A2VWQXWF1GO2ZE:5
+review:A3CD13PVV6EBN7:1
+review:A31JRSZQ76YA1N:5
+review:A17BIHE5JFPMVK:2
+review:A2QLQJ4G30LT6L:4
+review:A3V4ZD60UJCYJX:3
+review:A1OOEV1MEJKLRK:4
+review:A111JMN4KQZTMU:2
+review:AFNU3D48KH4OK:4

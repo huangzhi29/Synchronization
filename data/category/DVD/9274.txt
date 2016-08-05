@@ -1,0 +1,39 @@
+id:9274
+asin:B000060MVH
+title:The Picture of Dorian Gray
+group:DVD
+salesrank:13275
+similar:5
+categories:21
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Horror;General
+category:;DVD;Actors & Actresses;( A );Aidman, Charles
+category:;DVD;Actors & Actresses;( B );Briant, Shane
+category:;DVD;Actors & Actresses;( D );Davenport, Nigel
+category:;DVD;Actors & Actresses;( F );Flanagan, Fionnula
+category:;DVD;Actors & Actresses;( K );Karlen, John
+category:;DVD;Actors & Actresses;( R );Richards, Kim
+category:;DVD;Directors;( J );Jordan, Glenn
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( P )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;Fantasy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;Fantasy
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:10
+review:A2PBCNUM5BPECC:5
+review:A2PBCNUM5BPECC:5
+review:A28ILXH590CMRJ:1
+review:AVWWFK3FZDEL2:1
+review:A3CC5AIB9LBV5T:3
+review:ATO93H189K94W:1
+review:A2ZQ89TE1TGNVH:4
+review:AHGKNXUUFUY07:1
+review:A23QOAXJSWIBS6:2
+review:A23KC065XXJ06O:1

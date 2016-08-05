@@ -1,0 +1,26 @@
+id:12514
+asin:B00005KAQX
+title:Enemy of the State/Crimson Tide
+group:DVD
+salesrank:39876
+similar:0
+categories:17
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( B );Brancato, Lillo
+category:;DVD;Actors & Actresses;( B );Bruskotter, Eric
+category:;DVD;Actors & Actresses;( B );Burkholder, Scott
+category:;DVD;Actors & Actresses;( C );Craven, Matt
+category:;DVD;Actors & Actresses;( D );Dzundza, George
+category:;DVD;Actors & Actresses;( G );Gandolfini, James
+category:;DVD;Actors & Actresses;( H );Hackman, Gene
+category:;DVD;Actors & Actresses;( M );Mortensen, Viggo
+category:;DVD;Actors & Actresses;( N );Nucci, Danny
+category:;DVD;Actors & Actresses;( S );Schroder, Rick
+category:;DVD;Actors & Actresses;( T );Thedford, Marcello
+category:;DVD;Actors & Actresses;( W );Washington, Denzel
+category:;DVD;Actors & Actresses;( Z );Zahn, Steve
+category:;DVD;Directors;( S );Scott, Tony
+category:;DVD;Special Features;Titles;( E )
+category:;DVD;Genres;Action & Adventure;Action Directors;Tony Scott
+reviews:1
+review:A20621ASWZLUR6:4

@@ -1,0 +1,30 @@
+id:8726
+asin:B00005KA73
+title:Harlan County War
+group:DVD
+salesrank:13133
+similar:5
+categories:15
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;True Story
+category:;DVD;Actors & Actresses;( H );Harvey, Tom
+category:;DVD;Actors & Actresses;( H );Hughes, Helen
+category:;DVD;Actors & Actresses;( H );Hunter, Holly
+category:;DVD;Actors & Actresses;( I );Irwin, Jennifer
+category:;DVD;Actors & Actresses;( K );Kieferle, Kirsten
+category:;DVD;Actors & Actresses;( L );Levine, Ted
+category:;DVD;Actors & Actresses;( R );Robson, Wayne
+category:;DVD;Directors;( B );Bill, Tony
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( H )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Fighting the System
+category:;DVD;Genres;Drama;Television;General
+reviews:7
+review:A2X25C107CSLOR:4
+review:A2LWG80C7XHHS0:5
+review:A2LWG80C7XHHS0:5
+review:A2B9BSN3PSVYLL:5
+review:A37H7Y3AJG4S8U:3
+review:A2502V9MBFGV8H:4
+review:A2U6BT86L5GFIV:5

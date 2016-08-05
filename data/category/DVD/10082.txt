@@ -1,0 +1,26 @@
+id:10082
+asin:B00005QBYT
+title:Naked States
+group:DVD
+salesrank:15280
+similar:5
+categories:3
+category:;DVD;Genres;Documentary;General
+category:;DVD;Special Features;Titles;( N )
+category:;DVD;Genres;Documentary;Series;Docurama
+reviews:15
+review:A141YLLTVDWNB8:3
+review:A13VHV8UKNUZL7:5
+review:A3APZM971FMKE8:4
+review:A3DGB4HN3QCGAL:4
+review:A9M2NFEPQ3MIS:4
+review:A1KCT3KCNRAXGC:5
+review:A13MB02CW39KHN:4
+review:A3T6FQ2FZQ2ZIS:5
+review:ALT87M41XHK1G:5
+review:A1EI65WJC85U68:4
+review:A5QH2O4IVPSGV:5
+review:AP70OWFY36QRU:4
+review:A2HBRINA3F9YHV:1
+review:A37M6XSQAYXBMD:5
+review:A1VCLTAGM5RLND:5

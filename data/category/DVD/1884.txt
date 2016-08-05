@@ -1,0 +1,64 @@
+id:1884
+asin:B00005A8TU
+title:Mon Oncle - Criterion Collection
+group:DVD
+salesrank:5067
+similar:5
+categories:26
+category:;DVD;Genres;Art House & International;By Genre;Comedy
+category:;DVD;Genres;Art House & International;By Original Language;French
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Satire
+category:;DVD;Genres;Comedy;Slapstick
+category:;DVD;Genres;Comedy;By Theme;Eccentric Families
+category:;DVD;Genres;Comedy;By Theme;Fish Out of Water
+category:;DVD;Genres;Comedy;By Theme;Nothing Goes Right
+category:;DVD;Actors & Actresses;( A )
+category:;DVD;Actors & Actresses;( M )
+category:;DVD;Actors & Actresses;( R )
+category:;DVD;Actors & Actresses;( S )
+category:;DVD;Actors & Actresses;( T );Tati, Jacques
+category:;DVD;Actors & Actresses;( Z );Zola, Jean Pierre
+category:;DVD;Directors;( T );Tati, Jacques
+category:;DVD;Genres;Art House & International;By Theme;Family Interaction
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;France;Classics
+category:;DVD;Genres;Art House & International;By Country;Italy;General
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Genres;Art House & International;By Genre;Classics;General
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Comedy
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Art House & International
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Classics
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;All
+category:;DVD;Genres;Comedy;Domestic Comedies
+reviews:30
+review:A2LJ70934IHGGT:5
+review:ACFNNEN8RS7UA:5
+review:ATVPDKIKX0DER:1
+review:A2HYYAB7D0L489:5
+review:AV8E4BWXPFUTG:5
+review:A1WNVPUI10AJBZ:5
+review:A14239BHVXB5G:5
+review:A2363NU57MJM6K:5
+review:A26TSW6AI59ZCV:4
+review:A3QNY1YCCEALHP:5
+review:A302ZFC53FMIJS:5
+review:A1UCUF1ZF8Z4QE:5
+review:A2KVMXLAVXYXBE:4
+review:A3QUE7HG5M5O8N:5
+review:A3NHEPQR30GKFY:4
+review:A2VDQIOXO5XN6V:5
+review:A2P49WD75WHAG5:5
+review:A1UHT5RROL1X0B:1
+review:A27M15DFUPV1CK:5
+review:A4YLFRSBBC3RZ:5
+review:A2BOBLLPFBYG0S:2
+review:A17E7K3MQ5KKR5:5
+review:A2GQWBLABA9PGI:4
+review:A1ETIF5IXD8NJU:4
+review:AI0OAQ6E2O8VF:4
+review:A2GCHG6U8HTVIT:5
+review:A2Y2RKLAYFGGN2:4
+review:A2273SPGC2R2N2:1
+review:A2RWHURW8HXRRE:5
+review:AU7ND6NOCX9IA:5

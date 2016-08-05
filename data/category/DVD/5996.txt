@@ -1,0 +1,41 @@
+id:5996
+asin:630523650X
+title:Dolores Claiborne
+group:DVD
+salesrank:3003
+similar:5
+categories:28
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Drama;Murder & Mayhem
+category:;DVD;Actors & Actresses;( B );Bates, Kathy
+category:;DVD;Actors & Actresses;( B );Bogosian, Eric
+category:;DVD;Actors & Actresses;( C );Cooper, Roy
+category:;DVD;Actors & Actresses;( G );Gunton, Bob
+category:;DVD;Actors & Actresses;( K );King, Stephen
+category:;DVD;Actors & Actresses;( L );Leigh, Jennifer Jason
+category:;DVD;Actors & Actresses;( M )
+category:;DVD;Actors & Actresses;( P );Parfitt, Judy
+category:;DVD;Actors & Actresses;( P );Plummer, Christopher
+category:;DVD;Actors & Actresses;( R );Reilly, John C
+category:;DVD;Actors & Actresses;( R );Robson, Wayne
+category:;DVD;Actors & Actresses;( S );Strathairn, David
+category:;DVD;Directors;( H );Hackford, Taylor
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;Blackmail, Murder & Mayhem;Murder
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;By Theme;Haunted by the Past
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:5
+review:A39NS429FYXAD1:3
+review:A2PMQH87R1H3QU:5
+review:A1L8N60DIMVF8C:5
+review:A10M5ZWXJB4FAP:5
+review:A3ROZK0G84RGMZ:5

@@ -1,0 +1,26 @@
+id:4740
+asin:B00005T30N
+title:Fluke/Napoleon
+group:DVD
+salesrank:49674
+similar:0
+categories:18
+category:;DVD;Actors & Actresses;( C );Cobbs, Bill
+category:;DVD;Actors & Actresses;( H );Hobart, Deborah
+category:;DVD;Actors & Actresses;( J );Jackson, Samuel L
+category:;DVD;Actors & Actresses;( K );King, Yolanda
+category:;DVD;Actors & Actresses;( M );Modine, Matthew
+category:;DVD;Actors & Actresses;( P );Paxton, Collin Wilcox
+category:;DVD;Actors & Actresses;( P );Perlman, Ron
+category:;DVD;Actors & Actresses;( P );Polito, Jon
+category:;DVD;Actors & Actresses;( P );Pomeranc, Max
+category:;DVD;Actors & Actresses;( R );Roberts, Adrian
+category:;DVD;Actors & Actresses;( S );Stoltz, Eric
+category:;DVD;Actors & Actresses;( T );Travis, Nancy
+category:;DVD;Directors;( C );Carlei, Carlo
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( F )
+category:;DVD;Genres;Kids & Family;Family Films
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;All MGM Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:0

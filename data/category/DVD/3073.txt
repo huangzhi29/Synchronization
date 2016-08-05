@@ -1,0 +1,28 @@
+id:3073
+asin:B00005QCU0
+title:Bear in the Big Blue House - Visiting The Doctor With Bear
+group:DVD
+salesrank:14290
+similar:5
+categories:16
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Actors & Actresses;( H );Holder, Geoffrey
+category:;DVD;Actors & Actresses;( T );Thigpen, Lynne
+category:;DVD;Genres;Kids & Family;Characters & Series;Bear in the Big Blue House
+category:;DVD;Genres;Kids & Family;Characters & Series;Jim Henson Home Entertainment;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Kids & Family;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Kids & Family;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;Kids and Family
+reviews:4
+review:A3OXYXM50RN25I:5
+review:A3L28ZB9IQIVRZ:5
+review:A3GR0U0WHMGMJE:5
+review:A1YD8T1O7T4CA1:5

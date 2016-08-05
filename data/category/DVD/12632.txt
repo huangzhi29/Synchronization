@@ -1,0 +1,54 @@
+id:12632
+asin:B000063K1S
+title:Scooby-Doo and the Ghoul School
+group:DVD
+salesrank:1751
+similar:5
+categories:25
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Genres;Kids & Family;10-12 Years
+category:;DVD;Genres;Kids & Family;Television
+category:;DVD;Genres;Kids & Family;Comedy
+category:;DVD;Actors & Actresses;( A );Auberjonois, Rene
+category:;DVD;Actors & Actresses;( B );Blu, Susan
+category:;DVD;Actors & Actresses;( C );Camp, Hamilton
+category:;DVD;Actors & Actresses;( J );Johns, Glynis
+category:;DVD;Actors & Actresses;( S );Schell, Ronnie
+category:;DVD;Actors & Actresses;( W );Welker, Frank
+category:;DVD;Genres;Kids & Family;Characters & Series;Scooby Doo
+category:;DVD;Genres;Kids & Family;Characters & Series;Cartoon Network;General
+category:;DVD;Genres;Comedy;Animation;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;General
+category:;DVD;Genres;Kids & Family;Fantasy
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Kids & Family
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:21
+review:A3UN6WX5RRO2AG:5
+review:AKCMPCFIW0PSD:5
+review:ALF2GD5TDZ3QM:1
+review:A1GQZOORFUAIAI:1
+review:A3GBVDUXNVS4JG:4
+review:A3UN6WX5RRO2AG:5
+review:A39UHCNF95PCMO:5
+review:A31D3N7CI36MQD:1
+review:A13PCJSIRWAKHE:1
+review:A1OBPHRXHZF8P6:3
+review:A21GP5DQVQTS7V:5
+review:A3EY4PT8NPN0O4:5
+review:A11UL359TZPCWH:5
+review:A3E33O7XU2MYL2:5
+review:A1C9GCHR99WX3F:4
+review:A3UN6WX5RRO2AG:1
+review:A1PRE00YFNACFK:1
+review:A2Y0BVF0YBI2K3:4
+review:A319SKSB556033:1
+review:A3L1FJU0KCRAGG:1
+review:A3UN6WX5RRO2AG:5

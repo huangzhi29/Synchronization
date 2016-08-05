@@ -1,0 +1,71 @@
+id:7329
+asin:6305744815
+title:Addams Family Values
+group:DVD
+salesrank:45678
+similar:5
+categories:19
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( B );Baranski, Christine
+category:;DVD;Actors & Actresses;( C );Cusack, Joan
+category:;DVD;Actors & Actresses;( H );Hart, Christopher
+category:;DVD;Actors & Actresses;( H );Huston, Anjelica
+category:;DVD;Actors & Actresses;( J );Julia, Raul
+category:;DVD;Actors & Actresses;( K );Kane, Carol
+category:;DVD;Actors & Actresses;( K );Krumholtz, David
+category:;DVD;Actors & Actresses;( L );Lloyd, Christopher
+category:;DVD;Actors & Actresses;( M );MacNicol, Peter
+category:;DVD;Actors & Actresses;( M );McMurray, Sam
+category:;DVD;Actors & Actresses;( M );McNab, Mercedes
+category:;DVD;Actors & Actresses;( R );Ricci, Christina
+category:;DVD;Actors & Actresses;( S );Struycken, Carel
+category:;DVD;Actors & Actresses;( W );Workman, Jimmy
+category:;DVD;Directors;( S );Sonnenfeld, Barry
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Comedy
+reviews:44
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:A2X2KEUT5AH7BS:5
+review:A29UH663BZ88D9:5
+review:ARTKC524THAK8:5
+review:A33Z68R6UKMYPK:4
+review:A2SXHIB3F1GHPX:5
+review:A3EHD2IZEYRU25:3
+review:A3CFQ5YHIH487:1
+review:A1OBPHRXHZF8P6:4
+review:A2MNB9PF4QMK9P:5
+review:A2NX99GVAX4TRP:4
+review:A3KWXO6QE62Z5E:4
+review:A2198FZZMTJ38H:4
+review:A2B7WKCO6CSMEH:4
+review:A3PFWHYF3EW7WT:5
+review:A1SC2VSGJI8CTC:5
+review:A1CZICCYP2M5PX:4
+review:A23HTHSRWOI7Y0:4
+review:A3GG5RGZA6036E:4
+review:A1RJD10TTI568L:5
+review:AYG1U47VFZ165:3
+review:A26TSW6AI59ZCV:4
+review:A17J8CYSYGCLEP:5
+review:A1D6DFC3AGV3JZ:5
+review:A3ICHEO78NFE4Y:5
+review:A3UN6WX5RRO2AG:5
+review:A1EZMV5DSWU8TU:5
+review:A1XJOSJN6FHFO0:5
+review:A23QOAXJSWIBS6:4
+review:A20HGFRGFJH2NJ:5
+review:AYBBGS1NYXG8B:4
+review:A3R8DRD4NU7UFN:5
+review:A20HMJ1T4Z23H9:5
+review:A1WLKGF88IYVK0:4
+review:A3UN6WX5RRO2AG:1
+review:A29R36BFHDM4QP:5
+review:A3UN6WX5RRO2AG:4
+review:A3UN6WX5RRO2AG:5
+review:A1AYN3IIUNQCIA:5
+review:AKLGCBULB7G65:5

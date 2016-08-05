@@ -1,0 +1,20 @@
+id:16831
+asin:B000055ZL5
+title:Generator Gawl - Secrets and Lies (Vol. 3)
+group:DVD
+salesrank:45234
+similar:5
+categories:10
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Science Fiction & Fantasy;Sci-Fi Action
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Genres;Anime & Manga;By Studio;ADV Films
+category:;DVD;Genres;Anime & Manga;General
+category:;DVD;Genres;Art House & International;By Country;Japan;General
+category:;DVD;Genres;Action & Adventure;Futuristic
+category:;DVD;Special Features;Titles;( G )
+category:;DVD;Genres;Science Fiction & Fantasy;Animation
+category:;DVD;Genres;Anime & Manga;Characters & Series;Generator Gawl
+reviews:2
+review:A5BZPT5KO48P4:4
+review:A3A596LLVIA94D:5

@@ -1,0 +1,29 @@
+id:7590
+asin:B00006L9ZU
+title:Wagner - Das Rheingold / Levine, Morris, Jerusalem, Ludwig, Metropolitan Opera (Levine Ring Cycle Part 1)
+group:DVD
+salesrank:15685
+similar:5
+categories:12
+category:;DVD;Actors & Actresses;( J );Jerusalem, Siegfried
+category:;DVD;Actors & Actresses;( L );Ludwig, Christa
+category:;DVD;Actors & Actresses;( R );Rootering, Jan Hendrik
+category:;DVD;Actors & Actresses;( S );Salminen, Matti
+category:;DVD;Actors & Actresses;( W );Wlaschiha, Ekkehard
+category:;DVD;Actors & Actresses;( Z );Zednik, Heinz
+category:;DVD;Directors;( L );Large, Brian
+category:;DVD;Special Features;Titles;( W )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Composer;Wagner, Richard
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Performer;Levine, James
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Historical Period;Romantic (c.1820-1910)
+reviews:9
+review:A3CY2OVNOQAU13:5
+review:A1AZURHNLDP54O:5
+review:A3PBIDR2XIKHMR:4
+review:AGRR05FH945HR:5
+review:A214Q6T4W9EX7B:1
+review:A33AR9DLXB8UNW:2
+review:AEP8PX3X6A8XL:5
+review:ASFMY13HSST5B:4
+review:A1046FRA3NWCX2:5

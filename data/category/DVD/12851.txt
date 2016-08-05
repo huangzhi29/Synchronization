@@ -1,0 +1,27 @@
+id:12851
+asin:B00002VW8L
+title:VH1 Storytellers - Meat Loaf
+group:DVD
+salesrank:37980
+similar:5
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Titles;( V )
+category:;DVD;Genres;Television;TV Series;VH1 Storytellers
+reviews:13
+review:A2U5UGJ559R3CJ:5
+review:A2JR3C9J00Q2KB:5
+review:A2TB47W8LWTZH9:5
+review:A2AXS3H6O1H7AC:5
+review:A13K37YUVQR6FY:5
+review:A13R74EOSOJL3O:5
+review:APR071OCYQEV6:5
+review:A144S3MTGJLGPM:4
+review:A15QAA7JT6R63O:5
+review:A2W4HSHUP8F85A:5
+review:A1LBM2AFLBGVIL:4
+review:A33O5AXGSE92I4:5
+review:A250BI36M1IR26:5

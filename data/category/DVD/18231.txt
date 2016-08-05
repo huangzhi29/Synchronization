@@ -1,0 +1,79 @@
+id:18231
+asin:B000085EFC
+title:Pilates Complete for Everyone
+group:DVD
+salesrank:2076
+similar:5
+categories:7
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Fitness & Yoga;Pilates
+category:;DVD;Special Features;Titles;( P )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Fitness & Yoga;Stretching
+category:;DVD;Genres;Fitness & Yoga;General
+reviews:64
+review:A1331YW74KPHV9:5
+review:A4GJ1DXN9FM3V:4
+review:A3A4I9N9Z85V53:4
+review:AG80BNLSCM0WX:3
+review:A2ADBPK763OGW5:5
+review:A17CKF3I5SQMCQ:5
+review:A9NBESQXXX4OY:5
+review:A24GHO90SNPJUC:5
+review:A2RIJKDPSJY14R:4
+review:A3U9CRY51BB5K3:5
+review:A1MF2I32U86H2H:5
+review:A2LWO98OMEH4IY:4
+review:AMO8MJD40GWWK:2
+review:A2ADBPK763OGW5:5
+review:A1E3SI8T718YFA:5
+review:AMO8MJD40GWWK:1
+review:A17VNUGCH4EQXR:4
+review:A1AWECIRNBEO95:5
+review:A3JUN8KRCPYQ71:2
+review:A23BGRIUXKY12:1
+review:A27A82W8OQZ73Q:2
+review:A2RHWUH7TOMMNX:4
+review:A2TOG0ZWDTVU1U:1
+review:A1AK8VES1KD1S2:2
+review:ADM5RM35PE2Q6:1
+review:AM9HX26Y8NQOI:5
+review:A13P52RPH5TPKY:1
+review:A1FPIGH7D69GGM:5
+review:A14B9D2O6Y374H:3
+review:A6EE1NNV88ILG:5
+review:A1C380PF9APD31:5
+review:A3C3SP30DJJ3V:5
+review:AR8MRLV0H7RSD:5
+review:A254LXXPHCTOW0:1
+review:A1DK869GRI8SFG:5
+review:AYKFW2QNYZ13V:5
+review:A2QVV82MPKJONN:4
+review:AORDLQ8DED2K9:2
+review:A4T0J9N4K7QJC:1
+review:AQOAKO6W22VCM:4
+review:AV9Y2PQBYV0XK:5
+review:A2PIO7UQJM1M8A:5
+review:A3B2P9JBRAUMGU:2
+review:A1OK0HQK9YT5R7:5
+review:A3SMG70710Z8AR:2
+review:A1EI7ORE0R5G05:5
+review:A35MK016UV28OR:5
+review:AZUQRZ3X4OKSB:4
+review:AHB1YAA70O6B8:4
+review:AJ1TYPSKQ1BDE:5
+review:A281603SLTJDAB:3
+review:AD98QOO1EZN0T:5
+review:A2DFCWCJYG9HPM:4
+review:AOUFIPV58ZV8M:4
+review:AG07KN08Z80YF:5
+review:AZ9TB2K2AVBW8:5
+review:A1GLMMZ8R74C8J:5
+review:ALW0PZ190YG2I:5
+review:A27QE3QK30VOJI:5
+review:AG1DL56MMH0GX:5
+review:A4C9JGOA3MY0M:1
+review:A30Q802TA9N6AF:5
+review:A1SMM7J9VVS6VM:3
+review:A1GLT8WEEWZTN1:3

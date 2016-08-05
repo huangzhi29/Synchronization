@@ -1,0 +1,18 @@
+id:152
+asin:B00000IC86
+title:NASA, Pt. 1 & 2
+group:DVD
+salesrank:52747
+similar:0
+categories:10
+category:;DVD;Genres;Documentary;General
+category:;DVD;Genres;Documentary;Space Exploration
+category:;DVD;Special Features;Today's Deals in DVD;Documentary
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( N )
+category:;DVD;Formats;Boxed Sets;Documentary
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Documentary
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:0

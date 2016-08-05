@@ -1,0 +1,18 @@
+id:8340
+asin:B00005YUOG
+title:Donizetti - L'Elisir d'Amore / Rescigno, Pavarotti, Blegen, Metropolitan Opera
+group:DVD
+salesrank:12887
+similar:5
+categories:7
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( P );Pavarotti, Luciano
+category:;DVD;Special Features;Titles;( D )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Performer;Pavarotti, Luciano
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Composer;Donizetti, Gaetano
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Historical Period;Romantic (c.1820-1910)
+reviews:3
+review:A23FBKDOMGYV7K:5
+review:A3I2WE58OUUEXG:4
+review:A2RY3MLLTB0P7M:4

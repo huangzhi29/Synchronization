@@ -1,0 +1,17 @@
+id:20066
+asin:B000065AYC
+title:BeBe Winans
+group:DVD
+salesrank:20213
+similar:5
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Other Music;Christian & Gospel
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Special Interests;Religion & Spirituality;Christian DVD;Music
+reviews:3
+review:A3E2S938VJKWIM:5
+review:A1T68OYT2D7RFS:5
+review:A1VMDZAR1V5929:5

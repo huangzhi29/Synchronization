@@ -1,0 +1,67 @@
+id:11155
+asin:6304602871
+title:Assassins
+group:DVD
+salesrank:3939
+similar:5
+categories:26
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Thrillers
+category:;DVD;Genres;Action & Adventure;Blackmail, Murder & Mayhem
+category:;DVD;Actors & Actresses;( B );Banderas, Antonio
+category:;DVD;Actors & Actresses;( D );Diamond, Reed Edward
+category:;DVD;Actors & Actresses;( M );Moore, Julianne
+category:;DVD;Actors & Actresses;( R );Rowan, Kelly
+category:;DVD;Actors & Actresses;( S );Stallone, Sylvester
+category:;DVD;Actors & Actresses;( W );Watson, Muse
+category:;DVD;Directors;( D );Donner, Richard
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Action & Adventure;By Theme;Chase Movies
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Action & Adventure
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Action & Adventure;Action Stars;Sylvester Stallone
+category:;DVD;Genres;Action & Adventure;Action Directors;Richard Donner
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:33
+review:A297PYDKQVR9S8:4
+review:AQ4VTCI7OVC5N:4
+review:ATVPDKIKX0DER:3
+review:A3UN152WFMAG5C:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:A1ANBSMPX6QL3Z:5
+review:A294DWRBQUOIK4:4
+review:A3246ETIKARBBS:4
+review:ALQZ6496GSUTH:4
+review:A2X27FQSHP418Y:2
+review:AKVNA706X53OP:4
+review:A3D3H65EZHHVJN:5
+review:A1ZEJAQIX7YV9X:5
+review:A34ZAYTNP67S83:3
+review:ABUDH8X1DNZWT:1
+review:AUGABW5AS2OXM:5
+review:A3NNNBUFPK7DGT:4
+review:A2ZHW8TCSCWG8J:1
+review:A356A1F4BQK1R1:3
+review:A1CZICCYP2M5PX:3
+review:A3HVFNVL0S5ZT1:4
+review:A1ZTSOBAPOWT3:5
+review:A3OPGJHX5MTKXY:5
+review:A2FJ5PZS4ZTY9X:5
+review:AO6L5RJILSLDX:3
+review:A82LIVYSX6WZ9:3
+review:A20SPXGDNGLZ8G:5
+review:A3P1A63Q8L32C5:3
+review:A1XU2VGHMZEHG4:3
+review:AP839YM0XJ664:5

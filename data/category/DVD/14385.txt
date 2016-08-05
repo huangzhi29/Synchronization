@@ -1,0 +1,94 @@
+id:14385
+asin:B00006FDAU
+title:Exodus
+group:DVD
+salesrank:3560
+similar:5
+categories:31
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Political Drama
+category:;DVD;Genres;Drama;By Theme;True Story
+category:;DVD;Genres;Military & War;Action & Combat
+category:;DVD;Genres;Military & War;Drama
+category:;DVD;Genres;Action & Adventure;By Theme;Political Thriller
+category:;DVD;Actors & Actresses;( A );Aylmer, Felix
+category:;DVD;Actors & Actresses;( B );Benson, Martin
+category:;DVD;Actors & Actresses;( C );Cobb, Lee J
+category:;DVD;Actors & Actresses;( D );Derek, John
+category:;DVD;Actors & Actresses;( G );Goring, Marius
+category:;DVD;Actors & Actresses;( G );Griffith, Hugh
+category:;DVD;Actors & Actresses;( H );Haworth, Jill
+category:;DVD;Actors & Actresses;( L );Lawford, Peter
+category:;DVD;Actors & Actresses;( M );Miller, Martin
+category:;DVD;Actors & Actresses;( M );Mineo, Sal
+category:;DVD;Actors & Actresses;( N );Newman, Paul
+category:;DVD;Actors & Actresses;( O );Opatoshu, David
+category:;DVD;Actors & Actresses;( R );Ratoff, Gregory
+category:;DVD;Actors & Actresses;( R );Richardson, Ralph
+category:;DVD;Actors & Actresses;( S );Saint, Eva Marie
+category:;DVD;Actors & Actresses;( S );Stevens, Paul
+category:;DVD;Directors;( P );Preminger, Otto
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( E )
+category:;DVD;Specialty Stores;Jewish Heritage;Holocaust
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;By Theme;Social Injustice
+category:;DVD;Genres;Military & War;By Theme;Holocaust
+reviews:55
+review:A1954AYFHYJ6FC:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:5
+review:A4STHK85XIR2B:4
+review:A2AJEXZ1RRT8G3:3
+review:ATVPDKIKX0DER:4
+review:A14XOSM9R995HI:5
+review:ATVPDKIKX0DER:4
+review:A4R0OA38BE8QE:3
+review:A3UAISIUNYXZ3G:3
+review:AYH96VIYZATBU:5
+review:A20RP2Z79FPLMP:5
+review:A3SN8617C618CH:5
+review:ALR35EFI69S5R:5
+review:A7Y6AVS576M03:5
+review:AROEX89SR0Z41:5
+review:A1E94T4GW7O149:3
+review:A2AWS7TT1HQ73A:4
+review:A1MX78RW6EY8IW:2
+review:AHF47TUG2G8QR:5
+review:A2GPEV42IO41CI:5
+review:ALLKK55FYESN0:5
+review:AUGABW5AS2OXM:5
+review:A2I5406XT0H9VD:5
+review:A2B8DJ0CKN9FAO:5
+review:A16QODENBJVUI1:3
+review:A3ESD5FA6HNLUE:5
+review:A21MU26S68L1XV:2
+review:A3AP4EXJT1R2W0:4
+review:A12X2J7AVZ04IQ:5
+review:A3P6S5DOO3Q7OG:4
+review:A36PVH4J4PICKU:3
+review:A5DNUJI2V6XR0:1
+review:A2POT13FER5L82:4
+review:A30Q8X8B1S3GGT:2
+review:AMUZ6EUZRA4SY:5
+review:A2NWFGVGJNK75R:1
+review:A3EBCKPOOFUN53:3
+review:A183ZZ9Y0I4ZDO:5
+review:A1BSMLF7HWEPSR:2
+review:A3FT7M2FD7VRCT:3
+review:A35G8BWRQ6QG8X:1
+review:A3D6DPWQW509R9:5
+review:ALLKK55FYESN0:5
+review:A3TD7B0CT1NHO4:5
+review:ACWS5EJTFRCAO:1
+review:A1CITRQE2HRW45:5
+review:AUHG8KSHI529U:4
+review:ACIBQ6BQ6AWEV:2
+review:A3EOZ8FJWXL2CG:5
+review:A2KMHQ2HYO92AQ:5

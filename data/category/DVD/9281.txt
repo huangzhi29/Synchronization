@@ -1,0 +1,69 @@
+id:9281
+asin:B000060MVN
+title:Dark Shadows DVD Collection 1
+group:DVD
+salesrank:8266
+similar:5
+categories:7
+category:;DVD;Genres;Horror;Things That Go Bump;Vampires
+category:;DVD;Genres;Television;General
+category:;DVD;Special Features;Titles;( D )
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Formats;Boxed Sets;Horror
+category:;DVD;Genres;Television;TV Series;Dark Shadows
+category:;DVD;Genres;Television;By Decade;1950s-'60s;General
+reviews:54
+review:A1OVJ0QM9WF8DB:5
+review:A1ZHHTDET5MTMC:4
+review:AYOMF7LMRIQIY:5
+review:ASL5FNJPYKSMJ:5
+review:ASL5FNJPYKSMJ:5
+review:A3CHZSOJCFHSQD:5
+review:A2JZHG778872IH:5
+review:AEXK6C4J1PGSE:5
+review:AR24UHNYIF582:4
+review:A3BBRUST9KLSH3:5
+review:AFKJH9C1EYG5X:5
+review:AROVSENHMWEXO:4
+review:A21K32MN0TVUCC:5
+review:A2FVE6V3YTFIDO:5
+review:A3HDLJRI0QVXQ8:5
+review:A3RBNBQZZB5SQ2:5
+review:A30IQYPY8VOZR8:4
+review:A154PPC5N5JKDE:5
+review:AR4F820R46I1S:5
+review:A3LVLDQW7N1HWN:5
+review:A11WKQYGX53ZS9:3
+review:A2HH67CJUGGGED:5
+review:AR4F820R46I1S:5
+review:AXD1N6BGQ5VUR:2
+review:AFMHBPOOCEK53:4
+review:A2GMDNSPAN8CLP:5
+review:A3UJSH11XW0C22:5
+review:A2Z56GCQ063TH7:5
+review:A3O72DJ2MQ8930:5
+review:A29A2NPFFMQTVP:4
+review:A1BZHLHU63P5GN:5
+review:A205KFOFY3P8ZH:5
+review:ADETE0TRHHVRZ:5
+review:A1YEDGL0P11QOR:5
+review:ATVPDKIKX0DER:4
+review:AZB4CQ9JZSUQB:5
+review:AJWMVSLEVJ1UP:5
+review:A3JEXIVCVB5A8D:5
+review:A3S4ISGMFJA2VI:5
+review:A1EQZQ5BY3TXPG:5
+review:AEHVD5SMSA4Q2:5
+review:A29A2NPFFMQTVP:4
+review:AWWUYKAQ9RTXK:4
+review:AT53BELIOOGPX:5
+review:A7U4U1XD1AATJ:5
+review:A3GA09FYFKL4EY:5
+review:APUGOQXN3PB7Z:5
+review:A3VHUQ85RH0BC3:5
+review:A12ONDMXB72DAV:5
+review:A12ONDMXB72DAV:5
+review:A26GMJ3MXGO2ZY:5
+review:A1ZE4IQX0ZJJLR:5
+review:AA5IRBQ0AM5SQ:5
+review:A3GRN6J64F2C3X:4

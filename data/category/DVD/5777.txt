@@ -1,0 +1,34 @@
+id:5777
+asin:6305771111
+title:Las Vegas Hillbillies
+group:DVD
+salesrank:28637
+similar:5
+categories:19
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Musicals & Performing Arts;General
+category:;DVD;Genres;Comedy;By Theme;Fish Out of Water
+category:;DVD;Actors & Actresses;( B );Barron, Robert V
+category:;DVD;Actors & Actresses;( D );Doren, Mamie Van
+category:;DVD;Actors & Actresses;( K );Kiel, Richard
+category:;DVD;Actors & Actresses;( M );Mansfield, Jayne
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;General
+category:;DVD;Special Features;Today's Deals in DVD;Musicals & Performing Arts
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Musicals & Performing Arts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;By Theme;Comedy of Manners
+reviews:7
+review:A3RIZS0U7TNTN1:1
+review:A9WY40HRZEV45:1
+review:A1VPN22ZBQ6TPP:2
+review:A1JQS9Q2XWZSBO:4
+review:A3VHFO6KJHD5K7:3
+review:AHLHRGHBJEHFT:2
+review:A11XKY4EIU2KNR:5

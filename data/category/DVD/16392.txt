@@ -1,0 +1,23 @@
+id:16392
+asin:B000067IXY
+title:Murder 101/Nighthawks
+group:DVD
+salesrank:53035
+similar:0
+categories:15
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( D );Davenport, Nigel
+category:;DVD;Actors & Actresses;( H );Hauer, Rutger
+category:;DVD;Actors & Actresses;( K );Khambatta, Persis
+category:;DVD;Actors & Actresses;( R );Reilly, Luke
+category:;DVD;Actors & Actresses;( S );Spinell, Joe
+category:;DVD;Actors & Actresses;( S );Stallone, Sylvester
+category:;DVD;Actors & Actresses;( W );Wagner, Lindsay
+category:;DVD;Actors & Actresses;( W );Williams, Billy Dee
+category:;DVD;Directors;( M );Malmuth, Bruce
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Action & Adventure;Action Stars;Sylvester Stallone
+category:;DVD;Genres;Action & Adventure;Action Directors;Tony Scott
+reviews:0

@@ -1,0 +1,33 @@
+id:13821
+asin:B000083C7V
+title:Play - Playin' Around the World
+group:DVD
+salesrank:36389
+similar:5
+categories:8
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( P )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:17
+review:A3UN6WX5RRO2AG:5
+review:A3A92Q21BBS53E:5
+review:A1990D34QMPBI0:5
+review:A5H400NZ0GJRJ:5
+review:A5H400NZ0GJRJ:5
+review:A1919R1SWOTPTM:5
+review:AMFRI3VYCEO73:5
+review:A31YEW140RTTDY:5
+review:A3UN6WX5RRO2AG:5
+review:A3N19GWTYTLFS1:5
+review:A3UN6WX5RRO2AG:5
+review:A1M7FXWLVYCHKQ:5
+review:A2A06XXQVF9KVR:5
+review:AM3JPWCOFN1UN:4
+review:A2DNGLF9AXZRGE:5
+review:ACHUXOYON75KU:5
+review:A3UN6WX5RRO2AG:5

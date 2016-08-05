@@ -1,0 +1,38 @@
+id:9264
+asin:B000060MVX
+title:Dillinger and Capone
+group:DVD
+salesrank:25862
+similar:5
+categories:27
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( A );Abraham, F Murray
+category:;DVD;Actors & Actresses;( A );Aresco, Joey
+category:;DVD;Actors & Actresses;( B );Blumenfeld, Alan
+category:;DVD;Actors & Actresses;( C );Combs, Jeffrey
+category:;DVD;Actors & Actresses;( D );Davies, Stephen
+category:;DVD;Actors & Actresses;( E );Estevez, Joe
+category:;DVD;Actors & Actresses;( F );Ford, Maria
+category:;DVD;Actors & Actresses;( G );Gwynne, Michael C
+category:;DVD;Actors & Actresses;( H );Hicks, Catherine
+category:;DVD;Actors & Actresses;( H );Howard, Clint
+category:;DVD;Actors & Actresses;( J );Jenson, Sasha
+category:;DVD;Actors & Actresses;( M );Morgan, Jeffrey Dean
+category:;DVD;Actors & Actresses;( R );Remsen, Bert
+category:;DVD;Actors & Actresses;( S );Sheen, Martin
+category:;DVD;Actors & Actresses;( S );Stroud, Don
+category:;DVD;Actors & Actresses;( W );Winters, Time
+category:;DVD;Directors;( P )
+category:;DVD;Genres;Mystery & Suspense;Crime;Gangsters
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( D )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:3
+review:ATVPDKIKX0DER:5
+review:A2Y5AES7PJN6SJ:4
+review:AUT3QK8STTG6G:2

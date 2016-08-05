@@ -1,0 +1,19 @@
+id:5415
+asin:B00004WC63
+title:Lucky Luke, Vol. 8 -  Nobody's Fool (TV Series)
+group:DVD
+salesrank:28420
+similar:5
+categories:10
+category:;DVD;Genres;Westerns;General
+category:;DVD;Genres;Westerns;Comedy
+category:;DVD;Genres;Art House & International;By Country;Italy;General
+category:;DVD;Special Features;Today's Deals in DVD;Westerns
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Westerns
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:1
+review:A17E4Z4I7FT72Q:5

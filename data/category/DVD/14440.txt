@@ -1,0 +1,49 @@
+id:14440
+asin:B00006FDA0
+title:The Surge
+group:DVD
+salesrank:11157
+similar:5
+categories:17
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Slasher Flicks
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Genres;Horror;Teen Terror
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Slasher Films
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Teen Terror
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Slasher Films
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Teen Terror
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:24
+review:A3PW3Q7TO3LOV6:5
+review:A2IOSDIE8EU0UB:5
+review:AGVTEA1WRI6O:5
+review:AB9DBWG4UYIQ7:5
+review:A29BU84PCSH9JQ:4
+review:A1KD8NJPZ01R37:3
+review:ADI6RQWA43J35:5
+review:AQJIDIX0B3VVB:5
+review:A2DP2KABL20ET:1
+review:A2FLOSPMUZJPH8:1
+review:A187M36A15RWY2:3
+review:AG5PTT4IQJSM7:1
+review:A19V0VJMKKRMC8:5
+review:A3QLZ79JF6R1A4:1
+review:A30B29ZYQTIJMK:5
+review:A25TN5K3J49GPO:2
+review:A1OCHHX40MEM3R:4
+review:ACD7FOP0APSR0:3
+review:A34L740YAFKBU2:4
+review:AIB53VCGNY616:3
+review:A14SNRQQ8Z7JN5:5
+review:AA83T4Y4DHTL0:4
+review:AITX1G3ESJR30:5
+review:A1V4VDFP9O2VDQ:4

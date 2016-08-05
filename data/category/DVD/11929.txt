@@ -1,0 +1,35 @@
+id:11929
+asin:6305811687
+title:The World of Sid & Marty Krofft - H.R. Pufnstuf
+group:DVD
+salesrank:27941
+similar:5
+categories:16
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;Music & Arts
+category:;DVD;Actors & Actresses;( B );Baird, Sharon
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( S );Silla, Felix
+category:;DVD;Actors & Actresses;( W );Wild, Jack
+category:;DVD;Special Features;Today's Deals in DVD;Television
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Kids & Family;Puppets
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Television
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Television;Classic TV
+reviews:11
+review:A2B7BUH8834Y6M:5
+review:A2CHGED4L5CIN4:5
+review:AGVVGZ6HOI5HT:5
+review:A1VB0SDJXNI9RV:5
+review:A24T2Z73N54UIC:5
+review:A20982CKEG5QSE:5
+review:A1H49433DHDQ88:5
+review:A250RXJVTIN1L9:4
+review:A3UN6WX5RRO2AG:5
+review:A3UGLMD1GKIZGR:4
+review:A2Q5K9PBSIXXN9:5

@@ -1,0 +1,24 @@
+id:8316
+asin:B00005YUOZ
+title:Allen Iverson - The Answer
+group:DVD
+salesrank:26301
+similar:5
+categories:5
+category:;DVD;Genres;Sports;General
+category:;DVD;Genres;Sports;Basketball
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:11
+review:A3M0MZ4HZPI34C:5
+review:A3NKXPFYMTV06B:5
+review:A13L1MAMZ1BPTY:5
+review:A31MBKX0IENS01:1
+review:A1VHVFJ07DN8CJ:5
+review:A10WCSGF78M2KE:4
+review:A1HRV6C8OHCOWG:5
+review:A21YRP0KJOLXNK:5
+review:A2Y9DRJ95ZNA3M:5
+review:A3M0A4KBG676C3:5
+review:AVC5ZZXMM4YYH:5

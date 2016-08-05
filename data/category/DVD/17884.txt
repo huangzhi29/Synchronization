@@ -1,0 +1,101 @@
+id:17884
+asin:B00000JQU9
+title:A Star Is Born
+group:DVD
+salesrank:5911
+similar:5
+categories:23
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Musicals & Performing Arts;General
+category:;DVD;Actors & Actresses;( B );Bacon, Irving
+category:;DVD;Actors & Actresses;( B );Bickford, Charles
+category:;DVD;Actors & Actresses;( B );Blake, Amanda
+category:;DVD;Actors & Actresses;( C );Carson, Jack
+category:;DVD;Actors & Actresses;( F );Ferguson, Frank
+category:;DVD;Actors & Actresses;( G );Garland, Judy
+category:;DVD;Actors & Actresses;( K );Kulky, Henry
+category:;DVD;Actors & Actresses;( M );Marlow, Lucy
+category:;DVD;Actors & Actresses;( M );Mason, James
+category:;DVD;Actors & Actresses;( O );O'Malley, Pat
+category:;DVD;Directors;( C );Cukor, George
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;General
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Drama;Love & Romance;Marriage
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;Drama
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Musicals & Performing Arts
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Classics
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:70
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:A1MP6BQCYWW004:3
+review:ATVPDKIKX0DER:5
+review:AI7KBBGYYCFX6:5
+review:AFDTGE93PE0Q1:5
+review:AY40PUPW6Y2AT:5
+review:A3HN5BI54OKIJR:5
+review:AR8TUU7SSLMJ4:5
+review:A2X44DD1TN0P13:5
+review:A2SX6VNPSJPGP7:5
+review:A1IOM171PPQ2U8:5
+review:AXNUJSG2FG2Y1:5
+review:ACO20QL72D1E6:4
+review:ABH4G7TVI6G2T:5
+review:A1O1P7EE4RKUJ1:5
+review:A1MA12GQIV3H7B:5
+review:A274DDWMV7RRAK:5
+review:A2IY0PYMZFVEGS:5
+review:A2F8R40Z2OMIJM:5
+review:A2WCYX7DR7LUG3:5
+review:A1ANQORXBNPUHI:5
+review:A591T7Y696C2Q:5
+review:A2EVXEO0C6XE3I:5
+review:A36RS7KTNOBROF:5
+review:AW3VZ5O895LRK:5
+review:A6FIAB28IS79:5
+review:A396SBGKAOLTZE:5
+review:A5DYTKIFTO8KQ:5
+review:A29PXAWU8VTNWW:5
+review:A157ZHOH9VDEZG:5
+review:A1ZMW9C9DLUEJN:5
+review:A1ECIMQD3T2SCB:5
+review:A1LEVJKQX762GJ:5
+review:A77184QJM3PM:5
+review:A7QWU8LDC57X9:5
+review:A2T564OH4XZSZX:5
+review:A1AVFODKCXOTC7:5
+review:A1XN6MBYDBTX16:5
+review:A2W2VRFN3547SY:5
+review:A16QODENBJVUI1:5
+review:A3J9V8R4PYA9GW:3
+review:AMXRE0V10VO1J:5
+review:A1IJKK6Q1GTEAY:2
+review:A3LTXTXN8YP26O:5
+review:A34D9Q0JTF7N7K:2
+review:A357UT3JJJDXRF:5
+review:A25CZCHLNH3OMO:2
+review:A31U2QT7SAL7K:5
+review:A3A2O2K2WJLHME:5
+review:A6GPIYLINIYI4:5
+review:AQ01Q3070LT29:5
+review:A26A31D3VDX9BS:5
+review:A1M9DQDGE07Q0U:3
+review:A183ZZ9Y0I4ZDO:5
+review:A2WLZD9BY669HY:5
+review:ACIBQ6BQ6AWEV:5
+review:A3W13VVBRY5GL7:5
+review:A34KBK8ORA5GRV:5
+review:A1IJKK6Q1GTEAY:1
+review:AWAWCJX62S5OA:3
+review:A3UN6WX5RRO2AG:5
+review:A2DTPEHWPDCG1Z:3
+review:A3NQU1649SH0Q4:5
+review:A1SMNK99BI7WTE:5
+review:A2FL0EKQ2EQ9E6:5
+review:A3L700HYVV5PF6:5
+review:A2R6RA8FRBS608:5
+review:A3M0SKPZ0A8EXI:5
+review:A21TVBJMNGWRYE:4

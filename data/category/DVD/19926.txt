@@ -1,0 +1,32 @@
+id:19926
+asin:B00000G0DU
+title:The Trial
+group:DVD
+salesrank:54129
+similar:2
+categories:15
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Actors & Actresses;( H );Haygarth, Tony
+category:;DVD;Actors & Actresses;( H );Hodge, Douglas
+category:;DVD;Actors & Actresses;( H );Hopkins, Anthony
+category:;DVD;Actors & Actresses;( K );Kitchen, Michael
+category:;DVD;Actors & Actresses;( M );MacLachlan, Kyle
+category:;DVD;Actors & Actresses;( M );Molina, Alfred
+category:;DVD;Actors & Actresses;( R );Robards, Jason
+category:;DVD;Actors & Actresses;( S );Stevenson, Juliet
+category:;DVD;Actors & Actresses;( T );Thewlis, David
+category:;DVD;Genres;Mystery & Suspense;Crime;Courtroom Drama
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;DVD;Genres;Drama;By Theme;Psychological Drama
+reviews:9
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:4
+review:A2Y94RCI9IXI9E:5
+review:AGVWTYW0ULXHT:4
+review:AGVWTYW0ULXHT:4
+review:AH7QT7UH6YBHP:5

@@ -1,0 +1,79 @@
+id:1504
+asin:B00005O438
+title:Cujo
+group:DVD
+salesrank:15006
+similar:5
+categories:15
+category:;DVD;Genres;Horror;General
+category:;DVD;Actors & Actresses;( H );Hardin, Jerry
+category:;DVD;Actors & Actresses;( K );Kelly, Daniel Hugh
+category:;DVD;Actors & Actresses;( L );Lauter, Ed
+category:;DVD;Actors & Actresses;( S );Stone, Christopher
+category:;DVD;Actors & Actresses;( S );Stone, Dee Wallace
+category:;DVD;Directors;( T );Teague, Lewis
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:56
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:1
+review:A24JJCNEEP2MT4:2
+review:A3PLO3QBO69L40:5
+review:A2XGEANM2R60GP:2
+review:A2NRLV2K06H7PU:4
+review:A7SIMLD4FO4JM:3
+review:AVI1AZ38GKLFF:5
+review:AVV8ZUYFIGB47:1
+review:A3RB00R6GOWEK2:3
+review:A2PGQ8EI3ZI317:5
+review:AKJOWY6V1EJPJ:2
+review:A3AKPY4LXIC24O:5
+review:AMK64202WDH95:4
+review:ATVPDKIKX0DER:2
+review:A3UDYY6L2NH3JS:3
+review:A2T7I92XX8MCU7:5
+review:A1I0N3PIJQNUS0:3
+review:A2W8GURWX2CGQ6:1
+review:A2WBNKY07V414Y:5
+review:AGCWVX3KUX3K0:1
+review:AJM65DU19F4YD:4
+review:A2RNTG686ZATNP:3
+review:A1O80PSB9GURAC:1
+review:A1CZICCYP2M5PX:4
+review:ADFUGKYCWFDQJ:1
+review:A1FKH55E71FR03:3
+review:A1SZUEKBA0ES8H:5
+review:A3UN6WX5RRO2AG:5
+review:A8OYE13V0H4VR:3
+review:AUGABW5AS2OXM:4
+review:A1GFOLRJB3NBO5:5
+review:AFOX6TU4AKK1P:5
+review:A1669N60K2TUI4:5
+review:A38QJ7JUUTVLKX:4
+review:AVYTXTOJZBCYC:5
+review:A1W9J2Z8LJLJ34:5
+review:A1RNLPUDOD5ZNG:5
+review:A239PIPI32FKNF:4
+review:A3SMAVYZTQKK5P:5
+review:A1NER9O8JZNBCI:5
+review:A2S166WSCFIFP5:5
+review:A3B1XRW9HIGYQB:5
+review:A3KJU6120UA969:4
+review:AIMR915K4YCN:3
+review:A3KF4IP2MUS8QQ:3
+review:A1XCURGYVNJJ16:4
+review:A5OD2CTWK2EBA:4
+review:A3UN6WX5RRO2AG:4
+review:A3GP4UPSW1OYXL:5
+review:A3QPWRTZMTC31J:3
+review:A3QPWRTZMTC31J:3
+review:AXGZIUUVTKWEK:5
+review:ATF19P9HD5DBC:4
+review:A2SO1OXGS1O9VF:5
+review:A2TAPSNKK9AFSQ:5

@@ -1,0 +1,15 @@
+id:2720
+asin:B00006JMSP
+title:Mel Gibson New Collection (Conspiracy Theory/Maverick/Forever Young)
+group:DVD
+salesrank:31529
+similar:5
+categories:7
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( G );Gibson, Mel
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Formats;Boxed Sets;Action & Adventure
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Action & Adventure
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;DVD;Genres;Action & Adventure;Action Stars;Mel Gibson
+reviews:0

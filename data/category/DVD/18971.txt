@@ -1,0 +1,17 @@
+id:18971
+asin:B00007AJEB
+title:The Deathmaker
+group:DVD
+salesrank:22725
+similar:5
+categories:8
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;True Story
+category:;DVD;Genres;Drama;Crime & Criminals
+category:;DVD;Genres;Drama;By Genre;Mystery & Thriller
+category:;DVD;Genres;Art House & International;By Country;Germany;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:1
+review:A1I2G34HEKEG4O:5

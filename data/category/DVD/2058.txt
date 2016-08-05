@@ -1,0 +1,103 @@
+id:2058
+asin:0783227981
+title:Fletch
+group:DVD
+salesrank:8104
+similar:5
+categories:24
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Cons & Scams
+category:;DVD;Genres;Comedy;By Theme;Assumed Identity
+category:;DVD;Genres;Comedy;Comic Criminals
+category:;DVD;Actors & Actresses;( A );Avery, James
+category:;DVD;Actors & Actresses;( B );Baker, Joe Don
+category:;DVD;Actors & Actresses;( C );Chase, Chevy
+category:;DVD;Actors & Actresses;( D );Davis, Geena
+category:;DVD;Actors & Actresses;( F );French, Bruce
+category:;DVD;Actors & Actresses;( J );Jabbar, Kareem Abdul
+category:;DVD;Actors & Actresses;( L );Libertini, Richard
+category:;DVD;Actors & Actresses;( L );Longo, Tony
+category:;DVD;Actors & Actresses;( M );Mars, Kenneth
+category:;DVD;Actors & Actresses;( M );Matheson, Tim
+category:;DVD;Actors & Actresses;( N );Nicholson, Dana Wheeler
+category:;DVD;Actors & Actresses;( S );Seymour, Ralph
+category:;DVD;Actors & Actresses;( W );Walsh, M Emmet
+category:;DVD;Actors & Actresses;( W );Wendt, George
+category:;DVD;Actors & Actresses;( W );Wyner, George
+category:;DVD;Directors;( R );Ritchie, Michael
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( F )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Comedy;Comedy Stars;Chevy Chase
+reviews:71
+review:ACWCPKCEUQUS0:4
+review:AYO7BFS7VR7DL:4
+review:A29OUUSDXVKJ5A:5
+review:A2IBM092OKEC39:5
+review:ATVPDKIKX0DER:5
+review:A2JPGNKUBZB29V:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:AVL5L6DHQ1ZBB:5
+review:A2LGR3GZ12QHR5:5
+review:AE1VUNBSQQOYG:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A1JYJP7OWWKO7A:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A3MKR5O0GN51DH:5
+review:A2AE10QQVZIK9W:4
+review:A13MSJWB3IXGV4:5
+review:A2AE10QQVZIK9W:5
+review:A9Q28YTLYREO7:4
+review:AF6F75AJK0N7P:4
+review:A1RBB5771GKG1V:5
+review:A1108YC0J9YDDO:5
+review:AN9TLUKFAJHP8:5
+review:A3IXOTBQ767WJ7:3
+review:ACFIJ7MBN8964:5
+review:A1PPDQCBU4RCK8:4
+review:ABGG7TIOYFJK9:5
+review:A126ZXDO6JO0GZ:5
+review:A1V5G1O9TRGO7M:5
+review:A2XBBQ36STNJ0G:5
+review:A3URMIVRQLZVMO:5
+review:A3GJRS9F2RU983:5
+review:A2GWKFDB78WUW3:5
+review:A16YSZPM9T1PN8:5
+review:AQYHPW0S8F5G1:5
+review:A3TZMT6B3Q4B9A:5
+review:A7ZZ9W6QKXXYF:4
+review:A1GN8UJIZLCA59:5
+review:A18X9PKSEBHLPO:5
+review:A2JDEEPS6VN5UH:5
+review:A3TW1VZR6AGB2C:5
+review:A3MUJQVJIL9DV2:4
+review:A28B7IJR80M8KE:5
+review:A21VNRJSES65BG:5
+review:A2ZFVCX438C35V:4
+review:A1GHUN5HXMHZ89:3
+review:A38QJ7JUUTVLKX:5
+review:A3RRBPUGD7UOSP:5
+review:A9YROUBGNGKX7:3
+review:A3RB6NQOLOBXYD:2
+review:A21B2TJBWCSK1R:5
+review:ASTJT8JLZD30H:4
+review:A18OC5IKBDYCR6:5
+review:A18OC5IKBDYCR6:5
+review:A2V3P1XE33NYC3:5
+review:A2OX54FZ4BHA37:4
+review:A1TJMJQ2SK4V40:4
+review:A3E84LLK99LO3B:1
+review:A1YZ467M8EPSV:4
+review:A1NB3D6MOUHDET:5
+review:ABAZFH25304ZG:5
+review:A34VDLAA3IM3JC:5
+review:A358TQHFZBL7Q1:2
+review:A1YWBPN6CIZU7N:4
+review:A1D3XQC2DIT:5
+review:A2R4XG0L7Z01V8:2
+review:A2UWJWG6RKDD6P:5
+review:AYYOPF6RG019D:5
+review:A3TOCV39IGQU71:5

@@ -1,0 +1,23 @@
+id:3129
+asin:6305915695
+title:The Frightened Woman
+group:DVD
+salesrank:44786
+similar:5
+categories:12
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Directors;( S )
+category:;DVD;Actors & Actresses;( L );Lassander, Dagmar
+category:;DVD;Actors & Actresses;( Q );Quasimodo, Maria Cumani
+category:;DVD;Genres;Art House & International;By Theme;Erotic
+category:;DVD;Genres;Art House & International;By Country;Italy;General
+category:;DVD;Genres;Art House & International;By Country;Italy;Drama
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Titles;( F )
+category:;DVD;Genres;Mystery & Suspense;By Theme;Fatal Attraction
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:3
+review:A3G3FR9DLN65DI:1
+review:A1FYXCEE5J6QG0:3
+review:A32K05CLEKZI2L:1

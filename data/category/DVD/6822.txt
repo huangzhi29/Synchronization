@@ -1,0 +1,72 @@
+id:6822
+asin:B00004R995
+title:The Three Caballeros (Disney Gold Classic Collection)
+group:DVD
+salesrank:6221
+similar:5
+categories:16
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Specialty Stores;Disney Home Video;Animated Movies
+category:;DVD;Specialty Stores;Disney Home Video;Gold Collection
+category:;DVD;Genres;Kids & Family;Classics;General
+category:;DVD;Specialty Stores;Disney Home Video;By Age;3-6 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;7-11 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;For the Whole Family
+category:;DVD;Actors & Actresses;( H );Holloway, Sterling
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Kids & Family;Family Films
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:48
+review:ATVPDKIKX0DER:4
+review:AJBRWFF8HKQ2N:5
+review:A1XH4KDR90ZMIV:2
+review:A17C7XZHFOS12W:4
+review:ACPP3YRJNUVP8:4
+review:A3D9MNQ6AWXCK2:5
+review:ACMS7P063BE10:4
+review:A203YJ9QKU84UX:4
+review:A3RH83M6DZJ24M:1
+review:A36L5W0HITIVHN:3
+review:A28FWQE7BQRGSH:4
+review:AE8RQHFMSLN0D:4
+review:A1J4RAKN3MSUWH:3
+review:A37AJKN9EYGVQ4:5
+review:A3GJRS9F2RU983:5
+review:A3RMNYQAWTPYIY:5
+review:A37TKIUCO035T7:5
+review:A3RMNYQAWTPYIY:5
+review:A2ZCJHB8GMII5C:5
+review:A1AS16UL091OGH:2
+review:A2TYI8W448JXAP:4
+review:A1FAKZ848PO3V8:2
+review:A6A0LTYEAMAP5:5
+review:AA5XZVANDXGJE:4
+review:AA5XZVANDXGJE:4
+review:A7OBFVHNJGI2A:3
+review:AF3SF16OAY753:5
+review:A39L5T2ZQZ52FN:4
+review:A39NXAD50F6YVZ:5
+review:A2RHV42BTJSVON:5
+review:A18QA3A3UYWFU9:4
+review:AOVJYIUATQKR5:2
+review:A11YV6VC51HJTV:5
+review:AHT8NHGHKC85Q:5
+review:A3FBTJCCNQXW2U:4
+review:AHZMEX1X0VXWO:3
+review:A1Q4ZU2Y929N0A:3
+review:A2CWYDG8YY6V6B:5
+review:A32BSM2A0B5SOF:4
+review:AHJ5MWFXGGQ3T:3
+review:A3EW2L59UBHQSG:4
+review:A3KK10LBESRRVJ:5
+review:AEGR40GALMDJ4:4
+review:A1JCLCIPM8WNHK:1
+review:A2OOR8OGWK66MZ:2
+review:A1K5DUV1L52MUD:1
+review:A705JCD0G5VKU:5
+review:A1L5BHEWXENCT1:4

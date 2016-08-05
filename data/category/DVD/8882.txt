@@ -1,0 +1,32 @@
+id:8882
+asin:B000065U3F
+title:Yoga for the Kid in All of Us
+group:DVD
+salesrank:23540
+similar:5
+categories:11
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Fitness & Yoga
+category:;DVD;Special Features;Titles;( Y )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Fitness & Yoga
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Fitness & Yoga;Yoga;General
+category:;DVD;Genres;Fitness & Yoga;Yoga;For Kids
+category:;DVD;Genres;Fitness & Yoga;General
+reviews:13
+review:AU7VQDZE9GLAC:5
+review:AAKC6UYW97XWS:5
+review:A3R9AL0ABOBDKV:5
+review:A3UN6WX5RRO2AG:5
+review:AP5E24D7GY7IX:5
+review:A23YGEML0J0P00:5
+review:A3W58OVVLG32WN:2
+review:AHIZWGW7ERGO3:5
+review:A1HWIGRDICGW7T:5
+review:A3UN6WX5RRO2AG:5
+review:A3HQ7ZWZ3UCQEL:2
+review:A3PHRW5UNUDRBW:5
+review:A1GOKNBB5QDC5O:5

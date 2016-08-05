@@ -1,0 +1,35 @@
+id:15396
+asin:B00005LDDE
+title:House Party 4 - Down to the Last
+group:DVD
+salesrank:18221
+similar:5
+categories:9
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Teen
+category:;DVD;Genres;Comedy;By Theme;Party Films
+category:;DVD;Actors & Actresses;( G );Good, Meagan
+category:;DVD;Actors & Actresses;( R );Roberson, David
+category:;DVD;Genres;Comedy;Series & Sequels;House Party
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( H )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+reviews:18
+review:A1TWTJWFLL750L:5
+review:ADZQ6GRC6YME2:4
+review:AFKEH46DOC0C6:4
+review:A1TWTJWFLL750L:5
+review:A29CEISNGT7FV4:1
+review:A170MGHABPC8G2:1
+review:AIU23J5I2ME82:1
+review:A281Q1U8B8HX4V:4
+review:ATNPJHNAJNZN8:1
+review:A7RNK29PYPKAP:5
+review:A1HFVQZIDK7UUD:2
+review:A1G5LJ8T1IGYC5:1
+review:ATVPDKIKX0DER:1
+review:ABVV8CJKQMUDJ:5
+review:A3J0YE71BZQPP3:1
+review:A461VTLW9G9YB:1
+review:A173A95N6O1H55:4
+review:A38D7W27PZIONJ:4

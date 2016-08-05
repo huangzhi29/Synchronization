@@ -1,0 +1,174 @@
+id:21
+asin:0790747324
+title:The Time Machine
+group:DVD
+salesrank:795
+similar:5
+categories:26
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Genres;Science Fiction & Fantasy;Classic Sci-Fi
+category:;DVD;Genres;Science Fiction & Fantasy;Monsters & Mutants
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Time Travel
+category:;DVD;Actors & Actresses;( B );Bissell, Whit
+category:;DVD;Actors & Actresses;( C );Cabot, Sebastian
+category:;DVD;Actors & Actresses;( F );Frees, Paul
+category:;DVD;Actors & Actresses;( H );Helmore, Tom
+category:;DVD;Actors & Actresses;( L );Lloyd, Doris
+category:;DVD;Actors & Actresses;( M );Mimieux, Yvette
+category:;DVD;Actors & Actresses;( T );Taylor, Rod
+category:;DVD;Actors & Actresses;( Y );Young, Alan
+category:;DVD;Directors;( P );Pal, George
+category:;DVD;Genres;Art House & International;By Theme;Costume Adventures
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Drama
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Classics
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Science Fiction & Fantasy;Futuristic
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:140
+review:A3D0FUIHSMCHXG:5
+review:A106FE8HPE6LK6:4
+review:A1Y6LC4JFBCGZN:4
+review:A2A1EHOGR8MW0I:5
+review:A3I7CRNHGZVWXP:5
+review:A2GEKIVHR1VSHQ:4
+review:AKQV65L3TAIW8:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2MOT9BXC3C6H2:5
+review:A2003P5YJPPC6P:5
+review:AWQXPWBP93Z4K:5
+review:A11XDEU9VOOWYN:5
+review:A3J953WDIBQX63:5
+review:A13JXEPCPXNUCI:5
+review:A1928PHI4RBCQ9:5
+review:AFZLD0HDJVJUJ:4
+review:AQXLBK2CDW2DP:1
+review:A1H2SCAYWQLMC0:5
+review:A1RPTVW5VEOSI:4
+review:AIMBOX2T0HV1H:4
+review:A1J3HK3IPLHOJ3:5
+review:ATVPDKIKX0DER:5
+review:A3NGH3DOKQFCWD:4
+review:A3LFRQVRXBTNCG:5
+review:A31HYO7EOTZG1Y:5
+review:A8473S963WDUZ:5
+review:A1L7G9JSLCY384:5
+review:AXY18W5QMN7UV:5
+review:A2X666IM8DP7PH:5
+review:A96DHMTN072M1:5
+review:AH64IJELQ4PJN:5
+review:A39ABH4E0APOG3:5
+review:A2X44DD1TN0P13:4
+review:A2AML5BI49ST3F:5
+review:AES0JMK0KYYHI:5
+review:A16VWWB8G00EPV:4
+review:A1BWHXTFOVF9CY:5
+review:A1UVMG7COVPLC6:5
+review:A2RFZ21T1WOLID:2
+review:A2KFUFXQ1YTWNT:5
+review:A14QW3EMN8PBZV:5
+review:A14QW3EMN8PBZV:5
+review:A20EEWWSFMZ1PN:5
+review:A22IK3I6U76GX0:5
+review:AU8552YCOO5QX:2
+review:AA5ELPH4F7AIP:1
+review:A324LH8S4C8U4W:5
+review:A2D9IEFJGB483Q:5
+review:AEXTGSES7BVSV:5
+review:A1RT82AIQFRRQS:5
+review:ARFBRSE35ZJ6A:4
+review:A2ZYH9XRO507OB:5
+review:A3HPOCPJJQNMWN:5
+review:A3LFZOAGD8JTE9:5
+review:A20IOTRKF4YRM7:5
+review:A1BRXLFWILNICE:5
+review:A3VXU7BEE97UUG:1
+review:A2B8DJ0CKN9FAO:5
+review:AGOG7P9R8NZ7T:5
+review:A3ICHEO78NFE4Y:5
+review:A2D75DJ707PFI9:5
+review:A92LD431P843F:5
+review:A2YD21XOPJ966C:5
+review:A1HY9XRPW8N2HN:4
+review:A1J2931UBBJPXM:4
+review:A13PCJSIRWAKHE:5
+review:A2WZ1B92F81LJJ:4
+review:A3UF0YWSR4I2HL:5
+review:A25JH6CO4DVINS:4
+review:A106FE8HPE6LK6:4
+review:A1T0Z4J5PPLTC7:4
+review:A24FSR37TN4MSF:5
+review:A3NOIRVMZQEBQ9:1
+review:A1APMHP8DPIS3G:5
+review:A3RRBPUGD7UOSP:5
+review:A1GGHFJL5TSU5J:5
+review:A2CXT3A901DGMP:4
+review:A2W00XKTTF1G0Z:5
+review:A31RM5QU797HPJ:4
+review:A2IMHV5ZARXIDR:5
+review:A3P121GNV5QYIN:5
+review:A3P121GNV5QYIN:5
+review:A3O2RCKAMSE9X7:5
+review:A13JQOKQVCMN9U:5
+review:A27QZDO1FRRFCV:4
+review:A3439X75UP0Q3G:4
+review:A1I7GHG2XNYO3J:5
+review:A3D550GH0U6T5C:5
+review:A2RD0B8LLOSMCQ:3
+review:A2SGR7LE899LGG:5
+review:AYPCUQS6ARWFH:4
+review:A2XLGLF0V4O7JD:5
+review:A2KVUYPLEW4LXT:5
+review:AJYGQV81FSFE2:4
+review:A1SWK29E1MZHI6:5
+review:A2NJO6YE954DBH:4
+review:A2AOZQ3WTNVVOK:5
+review:A3CS4JXY9KJ5G5:5
+review:A3DSU63A9Z43KN:5
+review:A10DB0H2NZF11E:5
+review:AAYW1H4SMNOI:5
+review:A1J83NE4U6IL7:5
+review:AW1GHENIL5V5G:5
+review:A2SGR7LE899LGG:5
+review:A1HVZ0569ZHZW9:5
+review:A2Q13PHEXGR48Q:4
+review:A3N9CZ1RK4OTYE:4
+review:A2QA095LQPDBJD:4
+review:ALWB64XOXNMDP:5
+review:A9UU8OR0TBMHE:5
+review:A8PZDIAF0NTIS:5
+review:A2OVUDBRWGX0LL:4
+review:A2ZSC81MXLBELX:5
+review:A2CKARIIFUAOP0:5
+review:A3UO0OJYKEL0QN:3
+review:A3ASR7JA7MPKW4:5
+review:A13PAFCVMB1DV8:3
+review:A3W18T2ITHXW5O:2
+review:A1BVV2K1BKGPD5:5
+review:A3LZGLA88K0LA0:5
+review:A2RRCZLVCA7A7:4
+review:A17U4YXN5G7UAP:4
+review:A3160YSU1KRL8E:5
+review:AIOXMENE1HBR7:5
+review:A3FITKYQQYGRXG:5
+review:AAECAHBNP1VD2:4
+review:A2JV8PH4NGQPJ6:5
+review:A1P1T0PFD4F0VS:5
+review:A1JY13815273PS:5
+review:A3BSL4PQKPH3SQ:5
+review:A3JPPR6JT75N0E:5
+review:A2K3U6DVQQRES3:5
+review:A286G67EK7Q1WD:5
+review:A26TSW6AI59ZCV:5
+review:A26TSW6AI59ZCV:5
+review:A1Y87E22UVYCE6:5
+review:A25ZVI6RH1KA5L:5
+review:A30TK6U7DNS82R:5
+review:A3ADUOVTY3TIRU:5

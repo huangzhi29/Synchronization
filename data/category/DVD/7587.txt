@@ -1,0 +1,26 @@
+id:7587
+asin:B00006L9ZY
+title:Wagner - Gotterdammerung / Levine, Behrens, Jerusalem, Metropolitan Opera (Levine Ring Cycle Part 4)
+group:DVD
+salesrank:8003
+similar:5
+categories:12
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( B );Behrens, Hildegard
+category:;DVD;Actors & Actresses;( J );Jerusalem, Siegfried
+category:;DVD;Actors & Actresses;( L );Ludwig, Christa
+category:;DVD;Actors & Actresses;( S );Salminen, Matti
+category:;DVD;Actors & Actresses;( W );Wlaschiha, Ekkehard
+category:;DVD;Directors;( L );Large, Brian
+category:;DVD;Special Features;Titles;( W )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Composer;Wagner, Richard
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Performer;Levine, James
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Historical Period;Romantic (c.1820-1910)
+reviews:6
+review:A2ODWV7GWJGO8D:2
+review:A1O165GYI6RRDD:3
+review:A2I1I013BYF5S1:4
+review:A1U7ALDLLPHTH3:4
+review:A1EPMOF6UVZSU6:2
+review:A32LHSGOZ399JQ:3

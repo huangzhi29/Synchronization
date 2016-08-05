@@ -1,0 +1,63 @@
+id:1700
+asin:B00004ST9H
+title:Weird Al Yankovic - Live
+group:DVD
+salesrank:7392
+similar:5
+categories:11
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( Y );Yankovic, Weird Al
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Titles;( W )
+category:Music;Styles;Miscellaneous;Comedy;Comedic Music;Novelty Music
+category:Music;Styles;Miscellaneous;Comedy;Comedic Music;General
+category:Music;Styles;Miscellaneous;Comedy;Comedic Music;Comedy Rock
+category:;DVD;Genres;Comedy;Parody & Spoof;General
+reviews:44
+review:A1GZ035R3IEYIL:5
+review:A2FXISPERFVFQG:5
+review:ACJO4NQ2WE60C:5
+review:ATMENHYW1F0YP:5
+review:A2DJ4ITJ0WKB0S:5
+review:A15WVYQWZKX7ZQ:5
+review:A3UTLMYHZ034NQ:5
+review:AC4XV1Z9R7FV8:5
+review:A3PIZMP9SYUI03:5
+review:A13JQPX8HVCX9D:5
+review:A3VZVYVJXOL8YH:5
+review:A1M538KKWWGCQM:5
+review:A1YNRFAPPOCR7I:3
+review:A1H3EYUYMBRKVX:5
+review:ACPYNVJCE8LBQ:5
+review:A3AP3WTHKYDW9G:4
+review:A1ZD5AU6AQ0WLZ:5
+review:A2VDFXPD184F2:4
+review:A2M54SQ8SWUAJ2:5
+review:ANK8IPC58SYYO:5
+review:A3UN6WX5RRO2AG:5
+review:AUVK6S8RFRUBG:5
+review:A3M8I98KZK6R7:5
+review:A2A1XXBC4IQY93:5
+review:A1XGSZKLAOZO87:5
+review:A3UN6WX5RRO2AG:5
+review:AAIRVYKJ4THTS:5
+review:AYSWADHW28S1A:5
+review:A19V0VJMKKRMC8:5
+review:AQU97PQUU6PW5:5
+review:A168FUPAE97CJ1:5
+review:A3OI841P5R6FCH:3
+review:A3P04FMMRQJ2ME:4
+review:A1TRWMCMEMMMUA:5
+review:A3L73Q9CV456U7:5
+review:AIO247KHD2O40:5
+review:AVV8PPI6BDKVA:5
+review:A3UN6WX5RRO2AG:5
+review:A13LX7NVMOCN1C:5
+review:A13LX7NVMOCN1C:5
+review:A2ZGXZ08N7CWY9:5
+review:A2CYS44A322ZWX:5
+review:A2N84VEBTQFDSU:5
+review:A2IO1ESNSIAXG3:5

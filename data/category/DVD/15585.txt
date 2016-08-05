@@ -1,0 +1,53 @@
+id:15585
+asin:B00008J2EB
+title:Mad About You - The Complete Second Season
+group:DVD
+salesrank:3887
+similar:5
+categories:7
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( H );Hunt, Helen
+category:;DVD;Actors & Actresses;( R );Reiser, Paul
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Genres;Television;By Decade;1990s and Newer;General
+reviews:38
+review:A13ALN8FJDL8I1:5
+review:A1MQQEM7W77L62:5
+review:A28RREP03HJZGU:5
+review:A1SCMJ4VXMT2BF:5
+review:A3K73IFELUXHVP:5
+review:A3ULP9T48W7J2G:5
+review:A18ZM0DL1MWZQ0:4
+review:A277GN3987433U:4
+review:A650ZFORERR53:5
+review:A3NDMH6E6J35QR:5
+review:A33WHI92WNMHAF:5
+review:A15DOSWO8ZCEG8:5
+review:A3JXIA4PZON187:5
+review:A2FG3IOH7FRB2Q:3
+review:A2NS1S1GIPGDAY:5
+review:A2LNKDTPOTGHX:5
+review:A230URAR1JSW4H:4
+review:A3J151HTU9E25M:5
+review:A34UFENZ3B00LN:5
+review:A3MX2T73ITQQWF:5
+review:A2N9K6TWUAPVRZ:5
+review:A31X0O1H2JTZXK:5
+review:A2828HLP7LEXRQ:5
+review:A3KU0DLWRA64KV:5
+review:A2PZIKLEGOOJ75:5
+review:A1J072S2EZIRS8:5
+review:AWTW887ITHCCE:5
+review:A2XE1AZVEMU4P8:5
+review:AJGUK3SSL90LZ:5
+review:A26RYRAS3LLR6V:4
+review:A3KMAGRNID3LRG:5
+review:A1F6D1JEWDIVPC:4
+review:AHRJOBOP5D25Q:4
+review:A3A9DCR32TTVG3:5
+review:A3J1CMHOHQE98F:5
+review:A2TNPACLCNUM05:5
+review:A1UUCSY8IOQL3P:3
+review:AY69ZK7G6CNYJ:5

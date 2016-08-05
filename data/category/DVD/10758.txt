@@ -1,0 +1,72 @@
+id:10758
+asin:B000067D0Y
+title:The Laramie Project
+group:DVD
+salesrank:3692
+similar:5
+categories:28
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;True Story
+category:;DVD;Genres;Drama;Gay & Lesbian
+category:;DVD;Actors & Actresses;( B );Bower, Tom
+category:;DVD;Actors & Actresses;( B );Buscemi, Steve
+category:;DVD;Actors & Actresses;( G );Generes, Ellen De
+category:;DVD;Actors & Actresses;( I );Irwin, Bill
+category:;DVD;Actors & Actresses;( K );Kinney, Terry
+category:;DVD;Actors & Actresses;( L );Linney, Laura
+category:;DVD;Actors & Actresses;( M );Madigan, Amy
+category:;DVD;Actors & Actresses;( M );Martindale, Margo
+category:;DVD;Actors & Actresses;( R );Ricci, Christina
+category:;DVD;Actors & Actresses;( S );Smith, Lois
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Drama;By Theme;Artists & Writers
+category:;DVD;Genres;Drama;Family Life;Mothers & Daughters
+category:;DVD;Genres;Drama;By Theme;Social Injustice
+category:;DVD;Genres;Drama;By Theme;Ensemble Films
+category:;DVD;Genres;Drama;By Theme;Miscarriage of Justice
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Docudrama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Docudrama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Drama;Television;General
+reviews:36
+review:A9QGLTF5ZNCNW:5
+review:A5E5EWUX6ZDFE:5
+review:A3OPUUIJGT9R2P:2
+review:A3OPUUIJGT9R2P:2
+review:AW9AVZXDXFCGF:3
+review:ANEE09IH68LB4:2
+review:AKDB4A26DJB4X:3
+review:ASSKHS3FV3J0H:5
+review:A32L9A9UCV9VSZ:5
+review:A191LR4D0IDBV9:5
+review:A28CR7IWZXBBPK:5
+review:A3FKCVN3F3WR67:1
+review:A1LF60C0IUUQLM:5
+review:AX3WJZLFQQRCT:4
+review:A5L9T4BOBBCBN:4
+review:A9AD6IO1NCT8F:4
+review:AM4Z3NS223YTC:5
+review:A159CY9F6RT2N3:5
+review:AHE0DZVN59W56:3
+review:A34M2BSL7CXEHT:5
+review:A28CR7IWZXBBPK:5
+review:AFOK05KDCHSHL:3
+review:A35KXH29RY593A:5
+review:A1YQ6QB2127AJ4:5
+review:A2PBCFWCPSEOCN:5
+review:A1NER9O8JZNBCI:5
+review:AH5Z0XEQHQL0W:5
+review:A1DSUX1R4XSCZG:5
+review:A1LBA1BVEO2Z3K:5
+review:A14IS8XNQR3FD2:5
+review:A36Z4D4Q1JPVQ1:4
+review:A3D6DPWQW509R9:5
+review:A3N2TUIWQ9RK03:5
+review:A5TZXWU8AALIC:1
+review:A2TUY8BOVOYFD4:4
+review:A3H24XRXQBQY3O:5

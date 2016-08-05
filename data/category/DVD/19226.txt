@@ -1,0 +1,82 @@
+id:19226
+asin:B00009MEKQ
+title:Fear of a Black Hat
+group:DVD
+salesrank:5115
+similar:5
+categories:16
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Satire
+category:;DVD;Genres;Comedy;By Theme;Cons & Scams
+category:;DVD;Genres;Comedy;By Theme;Class Differences
+category:;DVD;Actors & Actresses;( C );Cundieff, Rusty
+category:;DVD;Actors & Actresses;( L );Lawrence, Mark Christopher
+category:;DVD;Actors & Actresses;( L );Lemmons, Kasi
+category:;DVD;Actors & Actresses;( L );Loder, Kurt
+category:;DVD;Actors & Actresses;( L );Love, Faizon
+category:;DVD;Actors & Actresses;( S );Scott, Darin
+category:;DVD;Actors & Actresses;( S );Scott, Larry B
+category:;DVD;Directors;( C );Cundieff, Rusty
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( F )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:58
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A37TYVLG5UBRXF:5
+review:A9TAVLS2Y52A5:5
+review:A3K0TF08U21P36:5
+review:A17RFKCYS69M3Y:5
+review:A1TAAS2BR154QW:5
+review:A2XEQCMSLSC8GM:5
+review:A1BVO8TOPKENFY:1
+review:AIUWVJR1NQI5K:4
+review:A3CWE2JJEHO66:5
+review:ANWGMO53F6G92:5
+review:A3RGHVTY5LTKBF:5
+review:A1BLAEPIU3GWQ3:5
+review:A2AWDZAROPWIOO:5
+review:A7B0HF4SRI60K:5
+review:A2S0PWSW32TA51:5
+review:A3IP6M7EIXGHCS:5
+review:A2GV6821K7K1N0:5
+review:A3EG6YEKPXRBJO:5
+review:A1YNEY755DJZUU:5
+review:A2VM2C5O3FHTP1:1
+review:A3BQSS3MRMLWLG:5
+review:A1TTJE6MK4C6EL:5
+review:A2PLI3RVSZKRKD:3
+review:A143P0NKQDNWYL:5
+review:A3IVWNSONC6EHJ:4
+review:A37SOJ4IURNEHF:5
+review:A17RFKCYS69M3Y:5
+review:A2DI1PREGS0WQ9:5
+review:A2AYNRSF976E76:5
+review:A2LTTAVX8XIGCQ:2
+review:A23OWJBVKI0A87:5
+review:AVWV0GF3CX1OE:4
+review:A3OWQW05AOBUSS:2
+review:A10C0TAWDYVMFU:4
+review:A15GBP6ZY7SEVK:5
+review:A21P8800ZGRGIP:5
+review:A2396AXY0F7PDV:5
+review:A3M4RUNUB904KS:5
+review:A3NK2G85D64NZU:3

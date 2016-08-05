@@ -1,0 +1,12 @@
+id:10076
+asin:B00005QBYA
+title:Ancient Civilizations
+group:DVD
+salesrank:44831
+similar:5
+categories:4
+category:;DVD;Genres;Documentary;General
+category:;DVD;Genres;Special Interests;General
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Formats;Boxed Sets;Documentary
+reviews:0

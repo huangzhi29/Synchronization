@@ -1,0 +1,84 @@
+id:4675
+asin:6304698518
+title:Body Heat
+group:DVD
+salesrank:466
+similar:5
+categories:27
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Thrillers
+category:;DVD;Genres;Drama;By Theme;Racy
+category:;DVD;Genres;Drama;Murder & Mayhem
+category:;DVD;Actors & Actresses;( C );Crenna, Richard
+category:;DVD;Actors & Actresses;( D );Danson, Ted
+category:;DVD;Actors & Actresses;( H );Hurt, William
+category:;DVD;Actors & Actresses;( R );Rourke, Mickey
+category:;DVD;Actors & Actresses;( T );Turner, Kathleen
+category:;DVD;Directors;( K );Kasdan, Lawrence
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;Blackmail, Murder & Mayhem;Murder
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Mystery & Suspense;Neo-Noir
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Drama
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;By Theme;Fatal Attraction
+category:;DVD;Genres;Mystery & Suspense;By Theme;Femme Fatales
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:49
+review:A12QY6MZIMT87Z:5
+review:ATVPDKIKX0DER:5
+review:AB062TMM0BH9C:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A37UOT2RDW2OVL:5
+review:ATVPDKIKX0DER:4
+review:A1CGWYJ9SKMYZY:1
+review:A20EAT7049Y8AJ:5
+review:A13NZZR8IA5782:4
+review:A9Q28YTLYREO7:5
+review:A3HAIQAPJCTOSH:5
+review:A31U2QT7SAL7K:5
+review:A2U7KXJPK6996:5
+review:AC16NVPW23KGG:3
+review:A3AKRQEIX40VWT:5
+review:A37FUJC2L7DSPT:5
+review:A3NQU1649SH0Q4:5
+review:AIOMMCQAD0EEH:5
+review:A1DTCJV6KOMJOA:5
+review:A2FES1XMFNP3UP:4
+review:A2Q457CES5ZUZ:5
+review:A152C8GYY25HAH:5
+review:A2NJO6YE954DBH:5
+review:A2VUP5US1F5HG5:4
+review:ABN5K7K1TM1QA:4
+review:A2ZCXDH1IN9ZU9:3
+review:A1UFARU1PZAX6V:4
+review:A13YYP7P3YBNF1:5
+review:A33ZULR19O2S5T:5
+review:AQ01Q3070LT29:5
+review:A2ASIT0JYIGHTA:4
+review:A2ZE73RFY0GD3K:5
+review:A1L43KWWR05PCS:5
+review:A3LRJTQOLEZSH:5
+review:A3R2YB0WTTB0IJ:4
+review:A1EI65WJC85U68:4
+review:A1LS7JIP8C0ER8:3
+review:A1II9ENLKZTEBL:5
+review:A28Z9VFE69AHXB:3
+review:A1L8HRCM60W0W7:4
+review:A2ODBHT4URXVXQ:5
+review:AP839YM0XJ664:4
+review:A9I40WFF40R4:5
+review:A24Q69I7I9GDHP:1
+review:AUV9DPGGJMXPC:5
+review:A16CZRQL23NOIW:5
+review:A1GX4R797QZZP8:4
+review:AD0J5KK4WQXNS:5

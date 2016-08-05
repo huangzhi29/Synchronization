@@ -1,0 +1,21 @@
+id:7184
+asin:1892649551
+title:Life According to Muriel
+group:DVD
+salesrank:36057
+similar:5
+categories:11
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Art House & International;By Country;Argentina
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Childhood Drama
+category:;DVD;Genres;Drama;By Theme;Psychological Drama
+category:;DVD;Genres;Drama;By Theme;Down on Their Luck
+category:;DVD;Genres;Drama;Family Life;General
+category:;DVD;Genres;Drama;Family Life;Mothers & Daughters
+reviews:2
+review:A1AYW0OAQYW4K2:5
+review:A10J0362MO0RM3:5

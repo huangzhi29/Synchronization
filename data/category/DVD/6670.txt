@@ -1,0 +1,29 @@
+id:6670
+asin:B00004S89W
+title:The Discoverers (Large Format)
+group:DVD
+salesrank:41394
+similar:5
+categories:13
+category:;DVD;Genres;Documentary;General
+category:;DVD;Genres;Special Interests;General
+category:;DVD;Genres;Documentary;History;General
+category:;DVD;Genres;Documentary;History;World History & Culture
+category:;DVD;Special Features;Fully Loaded DVDs;DTS
+category:;DVD;Actors & Actresses;( G );Guerra, Castulo
+category:;DVD;Actors & Actresses;( K );Kazann, Zitto
+category:;DVD;Actors & Actresses;( L );Lancaster, James
+category:;DVD;Actors & Actresses;( R )
+category:;DVD;Genres;Documentary;IMAX
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:8
+review:A1YWTEALBO53ZZ:5
+review:A2L2XWFDIRNIWE:5
+review:A1B3GNO9C8YX0N:1
+review:A229OJLBV3P98U:1
+review:A21YOUNAAN1P3G:1
+review:AU9GL5TGDYMDH:3
+review:A4UZ5C1D7CRRZ:2
+review:A2JKG2KS5KP4WI:1

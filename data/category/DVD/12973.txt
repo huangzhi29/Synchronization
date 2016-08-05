@@ -1,0 +1,27 @@
+id:12973
+asin:B00007FCTM
+title:Barney Songs - From The Park
+group:DVD
+salesrank:24348
+similar:5
+categories:11
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;Characters & Series;Barney
+category:;DVD;Genres;Kids & Family;Birth-2 Years
+category:;DVD;Actors & Actresses;( D );Duffey, Todd
+category:;DVD;Actors & Actresses;( D );Duncan, Sandy
+category:;DVD;Actors & Actresses;( J );Johnson, Julie
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( B )
+category:;Specialty Stores;Books, Music & More;Videos and DVDs for Babies and Toddlers;DVDs for Babies and Toddlers
+category:;Specialty Stores;Books, Music & More;Videos and DVDs for Babies and Toddlers;Barney DVDs
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:8
+review:A1B2NHX244XT25:2
+review:A2P93P2RVJEQ6A:2
+review:A1LPPVWHH34BST:4
+review:A63XYIXWB9IA6:5
+review:AGARDJ5OIVBQT:2
+review:AZF355TZ3ENVX:2
+review:A1ZV9RO1XDANKJ:5
+review:A3NMBJ5C7E51HH:2

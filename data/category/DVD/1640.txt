@@ -1,0 +1,40 @@
+id:1640
+asin:B00006DXXU
+title:I Love Lucy - Season One (Vol. 3)
+group:DVD
+salesrank:25235
+similar:5
+categories:19
+category:;DVD;Actors & Actresses;( A );Arnaz, Desi
+category:;DVD;Actors & Actresses;( B );Ball, Lucille
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( F );Frawley, William
+category:;DVD;Actors & Actresses;( V );Vance, Vivian
+category:;DVD;Directors;( A );Asher, William
+category:;DVD;Directors;( D );Daniels, Marc
+category:;DVD;Directors;( L );Levy, Ralph
+category:;DVD;Special Features;Today's Deals in DVD;Television
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( I )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Television
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Television;Classic TV
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Genres;Television;TV Series;I Love Lucy
+category:;DVD;Genres;Television;By Decade;1950s-'60s;General
+reviews:13
+review:A28KTFPS5W6EXZ:5
+review:A2PGSM65A32DU0:5
+review:A2NJO6YE954DBH:4
+review:A18RQ2URRGIIEA:5
+review:ABH4G7TVI6G2T:5
+review:A396SBGKAOLTZE:5
+review:AQ01Q3070LT29:5
+review:A3S226A0EMXMDV:5
+review:AJWMVSLEVJ1UP:5
+review:AJWMVSLEVJ1UP:5
+review:A32R222VWZXE12:5
+review:AQ01Q3070LT29:5
+review:A2I6MHMAZZDCRX:4

@@ -1,0 +1,16 @@
+id:19327
+asin:B00006LPAU
+title:Mobile Fighter G Gundam - Round 3
+group:DVD
+salesrank:49299
+similar:5
+categories:6
+category:;DVD;Directors;( I );Imagawa, Yasuhiro
+category:;DVD;Genres;Anime & Manga;Characters & Series;Gundam
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Anime & Manga;By Studio;Bandai
+reviews:2
+review:A3QF817LHUP1IF:5
+review:A2HU722NFTIUH1:5

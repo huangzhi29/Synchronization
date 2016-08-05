@@ -1,0 +1,48 @@
+id:14410
+asin:B000053UIF
+title:Sleepwalkers
+group:DVD
+salesrank:23626
+similar:5
+categories:20
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Monsters
+category:;DVD;Actors & Actresses;( B );Barker, Clive
+category:;DVD;Actors & Actresses;( H );Haynie, Jim
+category:;DVD;Actors & Actresses;( K );King, Stephen
+category:;DVD;Actors & Actresses;( K );Krause, Brian
+category:;DVD;Actors & Actresses;( K );Krige, Alice
+category:;DVD;Actors & Actresses;( L );Landis, John
+category:;DVD;Actors & Actresses;( P );Perlman, Ron
+category:;DVD;Actors & Actresses;( P );Pickett, Cindy
+category:;DVD;Actors & Actresses;( S );Schwimmer, Rusty
+category:;DVD;Actors & Actresses;( S );Shadix, Glenn
+category:;DVD;Actors & Actresses;( W );Ward, Lyman
+category:;DVD;Directors;( G );Garris, Mick
+category:;DVD;Genres;Horror;Horror Masters;Stephen King
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Horror;By Theme;Erotic
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+reviews:20
+review:A2DKUO0MEI1EM7:3
+review:A2ILHD7W0HIAVW:3
+review:AU3P8MF2U25UH:2
+review:A11BCJJG91KVOY:3
+review:AMI55O58CK8PK:4
+review:AMI55O58CK8PK:4
+review:A1TK6R2JSC97HL:2
+review:A2KLT8PCDS4YZY:4
+review:A3KF4IP2MUS8QQ:3
+review:A1YXCYA0OAMWQD:3
+review:A38ZCGX5970J1M:1
+review:A2E1MGE8OEU7LQ:2
+review:A2OSERGXBYMPJ0:3
+review:A34IBXM7E8CPWE:3
+review:AEQX1RCZPYNIT:3
+review:A20EEWWSFMZ1PN:4
+review:A82LIVYSX6WZ9:2
+review:A3FUBUJAIGM87T:1
+review:AI1OOS3ZQKJK0:3
+review:AHYMU2N5MBYWC:2

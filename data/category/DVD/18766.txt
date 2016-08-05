@@ -1,0 +1,25 @@
+id:18766
+asin:B00006JDVY
+title:Victory
+group:DVD
+salesrank:24863
+similar:5
+categories:14
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( C );Callow, Simon
+category:;DVD;Actors & Actresses;( D );Dafoe, Willem
+category:;DVD;Actors & Actresses;( H );Hermann, Irm
+category:;DVD;Actors & Actresses;( N );Neill, Sam
+category:;DVD;Actors & Actresses;( P );Paterson, Bill
+category:;DVD;Actors & Actresses;( S );Sewell, Rufus
+category:;DVD;Actors & Actresses;( Y );Yanne, Jean
+category:;DVD;Directors;( P )
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( V )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:3
+review:A111BH1GN0D33Z:3
+review:AEQ92CI7NPY8J:4
+review:A1NPNGWBVD9AK3:5

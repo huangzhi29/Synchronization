@@ -1,0 +1,28 @@
+id:20056
+asin:B00005U2FJ
+title:The Girl
+group:DVD
+salesrank:13613
+similar:5
+categories:7
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Erotic
+category:;DVD;Actors & Actresses;( G );Guttman, Ronald
+category:;DVD;Genres;Art House & International;By Genre;Drama
+category:;DVD;Genres;Art House & International;By Theme;Erotic
+category:;DVD;Genres;Art House & International;By Theme;Period Piece
+category:;DVD;Special Features;Titles;( G )
+reviews:13
+review:A1GFWQCW690JJ6:2
+review:A1JVWZR2QI46LN:4
+review:ANXX3F3N8J2LZ:1
+review:A3NJDTIEZY1I06:4
+review:A3Q2GV993NTJT6:5
+review:A281EBXIHHG9A5:5
+review:A306AM5NPLX62A:2
+review:A341FIIQNV3X6:1
+review:A2HF2ZCEXPAZEV:1
+review:A2K9L1R1S2I79K:2
+review:A2CKP85YVNF6EH:5
+review:A1L0NZ08ERZ2IN:4
+review:A3QCL6E9XTV01E:4

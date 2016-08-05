@@ -1,0 +1,20 @@
+id:19515
+asin:B00000F4L7
+title:The Inheritors
+group:DVD
+salesrank:29601
+similar:5
+categories:6
+category:;DVD;Genres;Art House & International;By Original Language;German
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Art House & International;By Country;Germany;General
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( I )
+category:;DVD;Genres;Drama;By Theme;Rural Life
+reviews:6
+review:A2DVFHG099GUGE:3
+review:A2TMFMECI9H13X:1
+review:AZZICOVSO41HS:5
+review:A1SP0UHWFU0O0S:4
+review:A35NVOZDHB4NXN:4
+review:A17FLA8HQOFVIG:4

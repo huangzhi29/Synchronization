@@ -1,0 +1,48 @@
+id:14390
+asin:B00006FDAY
+title:The World of Henry Orient
+group:DVD
+salesrank:4038
+similar:5
+categories:17
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Coming of Age
+category:;DVD;Genres;Comedy;By Theme;Sex Comedies
+category:;DVD;Actors & Actresses;( B );Bosley, Tom
+category:;DVD;Actors & Actresses;( F );Fiedler, John
+category:;DVD;Actors & Actresses;( L );Lansbury, Angela
+category:;DVD;Actors & Actresses;( P );Prentiss, Paula
+category:;DVD;Actors & Actresses;( S );Sellers, Peter
+category:;DVD;Actors & Actresses;( T );Thaxter, Phyllis
+category:;DVD;Directors;( H );Hill, George
+category:;DVD;Directors;( H );Hill, George Roy
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Comedy;Comedy Stars;Peter Sellers
+category:;DVD;Genres;Comedy;By Theme;Comedy of Manners
+reviews:23
+review:A36AB98VYG9V2K:5
+review:ATVPDKIKX0DER:5
+review:A3H5K3Q9NBYNCL:4
+review:A3G8IRBOTZ5PW:5
+review:A33AGGR0N2Y2O4:4
+review:A13LGJZ6A39BP1:5
+review:A34ZRDJ51VLE8T:5
+review:A12ED195U4G2V3:2
+review:A2AV7Q95QGPTO0:2
+review:A2MB0FJC95Y9TN:5
+review:A1FXEHWJN2TU3M:1
+review:A106016KSI0YQ:4
+review:A1U5ANL0KB2YPQ:2
+review:A5ZJFVV0564T6:5
+review:A1W34XQ99GSLO7:1
+review:A3LA8WLE0RQ4MB:4
+review:A21B2TJBWCSK1R:5
+review:A2FQ2M9ZIODFKV:5
+review:A1OX21EDSHP40U:2
+review:A2B73CL3QSYWLB:4
+review:A3IBYRSA490ZOA:5
+review:A22STRR368B4S:4
+review:A1SVXJZ3386U2D:4

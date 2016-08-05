@@ -1,0 +1,30 @@
+id:3152
+asin:B00004UEET
+title:Jilly Cooper's Riders
+group:DVD
+salesrank:29280
+similar:5
+categories:18
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( B );Beacham, Stephanie
+category:;DVD;Actors & Actresses;( B );Bruce, Brenda
+category:;DVD;Actors & Actresses;( G );Gilbert, Marcus
+category:;DVD;Actors & Actresses;( P );Praed, Michael
+category:;DVD;Actors & Actresses;( S );Standing, John
+category:;DVD;Directors;( B );Beaumont, Gabrielle
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Drama;Sports
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( J )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;Drama
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;Love & Romance;Infidelity & Betrayal
+category:;DVD;Genres;Drama;Love & Romance;Love Triangle
+category:;DVD;Genres;Drama;Television;General
+reviews:4
+review:A1MK73GW682ZI:2
+review:ARG9IKH6QJ0AV:4
+review:ARKSCCJTBDSVE:1
+review:A12AZSP8F5XKTY:3

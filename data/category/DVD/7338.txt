@@ -1,0 +1,87 @@
+id:7338
+asin:B00005B3Z6
+title:Queer as Folk - Series 1 (British TV Series)
+group:DVD
+salesrank:5814
+similar:5
+categories:12
+category:;DVD;Genres;Comedy;Gay & Lesbian
+category:;DVD;Genres;Drama;Gay & Lesbian
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( K );Kennedy, Maria Doyle
+category:;DVD;Actors & Actresses;( M );Mcelhinney, Ian
+category:;DVD;Actors & Actresses;( R );Ryan, Ger
+category:;DVD;Directors;( H );Harding, Sarah
+category:;DVD;Special Features;Titles;( Q )
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Genres;Television;TV Series;Queer as Folk
+category:;DVD;Genres;Television;By Decade;1990s and Newer;General
+category:;DVD;Genres;Gay & Lesbian;Television;General
+reviews:67
+review:A3PJU8LPXB9KSN:4
+review:ATVPDKIKX0DER:5
+review:A1EI736M0LJOQ7:5
+review:A2R1FSFW0TD58N:4
+review:A3165V3X5U4CZL:5
+review:A3T8WIEYJ2C2GT:5
+review:A16475LNNFLUUN:5
+review:AHDRRN8MGYCXE:5
+review:A3VT5ZLOO2H747:5
+review:AQ5RNTR5ASU6L:5
+review:A280IRNTYRXLGE:5
+review:A18CRS4FLVH5YW:3
+review:A20ZJ898166ETY:5
+review:A1ZDXWRBF6TVQK:4
+review:A2BP8DTNOVEMMB:5
+review:AL9QMUAWF3819:4
+review:AWY56V0LIB3P:5
+review:A229DGOP5Y1SD8:5
+review:A3EFCK0HZQPNQI:5
+review:A35XFZN4MWNKK4:5
+review:A1OXGP0DN55AXB:5
+review:A2OEKKPLRJPWWW:4
+review:A3GF6IPGGPKKQA:5
+review:A14DDKGQGNIHCF:5
+review:A2LBK9AAL46AK:5
+review:A16X0BQMZOT0JI:5
+review:A68D2U5S2AY9H:4
+review:ACIJVXJWC1SJO:5
+review:A4SF7Z3L5YJ1Y:4
+review:A3B4P311JHANNO:5
+review:A3RNFPIN1JIBEL:5
+review:A3FN1UPUMFV27V:1
+review:A3OD1QD1UZB372:5
+review:A1X1RWRPSAL206:5
+review:A1TW6SWG9C631J:4
+review:AT52HKUV70OC8:5
+review:A3AD5WT7FEVAEU:3
+review:ANDWMB7LNGEF7:5
+review:A2IJ4TEP5I93IF:5
+review:A2XWBYHQY5MG9:4
+review:A5X86R22I7J1B:4
+review:A2BHGJ2Z3QSFO4:1
+review:AL8C544L85BUQ:5
+review:A1CP8G4QZUK4HQ:2
+review:A3MW29CICN8QS0:5
+review:A3L9VU7HB69Z72:5
+review:AGXVETWMHEK3H:5
+review:A1NFGADLP9MRAR:5
+review:A3MVM8RWFR3HGI:5
+review:ALDBZSAEDV7RW:4
+review:A387ZB6EA8EQYY:5
+review:A23SJ7LCYG7MTO:5
+review:AW4MT9WP95TVD:5
+review:A1L9FNSK0SKFSA:5
+review:A1LDUR2DWGS4SA:4
+review:A39O5ZI2XY2NI9:5
+review:A2HPARUDFBJZ4I:5
+review:AYB3CG5IVMTSN:5
+review:A14DTE2CLHNVZX:2
+review:A14DTE2CLHNVZX:2
+review:A34UAUD5WNRUYJ:3
+review:A2JR30U8A80NO3:4
+review:A1E8LS9TSQ3MJY:1
+review:A3IOIIS7VTMK8K:5
+review:A3JPNYUTLSEAQN:5
+review:A2VRTW4QHC38OU:5
+review:A2R9BC4LV0ZXRA:4

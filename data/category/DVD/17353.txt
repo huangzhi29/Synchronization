@@ -1,0 +1,263 @@
+id:17353
+asin:0792844882
+title:Showgirls
+group:DVD
+salesrank:2923
+similar:5
+categories:30
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Comedy;By Theme;Friends
+category:;DVD;Genres;Drama;By Theme;Racy
+category:;DVD;Actors & Actresses;( B );Berkley, Elizabeth
+category:;DVD;Actors & Actresses;( B );Bristow, Patrick
+category:;DVD;Actors & Actresses;( B );Brockman, Ungela
+category:;DVD;Actors & Actresses;( D );Davi, Robert
+category:;DVD;Actors & Actresses;( G );Gershon, Gina
+category:;DVD;Actors & Actresses;( M );MacLachlan, Kyle
+category:;DVD;Actors & Actresses;( P );Plummer, Glenn
+category:;DVD;Actors & Actresses;( R );Rachins, Alan
+category:;DVD;Actors & Actresses;( R );Ravera, Gina
+category:;DVD;Actors & Actresses;( R );Riffel, Rena
+category:;DVD;Actors & Actresses;( R );Ruscio, Al
+category:;DVD;Actors & Actresses;( S );Shockley, William
+category:;DVD;Actors & Actresses;( T );Travis, Greg
+category:;DVD;Actors & Actresses;( W );Weber, Dewey
+category:;DVD;Directors;( V );Verhoeven, Paul
+category:;DVD;Genres;Cult Movies;Drama
+category:;DVD;Genres;Cult Movies;Exploitation
+category:;DVD;Genres;Cult Movies;Landmark Cult Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;All MGM Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:225
+review:A1SH28X6HM8BXB:4
+review:A2TORR6E4EUCAF:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A24VVTYRN7BBI3:3
+review:ATVPDKIKX0DER:3
+review:A2YIXFAZS6SFH5:4
+review:ALRNOZUVL3AOT:3
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:4
+review:A1KSUWV7RE44F3:4
+review:ATVPDKIKX0DER:4
+review:A2B4JQL1XHZQ42:5
+review:A49XO4MO130OS:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:A3MN626UN3TIYM:2
+review:A2Y4OUWQXDQHOM:5
+review:A1D5GA8KLSDG4B:4
+review:A8M4WE1MT4R4O:4
+review:ATVPDKIKX0DER:3
+review:AG3190HH9M1DT:4
+review:A3R9FBIBZS6QTO:5
+review:A14ZZ6P23VTR4K:4
+review:A3BNYJ8FG1PMUE:5
+review:A1FRMLCCWNLZ5H:4
+review:A1KRNVZUP7YAED:5
+review:A2C5RM58K7CDN6:5
+review:A1F5FTLHXDOXT:5
+review:A2XLC7C0QXYJ7F:5
+review:A1RBMPUU90L10K:5
+review:A3E4GL7SHHHYCG:1
+review:A3E4GL7SHHHYCG:5
+review:A3HMETMS14UKGL:5
+review:AM2PV53UX1JEQ:1
+review:APVLSKQ1HVOQ9:3
+review:A5DNUJI2V6XR0:4
+review:A186O61T87WGYG:4
+review:AOG4OAJE74M95:4
+review:A1P6MBNTPEOCBH:5
+review:A2C5RM58K7CDN6:5
+review:A2QRB6L1MCJ53G:4
+review:A26LT5AOXDMXRU:5
+review:A1MKZV9P4KXX9X:5
+review:ACMOLKXVKQ06Z:4
+review:AQEQUO9PVO1Q3:4
+review:A2EOEJYDJ0A6TC:4
+review:A276IHA2USBRHX:5
+review:AYV8X51MJ06GO:5
+review:A14D693ZAQ8UFW:4
+review:A2C5RM58K7CDN6:5
+review:A2D5BGCNBZVN93:5
+review:A2C5RM58K7CDN6:5
+review:A3HB5BTD9VHDS8:5
+review:A2JYVB8VZ23OO6:4
+review:A225MNF4YY588L:5
+review:A3HACSQO6Y6YOX:1
+review:A1FI4IUXF7QBHU:5
+review:A2C5RM58K7CDN6:5
+review:A2HYZ7Z86075BT:5
+review:A9KKUOV5C775G:5
+review:A2C5RM58K7CDN6:5
+review:A3PIIUZ2URLKQ3:5
+review:A21XZ396MM2Y17:5
+review:A24KN9320KY0AL:5
+review:A1241U6QCSX5YJ:3
+review:A2C5RM58K7CDN6:5
+review:A2WLIADTIZ2UOC:4
+review:AUVYZAK51LYEW:5
+review:AXPN34KETSJ24:5
+review:A20RV5EZTFVCW:5
+review:A84UFSF2SZS2W:1
+review:A3RNFPIN1JIBEL:5
+review:A215ZPGSHWM9H1:4
+review:A2Z83XXDQN5YYW:2
+review:A1XH2MRFMCN0RG:5
+review:A332RGE8UV48AY:5
+review:A2XU21KKQWLJV8:4
+review:A29828O1G1W7B6:5
+review:A12JR3T5XQ0EHL:5
+review:A21FPAODTEY3E9:3
+review:A1BRXLFWILNICE:3
+review:A3BS7PNHCP2YZ2:5
+review:A276OWDH0GKAA9:4
+review:A2JIWY9DXD3YV:5
+review:AQCHVXD1R9WYI:4
+review:A1W4LD35GTIX4Z:5
+review:A1OH2NTFN15PCL:5
+review:A1OOX87AHFPWHT:5
+review:A3NMVNYFP45XZC:4
+review:AWEOR1WZSMBEZ:3
+review:A2B7WKCO6CSMEH:4
+review:AJ1AKHLAEQPTB:5
+review:AY1HVIM2V067E:5
+review:A323QFRX45YUD3:5
+review:A2HYCTZ8VIRXCV:5
+review:A2HYCTZ8VIRXCV:5
+review:A2J6MMNWUJQUXS:5
+review:A3GM2HDEURRD4M:5
+review:A3PSGZVRPUXWFI:1
+review:A1MRJNUGUOL5GS:4
+review:A1QGTFD0ZJ3KG8:5
+review:A2LP20N7QBM6EF:4
+review:A27CFNHYZG6WS8:1
+review:A31XNJ78MA7IQ8:4
+review:A3PERVDBNCQJQV:5
+review:A2XEI6QFCLY9GI:5
+review:ANHRR25EHTFEV:5
+review:A3JY5LXLQPH97X:5
+review:A2UBH59SA4FM85:5
+review:A2Z8U3ISCCYW8N:4
+review:A2CHIL904IA1LS:5
+review:A2VT3618O7G4MX:5
+review:AO4J90YPX5RU6:3
+review:AZOGE2ZDSWXV9:3
+review:AT576Z9DC6HJ0:5
+review:A2R94CWFH9JT2G:4
+review:A2OZBD4CYEPYGR:5
+review:A3UN6WX5RRO2AG:4
+review:A107H3XGCV6Y4Q:5
+review:A107H3XGCV6Y4Q:5
+review:A2SND2PMZOLFRI:5
+review:A3D6KZT0QG6UKB:5
+review:A1E96RY9N8MMF:5
+review:A1E96RY9N8MMF:5
+review:A1JR4Q1F3Y80GM:4
+review:A2NJO6YE954DBH:3
+review:A1D9EX6UC7N2QB:1
+review:AP839YM0XJ664:3
+review:A3VOGHBOL3Y0Y5:5
+review:A2WBVYWDIITDDB:5
+review:A3TPRIFSQVXY5H:5
+review:A38BU9SLS82TGT:1
+review:A3TPRIFSQVXY5H:5
+review:A321P3TQZTCVND:4
+review:A1AZ64Z84RY52T:1
+review:ATS1HA5M3EPZ4:3
+review:A7QLOIG71UW6S:3
+review:A31R7SO1NATXVZ:1
+review:A1PD99MKBBIV62:4
+review:A2RHV42BTJSVON:2
+review:A2AF26KM2JIPWU:5
+review:A2RJBF02CE9X1W:4
+review:AEG3I82BVE2ZK:2
+review:AAGEXT8KSULI2:2
+review:A1G5LJ8T1IGYC5:2
+review:A3R9NJSPEHXF7A:5
+review:AHJ8GF73Z6BZD:4
+review:A3B1PT4RWZG1YM:1
+review:A2V3P1XE33NYC3:5
+review:A1BAZ4RLP2921E:5
+review:A3HM5G9IV1FTFP:4
+review:A15HW9QNWTVNRG:4
+review:A37KVPBOJV7TMA:5
+review:A2B8DJ0CKN9FAO:5
+review:ATVPDKIKX0DER:4
+review:A39CTP1QW1JH06:5
+review:A2AO4E6CVZ4CNV:5
+review:AHD7V17JLGQTW:5
+review:A17VI5JKD3AQFH:5
+review:A39WV35T6U1GO3:2
+review:A1IJAHT66Y6VXZ:2
+review:AT6CZDCP4TRGA:1
+review:A342DCAPERYFE8:3
+review:A3GWWIYTYOQ5M7:5
+review:ADRW96ZDK894X:1
+review:A1XX1KKXH9W7I7:5
+review:A2W6WNP6WH8CHO:5
+review:A1IL6W1NK05UW9:4
+review:AA797LFUG2ZGS:2
+review:A1EIY9CE3LLF3F:5
+review:A2I3Y0LLEEDWMB:1
+review:A2ZK6TN9X2L606:4
+review:A1J9KK59J7O1KQ:2
+review:A1K0XHNAJCUCMO:4
+review:A2C2E2RDW0ZIUL:5
+review:ACJTUFZEUCCBL:4
+review:A2I7PV9ERKQCQZ:5
+review:A37NYKZBDKOLL6:3
+review:A1K5S1F553VXGV:5
+review:A13UWA23Q3E0NV:4
+review:A3044G1PZKEMK:4
+review:A3QF1QF9DFLNQ5:1
+review:A2H8BN3G4CNC9N:5
+review:A3KMTOFTUUNFHG:4
+review:A2JZ95HC089B9Z:5
+review:AL2O9UDCQHME8:1
+review:A2DB8JW43UEUBL:1
+review:A1TMET87WGCZPT:5
+review:A24H35U47VPA9P:4
+review:A29QM055KWW3HP:1
+review:A2N9BV3F9MAF12:4
+review:A3EW2L59UBHQSG:5
+review:A5HUW6YXLAH2F:4
+review:AIJP8X4UP0UKO:5
+review:A3GQBLV6E6DQ53:2
+review:A26ZSYRPA1TCI5:4
+review:A3BSNNV0182B5G:5
+review:AZ5250G2U795I:3
+review:A3OI841P5R6FCH:4
+review:A206V6OPU7YOC5:3
+review:A3TVB0TYP6S316:1
+review:AL277B4AQCWBG:5
+review:A111BFEZKO2Y0M:3
+review:A37ZOGOK3GKF2P:4
+review:A2U0WL1D6SRTO3:1
+review:AFTXWPUJ2TW8Q:5
+review:A19EKAWXJ8MY0F:5
+review:A14HHOT9999Z22:5
+review:A2CWVYXN1AWMAL:5
+review:A1D8RCPJ6FLIDT:4
+review:A10HHM2684NZD2:5
+review:A2RBRFLSI2MF5N:3
+review:A402IK8HX9SBN:3
+review:A1SLANQAIQWU21:5
+review:AXGZIUUVTKWEK:5
+review:A1GZXVLCYY3LFI:1
+review:AUKLLB4J4YHNA:3
+review:A141I9J14U71F1:1
+review:A1X28NWPDMTDG7:3
+review:A1VCLTAGM5RLND:5

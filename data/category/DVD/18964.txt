@@ -1,0 +1,33 @@
+id:18964
+asin:B00007AJEK
+title:Bellydance Fitness for Weight Loss featuring Rania (Cardio Shimmy/Bellydance Boogie/Hip Drop Hip Hop/Pure Sweat)
+group:DVD
+salesrank:7328
+similar:5
+categories:5
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Genres;Special Interests;Health;Diets & Weight Loss
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Formats;Boxed Sets;Fitness & Yoga
+category:;DVD;Genres;Special Interests;Dance;Belly
+reviews:20
+review:A1935XLAV2V2GR:5
+review:A2G9N3Q7DZ857F:3
+review:A1935XLAV2V2GR:5
+review:A1ECYGCRGRL6ZT:4
+review:AS6MCM9OPDH7P:5
+review:A3ET633D2FLORS:1
+review:A2JAEK85OUJP4P:2
+review:A2JMK7VH2CQQU2:2
+review:A3U50QV1WJSF36:3
+review:A1935XLAV2V2GR:5
+review:A2VWNYFXOUBXJ:4
+review:A2AFIIFBT0YQJH:1
+review:A3UN6WX5RRO2AG:3
+review:AFTFXBOV8IRKW:3
+review:A1GOQTUAZODP4G:5
+review:A33TE33OEPLFVU:3
+review:A27493GW3TEX65:5
+review:A13FZZL9G316PP:3
+review:AEOBOF2ONQJWV:5
+review:A1LNCQNW0LWM3T:3

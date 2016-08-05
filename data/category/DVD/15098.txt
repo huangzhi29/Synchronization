@@ -1,0 +1,14 @@
+id:15098
+asin:B00006309Q
+title:X-Mix Dvd Collection Part II
+group:DVD
+salesrank:51311
+similar:5
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( X )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:0

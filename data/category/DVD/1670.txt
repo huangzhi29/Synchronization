@@ -1,0 +1,17 @@
+id:1670
+asin:B00005NB9E
+title:Graveyard Shift
+group:DVD
+salesrank:45274
+similar:3
+categories:7
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Vampires
+category:;DVD;Genres;Art House & International;By Country;Canada
+category:;DVD;Special Features;Titles;( G )
+category:;DVD;Genres;Mystery & Suspense;By Theme;Fatal Attraction
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Genres;Anime & Manga;By Studio;Media Blasters;All
+reviews:2
+review:A2SPVJ5NYCOY00:3
+review:A2Q5K1G3S8RLWX:3

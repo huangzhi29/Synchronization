@@ -1,0 +1,57 @@
+id:8202
+asin:B0000687BN
+title:UFO Set 1
+group:DVD
+salesrank:11440
+similar:5
+categories:7
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Genres;Television;A&E Home Video;All A&E Titles
+category:;DVD;Genres;Television;General
+category:;DVD;Special Features;Titles;( U )
+category:;DVD;Formats;Boxed Sets;Sci-Fi & Fantasy
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Genres;Television;A&E Home Video;Gerry Anderson
+reviews:42
+review:A2P6EPQ906M3AJ:5
+review:AOCYGL4KNZWOI:5
+review:A3M5O6UHXO9IBU:5
+review:A1K4QIVLIL0KVK:5
+review:A30Q8X8B1S3GGT:5
+review:A1S62B5A0NUA9X:5
+review:A1BPZOS5PS5B3G:5
+review:A1CKPHWHMPW5MD:5
+review:APHCOM80G3HYN:5
+review:A31KQUQDPD50WL:4
+review:A3GQKB1KF0CRPE:5
+review:AYI9WWC8NQFOD:4
+review:AWL2VON85V38Y:5
+review:A2LNEAX6VALFOD:5
+review:ABQARDSU134CY:5
+review:A35V5DPT41W7MD:5
+review:A18JY36M776MEV:5
+review:A2W367IHZIQT8J:5
+review:A1T3LTSS6CJZW4:5
+review:A1TONI9A0YFOD6:3
+review:A1CXENX2ZRUNFM:4
+review:A19GPP2OO5BKH8:5
+review:A8Y6CEU7SXZAJ:5
+review:A2CXWU5MB38MZU:5
+review:A2MB7ZIINKGPY1:4
+review:A3KCW9ENWLEHI3:5
+review:A18RQ2URRGIIEA:5
+review:A3R2FGGEVZI8XX:4
+review:A29RD3896LDU8P:5
+review:A2JCK6P0X3BBVN:5
+review:A2FMDQ8XS2R61Y:5
+review:ASYZHTDC23QB1:5
+review:A31U2QT7SAL7K:3
+review:A26GBJ6DJXIWWG:4
+review:A348P63LKEES3Z:4
+review:AE4RWL1PDKKC2:4
+review:AD2TX2QWPW4I2:5
+review:A2QG7V2XW43GK:4
+review:A2HZM2D62AH57K:5
+review:A21603VSO4SM29:5
+review:A3AUECYM0M0YSX:3
+review:A10RGJ0NVVGODV:5

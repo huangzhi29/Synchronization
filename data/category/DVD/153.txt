@@ -1,0 +1,28 @@
+id:153
+asin:B00000IC83
+title:Life of Jesus, Vol. 1-2
+group:DVD
+salesrank:38774
+similar:5
+categories:12
+category:;DVD;Genres;Documentary;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( L )
+category:;DVD;Formats;Boxed Sets;Documentary
+category:;DVD;Formats;Boxed Sets;Special Interests
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Special Interests;Religion & Spirituality;General
+category:;DVD;Formats;Boxed Sets;Religion & Spirituality
+category:;DVD;Genres;Special Interests;Religion & Spirituality;Christian DVD;General
+category:;DVD;Genres;Special Interests;Religion & Spirituality;Christian DVD;Jesus
+reviews:8
+review:AN982MW1XZZ18:5
+review:AKSBSMY73G9ZQ:4
+review:A1NSHNJV55TROC:1
+review:A1RNOAJEUH1NIG:5
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A51OGQYP6GOGJ:5
+review:A10ZSEZWC69D5S:2

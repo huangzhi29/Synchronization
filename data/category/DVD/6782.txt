@@ -1,0 +1,109 @@
+id:6782
+asin:6305308772
+title:The Outlaw Josey Wales
+group:DVD
+salesrank:24289
+similar:5
+categories:24
+category:;DVD;Genres;Westerns;General
+category:;DVD;Genres;Westerns;Action & Adventure
+category:;DVD;Genres;Westerns;Outlaws
+category:;DVD;Actors & Actresses;( B );Bottoms, Sam
+category:;DVD;Actors & Actresses;( C );Clark, Matt
+category:;DVD;Actors & Actresses;( D );Dano, Royal
+category:;DVD;Actors & Actresses;( E );Eastwood, Clint
+category:;DVD;Actors & Actresses;( J );Jameson, Joyce
+category:;DVD;Actors & Actresses;( K );Kartalian, Buck
+category:;DVD;Actors & Actresses;( L );Lesser, Len
+category:;DVD;Actors & Actresses;( L );Locke, Sondra
+category:;DVD;Actors & Actresses;( M );McKinney, Bill
+category:;DVD;Actors & Actresses;( Q );Quade, John
+category:;DVD;Actors & Actresses;( S );Sampson, Will
+category:;DVD;Actors & Actresses;( V );Vernon, John
+category:;DVD;Directors;( E );Eastwood, Clint
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( O )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Westerns
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Westerns;Western Stars;Clint Eastwood
+category:;DVD;Genres;Military & War;Civil War
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $20;Westerns
+reviews:77
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A1YWUPCT83WY48:5
+review:A394F3HSPSZ99H:5
+review:A3642OYUXWYQ59:5
+review:A1ZE6GLT8XYW3G:5
+review:A21E4PF1RQYSKT:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:AFSX4UAT31O6P:5
+review:ATVPDKIKX0DER:5
+review:A361O49S589S2S:5
+review:A1979SNFWG02N1:5
+review:A3R2YB0WTTB0IJ:4
+review:A2UJ6RTCJKFYRA:5
+review:A12A8LU93A132U:5
+review:A1BN9LZB9575P3:4
+review:A1BN9LZB9575P3:4
+review:A2CZPM110DW516:5
+review:A23LCEFE2BWE5F:5
+review:A3IGWDIQKCQUVF:5
+review:A3D296RVX0JVKB:5
+review:ALS8T69HVH93C:5
+review:ANANIMTFQ6S2C:4
+review:AFZ2ZDF8CLHKA:5
+review:A1GHUN5HXMHZ89:5
+review:A228NBNLYJ8V3J:3
+review:A34YP8CQC8NG6T:5
+review:A28B7IJR80M8KE:3
+review:AU8552YCOO5QX:4
+review:A3L2C123YIYCH0:5
+review:A4PLXIMJIE36G:5
+review:AWDI9BB8B8RBB:5
+review:A1E0RPGCXS4L2G:5
+review:A1P2VT5HTDTXII:5
+review:A3RJPY0JPHX2PL:5
+review:A1L43KWWR05PCS:4
+review:A3UBWCLVJ6WN2V:5
+review:AO37T54VEP0JQ:4
+review:A2ZSC81MXLBELX:5
+review:A16X61RLY1YJL7:5
+review:A11PTCZ2FM2547:5
+review:A2ACHVOFMAIQ1K:5
+review:A26JGAM6GZMM4V:5
+review:A17L5H7Q9AJCKR:5
+review:AQ24AUYTOL1EZ:5
+review:AHCVWPLA1O4X8:4
+review:A3ANHRLMPJKF6G:4
+review:AR1LU94IIZL66:5
+review:A3EW6IS60M4CGN:5
+review:A2EOCDPEG6K1WQ:5
+review:A2217PZ8G2WQF3:5
+review:A2Q1RDBLZ7A0BP:5
+review:A1YWUPCT83WY48:5
+review:A139LLP3CBO4BH:1
+review:A3TNM3C9ENUCFW:5
+review:AS28WVBBZ3G99:5
+review:A3B7TR8OU3NZBE:5
+review:AR2DE47VCY1C8:5
+review:A1QQPIUXWD4G0Z:4
+review:A1C57UGS28DU91:4
+review:A3KB1H0S7T6JX1:5
+review:A300SATEE197YH:5
+review:A38VGSIV4ILAP4:5
+review:A3M5FOVFJ1I7EW:5
+review:A2OIPO9BV7N3FJ:5
+review:A1Y87E22UVYCE6:5
+review:A1Y87E22UVYCE6:5
+review:AYYOPF6RG019D:2
+review:A1YNWTZH0888UD:4
+review:A1Z3LU078VNOA6:5
+review:A3CIYAHOSN4F0Z:5

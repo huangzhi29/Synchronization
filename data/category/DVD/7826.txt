@@ -1,0 +1,18 @@
+id:7826
+asin:B00008V2WB
+title:Gwar
+group:DVD
+salesrank:49586
+similar:5
+categories:10
+category:Music;Styles;Hard Rock & Metal;General
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:Music;Styles;Hard Rock & Metal;Thrash & Speed Metal
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( G )
+category:Music;Styles;Miscellaneous;Comedy;Comedic Music;Comedy Rock
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:0

@@ -1,0 +1,24 @@
+id:18912
+asin:B00005NTOG
+title:National Geographic - Pearl Harbor
+group:DVD
+salesrank:32692
+similar:5
+categories:8
+category:;DVD;Genres;Documentary;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( N )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Documentary;Military & War;General
+category:;DVD;Genres;Documentary;Military & War;World War II
+category:;DVD;Genres;Television;National Geographic;All Titles
+category:;DVD;Genres;Television;National Geographic;History
+reviews:8
+review:ARDFZRICJ9SP8:5
+review:A141A918RPFQXK:5
+review:AZWX8YF8K2DB:5
+review:A1N6A1YRJKMKTJ:3
+review:A3KY68OTSNHM3G:5
+review:A2NOZB6VZCTOI4:5
+review:A3KF4IP2MUS8QQ:5
+review:A1SVXJZ3386U2D:4

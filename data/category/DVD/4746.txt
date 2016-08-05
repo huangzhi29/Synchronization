@@ -1,0 +1,21 @@
+id:4746
+asin:B00005T30H
+title:Yu Yu Hakusho - Spirit Detective - Artifacts of Darkness (Vol. 2)
+group:DVD
+salesrank:34604
+similar:5
+categories:2
+category:;DVD;Genres;Anime & Manga;General
+category:;DVD;Special Features;Titles;( Y )
+reviews:11
+review:A3MN8I11RL475Q:3
+review:A29Y95FKPJZIA3:5
+review:AU7GCW2QDNRVE:5
+review:A201TG5I7BCL09:5
+review:A11N85PYC3R751:4
+review:AVT89RNLQ5YUB:4
+review:A217YVBBC6JOTC:5
+review:A1DLITWFSIJE4R:5
+review:A12N24S3ULG4TQ:5
+review:A1AYXD2POPF2B0:5
+review:A3AWWI803LRMEI:5

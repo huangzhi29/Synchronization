@@ -1,0 +1,15 @@
+id:3854
+asin:B00006HAX4
+title:Stranglers - Liveat Alexandra Place
+group:DVD
+salesrank:55565
+similar:0
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:1
+review:A1B2ZJQTVK7BWX:4

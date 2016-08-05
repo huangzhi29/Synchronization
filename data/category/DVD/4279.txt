@@ -1,0 +1,22 @@
+id:4279
+asin:B000067J2N
+title:Cisco Kid - Double Feature
+group:DVD
+salesrank:45078
+similar:5
+categories:13
+category:;DVD;Genres;Westerns;General
+category:;DVD;Genres;Westerns;Classics
+category:;DVD;Actors & Actresses;( C );Carrillo, Leo
+category:;DVD;Actors & Actresses;( R );Renaldo, Duncan
+category:;DVD;Directors;( A )
+category:;DVD;Directors;( G );Goodwins, Leslie
+category:;DVD;Directors;( H );Herman, Al
+category:;DVD;Directors;( H );Hillyer, Lambert
+category:;DVD;Directors;( L );Landers, Lew
+category:;DVD;Directors;( L );Landres, Paul
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:1
+review:AW003H7Z3OCHA:4

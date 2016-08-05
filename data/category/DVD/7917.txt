@@ -1,0 +1,34 @@
+id:7917
+asin:B000059H1R
+title:Neon Genesis Evangelion - Collection 0-4
+group:DVD
+salesrank:31556
+similar:5
+categories:3
+category:;DVD;Genres;Anime & Manga;General
+category:;DVD;Genres;Anime & Manga;Characters & Series;Neon Genesis Evangelion
+category:;DVD;Special Features;Titles;( N )
+reviews:23
+review:A2O0CFU9Q9XK3:5
+review:A18ZM0DL1MWZQ0:5
+review:A62SNIFN8837O:5
+review:ASYX0VXFQNO7R:5
+review:A1JTIRMNT4XA2S:5
+review:A2I2DASCICOOF9:2
+review:A1304D5GPXXJ3J:5
+review:AL36HDH6V4JY5:4
+review:A5OKGCR3PUZVV:5
+review:A5OKGCR3PUZVV:5
+review:A3NFF271VY5MAU:5
+review:ALB9086PLUOEP:5
+review:A396ID5UYEJ58S:5
+review:AM8OGA5SZ36BD:4
+review:A2BFPZW3MUZ3O9:5
+review:AIWNSLCEQTJHM:4
+review:A2X8CI2QMXDUKY:3
+review:A1M4NJYP0WNL8Q:5
+review:A2D1X498F9XWD6:4
+review:A2XFDHWXNNJIZW:5
+review:A2WHZM2P2R88FQ:3
+review:A2T7TZBOTP68C7:4
+review:A2UAOP0VUA12EQ:5

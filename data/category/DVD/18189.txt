@@ -1,0 +1,55 @@
+id:18189
+asin:1559409061
+title:The Harder They Come - Criterion Collection
+group:DVD
+salesrank:9275
+similar:5
+categories:10
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( B );Bradshaw, Carl
+category:;DVD;Actors & Actresses;( C );Cliff, Jimmy
+category:;DVD;Genres;Music Video & Concerts;Other Music;Reggae
+category:;DVD;Genres;Music Video & Concerts;World Music
+category:;DVD;Special Features;Titles;( H )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Music Video
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Action
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;All
+reviews:37
+review:AX6U9KKQYQ929:4
+review:A3K10ES97SER7E:5
+review:AK9SD27B07RX7:5
+review:A19MAYJB2O673V:4
+review:A1UPEMYN8AF1X1:5
+review:A3R5XWWT2ROQ4Q:5
+review:A2NYAWVQL22WSM:5
+review:A2NYAWVQL22WSM:5
+review:A2HSD2K2G3BPGR:5
+review:A2902MCZU8S0L4:5
+review:A3R2YB0WTTB0IJ:4
+review:A2TZKM8LG31WH2:3
+review:A2N9XF1ZI2JEOC:4
+review:A2Z5WEA0KOMN9G:4
+review:A1MNU69MORV0C1:5
+review:A103KNDW8GN92L:5
+review:A3E7QOOAB3XRSY:5
+review:A23XVF23C7BHP0:5
+review:A2EVJCZWH4X9XO:4
+review:A1GN8UJIZLCA59:5
+review:AI0OAQ6E2O8VF:4
+review:A1AWIMIVWGIER:5
+review:AZ0JE672Z45T7:5
+review:A3QDA1FNQH6AZX:5
+review:AIR9G12ZG38L5:2
+review:A1NYLLBPO7GY60:3
+review:A2IU3JR9U775TL:2
+review:A2N0TJ60PVF1G1:4
+review:A2RCBFH0GCE6XG:4
+review:A2VFTFJE91B5MJ:3
+review:A3N6KPQWKI9TJP:3
+review:A3OHH5ZH3IZQVM:5
+review:ADU2U2TXOJA7D:3
+review:AGQTBHJLTIQTO:5
+review:AI08RWV118Y0M:4
+review:ALK1K2TIEFMOT:5
+review:A6FIAB28IS79:4

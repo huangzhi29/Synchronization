@@ -1,0 +1,81 @@
+id:6749
+asin:B00004R99Y
+title:The Adventures of Ichabod and Mr. Toad (Disney Gold Classic Collection)
+group:DVD
+salesrank:5070
+similar:5
+categories:25
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Specialty Stores;Disney Home Video;Animated Movies
+category:;DVD;Specialty Stores;Disney Home Video;Gold Collection
+category:;DVD;Genres;Kids & Family;Adapted from Books
+category:;DVD;Genres;Kids & Family;Classics;General
+category:;DVD;Specialty Stores;Disney Home Video;By Age;3-6 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;7-11 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;For the Whole Family
+category:;DVD;Actors & Actresses;( B );Blore, Eric
+category:;DVD;Actors & Actresses;( C );Campbell, Colin
+category:;DVD;Actors & Actresses;( C );Crosby, Bing
+category:;DVD;Actors & Actresses;( O );O'Malley, J Pat
+category:;DVD;Actors & Actresses;( R );Rathbone, Basil
+category:;DVD;Directors;( G );Geronimi, Clyde
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Genres;Kids & Family;Family Films
+category:;DVD;Genres;Kids & Family;By Theme;Daring Rescues
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;General
+category:;DVD;Genres;Kids & Family;Fantasy
+reviews:48
+review:A210VQUG2GMU06:5
+review:A3G7YXJ1N2M3OZ:5
+review:A27NTH2Y9DAR31:5
+review:ATVPDKIKX0DER:4
+review:A1NOR7R4TLR8KI:5
+review:A2WU3TL0O0UWH8:5
+review:A2WU3TL0O0UWH8:5
+review:A2R733Y6LGAPPD:5
+review:A1OCVWN4K4Q3FN:5
+review:A2UQIIJ2CD8REE:5
+review:A1CU96VQ8W8I0R:5
+review:AM0RWWB16QZDH:1
+review:A3P0I0ORAXFUCW:5
+review:A1MYQIBPNWRRJA:4
+review:A2B8GXSCB1R05T:5
+review:A3HR3R0KYK0M86:5
+review:A3LY3FLLZT22IS:4
+review:A24GYTKSRBTR7P:5
+review:A3PFWHYF3EW7WT:5
+review:AA5XZ0MJVVIFE:5
+review:A2T5M5G5O8MP10:5
+review:A38G64S5VMRI1P:5
+review:AA5XZVANDXGJE:4
+review:A23AFVXWF9A0CF:4
+review:A1IJKK6Q1GTEAY:4
+review:AMWA4HWO2D4CH:5
+review:AAFXBRRC5X45I:5
+review:AAFXBRRC5X45I:5
+review:A1QW9IPO1O5W1J:5
+review:A16EAJTQ59LK8Z:4
+review:A1C3KOXHTGBFB0:4
+review:A1COW0UIB5HA9J:5
+review:A27NTH2Y9DAR31:5
+review:A1LVZOK9F7K4CN:3
+review:A1M110RB5W86Q1:5
+review:A2ORGSOR2GDS3:5
+review:A2M1N8G4W4END8:5
+review:A1Q4ZU2Y929N0A:3
+review:A2P2HDYS3LTAQP:4
+review:A2B4MMQYW5I2YA:5
+review:A2BPQ0MAHCVFMA:5
+review:AD8VTHD5HXN9T:4
+review:AEGR40GALMDJ4:4
+review:A3GTZW08HC6UV5:5
+review:A2X26T4978L84M:5
+review:AGRFQ43LDDHP1:5
+review:APM06HT7JIPZ5:5
+review:A2GVJ83F092MIS:5

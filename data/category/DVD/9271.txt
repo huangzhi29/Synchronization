@@ -1,0 +1,23 @@
+id:9271
+asin:B000060MVI
+title:Lifting the Fog - Intrigue in the Middle East
+group:DVD
+salesrank:30181
+similar:5
+categories:6
+category:;DVD;Genres;Documentary;General
+category:;DVD;Actors & Actresses;( V );Venton, Harley
+category:;DVD;Genres;Documentary;Politics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:9
+review:A14OJS0VWMOSWO:5
+review:A3TKBR1HUQ3UXK:2
+review:A3AJIDYRTJL7RE:2
+review:A313GAX3X3VXZS:1
+review:A14AEZ6V3BZ801:5
+review:AITQFHLMPN4U8:5
+review:A2A5ON4X5SBP7M:1
+review:A13LYYAC45X5QS:5
+review:A31B8WDWQK8G34:1

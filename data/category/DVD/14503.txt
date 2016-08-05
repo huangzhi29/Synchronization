@@ -1,0 +1,61 @@
+id:14503
+asin:6305325812
+title:Humanoids from the Deep
+group:DVD
+salesrank:8471
+similar:5
+categories:19
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Monsters
+category:;DVD;Actors & Actresses;( H );Howell, Hoke
+category:;DVD;Actors & Actresses;( M );McClure, Doug
+category:;DVD;Actors & Actresses;( M );Morrow, Vic
+category:;DVD;Actors & Actresses;( T );Travis, Greg
+category:;DVD;Actors & Actresses;( T );Turkel, Ann
+category:;DVD;Genres;Cult Movies;Horror
+category:;DVD;Genres;Cult Movies;Monster Movies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Horror;By Theme;Erotic
+category:;DVD;Special Features;Titles;( H )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Monsters
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Monsters
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:34
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:3
+review:A3A48XEYWLWH7T:3
+review:ADZQ6GRC6YME2:5
+review:ARFBRSE35ZJ6A:4
+review:AD1ZOOX1TYR4I:3
+review:A1T6J7QD2DZV0O:4
+review:A16CB9KZ8OER76:4
+review:A2MFZ4Y3NJWR6E:1
+review:A7PBI5HADJYER:1
+review:A1G81U2WIT7CZW:2
+review:A1S1CJML7XSEMY:5
+review:A5TZXWU8AALIC:5
+review:A2X5S2JUNDLRTZ:1
+review:A1R14TUU31AW2T:3
+review:A1R14TUU31AW2T:3
+review:A1K7QTV08XLQRT:5
+review:A3L2U581LL17EB:2
+review:A3HLUNEJUT3MSP:3
+review:AIMR915K4YCN:4
+review:AUGABW5AS2OXM:5
+review:AUGABW5AS2OXM:5
+review:A1H0CWFQY2HFGG:2
+review:A2V3P1XE33NYC3:5
+review:A2WJLJAUQ41X2X:4
+review:A1V5C482SN0L64:5
+review:AR61Y2VWLST1V:4
+review:A2RMQW7RQ2VI6I:3
+review:A3T673XO75VMEM:4
+review:APQMNAC99GJD1:1
+review:A15PVKTO6JXT26:5
+review:A2TAPSNKK9AFSQ:5

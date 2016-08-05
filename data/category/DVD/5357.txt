@@ -1,0 +1,111 @@
+id:5357
+asin:0783226845
+title:Scent of a Woman
+group:DVD
+salesrank:2391
+similar:5
+categories:21
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Buddies
+category:;DVD;Actors & Actresses;( A );Anwar, Gabrielle
+category:;DVD;Actors & Actresses;( C );Canfield, Gene
+category:;DVD;Actors & Actresses;( E );Eldard, Ron
+category:;DVD;Actors & Actresses;( H );Hoffman, Philip S
+category:;DVD;Actors & Actresses;( H );Hoffman, Phillip Seymour
+category:;DVD;Actors & Actresses;( O );O'Donnell, Chris
+category:;DVD;Actors & Actresses;( O );Oliver, Rochelle
+category:;DVD;Actors & Actresses;( P );Pacino, Al
+category:;DVD;Actors & Actresses;( R );Rebhorn, James
+category:;DVD;Actors & Actresses;( S );Sadler, Nicholas
+category:;DVD;Actors & Actresses;( S );Squibb, June
+category:;DVD;Actors & Actresses;( V );Venture, Richard
+category:;DVD;Actors & Actresses;( W );Whitford, Bradley
+category:;DVD;Directors;( B );Brest, Martin
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Drama;By Theme;Coming of Age
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Drama;By Theme;Innocence Lost
+reviews:82
+review:ATVPDKIKX0DER:2
+review:A204600JUXARNI:4
+review:AILDCF9SEXHW:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:A2PER540C0GZ9B:5
+review:ATVPDKIKX0DER:5
+review:A8IZXBE7J6RNJ:5
+review:ATVPDKIKX0DER:5
+review:A2LSBJHILOSY89:5
+review:A1KT01DYA3C067:5
+review:ATVPDKIKX0DER:5
+review:A2AV7Q95QGPTO0:5
+review:A2A9SD6CLN8V7V:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A90JWR2OA1W9I:1
+review:ATVPDKIKX0DER:5
+review:A1Y0I0PI50X56L:5
+review:ATVPDKIKX0DER:5
+review:A2EH3LS2PA7Y9Z:5
+review:A2JJ2MPLPO9MPJ:5
+review:A3BJ0N71F3WUII:5
+review:A2UX0CENZT57OS:5
+review:AFJFXN42RZ3G2:5
+review:A3I1CPBR1BZ3OV:5
+review:A1W1K6B2742XHF:5
+review:A1XD3HX0G4L1TS:5
+review:A9Q28YTLYREO7:2
+review:A2CMWUQFR656V3:4
+review:AUG09M5F6ZB37:5
+review:AYB7PHZPDAX87:2
+review:A30C17QRS2QCAT:5
+review:A3L9ITICJRQWT9:5
+review:A1JO4C1DRSNI1M:3
+review:A2TAV6XYP1UB4P:3
+review:A1TUFSYDJ2TB64:4
+review:AMX6D4LQEBWKO:5
+review:AULXWZ8KXO1P2:5
+review:A1D600X7EDGIVD:5
+review:AJUWDV8TMBPL5:4
+review:A3IJMGVOWPBCPJ:5
+review:A156OD77Z93L1G:5
+review:A2EAX18PYF022:5
+review:A3CIPO5NR9D4FJ:5
+review:AUCEOYS8PP4AF:5
+review:A31QB3YGF37LA4:5
+review:A1KHC57X3DEIK3:5
+review:A27IRTZMV0LW45:5
+review:A1TK6R2JSC97HL:4
+review:A1IEGPT1Q5D3R2:3
+review:A1IEGPT1Q5D3R2:3
+review:A2TSDPWDHLKAY9:5
+review:A8AP59QOOKL1P:5
+review:A23E9QQHJLNGUI:4
+review:A21XVS00AIENLX:5
+review:A2ZIWOX9OYSFI3:5
+review:A1FMQ9JXBQB64C:3
+review:AYVFNOQHY8P3:3
+review:A2T2M5GV3CPU9T:5
+review:A1WQ47S43GK94X:5
+review:A2GYX971VETQBV:4
+review:A2ODBHT4URXVXQ:5
+review:A27QS4FWJMRG1W:5
+review:A3ADK3ZTJ87915:5
+review:AEE60GYM1SLL9:5
+review:A1CDNTB7377YH2:4
+review:A2U0WL1D6SRTO3:5
+review:AW3FTPCBPVQNB:5
+review:A2WPS12SW11YN7:5
+review:A21XVS00AIENLX:5
+review:A3P1A63Q8L32C5:4
+review:A38E07JEXBQFD5:5
+review:A3D99W4ATG4BC2:5
+review:A6I4A7UIYYGHZ:1
+review:ABCQUA65LGRKK:5
+review:A1AN4BW4L547V2:5
+review:A37ZOGOK3GKF2P:5
+review:ADUB0A0G9VP60:5
+review:ATPESQAKH55FM:5
+review:A3MAZM138KFVOW:5
+review:A3IY28PW12MSVN:5

@@ -1,0 +1,64 @@
+id:9650
+asin:6305910537
+title:Star Trek - The Original Series, Vol. 14, Episodes 27 & 28
+group:DVD
+salesrank:23363
+similar:5
+categories:27
+category:;DVD;Genres;Television;TV Series;Star Trek: The Original Series
+category:;DVD;Genres;Television;General
+category:;DVD;Directors;( A );Alexander, David
+category:;DVD;Directors;( B );Butler, Robert
+category:;DVD;Directors;( D );Daniels, Marc
+category:;DVD;Directors;( D );Daugherty, Herschel
+category:;DVD;Directors;( D );Dobkin, Lawrence
+category:;DVD;Directors;( E );Erman, John
+category:;DVD;Directors;( G );Golden, Murray
+category:;DVD;Directors;( G );Goldstone, James
+category:;DVD;Directors;( K );Komack, James
+category:;DVD;Directors;( M );Mcdougall, Don
+category:;DVD;Directors;( O );Oherlihy, Michael
+category:;DVD;Directors;( O );Oswald, Gerd
+category:;DVD;Directors;( P );Penn, Leo
+category:;DVD;Directors;( S );Sargent, Joseph
+category:;DVD;Directors;( S );Senensky, Ralph
+category:;DVD;Directors;( S );Senesky, Ralph
+category:;DVD;Directors;( T );Taylor, Jud
+category:;DVD;Directors;( W );Wallerstein, Herb
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Television;Classic TV
+category:;DVD;Genres;Science Fiction & Fantasy;Series & Sequels;Star Trek;General
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Genres;Television;By Decade;1950s-'60s;General
+reviews:29
+review:A3LOJPI7YWRS6C:5
+review:A3JXOXKWOIETIY:5
+review:A20EEWWSFMZ1PN:5
+review:A1F6VOJJILWD9L:4
+review:AEV640MKB3I9J:5
+review:A25JXMT3618J1M:4
+review:A2V9I5O33XZTO:3
+review:A2I7DSAIT9GWRV:1
+review:A18OTDIJ883S2M:5
+review:A7Y6AVS576M03:5
+review:AQ7BMOEIAEQ21:5
+review:A2A6EU2G544JK8:5
+review:A1BCA4FX8TS9GF:4
+review:A2B8DJ0CKN9FAO:5
+review:A3OI841P5R6FCH:4
+review:A2DD3U3KKV91HD:5
+review:A2NJO6YE954DBH:5
+review:AMPTB78CQ0J5P:3
+review:ASRUV1OYTKB4:5
+review:A89MGH1RHEOQN:5
+review:AYG1U47VFZ165:5
+review:A1G9IV3IBW8WMP:5
+review:A254Y7H76E9Y54:5
+review:A1HK6XXHTW6K89:4
+review:A10C8MYBRCVVFT:5
+review:AQP1VPK16SVWM:5
+review:AX4EIN8TXBI0M:4
+review:ABRRQINRDM1QH:5
+review:A3VREOCVARPZRM:5

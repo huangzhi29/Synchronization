@@ -1,0 +1,60 @@
+id:1290
+asin:B000056N8V
+title:Relative Values
+group:DVD
+salesrank:3783
+similar:5
+categories:29
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Comedy;By Theme;Love & Romance;Wedding Bells
+category:;DVD;Genres;Comedy;By Theme;Parenthood
+category:;DVD;Genres;Comedy;By Theme;Party Films
+category:;DVD;Actors & Actresses;( A );Andrews, Julie
+category:;DVD;Actors & Actresses;( A );Atterton, Edward
+category:;DVD;Actors & Actresses;( B );Baldwin, William
+category:;DVD;Actors & Actresses;( B );Beacham, Stephanie
+category:;DVD;Actors & Actresses;( F );Firth, Colin
+category:;DVD;Actors & Actresses;( F );Fry, Stephen
+category:;DVD;Actors & Actresses;( T );Thompson, Sophie
+category:;DVD;Actors & Actresses;( T );Tripplehorn, Jeanne
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Comedy;British;General
+category:;DVD;Special Features;Titles;( R )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;Comedy
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;Romantic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;Romantic Comedies
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;By Theme;Comedy of Manners
+reviews:23
+review:A1R29SR0IZQQSY:5
+review:AW3VZ5O895LRK:4
+review:A1MG93B9L0QTQA:2
+review:A3I2UR8ZRCE260:5
+review:A3R531HTHF142Y:5
+review:A2CVD8DLA9BXVZ:5
+review:A1L43KWWR05PCS:3
+review:A1D2C0WDCSHUWZ:4
+review:A1YK9XBOBKTCYH:4
+review:A3GD7XWCXANW76:4
+review:AXZNZNMG61K2C:3
+review:A1ZJDHOYFZYVVJ:3
+review:AL1WBEKIEPUPE:4
+review:A3CW8OUDH7M079:4
+review:A2880AJ19J3ZMO:4
+review:A3KVAUWICH5HX:5
+review:A3GYXZFKVQI233:5
+review:A21279TEPJ8YJ9:5
+review:A3PJQ6BF2DC3N1:5
+review:ANRM5RDEJTBC2:3
+review:A4MX5J20DCKDB:1
+review:A1SQ4ZBHOOKIDE:3
+review:A119WX1RR9PBAN:5

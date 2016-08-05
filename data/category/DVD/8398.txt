@@ -1,0 +1,33 @@
+id:8398
+asin:B00008973H
+title:Invisible Invaders / Journey to the Seventh Planet
+group:DVD
+salesrank:5048
+similar:5
+categories:14
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Genres;Science Fiction & Fantasy;Classic Sci-Fi
+category:;DVD;Actors & Actresses;( A );Agar, John
+category:;DVD;Actors & Actresses;( C );Carradine, John
+category:;DVD;Actors & Actresses;( H );Hutton, Robert
+category:;DVD;Actors & Actresses;( L );Langton, Paul
+category:;DVD;Actors & Actresses;( T )
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( I )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:11
+review:A17E4Z4I7FT72Q:4
+review:A2J9VRLVLQXYIH:4
+review:A1ACU5DM3FA2NK:3
+review:A1I7GHG2XNYO3J:4
+review:AST7UNIXVOAVA:4
+review:A12X2J7AVZ04IQ:4
+review:A25ZVI6RH1KA5L:3
+review:A3GKPMHV4U64IY:4
+review:A2AW07U4JR5O7W:5
+review:AIMR915K4YCN:4
+review:A2NOZB6VZCTOI4:5

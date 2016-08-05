@@ -1,0 +1,27 @@
+id:12289
+asin:B00000F3U0
+title:Backlash
+group:DVD
+salesrank:41453
+similar:5
+categories:17
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Mystery & Suspense;Mystery
+category:;DVD;Actors & Actresses;( A );Aykroyd, Peter
+category:;DVD;Actors & Actresses;( B );Belushi, James
+category:;DVD;Actors & Actresses;( D );Durning, Charles
+category:;DVD;Actors & Actresses;( L );Lauria, Dan
+category:;DVD;Actors & Actresses;( L );Lawson, Richard
+category:;DVD;Actors & Actresses;( N )
+category:;DVD;Actors & Actresses;( P );Plana, Tony
+category:;DVD;Actors & Actresses;( S );Silva, Henry
+category:;DVD;Actors & Actresses;( W );Williams, Jobeth
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:2
+review:A3P4NJDKM2KT5C:1
+review:AJSK0W7KQ19G1:3

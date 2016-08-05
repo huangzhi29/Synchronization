@@ -1,0 +1,131 @@
+id:18263
+asin:B00005JKH9
+title:The Party
+group:DVD
+salesrank:1324
+similar:5
+categories:17
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Slapstick
+category:;DVD;Genres;Comedy;By Theme;Fish Out of Water
+category:;DVD;Genres;Comedy;Farce
+category:;DVD;Genres;Comedy;By Theme;Party Films
+category:;DVD;Actors & Actresses;( C );Champion, Marge
+category:;DVD;Actors & Actresses;( L )
+category:;DVD;Actors & Actresses;( S );Sellers, Peter
+category:;DVD;Directors;( E );Edwards, Blake
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;All MGM Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Comedy;Comedy Directors;Blake Edwards
+category:;DVD;Genres;Comedy;Comedy Stars;Peter Sellers
+category:;DVD;Genres;Comedy;By Theme;Comedy of Manners
+reviews:106
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A31H49HYKSL67Q:4
+review:ATVPDKIKX0DER:5
+review:A11K8K8QS0GYFE:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A3VRRBOXBNWBDB:5
+review:ATVPDKIKX0DER:5
+review:A2B1OJ22IYM3NR:5
+review:A3FEE41RSKWCPK:3
+review:A2II7PZV95ZIZ0:4
+review:A3AY9OT5NG38O0:4
+review:ATVPDKIKX0DER:5
+review:AOR8OYZ3NL8X9:5
+review:A349SO0B9HG4W0:5
+review:ADZN9ZFUQWFLC:5
+review:AIU7T98LQ2B68:5
+review:A1KMZ6MF8HADIV:5
+review:A1DNTX32AVZYQ3:5
+review:A16OWGV99ESVM8:5
+review:A2K3GFJSELGSS8:5
+review:A37CMZ4SMQINTR:5
+review:AFPFSIL6UK1VU:1
+review:A1WJLRVP9FNS3B:1
+review:A3CRH2GZBDL51D:4
+review:A31A0AIYPWL41R:4
+review:AEKVNXC6R8O9G:3
+review:A2K7BUIO1ORT95:4
+review:AMA9QL8HT8GS3:5
+review:A2WFWASYMCPELF:4
+review:A2BVMFF1GCRXK8:3
+review:A25CJ8SRKS63KE:5
+review:A1PV37QIM80RNJ:5
+review:ADIDW9OD4JO8H:5
+review:A2NRJPY8LPHYJL:4
+review:A2C4RE7EYMOVMV:4
+review:A2LGMWRZ280PDU:5
+review:A20TZ1MQ0KMJRR:5
+review:A2IY43OULA9FJG:5
+review:A102L3X55UZ5AI:5
+review:A1Z2Z1V1XYXULX:5
+review:AD8A4P9VFRG9:5
+review:A318LALO0WW50D:5
+review:AICZ0U5V9A4Z8:4
+review:ASVMG20M8Z4L:5
+review:AV8GHXOLFWOA5:3
+review:A1C6826T9C18DN:4
+review:A3Q77CS1DEQLMG:5
+review:AHCMEP8A0C75O:3
+review:AL4MKKO24563R:5
+review:AB1Z5RMW4Q67X:5
+review:AXROMYH3MTVRZ:2
+review:AEWNMBHW42GGE:5
+review:A113EGLAWRFJ0B:5
+review:A1FAWFMP6CDKG:5
+review:A4YLFRSBBC3RZ:5
+review:A16YLL2PIINBVT:5
+review:A1RJD10TTI568L:5
+review:A38H29GDSL766B:5
+review:A1L3JKXFHGJ9TS:5
+review:ABF7T2VINFSG6:5
+review:ACWS5EJTFRCAO:1
+review:A2N7A90U74MH4C:5
+review:ARXT76YN3RUIR:5
+review:A240QB45BSMDAN:5
+review:A15PRGK8O8L3II:3
+review:AQLKBEVHUQ0JK:5
+review:A3H5LJ8ZYYZ6DI:5
+review:A3HUOVQ2H9UNA9:4
+review:A3JV3WNI21NBCT:5
+review:A2JODZWZQ3R81X:5
+review:A2EWVZA96CMRBZ:5
+review:A3NIEZQ9M01G3M:5
+review:A25ZVI6RH1KA5L:4
+review:A306H14L01BUXJ:4
+review:A26JV5WJ60IUX5:4
+review:APFVCVP3Z3O2P:5
+review:A1HJELOC1LKFCS:5
+review:A1FK5C97PUN3BQ:5
+review:A1OY1C52Y1640I:5
+review:AV3JZAYAP7GHC:3
+review:AVXYKNVXD682E:5
+review:APOGXH3A74CM3:5
+review:A1LVZOK9F7K4CN:4
+review:A13H2JJ3GEMJN1:4
+review:AQ9XQBOAHB999:5
+review:A2YAWRDM4BWOXC:5
+review:A84JLSGWGWNII:5
+review:A2VN986E5KR1NV:5
+review:A25MUXFY1PI9RP:5
+review:A16CZRQL23NOIW:5
+review:A1VILKSKCS2O6R:5
+review:A2MLVDAX7RCV9P:5
+review:A1G9FX1KV45N41:4
+review:A3CW4EZUTEV0VC:5
+review:A1YIFPM15ZHNIV:5
+review:AW948TO21PAJV:1
+review:A3X14Z8KAZJB8:4
+review:A1KZKG9T8B2KG2:5
+review:A2HJB9J5O5CLPB:3
+review:A47H2HVPSAJYY:1
+review:A235M6UWP5MG3I:5
+review:A81P47EIXM8HA:2
+review:A2B73CL3QSYWLB:5

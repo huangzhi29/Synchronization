@@ -1,0 +1,20 @@
+id:12505
+asin:B00005KAQT
+title:The 13th Warrior/Instinct
+group:DVD
+salesrank:48135
+similar:0
+categories:11
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( A );Ashton, John
+category:;DVD;Actors & Actresses;( D );Dzundza, George
+category:;DVD;Actors & Actresses;( G );Gooding Jr., Cuba
+category:;DVD;Actors & Actresses;( G );Grimshaw, Jim
+category:;DVD;Actors & Actresses;( H );Hopkins, Anthony
+category:;DVD;Actors & Actresses;( L );Linn, Rex
+category:;DVD;Actors & Actresses;( M );Macaulay, Marc
+category:;DVD;Actors & Actresses;( S );Sutherland, Donald
+category:;DVD;Actors & Actresses;( T );Tierney, Maura
+category:;DVD;Directors;( T );Turteltaub, Jon
+reviews:1
+review:A2NJO6YE954DBH:3

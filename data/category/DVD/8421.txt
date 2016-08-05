@@ -1,0 +1,13 @@
+id:8421
+asin:B00005Y6Y9
+title:Exotic Spices
+group:DVD
+salesrank:12623
+similar:5
+categories:5
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( E )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:0

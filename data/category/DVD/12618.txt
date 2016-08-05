@@ -1,0 +1,16 @@
+id:12618
+asin:B000063K1D
+title:Red Shoe Diaries - Forbidden Zone
+group:DVD
+salesrank:42804
+similar:5
+categories:7
+category:;DVD;Actors & Actresses;( A );Acovone, Jay
+category:;DVD;Actors & Actresses;( A );Addabbo, Anthony
+category:;DVD;Actors & Actresses;( B );Bako, Brigitte
+category:;DVD;Actors & Actresses;( D );Duchovny, David
+category:;DVD;Actors & Actresses;( S )
+category:;DVD;Directors;( E );Eisenman, Rafael
+category:;DVD;Special Features;Titles;( R )
+reviews:1
+review:AUTBHG6070SL4:3

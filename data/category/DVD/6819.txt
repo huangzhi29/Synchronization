@@ -1,0 +1,24 @@
+id:6819
+asin:B00004R991
+title:Why Dogs Smile and Chimpanzees Cry
+group:DVD
+salesrank:10315
+similar:5
+categories:6
+category:;DVD;Genres;Documentary;General
+category:;DVD;Genres;Special Interests;Nature & Wildlife
+category:;DVD;Genres;Television;Discovery Channel
+category:;DVD;Actors & Actresses;( W );Weaver, Sigourney
+category:;DVD;Specialty Stores;Studio Specials;Lions Gate Home Entertainment;Top Sellers
+category:;DVD;Special Features;Titles;( W )
+reviews:10
+review:A1C2BPZBXQ4D2P:4
+review:A20911Y86O1N9H:5
+review:AHRB2UHU4DLPE:5
+review:A34F50JSJNI52B:5
+review:A1Q5JCH7IXRIW4:5
+review:A2YJW5OGI3UGQV:4
+review:AR4SDPF300ODR:5
+review:AK4AYSTC2B3BA:5
+review:AQ8DU6XVA3USJ:5
+review:A37B58AR53ZA4N:5

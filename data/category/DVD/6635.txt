@@ -1,0 +1,46 @@
+id:6635
+asin:B0000509C2
+title:Lust in the Dust
+group:DVD
+salesrank:14531
+similar:5
+categories:21
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Westerns;Comedy
+category:;DVD;Genres;Comedy;By Theme;Obsessive Quests
+category:;DVD;Genres;Action & Adventure;By Theme;Parody & Spoof
+category:;DVD;Actors & Actresses;( D );Divine
+category:;DVD;Actors & Actresses;( G );Gains, Courtney
+category:;DVD;Actors & Actresses;( G );Gallego, Gina
+category:;DVD;Actors & Actresses;( H );Hunter, Tab
+category:;DVD;Actors & Actresses;( K );Kazan, Lainie
+category:;DVD;Actors & Actresses;( L );Lewis, Geoffrey
+category:;DVD;Actors & Actresses;( R );Romero, Cesar
+category:;DVD;Actors & Actresses;( S );Silva, Henry
+category:;DVD;Actors & Actresses;( S );Strode, Woody
+category:;DVD;Actors & Actresses;( W );Wyle, Noah
+category:;DVD;Directors;( B );Bartel, Paul
+category:;DVD;Genres;Cult Movies;Comedy
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( L )
+category:;DVD;Genres;Comedy;Parody & Spoof;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:17
+review:ATVPDKIKX0DER:5
+review:A1D1ZDGBC7R1A7:4
+review:A31A45812XNCIV:4
+review:A1MR1VMK999I6O:5
+review:A1MR1VMK999I6O:5
+review:A2TO2BN3P4C00L:3
+review:AH0CFH7G18UBW:5
+review:A2OTX4X3895YXT:2
+review:A5T0FBCAF47VL:4
+review:A1HCHCL86MKX3G:5
+review:A1GF7BR6K22GZD:5
+review:A1EI65WJC85U68:1
+review:A2VJJRCTBFRNUZ:5
+review:A1COG8T9MPP3KA:3
+review:A111BH1GN0D33Z:5
+review:A114LQ55GCQ2RZ:5
+review:AK61LQI92GTCH:3

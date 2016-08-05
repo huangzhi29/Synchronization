@@ -1,0 +1,57 @@
+id:20183
+asin:B000063V8T
+title:Star Trek The Next Generation - The Complete Fifth Season
+group:DVD
+salesrank:3665
+similar:5
+categories:9
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( S );Stewart, Patrick
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Genres;Television;TV Series;Star Trek: The Next Generation
+category:;DVD;Genres;Science Fiction & Fantasy;Series & Sequels;Star Trek;General
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Boxed Sets
+category:;DVD;Genres;Television;By Decade;1980s;General
+reviews:40
+review:A28FPY7E22K1J6:5
+review:A2KA60QZUBJ6OH:4
+review:A3BU4HNPIGRBIZ:5
+review:A3R4TS03ITT2JC:5
+review:A2AFSZQY1B2ICM:5
+review:A2GP0K91AWQMO2:5
+review:A3J7QTHYIZ3XQT:5
+review:A1SA5B7NHBK2AE:5
+review:A1AFULO1G1A774:5
+review:A3BL8JDWOCF50D:4
+review:A3P1A63Q8L32C5:4
+review:AQP1VPK16SVWM:5
+review:A2U80L4WWUXUGI:5
+review:A3MV572ZVW8IYV:5
+review:AZDVOFC2MTIM5:5
+review:A2B8DJ0CKN9FAO:5
+review:A11EZ9BBZV58EV:5
+review:A2XRMQA6PJ5ZJ8:4
+review:AA9RF1OX3YK9A:5
+review:A2RBE2EXK10ZTA:5
+review:A38TCA4LUXQIF3:5
+review:A1V3UT4KPXG5AP:5
+review:A2XVRCU5DQBULH:5
+review:A2W81Q2GQG327T:5
+review:A3FPT4Z7UE7A64:4
+review:A16X61RLY1YJL7:5
+review:AR3RAD2DPXBRN:4
+review:A3SB0AQLVKLKAB:5
+review:AK7IDQJN31163:4
+review:A1PW5YZ3WN3GJQ:5
+review:A300Z0IHD6FGS0:4
+review:ADP36SN3VZ4RS:5
+review:A3SQZCA0JFB5CV:5
+review:A3DGHLV84CJRPZ:5
+review:A13YAM656X7EJ2:1
+review:A2HGSGH6G3WCTJ:1
+review:ADGMIWM567TF7:4
+review:A3M6Q9W7SGIU5F:5
+review:A3OI841P5R6FCH:4
+review:A3GRN6J64F2C3X:4

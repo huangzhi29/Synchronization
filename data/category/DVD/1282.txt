@@ -1,0 +1,33 @@
+id:1282
+asin:B000056N8P
+title:CBS Salutes Lucy - The First 25 Years
+group:DVD
+salesrank:28174
+similar:5
+categories:18
+category:;DVD;Genres;Documentary;General
+category:;DVD;Actors & Actresses;( A );Arnaz, Desi
+category:;DVD;Actors & Actresses;( B );Ball, Lucille
+category:;DVD;Actors & Actresses;( B );Berle, Milton
+category:;DVD;Actors & Actresses;( B );Burnett, Carol
+category:;DVD;Actors & Actresses;( B );Burton, Richard
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( C );Carson, Johnny
+category:;DVD;Actors & Actresses;( D );Davis Jr., Sammy
+category:;DVD;Actors & Actresses;( G );Gordon, Gale
+category:;DVD;Actors & Actresses;( H );Hope, Bob
+category:;DVD;Actors & Actresses;( K );Kaye, Danny
+category:;DVD;Actors & Actresses;( M );Martin, Dean
+category:;DVD;Actors & Actresses;( S );Stewart, James
+category:;DVD;Actors & Actresses;( T );Thomas, Danny
+category:;DVD;Actors & Actresses;( V );Vance, Vivian
+category:;DVD;Actors & Actresses;( W );Wayne, John
+category:;DVD;Special Features;Titles;( C )
+reviews:7
+review:AE8M1JRMRV8SJ:5
+review:A2ASTYM2D6TTAU:5
+review:A2KC2AM0F6BIMH:5
+review:A3S2KHWGGRIFH3:5
+review:A25I6X7JUC2JXB:1
+review:A1F3VYZTPQUTXG:5
+review:A3HMV6H6KFQRLJ:4

@@ -1,0 +1,13 @@
+id:7518
+asin:B00000JWVZ
+title:Blue Collar Babes
+group:DVD
+salesrank:59695
+similar:0
+categories:3
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:2
+review:AZE6CSDMXRFZU:2
+review:A934KQO4YFLX2:3

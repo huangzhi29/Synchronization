@@ -1,0 +1,157 @@
+id:17723
+asin:6305350221
+title:The War of the Worlds
+group:DVD
+salesrank:5117
+similar:5
+categories:24
+category:;DVD;Genres;Science Fiction & Fantasy;Sci-Fi Action
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Genres;Science Fiction & Fantasy;Classic Sci-Fi
+category:;DVD;Genres;Kids & Family;10-12 Years
+category:;DVD;Genres;Kids & Family;Adapted from Books
+category:;DVD;Actors & Actresses;( B );Barry, Gene
+category:;DVD;Actors & Actresses;( B );Birch, Paul
+category:;DVD;Actors & Actresses;( B );Brandon, Henry
+category:;DVD;Actors & Actresses;( C );Cornthwaite, Robert
+category:;DVD;Actors & Actresses;( F );Frees, Paul
+category:;DVD;Actors & Actresses;( G );Giglio, Sandro
+category:;DVD;Actors & Actresses;( H );Hardwicke, Cedric
+category:;DVD;Actors & Actresses;( K );Kruschen, Jack
+category:;DVD;Actors & Actresses;( R );Robinson, Ann
+category:;DVD;Actors & Actresses;( T );Tremayne, Les
+category:;DVD;Directors;( H );Haskin, Byron
+category:;DVD;Genres;Horror;Classic Horror & Monsters;Aliens
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Science Fiction & Fantasy;Alien Invasion
+category:;DVD;Genres;Science Fiction & Fantasy;Aliens
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Classics
+reviews:125
+review:ATVPDKIKX0DER:4
+review:A2N8CX0ZLIH6T1:5
+review:A3SHWOHGEAOQZE:5
+review:ATVPDKIKX0DER:2
+review:A205HJJLQZPB46:3
+review:A2I1KW6XVMNCU6:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:AKMXCZXE0KD5H:5
+review:ATVPDKIKX0DER:4
+review:A1PX2VIK8OI6EQ:5
+review:AAX87XD4CXANF:4
+review:A2OJ0121TMRXOW:3
+review:ATVPDKIKX0DER:4
+review:AJEM8LAMS7RQQ:4
+review:A3AQ62Y2BZIR3I:4
+review:A1X66YIM4G9F1W:5
+review:ATVPDKIKX0DER:5
+review:A29RDJNLCRY80O:4
+review:A75T21K1IC85T:3
+review:AU8552YCOO5QX:5
+review:ATVPDKIKX0DER:5
+review:A1Q680YQ5IP388:5
+review:ATVPDKIKX0DER:5
+review:AGOBDRE5GLXYH:5
+review:AKI76V6BNASCY:5
+review:A3RZYWXQAZS2NM:2
+review:A2J2W4PLBCT1E0:4
+review:A1BWHXTFOVF9CY:4
+review:A1QD2NC8K4XJRI:1
+review:A3GKRITM62D15H:5
+review:A31U2QT7SAL7K:5
+review:A3ECOALIVKX5VH:5
+review:A3NX1O7U1R83RD:4
+review:A2JDKOKQ3W5ZWT:3
+review:A2JDKOKQ3W5ZWT:3
+review:A1WKGADJ7OXJ32:4
+review:A6A38ESR48ZPK:4
+review:A3VYP7SQ99LMUG:5
+review:A2161MAS1NMMZ3:3
+review:AL4A04FHWPLLU:3
+review:A2P7PLTM57GAB9:5
+review:A1928PHI4RBCQ9:5
+review:A338L9TE4PDACV:3
+review:A3I17JVTPXS2K:4
+review:A2NTKQV2EIWOU1:5
+review:AV8D2HBT9WE9H:5
+review:A324LH8S4C8U4W:5
+review:A1EN4SGRR97LR5:5
+review:ARFBRSE35ZJ6A:3
+review:A4U2MMNYNHQLR:5
+review:A3UN6WX5RRO2AG:5
+review:A3VVSZ7JJUX0J8:5
+review:A2GZ98VBCS4YUO:5
+review:A2ZNJKY01ANDHG:3
+review:A2B8DJ0CKN9FAO:5
+review:A3A6WG4XUVQ2BF:5
+review:A14F0JSBYZZ8JX:5
+review:A1I7GHG2XNYO3J:5
+review:A2PBDB92U5WIJA:5
+review:AFZ2ZDF8CLHKA:5
+review:A1B38S1YJR1PQD:5
+review:A1MJMYLRTZ76ZX:5
+review:A1MJMYLRTZ76ZX:5
+review:A3RRBPUGD7UOSP:4
+review:A25Q9R3HA6K0P7:5
+review:A10Q8NIFOVOHFV:5
+review:A152C8GYY25HAH:4
+review:A1TFNBZUP5RTY7:5
+review:A2F7UCDYPS7YBA:5
+review:A28UFJF5K9DESN:3
+review:A3NIQK6ZLYEP1L:4
+review:A18RQ2URRGIIEA:5
+review:A1AIUEPBH7EVWC:5
+review:A3LRFGYJVXKPDI:5
+review:A1CX508E5VTWA3:4
+review:AAITWK3XHLI45:5
+review:ACIBQ6BQ6AWEV:4
+review:A1KDHHQRGC1PCN:4
+review:A3M5O6UHXO9IBU:3
+review:A27B7FE8BTSIY2:5
+review:ACT1EPHFS9E7V:5
+review:A3UDYY6L2NH3JS:2
+review:AIMR915K4YCN:5
+review:A2VDK9DF3HKL5X:5
+review:A2OVUDBRWGX0LL:5
+review:A13DRH017BAN4I:4
+review:A34QS03UVGNNKA:1
+review:ATRL0SLJCCJSB:5
+review:A1RW2CYEZY9973:4
+review:A25ZVI6RH1KA5L:5
+review:AZ7LPCN9Y9SLJ:3
+review:AZ1FPDDZEOTL8:1
+review:A3IKSXORTDGVH5:5
+review:A18NJFZQBFH8RP:4
+review:A20EEWWSFMZ1PN:5
+review:A2K5HL7C5J8XWE:5
+review:A2K5HL7C5J8XWE:5
+review:A3F89M59LQ70AJ:2
+review:A3F89M59LQ70AJ:2
+review:AXFI7TAWD6H6X:5
+review:AXFI7TAWD6H6X:5
+review:A1VJEAIHZM1FHP:5
+review:A1VJEAIHZM1FHP:5
+review:A88WX51J4CV6H:4
+review:A88WX51J4CV6H:4
+review:A3UN6WX5RRO2AG:3
+review:AYQF4Z1EQDACU:4
+review:A205RTIMJZ3732:4
+review:A1PH1IQ8CR1RZM:5
+review:ACMAUJEBY6GJF:1
+review:A1EE8WNVLSQ6FQ:4
+review:ACGNP00TEIEV3:5
+review:A2EEUQ81DTY7G3:4
+review:A3COZCJ6CG4396:4
+review:A1Y8FBJLVK6LS9:5
+review:A2BV9NK3BFXUCZ:1
+review:AMYW43AHO16SS:4
+review:A2MOZUWPBBC2QQ:5
+review:A2MOZUWPBBC2QQ:5
+review:A2BS8RE4LL14MV:5
+review:A1R6KGK8TRJAGV:4
+review:A3ANW2FJ7SZQ95:2
+review:A143O79A5RFJV7:5

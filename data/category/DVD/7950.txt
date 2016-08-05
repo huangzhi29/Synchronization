@@ -1,0 +1,34 @@
+id:7950
+asin:B00005OBAK
+title:Uncorked
+group:DVD
+salesrank:10972
+similar:5
+categories:9
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;By Genre;Comedy
+category:;DVD;Actors & Actresses;( B );Beaver, Jim
+category:;DVD;Actors & Actresses;( D );Driver, Minnie
+category:;DVD;Actors & Actresses;( G );Grunberg, Greg
+category:;DVD;Actors & Actresses;( H );Hawthorne, Nigel
+category:;DVD;Actors & Actresses;( S );Sewell, Rufus
+category:;DVD;Actors & Actresses;( Y );Young, Keone
+category:;DVD;Special Features;Titles;( U )
+reviews:17
+review:A1DTGEDG7R1AW1:3
+review:A15NNBVQAK4XQ4:4
+review:A1K2J61OOH2AS3:5
+review:A2VH4HRLIC5AF1:5
+review:A1J2931UBBJPXM:3
+review:A2MNNHG2QLAPG0:4
+review:A3OD6QY8LQOVP1:5
+review:A1GDYDYVNB0Q9A:5
+review:A3L04ZXG37YB1A:4
+review:A1PFQANE1FTW8Y:4
+review:AG87BW4N07NMG:5
+review:A37OA596LMTAXK:5
+review:A36BWC4G3EYEIW:5
+review:A219LT6PSXNF98:5
+review:A2P49WD75WHAG5:5
+review:ADBAPERCS00NL:5
+review:A3GKZ44Q9GO8QZ:1

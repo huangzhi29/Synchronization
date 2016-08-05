@@ -1,0 +1,72 @@
+id:14389
+asin:B00006FDAX
+title:The Russians Are Coming, the Russians Are Coming
+group:DVD
+salesrank:2162
+similar:5
+categories:20
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Satire
+category:;DVD;Genres;Comedy;By Theme;Culture Clash
+category:;DVD;Genres;Comedy;By Theme;Fish Out of Water
+category:;DVD;Genres;Comedy;By Theme;Comedy of Errors
+category:;DVD;Actors & Actresses;( A );Arkin, Alan
+category:;DVD;Actors & Actresses;( B );Bikel, Theodore
+category:;DVD;Actors & Actresses;( B );Blue, Ben
+category:;DVD;Actors & Actresses;( F );Fennelly, Parker
+category:;DVD;Actors & Actresses;( F );Ford, Paul
+category:;DVD;Actors & Actresses;( K );Keith, Brian
+category:;DVD;Actors & Actresses;( L );Law, John Phillip
+category:;DVD;Actors & Actresses;( R );Reiner, Carl
+category:;DVD;Actors & Actresses;( S );Saint, Eva Marie
+category:;DVD;Actors & Actresses;( S );Schaal, Richard
+category:;DVD;Actors & Actresses;( W );Winters, Jonathan
+category:;DVD;Directors;( J );Jewison, Norman
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( R )
+reviews:44
+review:A278ZSO8ZZT0IF:5
+review:ATVPDKIKX0DER:5
+review:AALMON337NQ03:5
+review:ATVPDKIKX0DER:5
+review:A2ABU2H4ULJH0M:4
+review:A50SSM3A39OS3:5
+review:A2256KXI7W6RKF:5
+review:AI8URVCWT8OZR:5
+review:ATVPDKIKX0DER:5
+review:A1LPP5ZUZEIMY0:4
+review:A3H3HQJRFFYFIC:5
+review:A20DIPEX8IJQJE:5
+review:A2ZR5CUZ1RA1RQ:5
+review:A31B24E33JGSZ5:4
+review:AL2APHSIWU24D:5
+review:A3NQU1649SH0Q4:4
+review:A3J89I5M1E27CQ:5
+review:AT5TREIF5CVP6:5
+review:A2DSXA1E02C86D:5
+review:AYRUKBEPKOX0:4
+review:A2OLM3EXS7JHZ8:4
+review:A2I4XOMPT3OQHL:5
+review:A3B13F8J2XDU3W:5
+review:A3NDFNKBEBLUKS:5
+review:A26TSW6AI59ZCV:4
+review:A2Q8XGVS9GQX20:5
+review:A554SFOPAEPB2:5
+review:A2EWTU60OB5O52:5
+review:A1GHUN5HXMHZ89:4
+review:A1JBZ635HF1SVO:3
+review:A45FRA48NKGGY:1
+review:A2PCHC136TGA9K:5
+review:A5BAE3SEOGND5:5
+review:A5BAE3SEOGND5:5
+review:A37B3O457INKEA:4
+review:A10CFTCCJ5CWJO:5
+review:A19OVODGJB1G6A:3
+review:A1A535W556ROBQ:5
+review:ABSELBXOBNFS6:5
+review:AJYGQV81FSFE2:5
+review:A339138XLXW2F1:4
+review:A2IJOEZZTLRJ83:5
+review:A12IQ99MWM9YQ8:3
+review:A2BVCT2MPS6LHI:5

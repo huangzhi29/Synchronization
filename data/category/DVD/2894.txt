@@ -1,0 +1,24 @@
+id:2894
+asin:B00004UEEE
+title:Pokemon - The Po-Ke Corral (Vol. 21)
+group:DVD
+salesrank:40050
+similar:5
+categories:7
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;Characters & Series;Pokémon
+category:;Amazon.com Stores;Pokémon;DVDs
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Genres;Kids & Family;Television
+category:;DVD;Genres;Anime & Manga;General
+category:;DVD;Special Features;Titles;( P )
+reviews:9
+review:A1Z3LF3XUUNZRJ:5
+review:A3O0ZA0PSBXAUR:5
+review:A3O0ZA0PSBXAUR:5
+review:A3UN6WX5RRO2AG:5
+review:A18TENNS8IUBQH:2
+review:A3UN6WX5RRO2AG:5
+review:AE9WERKN1ICUL:3
+review:A3UN6WX5RRO2AG:4
+review:A3IT5E901EHP47:3

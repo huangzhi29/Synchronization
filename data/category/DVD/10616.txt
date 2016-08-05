@@ -1,0 +1,22 @@
+id:10616
+asin:B00002E1YO
+title:Art Pepper
+group:DVD
+salesrank:13953
+similar:5
+categories:8
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Directors;( M );Mcglynn, Don
+category:;DVD;Genres;Musicals & Performing Arts;Documentary
+category:;DVD;Genres;Music Video & Concerts;Jazz;Documentary
+category:;DVD;Genres;Music Video & Concerts;Jazz;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:6
+review:A81P47EIXM8HA:5
+review:AUFM312TQX1WI:5
+review:AUFM312TQX1WI:5
+review:AUFM312TQX1WI:5
+review:A1DKK59TSANZQR:4
+review:AH1M9A3JTV7C3:5

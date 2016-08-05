@@ -1,0 +1,11 @@
+id:8326
+asin:B00005YUOU
+title:Archives of War, Vol. 3 - Korea/Vietnam
+group:DVD
+salesrank:33557
+similar:5
+categories:3
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Genres;Documentary;Military & War;General
+category:;DVD;Genres;Documentary;Military & War;Vietnam War
+reviews:0

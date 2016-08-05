@@ -1,0 +1,32 @@
+id:7689
+asin:B00006BS7Q
+title:Leslie Sansone - Walk the Walk 3-DVD Set (Miracle Mile / Two Mile Walk / Weight Loss Walk 4 Miles)
+group:DVD
+salesrank:3947
+similar:5
+categories:9
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Actors & Actresses;( S );Sansone, Leslie
+category:;DVD;Genres;Special Interests;Health;Diets & Weight Loss
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( L )
+category:;DVD;Formats;Boxed Sets;Fitness & Yoga
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Fitness & Yoga;By Instructor;Leslie Sansone
+category:;DVD;Genres;Fitness & Yoga;Walking
+reviews:15
+review:A2I838VT9QIR1H:5
+review:A2Y4V7ORGUV8T6:5
+review:A2349BMJ2TLVTY:4
+review:A1PPM7GU36C9TY:1
+review:A3E6LCDLS1GR6G:5
+review:A3E6LCDLS1GR6G:5
+review:A2AYJJAFNSGSU1:2
+review:A16931XKKD05A3:5
+review:A3OHV4XCWQWTI1:5
+review:A3L3R4DG6SJ6L2:5
+review:A2CT56CRT2DBSI:5
+review:A3G5EJB4ESU1L4:5
+review:A3S9UDX9XUQ0AR:5
+review:A3H3WZUOGWQT6A:4
+review:A1Q9HME51BOB6Y:4

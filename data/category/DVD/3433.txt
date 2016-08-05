@@ -1,0 +1,14 @@
+id:3433
+asin:B00005AQ4P
+title:Playboy - The Best of Jenny McCarthy
+group:DVD
+salesrank:8562
+similar:5
+categories:4
+category:;DVD;Actors & Actresses;( M );McCarthy, Jenny
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( P )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:2
+review:AJTYN2L8T5FER:5
+review:AA5GYI115XRXJ:4

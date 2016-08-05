@@ -1,0 +1,29 @@
+id:5806
+asin:630506976X
+title:Love and Anarchy
+group:DVD
+salesrank:21448
+similar:5
+categories:15
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Satire
+category:;DVD;Actors & Actresses;( B );Bonaiuto, Anna
+category:;DVD;Actors & Actresses;( F );Fiore, Elena
+category:;DVD;Actors & Actresses;( G );Giannini, Giancarlo
+category:;DVD;Actors & Actresses;( H );Herlitzka, Roberto
+category:;DVD;Actors & Actresses;( M );Melato, Mariangela
+category:;DVD;Directors;( W );Wertmuller, Lina
+category:;DVD;Genres;Art House & International;By Country;Italy;General
+category:;DVD;Genres;Art House & International;By Country;Italy;Drama
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Art House & International;By Original Language;Italian
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:6
+review:A26UW8DNN74AGK:4
+review:A1M5ZBF1N2304S:5
+review:A255UAQIMMA6YG:2
+review:AR15V2ULA2EYM:5
+review:A2DVRERG5HBA5L:4
+review:A3PAMMMH9F56K9:4

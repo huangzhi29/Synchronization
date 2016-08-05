@@ -1,0 +1,54 @@
+id:18972
+asin:B00007AJEE
+title:Condorman
+group:DVD
+salesrank:39549
+similar:5
+categories:19
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Thrillers
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Action & Adventure;Comic Action
+category:;DVD;Genres;Comedy;By Theme;Assumed Identity
+category:;DVD;Actors & Actresses;( A );Arden, Robert
+category:;DVD;Actors & Actresses;( C );Carrera, Barbara
+category:;DVD;Actors & Actresses;( C );Crawford, Michael
+category:;DVD;Actors & Actresses;( D );Dobtcheff, Vernon
+category:;DVD;Actors & Actresses;( E );Elcar, Dana
+category:;DVD;Actors & Actresses;( R );Reed, Oliver
+category:;DVD;Directors;( J );Jarrott, Charles
+category:;DVD;Genres;Action & Adventure;Espionage
+category:;DVD;Genres;Mystery & Suspense;By Theme;Espionage
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( C )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Military & War;By Theme;Cold War
+reviews:27
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:3
+review:A35GB90S2BIBIN:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:AU444CC8NTCP:4
+review:A224PYHHQOD9PA:5
+review:A2MZHLWC1F3Z23:5
+review:A3CBT4T570IG42:5
+review:A3POSXX978YWX0:1
+review:A2INPM1XC0UOYI:5
+review:A1CZY1FYKDRBPW:4
+review:A36AH31X84FIC8:5
+review:AZVWOHXY3AGMJ:4
+review:AFVG6U04NTFDB:1
+review:A2V9I5O33XZTO:3
+review:A1XN6MBYDBTX16:5
+review:A24GYTKSRBTR7P:3
+review:A3I5ZVSNNWOT9C:1
+review:A31YAROSG7J7U4:5
+review:AHXFEW7M6K917:2
+review:A1HX00DL0SZM1G:4
+review:A2OL2X9S0UL0XY:5
+review:A3AZM31PP8KK97:4

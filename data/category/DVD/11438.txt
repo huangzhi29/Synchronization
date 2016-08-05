@@ -1,0 +1,44 @@
+id:11438
+asin:B00006IUFQ
+title:Robotech - The Macross Saga - Complete Collection
+group:DVD
+salesrank:8118
+similar:5
+categories:4
+category:;DVD;Genres;Anime & Manga;By Studio;ADV Films
+category:;DVD;Special Features;Titles;( R )
+category:;DVD;Genres;Anime & Manga;Characters & Series;Robotech
+category:;DVD;Formats;Boxed Sets;Anime
+reviews:32
+review:A3FD8D6RD9FPJZ:5
+review:A320Y94RHXFJWL:5
+review:A1ECF4HZLRYY4Y:5
+review:A1ECTOJCSLU5W2:3
+review:A13J29SC4Y53J1:5
+review:A39R83FJFQ1BSJ:5
+review:A3EMKMBDL3B267:5
+review:A2KVUYPLEW4LXT:5
+review:AOSCCKC8E065N:1
+review:A29FIEOWPHL55S:5
+review:ASVKGBIRPQ0G7:5
+review:A3EOXIMQEFM4PC:5
+review:A3ANSDQ7KHKMDB:3
+review:A2TW9NEB7UCMV1:3
+review:A13IZMC6W9IE3M:4
+review:A2UMYK95JMV7FY:4
+review:A253PR3T9PFOZL:4
+review:A3OYRDIY7C05G4:5
+review:ADQB08OV6R90H:5
+review:A1H7T0X2AAD030:4
+review:A1JYGPV8K5XURJ:4
+review:A1MW20UAW105K4:2
+review:A17THF88H8OAA2:5
+review:A1GYBZJGJL23HI:5
+review:A1XKTELMNFVPV:5
+review:A8KWKXQDA9IN7:5
+review:A1ELM0GEXEAM79:1
+review:A2EY23WUHTEHAY:5
+review:A1OULBHSJ1V22F:3
+review:A17IY9A899O0BM:4
+review:A302PC8F2R2RXS:5
+review:A3UN6WX5RRO2AG:5

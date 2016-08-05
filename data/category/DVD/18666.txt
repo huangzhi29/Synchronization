@@ -1,0 +1,152 @@
+id:18666
+asin:B000031EFY
+title:Detroit Rock City (New Line Platinum Series)
+group:DVD
+salesrank:7790
+similar:5
+categories:24
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Teen
+category:;DVD;Genres;Comedy;By Theme;Nothing Goes Right
+category:;DVD;Genres;Comedy;By Theme;Parenthood
+category:;DVD;Special Features;Fully Loaded DVDs;New Line Platinum Series
+category:;DVD;Actors & Actresses;( F );Flaherty, Joe
+category:;DVD;Actors & Actresses;( F );Furlong, Edward
+category:;DVD;Actors & Actresses;( G );Gardner, David
+category:;DVD;Actors & Actresses;( H );Huntington, Sam
+category:;DVD;Actors & Actresses;( J );Jones, Cody
+category:;DVD;Actors & Actresses;( L );Lynskey, Melanie
+category:;DVD;Actors & Actresses;( L );Lyonne, Natasha
+category:;DVD;Actors & Actresses;( S );Scotti, Nick
+category:;DVD;Actors & Actresses;( T );Tweed, Shannon
+category:;DVD;Directors;( R );Rifkin, Adam
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;Teen
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;Teen
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:120
+review:A2RY64L8YR96MM:5
+review:A22FG74SUZWRFV:4
+review:A3AF079KDTRCTJ:3
+review:A3CKU2E57OCTVA:4
+review:A3H2TDVVV9X2U0:5
+review:AJY4VPXWAVCLR:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:AV2X9DEE90RVZ:5
+review:A2HGRQ8HZD4CTQ:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A685SPJWVI2QD:5
+review:ATVPDKIKX0DER:5
+review:A1UNJYPX80MORA:5
+review:A2I2640BO3ESAM:5
+review:A2Y3Q348A2LJHM:5
+review:A12RLZAH06PSJD:5
+review:A12LK0W7SUNNT:5
+review:A37UOT2RDW2OVL:3
+review:ARQNGXY2H25KC:5
+review:A2GPPDA3XW8BDV:4
+review:AWC3AD44HOTM4:5
+review:A3UG367QHTGYW:4
+review:A3N0Z5B1QLY6QT:4
+review:A2GREE5C2GA363:4
+review:AICFM9MYSZ3LZ:5
+review:A2H23KCZJRW84F:5
+review:A1LWYVLGA3N2R4:4
+review:A11XKY4EIU2KNR:5
+review:A3F4GL4UBXIWIH:5
+review:ATF6DV9FWXTZR:5
+review:A1DM2BLQ5VSD9F:4
+review:A2BZIFJKICNJVG:5
+review:A1M4R5D3PPRCLF:4
+review:A195XL1OBKBHWW:5
+review:A345WVAVMMO6F0:5
+review:A1KSRE8OKDM2JE:5
+review:A1TYNB4GS2SMQ9:2
+review:A278PS2SJE3D11:4
+review:A2DVFHG099GUGE:2
+review:A12MS6YFFMQDJD:5
+review:A32OF9XBJFVF5M:5
+review:A1FFNK32QKA6LJ:5
+review:A12O40A65ZUJAP:5
+review:AV5FYL97XKSC0:5
+review:A1D3YSFB5MN7ME:5
+review:A2GPRB6M2PS3AD:5
+review:AC0SO8M13VK9L:5
+review:ATVPDKIKX0DER:4
+review:A1KZSQP0KVKU6L:4
+review:A1D3MYYUV2U9NS:2
+review:ALU8EZRO900U2:5
+review:AQ4NJ2T9PVI3L:3
+review:A2W9J1ZCL5N1ZB:5
+review:A33RDFYADJUYJQ:4
+review:A2XD1WIWNNRUK2:5
+review:A3AY9OT5NG38O0:3
+review:A3P3ACCLEF4DBR:5
+review:A321JHCWQ1ZTDH:5
+review:A27F8WL14DK1RQ:5
+review:A2OXDJP1Z3LNOK:4
+review:A2HL2MXQMVQYDP:3
+review:A1KQGM021YCMQ:4
+review:A3ABKBLQ1II228:5
+review:AL4VR37B3CATV:5
+review:A331OF34UX4Y1K:2
+review:A15IUJXSA58P5B:4
+review:A2UK4AQ2V50K1D:5
+review:A2X27FQSHP418Y:1
+review:AQ4NJ2T9PVI3L:3
+review:A153MVFR0FTI6O:2
+review:A2L5IDS334C1GL:4
+review:A21Z7FXB1SVY2E:4
+review:AK2AQIULQDFS5:4
+review:AT0PY6FKQ3BZQ:4
+review:A2Z7HMXZ7CJ6TN:5
+review:A1YT9CI18UKMS9:3
+review:A1Y0SNMKW6R3QV:5
+review:ABKDVUJXBA1SZ:1
+review:A1A5DKTCJCYNSN:5
+review:A2ZVERVFM25MJT:3
+review:A2GUF6D9SLIRL9:5
+review:A2UGVZFKH8O5X4:5
+review:A3UN6WX5RRO2AG:5
+review:A3QAV7LALVG1F7:5
+review:A31PRZT9KL97OI:5
+review:A8ROO04MO7Q66:4
+review:A1ZTSOBAPOWT3:2
+review:A1JGM4SR4LFB6H:5
+review:AFSSZPVMGMQ9H:5
+review:AJKWF4W7QD4NS:4
+review:A30SAIQ9SX0OEY:5
+review:A4KZTH3GSO0KX:4
+review:A1AV3TPK7JHTB9:5
+review:A3U0EANI6TGHS2:5
+review:A3UN6WX5RRO2AG:5
+review:A1LACLX43VQ4NS:5
+review:A4PI4W7MQI9D9:5
+review:A38FOV8TSYUFI0:1
+review:A2E7DUVVPWPNAJ:5
+review:A3UN6WX5RRO2AG:5
+review:A82LIVYSX6WZ9:4
+review:AYOLDSNPONSEE:5
+review:A1UYMBWIREWL2N:4
+review:A3BVRA2QL3TIOQ:4
+review:ATX3O8B1GJ9XU:2
+review:A2AORB2BRH0QFD:5
+review:A3UNH2AGEND9LH:3
+review:A11NL256JEM1WO:5
+review:A13PPGIYJSVGYD:5
+review:A1EN0E4WMLYGW4:5
+review:A3PDYRRLMS1UAL:2
+review:A9EOOXJDI80DK:3
+review:A9EOOXJDI80DK:3
+review:A199545U14YERT:5
+review:A2ZSQW42SZUG24:5
+review:AIVPIB5HFLQMQ:4
+review:AKP40TIE5SVSQ:5

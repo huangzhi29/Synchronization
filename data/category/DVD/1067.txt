@@ -1,0 +1,18 @@
+id:1067
+asin:B000063JZI
+title:Kurogane Communication - Future Horizon (Episodes 17-24)
+group:DVD
+salesrank:55879
+similar:5
+categories:2
+category:;DVD;Special Features;Titles;( K )
+category:;DVD;Genres;Anime & Manga;By Studio;Media Blasters;All
+reviews:8
+review:A2OGH0ZSQ6K4NA:4
+review:A1PB2F0U6WDZUE:3
+review:A1VUYC1SRHO7UK:5
+review:A1VUYC1SRHO7UK:5
+review:A1VUYC1SRHO7UK:5
+review:A3K5OC1BGR3777:1
+review:A3K5OC1BGR3777:1
+review:A3UN6WX5RRO2AG:5

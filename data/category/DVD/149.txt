@@ -1,0 +1,28 @@
+id:149
+asin:B00000IC80
+title:Pot O' Gold/Made for Each Other
+group:DVD
+salesrank:51310
+similar:3
+categories:20
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( B );Burke, James
+category:;DVD;Actors & Actresses;( C );Carney, Art
+category:;DVD;Actors & Actresses;( D );Dearing, Edgar
+category:;DVD;Actors & Actresses;( G );Goddard, Paulette
+category:;DVD;Actors & Actresses;( G );Gordon, Mary
+category:;DVD;Actors & Actresses;( H );Heidt, Horace
+category:;DVD;Actors & Actresses;( P );Prouty, Jed
+category:;DVD;Actors & Actresses;( S );Stewart, James
+category:;DVD;Actors & Actresses;( W );Winninger, Charles
+category:;DVD;Directors;( M );Marshall, George
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( P )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:0

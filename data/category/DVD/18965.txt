@@ -1,0 +1,15 @@
+id:18965
+asin:B00007AJEO
+title:Victor Borge
+group:DVD
+salesrank:12555
+similar:5
+categories:6
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( B );Borge, Victor
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( V )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:1
+review:A1KT1GWCW8F80:3

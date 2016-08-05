@@ -1,0 +1,44 @@
+id:14402
+asin:B00006FDAN
+title:Clean Slate
+group:DVD
+salesrank:10301
+similar:5
+categories:28
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Comic Criminals
+category:;DVD;Actors & Actresses;( B );Bringleson, Mark
+category:;DVD;Actors & Actresses;( B );Brook, Jayne
+category:;DVD;Actors & Actresses;( C );Carvey, Dana
+category:;DVD;Actors & Actresses;( D );D'Abo, Olivia
+category:;DVD;Actors & Actresses;( G );Gambon, Michael
+category:;DVD;Actors & Actresses;( G );Golino, Valeria
+category:;DVD;Actors & Actresses;( J );Jones, James Earl
+category:;DVD;Actors & Actresses;( M );Monks, Michael
+category:;DVD;Actors & Actresses;( M );Murphy, Michael
+category:;DVD;Actors & Actresses;( P );Paton, Angela
+category:;DVD;Actors & Actresses;( P );Pollak, Kevin
+category:;DVD;Actors & Actresses;( R );Ruginis, Vyto
+category:;DVD;Actors & Actresses;( S );Sartain, Gailard
+category:;DVD;Actors & Actresses;( W );Wisdom, Robert
+category:;DVD;Directors;( J );Jackson, Mick
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;Detectives
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:8
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2GT6Z7HJVSC1Q:4
+review:A37FUJC2L7DSPT:2
+review:A1DQGXZMWJVO53:5
+review:A1IZ5OWT3QV26U:5
+review:A97B72F4UI8FA:3
+review:A3SRTGW9RIY9BN:5

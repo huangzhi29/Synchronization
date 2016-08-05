@@ -1,0 +1,93 @@
+id:17686
+asin:6305133131
+title:Altered States
+group:DVD
+salesrank:6966
+similar:5
+categories:33
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Genres;Science Fiction & Fantasy;Monsters & Mutants
+category:;DVD;Actors & Actresses;( B );Balaban, Bob
+category:;DVD;Actors & Actresses;( B );Barrymore, Drew
+category:;DVD;Actors & Actresses;( B );Brenner, Dori
+category:;DVD;Actors & Actresses;( B );Brown, Blair
+category:;DVD;Actors & Actresses;( D );Davis, John Walter
+category:;DVD;Actors & Actresses;( H );Haid, Charles
+category:;DVD;Actors & Actresses;( H );Hurt, William
+category:;DVD;Actors & Actresses;( P )
+category:;DVD;Actors & Actresses;( R );Richards, Evan
+category:;DVD;Directors;( R );Russell, Ken
+category:;DVD;Genres;Cult Movies;Sci-Fi & Fantasy
+category:;DVD;Genres;Cult Movies;Psychedelic
+category:;DVD;Special Features;Today's Deals in DVD;Cult Movies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Drama
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Cult Movies
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Experiments Gone Wrong
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;Monsters & Mutants
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;Monsters & Mutants
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:52
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:4
+review:A3GPRY3PQ0K8PS:4
+review:ATVPDKIKX0DER:5
+review:AOE7IAVVL0D9I:3
+review:A3LIWL9WK3RGR3:5
+review:AEH62IUL071D1:4
+review:ATVPDKIKX0DER:5
+review:A1PKBAWBM8VSDN:4
+review:A2P98K03ZC0ODF:5
+review:A2QW8D7UU8UE0H:5
+review:A3ICDLUQ3V2QY2:3
+review:A260HPXUTLD8VV:3
+review:AYF76HQ10BL2J:4
+review:A2LWFZF8OC3ONC:4
+review:A2L9RSH5C5QSCX:5
+review:A1RZFX5PRKEXVE:1
+review:A2QAWNSDT1TLCF:4
+review:AKUW217DPCM00:5
+review:A1ZBQ1HK4JS4ZA:3
+review:A1RZFX5PRKEXVE:1
+review:A1TZKP96PFDVFE:1
+review:A280GY5UVUS2QH:5
+review:A1CZICCYP2M5PX:4
+review:AHRSDAKFHXEUX:5
+review:A3LNZKV31R04C4:4
+review:A5TZXWU8AALIC:5
+review:A3UN6WX5RRO2AG:5
+review:A2AFBVM5O9R09V:1
+review:A2ASIT0JYIGHTA:3
+review:A31IO6HNFMRNDS:5
+review:A31WDOV3Q22ANV:5
+review:A19401FIC1FG07:5
+review:A1H13QND23P6NH:1
+review:A26F0H4X95PSPN:4
+review:AV3JZAYAP7GHC:2
+review:AD0J5KK4WQXNS:5
+review:ANVOS4JLN2MKR:2
+review:A1IEGPT1Q5D3R2:4
+review:API63OEKU4XVO:2
+review:A3P1A63Q8L32C5:3
+review:A2WU223EGBTBI2:4
+review:A2RXIK0MFGGQPX:5
+review:A1H13QND23P6NH:1
+review:A1UX9LDEJEE8XR:5
+review:A1WHKVMK4T6SD5:1
+review:A16CZRQL23NOIW:5
+review:A2FSHOTV0RNW7Q:4
+review:A3Q5DGXDRS27XP:1
+review:A3LZGLA88K0LA0:1
+review:A3MYELGY9U5Q7Q:5
+review:A1C5HX8VFTOHDB:3

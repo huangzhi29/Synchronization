@@ -1,0 +1,52 @@
+id:522
+asin:B000050X31
+title:Mozart - Die Zauberflote (The Magic Flute) / Levine, Battle, Serra, Metropolitan Opera
+group:DVD
+salesrank:10124
+similar:5
+categories:14
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( A );Araiza, Francisco
+category:;DVD;Actors & Actresses;( B );Battle, Kathleen
+category:;DVD;Actors & Actresses;( M );Moll, Kurt
+category:;DVD;Actors & Actresses;( S )
+category:;DVD;Actors & Actresses;( Z );Zednik, Heinz
+category:;DVD;Directors;( L );Large, Brian
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Composer;Mozart, Wolfgang Amadeus
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Performer;Levine, James
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Composer;Mozart, Wolfgang Amadeus
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Historical Period;Classical (c.1770-1830)
+reviews:30
+review:A142CM2RYBG31R:5
+review:A1O2I89W4P5928:5
+review:ASS8KYIKJA3Q1:5
+review:A1JOTM16PZTBID:4
+review:A1JOTM16PZTBID:4
+review:A2V8EG8ZP6OORM:4
+review:A3N6BMTCM5ZHTD:5
+review:A3F5JV08JUY06C:5
+review:A2H7HNWO5KCXL2:5
+review:A2S8CXJCM4AYN0:5
+review:A16Z7VVZ9UL9FK:5
+review:AM836D28P0EEU:5
+review:AUX9KZUUB3YCE:4
+review:A3GLY99452U7FS:5
+review:A27D5EVE277NP:5
+review:A3OVPT07TIK4X9:5
+review:A17BXJFD66EGR8:5
+review:A1THJ5GJF9NLCS:5
+review:A3CEZXKQWWZGPF:4
+review:A1111SRNHKYHF4:5
+review:A3O2PI8SCB8WA1:5
+review:A1111SRNHKYHF4:5
+review:A2XNT187XMCHMC:5
+review:AJF4OSBSI4R6V:5
+review:A1AOL4N9Z5SMJR:1
+review:A1HACP80YXJRPP:1
+review:A2VYJ7ZDLY1VC9:1
+review:ARYL9JH7HPAY4:4
+review:A1DAPT92HVSSSR:3
+review:A1FTKZQL7FAENV:4

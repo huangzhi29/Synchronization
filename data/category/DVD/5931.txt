@@ -1,0 +1,27 @@
+id:5931
+asin:B00005NVDH
+title:Rugrats - Decade In Diapers
+group:DVD
+salesrank:18641
+similar:5
+categories:12
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Genres;Kids & Family;10-12 Years
+category:;DVD;Directors;( S );Swenson, Charles
+category:;DVD;Genres;Kids & Family;Characters & Series;Rugrats - All Grown Up
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( R )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Kids & Family;Characters & Series;Nickelodeon;General
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+reviews:7
+review:A8UOWROU90OS6:5
+review:A10H29ADSWVQCF:5
+review:A3NM0RAYSL6PA8:1
+review:A3UN6WX5RRO2AG:5
+review:A2BPQ0MAHCVFMA:5
+review:A3CK99IF37AX65:5
+review:A3UN6WX5RRO2AG:4

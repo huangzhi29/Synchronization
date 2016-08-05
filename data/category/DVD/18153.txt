@@ -1,0 +1,18 @@
+id:18153
+asin:B00005RRJQ
+title:Smash Cuts!
+group:DVD
+salesrank:61229
+similar:0
+categories:8
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:2
+review:ANQ1W6PGIANJM:1
+review:AGTK7CJJJ4A4K:4

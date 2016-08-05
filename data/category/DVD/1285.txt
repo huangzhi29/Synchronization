@@ -1,0 +1,45 @@
+id:1285
+asin:B000056N8W
+title:Earth Wind & Fire - Live
+group:DVD
+salesrank:12583
+similar:5
+categories:9
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll
+category:;DVD;Genres;Music Video & Concerts;Other Music;R&B
+category:;DVD;Genres;Music Video & Concerts;Concerts;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( E )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:28
+review:A13IIUY8DP5ZM8:5
+review:ATVPDKIKX0DER:5
+review:A1SXWD2D3W3TXK:5
+review:AR991KZJW3MPS:5
+review:A3OU2W1CQZMP2Z:5
+review:A2KLODSA55EFUI:5
+review:A2EXL3Y6C61OOQ:5
+review:ATVPDKIKX0DER:5
+review:A1HVR03GQU9V93:5
+review:A2BG7D89IAANOT:5
+review:A3D09Q8V75X5IQ:5
+review:AOCO88SZMTHUL:5
+review:A1KYKFPZRTL3HE:5
+review:ACPGN1SDBZGNF:5
+review:A3U3W7URZU9259:4
+review:A13HFEMWEBHI4X:1
+review:A3QI5CQNUFJJFU:3
+review:AUB9J1RELJH1X:3
+review:A35O9JZNW5LIJY:5
+review:A2E7LNK4N4H5ML:5
+review:A2IE00LX5GKSYZ:5
+review:AHPSJDYCVYB65:5
+review:AHPSJDYCVYB65:5
+review:A2JA42QYW5VNOC:5
+review:A3JPNYUTLSEAQN:5
+review:A37BCKSSQTQ7O8:3
+review:A2Z9EC5KDS0SLT:5
+review:AM7PR12D8180Q:4

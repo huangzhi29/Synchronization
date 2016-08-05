@@ -1,0 +1,94 @@
+id:17019
+asin:0792164962
+title:The Firm
+group:DVD
+salesrank:878
+similar:5
+categories:27
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Mystery & Suspense;Thrillers
+category:;DVD;Actors & Actresses;( B );Bell, Tobin
+category:;DVD;Actors & Actresses;( B );Brimley, Wilford
+category:;DVD;Actors & Actresses;( B );Busey, Gary
+category:;DVD;Actors & Actresses;( C );Calderon, Paul
+category:;DVD;Actors & Actresses;( C );Cruise, Tom
+category:;DVD;Actors & Actresses;( G );Garrick, Barbara
+category:;DVD;Actors & Actresses;( H );Hackman, Gene
+category:;DVD;Actors & Actresses;( H );Hardin, Jerry
+category:;DVD;Actors & Actresses;( H );Harris, Ed
+category:;DVD;Actors & Actresses;( H );Hill, Steven
+category:;DVD;Actors & Actresses;( H );Holbrook, Hal
+category:;DVD;Actors & Actresses;( H );Hunter, Holly
+category:;DVD;Actors & Actresses;( K );Kinney, Terry
+category:;DVD;Actors & Actresses;( L );Lombard, Karina
+category:;DVD;Actors & Actresses;( M );Martindale, Margo
+category:;DVD;Actors & Actresses;( S );Strathairn, David
+category:;DVD;Actors & Actresses;( T );Tripplehorn, Jeanne
+category:;DVD;Directors;( P );Pollack, Sydney
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( F )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Drama
+reviews:59
+review:AIYWJMKZA6G6M:5
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A3M4MMO8SN6YIN:3
+review:ATVPDKIKX0DER:4
+review:A2E3WZ698A4EZI:1
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:AH1NVTIAH5N1D:2
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:2
+review:A19QG8R79A4NV2:4
+review:A13910TC3NZ6LE:1
+review:ANDJOV6ZEX4LW:4
+review:ARODYCYK4GZKI:4
+review:A9Q28YTLYREO7:1
+review:A1WGF3DAX2WUV0:3
+review:ACMOLKXVKQ06Z:2
+review:A20MMM0JMKPYPE:4
+review:A195J2LFGFOZ9Y:3
+review:A22BKTECHE3WJN:5
+review:A2DECMCGKASEV1:1
+review:A25A0MJV5TXDR8:4
+review:A1J73V5JH0NF7Q:5
+review:A30AO422P01XK0:2
+review:AYOQR0H5AU35M:1
+review:A1P2NBM3P3TS2X:4
+review:A84UFSF2SZS2W:2
+review:A9LJRWNQTUOR1:3
+review:A189Z8KZTPSB7V:4
+review:A2BIG1DQVEH41W:4
+review:A2AH7PMGPKKNE4:3
+review:A3UT41TWD7N0D5:3
+review:A1G06KBBEWCJ92:2
+review:A51IK68MWKV5R:5
+review:A2NIQDDCSZD5GI:5
+review:AO0DOBC9UFWJB:5
+review:AO0DOBC9UFWJB:5
+review:A1BTQLRJ1PEDUG:2
+review:A394Q3JK9NNBAI:3
+review:A2W34OHCK0KVLB:5
+review:A347FL4HCZXO8A:5
+review:A28ERDII8FZQQ9:5
+review:A3GR4TL6OLVD4W:4
+review:A3P1A63Q8L32C5:4
+review:A3FR2XTU42Y7M9:4
+review:A82LIVYSX6WZ9:4
+review:A3UN6WX5RRO2AG:2
+review:A25ACLV5KPB4W:3
+review:A25ACLV5KPB4W:3
+review:A2JYPJWYN78HX9:5
+review:A1S9SO17691L5X:5
+review:A3FZ06XRKW5JC5:4
+review:AGH5RJDNL7TAZ:2

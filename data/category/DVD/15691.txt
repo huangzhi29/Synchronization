@@ -1,0 +1,10 @@
+id:15691
+asin:B00008XS0Q
+title:DNA2 - Mutation (Vol. 3)
+group:DVD
+salesrank:50482
+similar:0
+categories:1
+category:;DVD;Special Features;Titles;( D )
+reviews:1
+review:A1CAIT3LBW59RT:5

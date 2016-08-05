@@ -1,0 +1,35 @@
+id:18905
+asin:B00007AJE5
+title:I'm All Right Jack
+group:DVD
+salesrank:6707
+similar:5
+categories:18
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Satire
+category:;DVD;Actors & Actresses;( A );Attenborough, Richard
+category:;DVD;Actors & Actresses;( C );Carmichael, Ian
+category:;DVD;Actors & Actresses;( D );Donnelly, Donal
+category:;DVD;Actors & Actresses;( F );Fraser, Liz
+category:;DVD;Actors & Actresses;( G );Griffith, Kenneth
+category:;DVD;Actors & Actresses;( H );Handl, Irene
+category:;DVD;Actors & Actresses;( P );Price, Dennis
+category:;DVD;Actors & Actresses;( R );Rutherford, Margaret
+category:;DVD;Actors & Actresses;( S );Sellers, Peter
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( I )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;Comedy
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Comedy;Comedy Stars;Peter Sellers
+reviews:9
+review:A12KLMWDWVKBO1:5
+review:AHKX15R53HTXS:5
+review:A2NJUKI0JVL482:5
+review:A1T38Y12S5G182:5
+review:A27M15DFUPV1CK:5
+review:ASD4YBL5C9CV8:5
+review:A2B73CL3QSYWLB:3
+review:A2K5HL7C5J8XWE:4
+review:ABTUNH7645QJL:5

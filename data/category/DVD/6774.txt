@@ -1,0 +1,103 @@
+id:6774
+asin:B00004R99F
+title:A Goofy Movie (Disney Gold Classic Collection)
+group:DVD
+salesrank:5082
+similar:5
+categories:22
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Specialty Stores;Disney Home Video;Animated Movies
+category:;DVD;Specialty Stores;Disney Home Video;Gold Collection
+category:;DVD;Genres;Kids & Family;Comedy
+category:;DVD;Specialty Stores;Disney Home Video;By Age;3-6 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;7-11 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;For the Whole Family
+category:;DVD;Actors & Actresses;( B );Basco, Dante
+category:;DVD;Actors & Actresses;( B );Brown, Julie
+category:;DVD;Actors & Actresses;( M );Marsden, Jason
+category:;DVD;Actors & Actresses;( M );Martin, Kellie
+category:;DVD;Actors & Actresses;( S );Shawn, Wallace
+category:;DVD;Actors & Actresses;( W );Welker, Frank
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( G )
+category:;DVD;Genres;Kids & Family;By Theme;Parenthood
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:73
+review:A1H81P6589PDHI:4
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A1I5YQYJL2IPSI:4
+review:A3S3U5PHN7E416:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A29MPQD8QB71RS:5
+review:ACAJOL1OGVGP2:5
+review:A3IFL0IPPQSQQH:5
+review:AKTMW6ZJY3CVN:5
+review:A3DCGPOT0ESQMM:5
+review:AFMSDET7ZH9UU:5
+review:A38FIAX79ASXGN:5
+review:A2O5GLBJ1OMLZS:5
+review:AN1TWSCJO0R0P:5
+review:AY6LO4QGMCHSE:5
+review:A2TF4HDBN0FBEG:5
+review:A1ZA46OQD1ONJW:3
+review:A2LER16JFKO902:4
+review:A1UXBVFXNA2P6P:5
+review:ACMOLKXVKQ06Z:5
+review:ACMOLKXVKQ06Z:5
+review:ACMOLKXVKQ06Z:5
+review:A3UN6WX5RRO2AG:5
+review:A2UQIIJ2CD8REE:5
+review:A3DRL1RNPCRTLH:5
+review:AP671NZCKNBZR:5
+review:A2RHV42BTJSVON:5
+review:A2PEUMLWDWWU1H:5
+review:APCCMTVR97YKY:5
+review:A1PSU5D960FV61:5
+review:A20JYIHL1W1U54:5
+review:AA5XZVANDXGJE:4
+review:A8K2K0RK5M7K6:5
+review:ANW9OI214BPZ3:5
+review:A1Q51RIREPMHRV:5
+review:A1COW0UIB5HA9J:5
+review:ATVPDKIKX0DER:5
+review:A37VU91RWFXK3L:5
+review:A1XWLD0P8NM6BA:5
+review:A1YSI93GVIVPPT:5
+review:A2ND7KO5Q8I86E:5
+review:A2ND7KO5Q8I86E:5
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A1DMSI63IOGX8I:5
+review:A3G9Y0YGLX2L2Q:5
+review:A2Q6T7BPAJC7LU:5
+review:AGUB2543MVG5E:5
+review:A3UN6WX5RRO2AG:5
+review:A3QF35BQPRVC8L:5
+review:A3MUU25Y8R7TNJ:5
+review:AYOLDSNPONSEE:5
+review:A1LC5JSA9YF9JH:3
+review:A33XCER1ATQOBL:3
+review:AIGWUU10GUWFS:5
+review:A31CPF097O8MYC:5
+review:A2WYPID4XEQIPS:5
+review:A8S2CZ1N0I1XR:5
+review:A3UN6WX5RRO2AG:4
+review:AWPAKXAU3EREX:1
+review:A2OEZSVUGGNX86:5
+review:A13U0TGRLYJBPX:5
+review:A3CY5UH5JR4MJT:5
+review:ATU6AN7OFVO0M:2
+review:A3D2VIUT2HWP0Z:5
+review:A3UN6WX5RRO2AG:5

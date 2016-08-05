@@ -1,0 +1,15 @@
+id:1668
+asin:B00005NB9J
+title:The Instant Kung-Fu Man
+group:DVD
+salesrank:33979
+similar:0
+categories:7
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Martial Arts;General
+category:;DVD;Genres;Sports;Martial Arts
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( I )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Action & Adventure;By Theme;Identities
+reviews:0

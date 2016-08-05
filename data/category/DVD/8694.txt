@@ -1,0 +1,32 @@
+id:8694
+asin:0767847539
+title:Virtual Sexuality
+group:DVD
+salesrank:28125
+similar:5
+categories:10
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Teen
+category:;DVD;Genres;Comedy;By Theme;Coming of Age
+category:;DVD;Genres;Comedy;By Theme;Sex Comedies
+category:;DVD;Actors & Actresses;( O );Oates, Robert
+category:;DVD;Actors & Actresses;( S );Sheen, Ruth
+category:;DVD;Genres;Art House & International;By Theme;Coming of Age
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( V )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+reviews:14
+review:ANPXMT8E4XKSL:2
+review:A3VSTTA8DAAPZ9:4
+review:A3IQ3JUCOCFKT5:5
+review:A39C3UF49WO3B3:4
+review:A39C3UF49WO3B3:4
+review:A1XX5797TIZT5Q:3
+review:A3AY34JJM42EUG:4
+review:A2FBPTKERJ3PRI:5
+review:A1G3KN4STOXCPM:4
+review:AEX9GVFDWSOJY:4
+review:AEX9GVFDWSOJY:4
+review:ACCEC9E3BDSPR:4
+review:A3SRNXPKZXNA29:4
+review:A342AZPTC0QE57:1

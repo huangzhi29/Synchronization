@@ -1,0 +1,17 @@
+id:4765
+asin:B00005T30T
+title:Air Force One, Flight II - The Planes and the Presidents
+group:DVD
+salesrank:36088
+similar:5
+categories:4
+category:;DVD;Genres;Documentary;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:5
+review:A3KCKMRUCEE1BA:4
+review:A14SLBLUQHEIF6:5
+review:A14OJS0VWMOSWO:5
+review:A31UQTSU89OVIA:4
+review:A31UQTSU89OVIA:4

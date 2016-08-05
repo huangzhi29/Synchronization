@@ -1,0 +1,13 @@
+id:2395
+asin:B00005RYOS
+title:Groupies
+group:DVD
+salesrank:52445
+similar:2
+categories:3
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Documentary;General
+category:;DVD;Special Features;Titles;( G )
+reviews:2
+review:A296V3DE0WU2ZE:5
+review:A1BB9ERQTKUTES:2

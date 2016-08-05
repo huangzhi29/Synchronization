@@ -1,0 +1,27 @@
+id:10750
+asin:B000067D0M
+title:When Popeye Ruled the Seven Seas
+group:DVD
+salesrank:40752
+similar:5
+categories:9
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Kids & Family;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Kids & Family;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:10
+review:AH61WX3SU1TPN:3
+review:A3DS1Q6QST144C:1
+review:A2B8GXSCB1R05T:2
+review:A3LVLDQW7N1HWN:4
+review:AU5009ZEML0WR:4
+review:A2PWMNGSTJ294X:1
+review:A2YQ2BJEVSLOMZ:5
+review:APNVG8ZF7MZMO:2
+review:AQJ4JP86V3DNC:5
+review:A3QKHRRJ3J09QE:5

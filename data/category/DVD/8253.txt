@@ -1,0 +1,32 @@
+id:8253
+asin:B00005YUO2
+title:Shot in the Heart
+group:DVD
+salesrank:35355
+similar:5
+categories:19
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Biography
+category:;DVD;Genres;Mystery & Suspense;Mystery
+category:;DVD;Actors & Actresses;( K );Koteas, Elias
+category:;DVD;Actors & Actresses;( M );Madigan, Amy
+category:;DVD;Actors & Actresses;( R );Ribisi, Giovanni
+category:;DVD;Actors & Actresses;( S );Shepard, Sam
+category:;DVD;Directors;( H );Holland, Agnieszka
+category:;DVD;Genres;Mystery & Suspense;Crime;Prison Films
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;Family Life;Mothers & Sons
+category:;DVD;Genres;Drama;Family Life;Brothers & Sisters
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+category:;DVD;Genres;Television;HBO;General
+category:;DVD;Genres;Drama;Television;General
+reviews:5
+review:AJNBWN0GY8M2U:5
+review:A1EI65WJC85U68:2
+review:A2ZG5OFPY0X8MN:4
+review:A82LIVYSX6WZ9:4
+review:A3OTQX7V32CGQ5:4

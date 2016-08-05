@@ -1,0 +1,40 @@
+id:9990
+asin:6305228892
+title:Trial and Error (aka The Dock Brief)
+group:DVD
+salesrank:29837
+similar:5
+categories:24
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Satire
+category:;DVD;Genres;Comedy;By Theme;Nothing Goes Right
+category:;DVD;Actors & Actresses;( A );Attenborough, Richard
+category:;DVD;Actors & Actresses;( L );Lodge, David
+category:;DVD;Actors & Actresses;( P );Pettingell, Frank
+category:;DVD;Actors & Actresses;( R );Reid, Beryl
+category:;DVD;Actors & Actresses;( S );Sellers, Peter
+category:;DVD;Actors & Actresses;( T );Thornton, Frank
+category:;DVD;Directors;( H );Hill, James
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;Comedy
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;Satire
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;Satire
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;Comedy Stars;Peter Sellers
+reviews:8
+review:A1QV01FUT6XLH3:4
+review:AEWNMBHW42GGE:5
+review:A20EEWWSFMZ1PN:4
+review:A3MWEHZISVC1OP:3
+review:A3MLO4GAD2O9DL:3
+review:A2OFZEWEWBUE3Q:1
+review:A2RDQ5VH11X2M:5
+review:ABTUNH7645QJL:4

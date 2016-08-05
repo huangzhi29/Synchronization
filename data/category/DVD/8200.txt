@@ -1,0 +1,17 @@
+id:8200
+asin:B0000687BO
+title:A&E Literary Classics - The Romance Collection Megaset (Pride and Prejudice / Emma / Victoria & Albert / Tom Jones / Jane Eyre / Lorna Doone / Ivanhoe / The Scarlet Pimpernel)
+group:DVD
+salesrank:27711
+similar:5
+categories:5
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Television;A&E Home Video;All A&E Titles
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Formats;Boxed Sets;Drama
+category:;DVD;Genres;Television;A&E Home Video;Megasets
+reviews:4
+review:A1A1IB4D0YGL6E:5
+review:A2KUURSP1DGYE2:5
+review:A22UM0DT1MFOMZ:5
+review:AIGIOGRIES1IK:5

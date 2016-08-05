@@ -1,0 +1,33 @@
+id:4745
+asin:B00005T30M
+title:The Black Stallion/The Black Stallion Returns
+group:DVD
+salesrank:8480
+similar:5
+categories:16
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( C );Citti, Franco
+category:;DVD;Actors & Actresses;( G );Garfield, Allen
+category:;DVD;Actors & Actresses;( G );Garr, Teri
+category:;DVD;Actors & Actresses;( I );Infanti, Angelo
+category:;DVD;Actors & Actresses;( M );Mayne, Ferdinand Ferdy
+category:;DVD;Actors & Actresses;( R );Reno, Kelly
+category:;DVD;Actors & Actresses;( S );Spano, Vincent
+category:;DVD;Actors & Actresses;( S );Strode, Woody
+category:;DVD;Actors & Actresses;( T );Thelen, Jodi
+category:;DVD;Directors;( D )
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Genres;Kids & Family;Family Films
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;All MGM Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:9
+review:ATZGZW3T3VM8N:5
+review:A3LUYYYXGKZ370:5
+review:A3DIMV0OU5WCL0:5
+review:AMWA4HWO2D4CH:5
+review:ANXJHIXW7E3ZE:5
+review:A38JCE1U9M1WC8:5
+review:AN3389HMZ0H0N:5
+review:A2UNCFGWU35BYB:5
+review:AQDI602797FSF:5

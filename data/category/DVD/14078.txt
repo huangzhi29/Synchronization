@@ -1,0 +1,22 @@
+id:14078
+asin:B000051XK4
+title:Moving the Mountain
+group:DVD
+salesrank:47299
+similar:0
+categories:11
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Documentary;General
+category:;DVD;Genres;Documentary;History;General
+category:;DVD;Genres;Documentary;History;World History & Culture
+category:;DVD;Genres;Kids & Family;Educational
+category:;DVD;Actors & Actresses;( S );Sham, John
+category:;DVD;Directors;( A );Apted, Michael
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:3
+review:A23HZHV5MRS0JP:5
+review:A15NIZ6JRR3W72:5
+review:A26D0UZ1Z1BGW7:5

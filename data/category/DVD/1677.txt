@@ -1,0 +1,43 @@
+id:1677
+asin:B00005NB9X
+title:Robert Louis Stevenson's St. Ives
+group:DVD
+salesrank:26035
+similar:5
+categories:21
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Action & Adventure;Swashbucklers
+category:;DVD;Genres;Action & Adventure;By Theme;Costume Adventures
+category:;DVD;Actors & Actresses;( B );Barr, Jean Marc
+category:;DVD;Actors & Actresses;( D );Dutton, Tim
+category:;DVD;Actors & Actresses;( G );Gough, Michael
+category:;DVD;Actors & Actresses;( G );Grant, Richard E
+category:;DVD;Actors & Actresses;( I );Isaacs, Jason
+category:;DVD;Actors & Actresses;( R );Richardson, Miranda
+category:;DVD;Directors;( H );Hook, Harry
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Drama
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( R )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:14
+review:A1ELC7A9SYH2OE:4
+review:A2J0Y71BZ13ISW:5
+review:AX06VYVIZX2TZ:5
+review:A102DPXMPQ01N1:5
+review:AN2CU1YP12J4U:5
+review:A1G56KHOUOFWDW:4
+review:A3W2LX92JLGSOZ:5
+review:A1MNRQCTURUNLF:2
+review:A2J0Y71BZ13ISW:5
+review:AX06VYVIZX2TZ:5
+review:A3RDMO8JJ4KYRX:5
+review:A3I7EHVQ4AAKFV:3
+review:A17VWXPA3ENXWC:5
+review:A3UN6WX5RRO2AG:1

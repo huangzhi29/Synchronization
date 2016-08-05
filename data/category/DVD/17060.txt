@@ -1,0 +1,60 @@
+id:17060
+asin:6305474842
+title:Silkwood
+group:DVD
+salesrank:27836
+similar:5
+categories:29
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;True Story
+category:;DVD;Genres;Drama;By Theme;Biography
+category:;DVD;Actors & Actresses;( C );Cher
+category:;DVD;Actors & Actresses;( H );Hallahan, Charles
+category:;DVD;Actors & Actresses;( H );Hamilton, Richard
+category:;DVD;Actors & Actresses;( M );McGill, Bruce
+category:;DVD;Actors & Actresses;( N );Nelson, Craig T
+category:;DVD;Actors & Actresses;( R );Russell, Kurt
+category:;DVD;Actors & Actresses;( S );Scarwid, Diana
+category:;DVD;Actors & Actresses;( S );Silver, Ron
+category:;DVD;Actors & Actresses;( S );Sommer, Josef
+category:;DVD;Actors & Actresses;( S );Strathairn, David
+category:;DVD;Actors & Actresses;( S );Streep, Meryl
+category:;DVD;Actors & Actresses;( W );Walsh, M Emmet
+category:;DVD;Actors & Actresses;( W );Ward, Fred
+category:;DVD;Directors;( N );Nichols, Mike
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;By Theme;Fighting the System
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Biography
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Docudrama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Biography
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Docudrama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:23
+review:A388N4UTHDZUI4:5
+review:ATVPDKIKX0DER:5
+review:AKMXCZXE0KD5H:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:2
+review:A2K8YH7Y5XSWEJ:5
+review:ABPHEUJWUTVUU:5
+review:A3V03UX4Q7SH8X:5
+review:ATYE50G11EGK9:5
+review:A15EFLI0FHBB6G:5
+review:AG35RBUJYS3YN:5
+review:A3LU79BYMWZEW9:4
+review:A1YQ6QB2127AJ4:5
+review:A1V3IO23FZFF9L:3
+review:AMIZLF43R33I5:5
+review:A27NTH2Y9DAR31:5
+review:A1YXCYA0OAMWQD:4
+review:A270G51TBI7J7P:5
+review:A9I40WFF40R4:5
+review:A2ASIT0JYIGHTA:4
+review:A3GA09FYFKL4EY:5
+review:A2VP7JOT3K7PFM:4
+review:ALLR8RLF4U200:4

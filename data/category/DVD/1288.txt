@@ -1,0 +1,58 @@
+id:1288
+asin:B000056N8Q
+title:I Got The Hook-Up
+group:DVD
+salesrank:18007
+similar:5
+categories:13
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Comic Criminals
+category:;DVD;Actors & Actresses;( A );Ambrose, Tangie
+category:;DVD;Actors & Actresses;( E );Estevez, Joe
+category:;DVD;Actors & Actresses;( K )
+category:;DVD;Actors & Actresses;( M )
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Genres;African American Cinema;Comedy
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Dimension Films
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( I )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:37
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:A160DW4Y67WEHW:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:5
+review:A3KG89ZH9S3ZW8:1
+review:A1WP3LO63PKRB5:5
+review:A9Q28YTLYREO7:1
+review:A2BL6KQPU7CQNA:4
+review:A10D00IIJTXCW0:4
+review:A3T23SHY3PASZ3:1
+review:A1LDZIJW7ZXIKY:1
+review:A1UKW8VANQJE8T:5
+review:A3ANPM8KP3EQGC:5
+review:A1MMWB6K8WZTR8:1
+review:AAOR4P9TMI02W:5
+review:ARFRYHIVP6VPP:1
+review:A38VGSIV4ILAP4:1
+review:A2XN16VYUAS19M:5
+review:A2095I7N24SZK7:5

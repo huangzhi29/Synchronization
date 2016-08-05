@@ -1,0 +1,17 @@
+id:7344
+asin:B00005B3Z1
+title:Penthouse
+group:DVD
+salesrank:28543
+similar:5
+categories:1
+category:;DVD;Special Features;Titles;( P )
+reviews:8
+review:A3IQCB5FXKX4LQ:5
+review:A3LLB7X6R4CUKP:2
+review:A1R0SKT0NEQ1LE:1
+review:A3ETCYVQFXJFF4:5
+review:A17HEJJ20FWXIL:5
+review:A1EQ0W58BZO9A0:1
+review:A1EQ0W58BZO9A0:1
+review:A1EQ0W58BZO9A0:1

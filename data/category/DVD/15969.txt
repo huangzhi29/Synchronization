@@ -1,0 +1,109 @@
+id:15969
+asin:6305182051
+title:The First Wives Club
+group:DVD
+salesrank:1904
+similar:5
+categories:33
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Buddy Films
+category:;DVD;Genres;Comedy;By Theme;Friends
+category:;DVD;Actors & Actresses;( B );Berkley, Elizabeth
+category:;DVD;Actors & Actresses;( B );Bosco, Philip
+category:;DVD;Actors & Actresses;( C );Channing, Stockard
+category:;DVD;Actors & Actresses;( C );Collins, Stephen
+category:;DVD;Actors & Actresses;( G );Garber, Victor
+category:;DVD;Actors & Actresses;( H );Harden, Marcia Gay
+category:;DVD;Actors & Actresses;( H );Hawn, Goldie
+category:;DVD;Actors & Actresses;( H );Heckart, Eileen
+category:;DVD;Actors & Actresses;( H );Hedaya, Dan
+category:;DVD;Actors & Actresses;( K );Keaton, Diane
+category:;DVD;Actors & Actresses;( M );Midler, Bette
+category:;DVD;Actors & Actresses;( N );Naughton, James
+category:;DVD;Actors & Actresses;( P );Parker, Sarah Jessica
+category:;DVD;Actors & Actresses;( P );Pinchot, Bronson
+category:;DVD;Actors & Actresses;( R );Reiner, Rob
+category:;DVD;Actors & Actresses;( S );Smith, Maggie
+category:;DVD;Directors;( W );Wilson, Hugh
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( F )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;Comedy Stars;Bette Midler
+category:;DVD;Genres;Comedy;Comedy Stars;Diane Keaton
+category:;DVD;Genres;Comedy;Comedy Stars;Goldie Hawn
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Comedy
+category:;DVD;Genres;Comedy;By Theme;Comedy of Manners
+reviews:68
+review:A1PPLI6JONWUKD:5
+review:AKMXCZXE0KD5H:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2OOOU4BG9DPM4:1
+review:ATVPDKIKX0DER:4
+review:A18LPY58YUGFPG:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:4
+review:A3CN68Z7NYTPEL:5
+review:A35K84RT618N3A:2
+review:A9Q28YTLYREO7:1
+review:A1717SP49MSEGH:1
+review:A1717SP49MSEGH:1
+review:ANPXMT8E4XKSL:4
+review:A33F8ZLBK7WWD9:5
+review:A2198FZZMTJ38H:5
+review:A3B751AIRGV5ZW:5
+review:A2FIBJHIE7GSBL:2
+review:ATVPDKIKX0DER:5
+review:A24456FPYCCSMG:5
+review:A29F3TUZ2DI9EF:5
+review:AI4UVX8IZ212O:5
+review:ABH4G7TVI6G2T:5
+review:A1YYP9YM3JD3T:1
+review:APJUML3FT170O:2
+review:A26AD4N7FJ9LFX:4
+review:A30Q6TIQMXGATR:5
+review:A5CPNY09CHWID:5
+review:A39EYXPO7FCSV6:5
+review:AHDWXFGS3ITWK:1
+review:AHDWXFGS3ITWK:1
+review:AHDWXFGS3ITWK:1
+review:A3JTVNFS9Z6UU3:4
+review:ALZ5Y1CE0DWQ1:5
+review:A1F8KRXO5OMBZV:5
+review:A3C6QUXBVA10LB:1
+review:A1FML9FCUPV6TI:5
+review:AYIQESY0MW05U:5
+review:A2RBWTIP49SR2J:4
+review:AMKZHBOK7VMQR:3
+review:A2LJKDPRVR907S:5
+review:A1SGEL2CGVJ1LS:5
+review:A3AVX9ALS8A3CI:5
+review:A3RA5D3L4M1ZJW:5
+review:A2S5IN9DPFVAZD:5
+review:A3SFN5013RD3U0:5
+review:A2WM27XUVOZ023:4
+review:A2LW9E5PPXWOHN:4
+review:A1GQM5MSJF1D2Y:5
+review:AD5CK1PRAQVI3:5
+review:A22LKHFCLKO3AD:5
+review:ANTHG1QQOVLO6:5
+review:A18RQ2URRGIIEA:4
+review:A3NJCGROMKG9SR:1
+review:A13WA7OFJRQMOY:5
+review:A10T6W3NW47EBU:1
+review:A3T7G6748HAO0Y:4
+review:A201XV6ROU6IPX:3
+review:AUA64NQ3X56OJ:3
+review:A2AOBCV8KULTOL:5
+review:A9MBCDEHWDW56:5
+review:A3UN6WX5RRO2AG:5
+review:A3P1A63Q8L32C5:3
+review:AQBRMBQ99ESI7:4

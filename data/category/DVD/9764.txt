@@ -1,0 +1,13 @@
+id:9764
+asin:B000067IVW
+title:Nadia, The Secret of Blue Water - Nadia in Love (Vol. 9)
+group:DVD
+salesrank:44762
+similar:5
+categories:3
+category:;DVD;Genres;Anime & Manga;By Studio;ADV Films
+category:;DVD;Special Features;Titles;( N )
+category:;DVD;Genres;Anime & Manga;Characters & Series;Nadia, Secret of Blue Water
+reviews:2
+review:AUS2EQT4NU3BF:4
+review:A1V51M8M216Y69:4

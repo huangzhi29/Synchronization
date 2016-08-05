@@ -1,0 +1,97 @@
+id:13882
+asin:B00005JL1V
+title:Heartbreak Ridge
+group:DVD
+salesrank:3241
+similar:5
+categories:28
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Military & War;Drama
+category:;DVD;Actors & Actresses;( E );Eastwood, Clint
+category:;DVD;Actors & Actresses;( G );Gaines, Boyd
+category:;DVD;Actors & Actresses;( G );Gomez, Mike
+category:;DVD;Actors & Actresses;( G );Gunn, Moses
+category:;DVD;Actors & Actresses;( H );Heckart, Eileen
+category:;DVD;Actors & Actresses;( I )
+category:;DVD;Actors & Actresses;( J );Jason, Peter
+category:;DVD;Actors & Actresses;( M );Mason, Marsha
+category:;DVD;Actors & Actresses;( M );McGill, Everett
+category:;DVD;Actors & Actresses;( S );Snyder, Arlen Dean
+category:;DVD;Actors & Actresses;( S );Svenson, Bo
+category:;DVD;Actors & Actresses;( V );Venture, Richard
+category:;DVD;Actors & Actresses;( V );Villard, Tom
+category:;DVD;Directors;( E );Eastwood, Clint
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( H )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Drama
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Military & War;Drama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Military & War
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:61
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2ONWC6B8RS7US:4
+review:A1NKCHEOIS1DYX:5
+review:APYCNRS112N2B:4
+review:APYCNRS112N2B:4
+review:ALCTVUGB5WZG1:3
+review:A3DJPNAFLJO4JC:5
+review:A1HEUM2I33658C:5
+review:A3MAZM138KFVOW:3
+review:A2SP1ZS9YK3DQE:4
+review:A2FA18B50XGXJX:1
+review:A3OHH40EWUQ8A6:3
+review:A32LTBBVNETH9O:4
+review:A3NLGD4ZNYHSG2:5
+review:AQTSQ4W9V0E0X:5
+review:A11KYDGLJED7PC:5
+review:A2XZV4KCU0V0PC:4
+review:AX4YFF5U27IYY:5
+review:A35GZ8X6XF1FUJ:4
+review:A3AOJOVXM62KVX:5
+review:A10PVWOBR634JN:5
+review:A3W3YG5P1TPJJB:3
+review:A1Q0MZ4R12SEWP:5
+review:A39PME88IIGPX0:4
+review:AAUAOPPH3PBB2:5
+review:A2YR7VYJQ7PYYQ:5
+review:AVWV0GF3CX1OE:4
+review:A3D6OI36USYOU1:3
+review:A3QK7C3087DGI6:4
+review:A3EJ5PQQ1E9FF4:5
+review:AZPZOTWZI3GPS:5
+review:A34ZAYTNP67S83:4
+review:A37XXJ0DJQLD2F:4
+review:A20EEWWSFMZ1PN:4
+review:A3LRFGYJVXKPDI:4
+review:A34X87RNOI8HP:1
+review:A4UDDD8L3R07U:5
+review:AXJM672SOGP4H:4
+review:A3EW6IS60M4CGN:3
+review:A11PTCZ2FM2547:4
+review:A17FLA8HQOFVIG:4
+review:AYSCBPYBTOOV2:5
+review:A3S1D5NBV29W1I:1
+review:AC06F0LPHI1TW:1
+review:A24GX9D73CG599:4
+review:A326R2P2MC732S:1
+review:A2YJ1DTI40JJKS:3
+review:A2ZSC81MXLBELX:5
+review:A3S9FDZSHZW79Y:5
+review:A1S4NMO34CBCMJ:5
+review:A3TNM3C9ENUCFW:4
+review:A2U0WL1D6SRTO3:4
+review:A1N7GXDLOFCSJJ:4
+review:A2N40B4GF7RZ5:5
+review:AQMO4DQF6X970:4
+review:A2CW9IQAPFEYLM:4
+review:A2H22I2RWE0HOV:5
+review:A2E9TRM8096BXU:4

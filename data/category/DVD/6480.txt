@@ -1,0 +1,19 @@
+id:6480
+asin:B000067G1M
+title:The Complete Works of Troy and Genie Nilsson DVD
+group:DVD
+salesrank:43445
+similar:0
+categories:4
+category:Music;Styles;Folk;General
+category:Music;Specialty Stores;Indie Music;Folk;General
+category:Music;Specialty Stores;Indie Music;Soundtracks;General
+category:;DVD;Special Features;Titles;( C )
+reviews:7
+review:A2205SCVDB9HQI:5
+review:A2VJB10WAIG4XO:5
+review:A18UP62LSYCSAK:5
+review:A3M1P612OWASN3:5
+review:ADRH7994V1A15:5
+review:AN5MZMYJHIV7I:5
+review:A3QEKUPBPQ7A2S:5

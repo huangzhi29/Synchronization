@@ -1,0 +1,16 @@
+id:7260
+asin:B00007M5HO
+title:Sitting Ducks
+group:DVD
+salesrank:33410
+similar:0
+categories:7
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( E );Emil, Michael
+category:;DVD;Actors & Actresses;( J );Jaglom, Henry
+category:;DVD;Actors & Actresses;( N );Norman, Zack
+category:;DVD;Actors & Actresses;( R );Romanus, Richard
+category:;DVD;Directors;( J );Jaglom, Henry
+category:;DVD;Special Features;Titles;( S )
+reviews:1
+review:A3VYN4TETAXPLP:5

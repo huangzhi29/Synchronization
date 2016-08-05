@@ -1,0 +1,12 @@
+id:3112
+asin:B00005NKBW
+title:Urusei Yatsura - TV Series 4
+group:DVD
+salesrank:33042
+similar:5
+categories:4
+category:;DVD;Genres;Anime & Manga;General
+category:;DVD;Genres;Anime & Manga;Characters & Series;Urusei Yatsura
+category:;DVD;Genres;Art House & International;By Original Language;Japanese
+category:;DVD;Special Features;Titles;( U )
+reviews:0

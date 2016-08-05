@@ -1,0 +1,54 @@
+id:16168
+asin:0780627822
+title:A Thin Line Between Love and Hate
+group:DVD
+salesrank:8219
+similar:5
+categories:27
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Sex Comedies
+category:;DVD;Genres;Comedy;Farce
+category:;DVD;Actors & Actresses;( A );Ambrose, Tangie
+category:;DVD;Actors & Actresses;( B );Bell, Michael
+category:;DVD;Actors & Actresses;( B );Brown, Bobby
+category:;DVD;Actors & Actresses;( E );Edmonds, Dartanyan
+category:;DVD;Actors & Actresses;( K );King, Regina
+category:;DVD;Actors & Actresses;( L );Lawrence, Martin
+category:;DVD;Actors & Actresses;( L );Love, Faizon
+category:;DVD;Actors & Actresses;( M );Mitchell, Daryl
+category:;DVD;Actors & Actresses;( R );Reese, Della
+category:;DVD;Actors & Actresses;( W );Whitfield, Lynn
+category:;DVD;Actors & Actresses;( W );Williams, Malinda
+category:;DVD;Directors;( L )
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Comedy;Black Comedy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;Black Comedy
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;Farce
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;Black Comedy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;Farce
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:19
+review:A2CBKZSSWYYG7W:5
+review:A3SJSBWX20X4K1:5
+review:AMI41X8ZNTUXP:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A9Q28YTLYREO7:1
+review:AK1ELR7QW7920:5
+review:A173G0GN4479RG:3
+review:A23IOPI0D1OG7V:1
+review:AXHMUN6GC0WEH:4
+review:A1K95IW5MZ9X00:3
+review:A3FF5BT9REK6Q3:5
+review:A1ZT0Y14ROTNJX:2
+review:A170MGHABPC8G2:5
+review:AB2AQMK9PCWWX:3
+review:A15MLF38WROSWU:4
+review:A314LCGWS08QFM:4
+review:A3RNC9BGR4J1ZF:5
+review:AVDQHA6MAEUY6:4

@@ -1,0 +1,37 @@
+id:514
+asin:B000050X30
+title:Verdi - Il Trovatore / Levine, Milnes, Marton, Pavarotti, Metropolitan Opera
+group:DVD
+salesrank:22561
+similar:5
+categories:12
+category:;DVD;Actors & Actresses;( M );Marton, Eva
+category:;DVD;Actors & Actresses;( M );Milnes, Sherrill
+category:;DVD;Actors & Actresses;( P );Pavarotti, Luciano
+category:;DVD;Directors;( L );Large, Brian
+category:;DVD;Special Features;Titles;( V )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Composer;Verdi, Giuseppe
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Performer;Levine, James
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Performer;Marton, Eva
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Performer;Pavarotti, Luciano
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Historical Period;Romantic (c.1820-1910)
+reviews:17
+review:AOA8AJIFBJLFB:5
+review:A2ESPO82J1O9IE:3
+review:AQ2I7WZ23FVE1:3
+review:AV7Z25U0HUGTU:3
+review:A3UN6WX5RRO2AG:4
+review:A3UN6WX5RRO2AG:5
+review:A32U96RR2TCPA3:3
+review:AHE4T371JTLE9:4
+review:AKK6VQJSQ8041:3
+review:A1XMTRMC22QLZ0:1
+review:A1CACKUQON0QMO:2
+review:A376IP8MOGGNI4:3
+review:A2M6UGUJH0PFOG:2
+review:A2EOGI8KB3X5PS:2
+review:AQ8DU6XVA3USJ:4
+review:A2WS0EKOZGXW5A:4
+review:A3I2WE58OUUEXG:4

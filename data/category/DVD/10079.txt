@@ -1,0 +1,16 @@
+id:10079
+asin:B00005QBYW
+title:Cologne Music Triennale - Richard Strauss Symphonia Domestica / Rautavaara Symphony No. 8 / Sawallisch, Philadelphia Orchestra
+group:DVD
+salesrank:26489
+similar:5
+categories:7
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Special Features;Titles;( C )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Symphonies
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Composer;Strauss, Richard
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Historical Period;Romantic (c.1820-1910)
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Historical Period;Modern, 20th, & 21st Century
+reviews:1
+review:A13FBTZ8SO8T3D:5

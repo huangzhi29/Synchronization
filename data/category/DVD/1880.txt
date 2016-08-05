@@ -1,0 +1,54 @@
+id:1880
+asin:B00005A8TX
+title:Rififi - Criterion Collection
+group:DVD
+salesrank:9289
+similar:5
+categories:14
+category:;DVD;Genres;Art House & International;By Genre;Action & Adventure
+category:;DVD;Genres;Art House & International;By Genre;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;Film Noir
+category:;DVD;Actors & Actresses;( S );Servais, Jean
+category:;DVD;Directors;( D );Dassin, Jules
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;France;Classics
+category:;DVD;Genres;Mystery & Suspense;Crime;Gangsters
+category:;DVD;Special Features;Titles;( R )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Art House & International
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Classics
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Film Noir
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;All
+reviews:32
+review:A11BSCGB3XPB6:1
+review:A14SOHUCCL0606:5
+review:A2DHAV8QLMH8EX:5
+review:ARA48345JZPZR:5
+review:AIZ7XMLRPZABF:5
+review:A3R2YB0WTTB0IJ:5
+review:ADJ5MR1GZAPKG:5
+review:A1VMIBRD783JX9:5
+review:A2ZRC8P3MBIQL3:4
+review:A28UKRLYAB22I7:5
+review:A26X66KR68ZETF:5
+review:A1KZI8UGD2ILYU:5
+review:A2A53TWW9UCMNE:1
+review:A361LE16VBQDP8:5
+review:AILXDAAECO4UC:4
+review:A27CFNHYZG6WS8:4
+review:A361LE16VBQDP8:5
+review:A1VQHP8ZEGTQEZ:5
+review:A16H0MIIIBI7VN:3
+review:A31LHED3SKLWVB:4
+review:A3EQ92DXABUB33:1
+review:A1DRM3JV6T5O6P:5
+review:A2ZHDCYYP1PL2K:4
+review:A16CZRQL23NOIW:5
+review:AAECAHBNP1VD2:5
+review:A2HJB9J5O5CLPB:3
+review:AI0OAQ6E2O8VF:5
+review:A18JSNKGEZO57S:5
+review:A3H4EV4UMST3HV:5
+review:A2460ZRFVC2YGV:3
+review:AK61LQI92GTCH:5
+review:AVOCNUFOXUCA6:5

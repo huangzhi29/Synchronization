@@ -1,0 +1,22 @@
+id:1639
+asin:B00006DXXS
+title:The Real World - Exotic Vacations
+group:DVD
+salesrank:31222
+similar:5
+categories:11
+category:;DVD;Genres;Television;General
+category:;DVD;Special Features;Today's Deals in DVD;Television
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( R )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Television
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Television;TV Series;Real World
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Genres;Television;By Decade;1990s and Newer;General
+reviews:3
+review:A3NHLW9YTPGAQC:3
+review:A1526HC4NB3D06:5
+review:A2RE3CRI9FSAIC:1

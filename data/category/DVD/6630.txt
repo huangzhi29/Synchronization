@@ -1,0 +1,97 @@
+id:6630
+asin:B0000509C4
+title:Creepshow 2
+group:DVD
+salesrank:9668
+similar:5
+categories:21
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Monsters
+category:;DVD;Actors & Actresses;( C );Chiles, Lois
+category:;DVD;Actors & Actresses;( H );Harvey, Don
+category:;DVD;Actors & Actresses;( K );Kennedy, George
+category:;DVD;Actors & Actresses;( L );Lamour, Dorothy
+category:;DVD;Actors & Actresses;( M );McCallany, Holt
+category:;DVD;Actors & Actresses;( S );Savini, Tom
+category:;DVD;Directors;( G );Gornick, Michael
+category:;DVD;Genres;Horror;Horror Masters;Stephen King
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Zombies
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Monsters
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Zombies
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Monsters
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:68
+review:A3HSUHM867SGTH:2
+review:A2U485DPQRZ4G:1
+review:A22HA2PPQBJZ5X:5
+review:A22HA2PPQBJZ5X:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A1HLCA9DECVHXN:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:2
+review:A3LOBF0ZU1HE0S:3
+review:A2RR4J4A3V8MNU:3
+review:AGOZ1XYOZ0III:5
+review:A22PSK9P8DZIB4:5
+review:AYMM2KV2UJDZ:2
+review:AC16NVPW23KGG:1
+review:A25XGZX0YRTJKN:3
+review:A3KHXE7ETQRBX8:5
+review:A3AKPY4LXIC24O:5
+review:A3EEGOPMTVE0LC:4
+review:ADLZQVXVVM647:4
+review:A29CBWUKV73S0M:5
+review:A15H0OGLXJ9FC6:1
+review:A32VNE7H904UGP:3
+review:A3GUT1TE4C5W2N:2
+review:A1VFYHGJ5M9FHU:3
+review:A2ILHD7W0HIAVW:4
+review:A1V35VKSPU9LV:5
+review:A37AY3YMDYH7BY:4
+review:A2JPOGEC5H4T8I:3
+review:A20WKQ948WZOQJ:4
+review:A26KW32Z05KM7O:4
+review:AGFO6RNCAAT09:3
+review:A3VBTW7GH9ACAB:3
+review:A42J5VDT7MHOM:5
+review:A2WNZQYYENS9A7:5
+review:A7PBI5HADJYER:3
+review:A18CRS4FLVH5YW:5
+review:A1CZICCYP2M5PX:3
+review:A3C28X2L8ZIR10:4
+review:A1JCF2JSYATBGX:5
+review:A266K6778Q8SKG:3
+review:A3IMNZSYDOTTU6:4
+review:A1XC2ELZ6QMT1J:4
+review:A2GANR9I6XHTU9:3
+review:A2EE7SEM9F9QB2:4
+review:A5DIAZ5GT3MC:3
+review:A25ZVI6RH1KA5L:3
+review:A3AY3EV2MFRFGG:3
+review:A21DAUJ4QA7DUD:4
+review:A3UN6WX5RRO2AG:5
+review:A1FD8LITJZE48V:2
+review:ABTQFG5L7VW9E:5
+review:A1FD8LITJZE48V:1
+review:A1PMPSDLEWPRJC:4
+review:A2RLGG5XB5ID34:4
+review:AZ7LPCN9Y9SLJ:5
+review:A33OCN015SHWP3:2
+review:AYPCGRSNA2IL:5
+review:A319SKSB556033:5
+review:A1IS84XIL8DKI6:5
+review:AJKWF4W7QD4NS:3
+review:A2Y2IOU663U7FR:5
+review:A3RB6NQOLOBXYD:5
+review:A1E85KPLPYVW8E:3
+review:A3QU95QO7QF8ZV:4
+review:A3FUBUJAIGM87T:1

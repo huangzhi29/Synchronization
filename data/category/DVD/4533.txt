@@ -1,0 +1,31 @@
+id:4533
+asin:B00000IBQ0
+title:Confidentially Yours
+group:DVD
+salesrank:30276
+similar:5
+categories:16
+category:;DVD;Genres;Art House & International;By Original Language;French
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Art House & International;By Genre;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;Thrillers
+category:;DVD;Actors & Actresses;( A );Ardant, Fanny
+category:;DVD;Actors & Actresses;( T );Trintignant, Jean Louis
+category:;DVD;Directors;( T );Truffaut, Francois
+category:;DVD;Specialty Stores;Studio Specials;Wellspring Home Video;World Class Cinema
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;France;Drama
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Mystery & Suspense;By Theme;Amateur Sleuths
+category:;DVD;Genres;Mystery & Suspense;By Theme;Miscarriage of Justice
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:7
+review:ALXM54YIOKXY1:4
+review:ATVPDKIKX0DER:5
+review:A3C6X0DAM87GN4:3
+review:A3H9JSM1SUTE4O:4
+review:A192KEPM0HW6AC:5
+review:A2GCHG6U8HTVIT:4
+review:A1NI5Q291ZE9L2:5

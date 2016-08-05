@@ -1,0 +1,24 @@
+id:14379
+asin:B00006FDAR
+title:The Angel Levine
+group:DVD
+salesrank:46935
+similar:5
+categories:13
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( B );Belafonte, Harry
+category:;DVD;Actors & Actresses;( F );Foster, Gloria
+category:;DVD;Actors & Actresses;( J );Jackson, Anne
+category:;DVD;Actors & Actresses;( M );Mostel, Zero
+category:;DVD;Actors & Actresses;( O );O'Shea, Milo
+category:;DVD;Actors & Actresses;( W );Wallach, Eli
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;General
+category:;DVD;Genres;Drama;By Theme;Psychological Drama
+category:;DVD;Genres;Drama;By Theme;Redemption
+reviews:3
+review:A39PUZ5ID0CE5K:3
+review:AAARNMU9KJXOQ:5
+review:A18YOUZ45OCXD1:5

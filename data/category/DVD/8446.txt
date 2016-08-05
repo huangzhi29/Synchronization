@@ -1,0 +1,27 @@
+id:8446
+asin:B00005Y6Y6
+title:The Libertine
+group:DVD
+salesrank:12088
+similar:5
+categories:14
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Erotic
+category:;DVD;Actors & Actresses;( C );Caprioli, Vittorio
+category:;DVD;Actors & Actresses;( M );Montagnani, Renzo
+category:;DVD;Actors & Actresses;( P );Pistilli, Luigi
+category:;DVD;Actors & Actresses;( R );Ricci, Nora
+category:;DVD;Actors & Actresses;( S );Spaak, Catherine
+category:;DVD;Actors & Actresses;( S );Stoppa, Paolo
+category:;DVD;Actors & Actresses;( T );Trintignant, Jean Louis
+category:;DVD;Genres;Art House & International;By Genre;Drama
+category:;DVD;Genres;Art House & International;By Theme;Erotic
+category:;DVD;Genres;Art House & International;By Country;Italy;General
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Titles;( L )
+reviews:5
+review:ATVPDKIKX0DER:5
+review:AOKH72XCXV3BS:1
+review:A1QJPP60YD3JUQ:5
+review:A3FVHZ6AVGH8JO:4
+review:A2CIU67KAPAN7F:4

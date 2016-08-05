@@ -1,0 +1,26 @@
+id:12340
+asin:B00005TPL8
+title:The Unanswered Question - Six Talks at Harvard by Leonard Bernstein
+group:DVD
+salesrank:4520
+similar:5
+categories:6
+category:;DVD;Actors & Actresses;( B );Bernstein, Leonard
+category:;DVD;Genres;Musicals & Performing Arts;Documentary
+category:;DVD;Special Features;Titles;( U )
+category:;DVD;Formats;Boxed Sets;Musicals & Performing Arts
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Educational
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Performer;Bernstein, Leonard
+reviews:12
+review:A2Y51X3MUORD5D:5
+review:A2KY8DU0I0Z3U1:5
+review:A2PVLM5N0ODUXH:5
+review:A14CM5XTMI0UXE:5
+review:AM62PAQAL180N:5
+review:ARM1A28QEWQBO:5
+review:A3AUECYM0M0YSX:3
+review:A2SP1ZS9YK3DQE:5
+review:A1QFYQCLBFCHIA:5
+review:A1W2YTCZ4P00PJ:5
+review:A3BMD0TUTLYNQ4:5
+review:A2SROG94PY6PFO:5

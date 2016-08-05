@@ -1,0 +1,82 @@
+id:12983
+asin:B00007FCTP
+title:The Wiggles Magical Adventure - A Wiggly Movie
+group:DVD
+salesrank:7895
+similar:5
+categories:11
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Genres;Art House & International;By Country;Australia & New Zealand
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Kids & Family;Fantasy
+category:;DVD;Genres;Kids & Family;Characters & Series;Wiggles
+category:;Specialty Stores;Books, Music & More;Videos and DVDs for Babies and Toddlers;The Wiggles DVDs
+reviews:63
+review:A3JOE5F8Q5EZE6:4
+review:A1G0V29B3VXUPX:4
+review:AAU0G40ZN5RIL:5
+review:A1DTOHMM2Y5KY0:5
+review:A1Y8JEKDKMZJ2T:5
+review:AWTAYPRD4YNPM:5
+review:A2RNUPVSNW1ZXX:5
+review:A3O58RKLDF2SU3:3
+review:A2C6ZVZ5K6IHZ0:5
+review:AJ5WNVO00HNX:5
+review:A31IXXJK4YSEZ2:3
+review:A1EUPO5XOQ5X3P:4
+review:AZL0P9J95ON7D:3
+review:A3KRZDWHU4AYQA:5
+review:AZT8R7BJZV1MR:3
+review:A1K925LKAJI5DL:3
+review:A3N0KFDA9418YI:2
+review:A11N3BZEIWV8HP:5
+review:A168ZLJDURLT87:5
+review:AD8WTHOIGJFW8:5
+review:A1IK7H6EN2VCJA:5
+review:A36PUHGHPB9EJP:4
+review:A1UY0WU6T817IP:5
+review:A3G3HHZ7K7378Z:5
+review:A2YTANJVET8YPD:2
+review:AJJAMX4NNVEA4:5
+review:A28D11Y604VAOI:1
+review:A3GCGA8IJM7V5G:5
+review:A1PHN09TRBYVH5:2
+review:A37PV5GMP2ILJC:4
+review:AYCORVAEAYJCY:4
+review:A3EWRVDANNS7WU:5
+review:A31CLT3Q3M6CZE:5
+review:A1CGRSM7JYC74J:5
+review:A2CAG7YQSGG8AU:1
+review:A2M57N252YT134:4
+review:A2M57N252YT134:4
+review:A18TYOEV1JMHX8:4
+review:A3C7XR4THT2SQV:3
+review:A37IMGRAEM2JWI:5
+review:A2BO6NIL8KQLAB:2
+review:AK46OT6BNO9XP:5
+review:A3JW2VGS2SXRMY:5
+review:AFHK054S0VA1B:5
+review:A1BF6SZ98232AH:1
+review:A2MPLYFT1RCYAK:5
+review:A399NNARRRGTE1:4
+review:A3T5MH641MNB94:5
+review:A2YLI5PG8F50C:5
+review:A13QJI2ABGII2G:5
+review:A2HYMN4ZWRNP3U:5
+review:AJFJG3NBZ0CPL:4
+review:AQAV4LSIDIYDV:5
+review:A31KMEUOHBHCR6:2
+review:A1ZCYC0RHTRMZF:3
+review:A3F78AGAL29UU6:1
+review:AR8F11N64Z0WL:5
+review:A1G0AXBP9X91Z4:4
+review:AN92S28RV1FQ4:2
+review:A3UN6WX5RRO2AG:1
+review:AC7AY7GU4GKID:1
+review:A19PJCFSRRBZ7G:5
+review:A12Z3MYWDUJA4O:4

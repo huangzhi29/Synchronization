@@ -1,0 +1,21 @@
+id:2333
+asin:B00006HAX0
+title:Deathbed
+group:DVD
+salesrank:40259
+similar:5
+categories:7
+category:;DVD;Genres;Horror;General
+category:;DVD;Actors & Actresses;( D );Dempsey, Tanya
+category:;DVD;Actors & Actresses;( E );Estevez, Joe
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Horror;By Theme;Erotic
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:6
+review:A11UIILHEPJKAB:5
+review:A2EMSQ6TDKGH27:4
+review:A2WZ9ZTNF83GOW:2
+review:A3LZGLA88K0LA0:3
+review:A1DTNYGTWIN4DS:3
+review:APCHVFMSQZVY4:1

@@ -1,0 +1,22 @@
+id:9697
+asin:B000021Y7N
+title:Go West
+group:DVD
+salesrank:37736
+similar:5
+categories:9
+category:;DVD;Genres;Classics;General
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Westerns;Comedy
+category:;DVD;Genres;Comedy;By Theme;Fish Out of Water
+category:;DVD;Actors & Actresses;( K );Keaton, Buster
+category:;DVD;Directors;( K );Keaton, Buster
+category:;DVD;Genres;Classics;Silent Films;General
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Titles;( G )
+reviews:5
+review:ACPLJ6XRXIZKD:5
+review:A2BSVGJZKD9TLX:3
+review:A2H9LUUCYE0KJC:4
+review:A2I17T9XB6LSGW:4
+review:AYPCUQS6ARWFH:3

@@ -1,0 +1,30 @@
+id:12000
+asin:B00005AXA1
+title:Contraband
+group:DVD
+salesrank:31046
+similar:5
+categories:17
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Action & Adventure;Romantic Adventure
+category:;DVD;Genres;Mystery & Suspense;Mystery
+category:;DVD;Actors & Actresses;( G );Genn, Leo
+category:;DVD;Actors & Actresses;( H );Hobson, Valerie
+category:;DVD;Actors & Actresses;( K );Knight, Esmond
+category:;DVD;Actors & Actresses;( L );Longden, John
+category:;DVD;Actors & Actresses;( P );Petrie, Hay
+category:;DVD;Actors & Actresses;( V );Veidt, Conrad
+category:;DVD;Directors;( P );Powell, Michael
+category:;DVD;Genres;Action & Adventure;Espionage
+category:;DVD;Special Features;Titles;( C )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;Action & Adventure
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;DVD;Genres;Mystery & Suspense;Classics
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:5
+review:A1O9GIBB9P2ZZX:4
+review:AHMPZ4X0ACQ50:3
+review:A27CFNHYZG6WS8:5
+review:A301OH10S9UCV8:5
+review:A3SELPQRFQG2J4:5

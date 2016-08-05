@@ -1,0 +1,33 @@
+id:10922
+asin:B000089QAO
+title:Quick Fix - Pilates Abs Workout
+group:DVD
+salesrank:9877
+similar:5
+categories:14
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Fitness & Yoga
+category:;DVD;Genres;Fitness & Yoga;Pilates
+category:;DVD;Special Features;Titles;( Q )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Fitness & Yoga
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Fitness & Yoga;By Instructor;Other Instructors
+category:;DVD;Genres;Fitness & Yoga;By Body Part;Abs
+category:;DVD;Genres;Fitness & Yoga;Stretching
+category:;DVD;Genres;Fitness & Yoga;Series;Quick Fix
+category:;DVD;Genres;Fitness & Yoga;General
+reviews:11
+review:A14B9D2O6Y374H:4
+review:A1ARPLFACHIK7Y:5
+review:A2ZSC81MXLBELX:4
+review:AX01XRKA10X46:3
+review:A2ZSXT9QOWYNVI:4
+review:A38ZR154SH2CHP:5
+review:A2ALPBEEQSBB4D:4
+review:A3847ZJY6ZTWGY:5
+review:AK7CAW3N1XZV6:5
+review:A281603SLTJDAB:4
+review:A2QUS2JIBQHJ0S:1

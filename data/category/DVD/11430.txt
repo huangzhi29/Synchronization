@@ -1,0 +1,40 @@
+id:11430
+asin:B00006IUFV
+title:Wishmaster 4
+group:DVD
+salesrank:17733
+similar:5
+categories:11
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Occult
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Occult
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Occult
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:21
+review:A6ROGJZ5VZJ3U:3
+review:A1M4NJYP0WNL8Q:3
+review:A3R2WOCWRNKXHR:5
+review:AX8LSR4H6EBRJ:5
+review:AYU6VM4OD7A2X:5
+review:AYU6VM4OD7A2X:5
+review:A2FFW9IBAQM9K:2
+review:ASH7A7HJQ4DTU:3
+review:A32EDCU75MRZRL:3
+review:A2PWT9XDF8EC48:1
+review:A39LHYU6U0PYUO:1
+review:AQ4NJ2T9PVI3L:1
+review:A2LJY0HWDYR1IN:1
+review:A3SOA7ACQRKWN3:1
+review:AX8LSR4H6EBRJ:4
+review:AX8LSR4H6EBRJ:4
+review:A393CK2HG7JFCX:2
+review:AUJ7EWRKOSGHE:3
+review:A2V3P1XE33NYC3:2
+review:A3LZGLA88K0LA0:4
+review:ADKOY6I46EWLK:4

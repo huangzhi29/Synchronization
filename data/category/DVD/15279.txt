@@ -1,0 +1,92 @@
+id:15279
+asin:B00005RDAJ
+title:Seconds
+group:DVD
+salesrank:5012
+similar:5
+categories:34
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Actors & Actresses;( A );Addy, Wesley
+category:;DVD;Actors & Actresses;( A );Anderson, Richard
+category:;DVD;Actors & Actresses;( C );Campanella, Frank
+category:;DVD;Actors & Actresses;( C );Corey, Jeff
+category:;DVD;Actors & Actresses;( F );Fraser, Elisabeth
+category:;DVD;Actors & Actresses;( G );Geer, Will
+category:;DVD;Actors & Actresses;( H );Hamilton, Murray
+category:;DVD;Actors & Actresses;( H );Hudson, Rock
+category:;DVD;Actors & Actresses;( J );Jens, Salome
+category:;DVD;Actors & Actresses;( R );Randolph, John
+category:;DVD;Actors & Actresses;( S );Swenson, Karl
+category:;DVD;Directors;( F );Frankenheimer, John
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;By Theme;Double Life
+category:;DVD;Genres;Mystery & Suspense;By Theme;Haunted by the Past
+category:;DVD;Genres;Mystery & Suspense;By Theme;Mind Games
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Classics
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Drama
+reviews:50
+review:ATVPDKIKX0DER:5
+review:A12P3UYNY9WHH5:5
+review:A1PNFRIKCUKBJV:5
+review:ATVPDKIKX0DER:5
+review:A3SO2TIUEE8FKG:5
+review:ATVPDKIKX0DER:5
+review:A3QLP0EGU0226W:5
+review:AE0WQ2Q3KFEBU:5
+review:A1PNFRIKCUKBJV:5
+review:A2Z8MCW0H4SHZ4:5
+review:A1L5TA5UQF7EWE:5
+review:A1RT8EUAB5SM7L:4
+review:AQ2DS8LSLLUAM:5
+review:A1V8TOU3Q7YEJQ:5
+review:A1UC4XKRSKYD8A:5
+review:A5ZDG77CZGSN9:5
+review:A31JRSZQ76YA1N:5
+review:A28TCB4WRYOKQ3:5
+review:A27CFNHYZG6WS8:2
+review:A2PS1KAU6MGELR:5
+review:A2EDZH51XHFA9B:4
+review:A3MLO4GAD2O9DL:5
+review:A15KN3B5J8L6U2:5
+review:A1FDW1SPYKB354:4
+review:A3VNLWFDMF8G9L:3
+review:AFB2VZ6WA6I16:5
+review:AFB2VZ6WA6I16:5
+review:AZ1UFPNARPZD2:4
+review:A1DTCJV6KOMJOA:5
+review:A3N94LNED0IF0R:3
+review:A3PWCL3MXDXQOG:4
+review:A12X2J7AVZ04IQ:5
+review:A3TKWWU3QDMJO2:1
+review:A33SV3K1962H6M:5
+review:A1EO9NVYKN4AET:5
+review:AQP1VPK16SVWM:5
+review:A1C0PSVI2KYJB:5
+review:ASE88N50ZHBV6:5
+review:A3OSYRLBAP7BWX:5
+review:A1IB8LZSE6JBH2:4
+review:A26JGAM6GZMM4V:5
+review:A1SO8AE23KZ0HZ:5
+review:A3JXOXKWOIETIY:5
+review:A1GRSLOXQ3P98F:5
+review:A16CZRQL23NOIW:5
+review:A2RFG9LI7JDILS:5
+review:A352O3GBH3QM31:4
+review:A1LP6O85Z894GT:5
+review:AAKGTWGAFT1LQ:5
+review:AK61LQI92GTCH:3

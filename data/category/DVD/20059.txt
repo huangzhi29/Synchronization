@@ -1,0 +1,35 @@
+id:20059
+asin:B00005U2FI
+title:Adventures of Felix
+group:DVD
+salesrank:25771
+similar:5
+categories:9
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Parenthood
+category:;DVD;Genres;Comedy;Gay & Lesbian
+category:;DVD;Actors & Actresses;( B );Bouajila, Sami
+category:;DVD;Specialty Stores;Studio Specials;Wellspring Home Video;World Class Cinema
+category:;DVD;Genres;Art House & International;By Theme;On The Road
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Genres;Comedy;By Theme;Down on Their Luck
+reviews:18
+review:A37U1LDQI2G7WP:5
+review:A1SNKXK0IGFS9E:5
+review:A3HAD0NHZH20G:4
+review:A2Q7YFUMKAIKNI:5
+review:APGSD5IZNL9CZ:1
+review:AWYJV4LEZJSLW:4
+review:AL1WBEKIEPUPE:5
+review:A1UTYMR1UKL0M3:1
+review:A1YBVTG5N294NA:3
+review:A2THLCDFUZ9KKO:4
+review:A3MWMXQM5KLQAU:4
+review:A22D3HP64HSW1Z:2
+review:A833PKC0HBCGX:5
+review:A3EQ4YAZ5OEVK9:3
+review:A368JY5S05FJGM:1
+review:A289M9EHRGGOV0:5
+review:A2EEUQ81DTY7G3:3
+review:AI54XO5Z755FH:4

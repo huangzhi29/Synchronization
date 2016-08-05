@@ -1,0 +1,28 @@
+id:10910
+asin:B000089QAQ
+title:The Method - The Stability Ball Workout
+group:DVD
+salesrank:16967
+similar:5
+categories:8
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Fitness & Yoga;By Instructor;Other Instructors
+category:;DVD;Genres;Fitness & Yoga;Series;The Method
+category:;DVD;Genres;Fitness & Yoga;Exercise Ball
+category:;DVD;Genres;Fitness & Yoga;General
+reviews:12
+review:A14B9D2O6Y374H:5
+review:A2UCN27FJ7GE8I:5
+review:A14ZC9K74LU6LU:5
+review:A9ZBS931FTIVY:3
+review:A2VBU1J4RN4FQC:4
+review:A2YHM9XUS0BOKF:1
+review:A3AHDR4F2J7YXX:2
+review:A3TDE71WXZ1K3T:1
+review:A23YX03W2K5F1V:4
+review:A3KNAR76B6B6W5:2
+review:AKZXJGM91WXVZ:5
+review:A30YQBYP5L4V2A:4

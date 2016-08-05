@@ -1,0 +1,22 @@
+id:11427
+asin:B00006IUFX
+title:The Shipment
+group:DVD
+salesrank:51972
+similar:5
+categories:11
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Comedy of Errors
+category:;DVD;Genres;Comedy;Comic Criminals
+category:;DVD;Actors & Actresses;( B );Bacic, Steve
+category:;DVD;Actors & Actresses;( B );Berkley, Elizabeth
+category:;DVD;Actors & Actresses;( B );Brazeau, Jay
+category:;DVD;Actors & Actresses;( L );Loggia, Robert
+category:;DVD;Actors & Actresses;( M );Modine, Matthew
+category:;DVD;Actors & Actresses;( R );Rodriguez, Paul
+category:;DVD;Actors & Actresses;( T );Turturro, Nicholas
+category:;DVD;Special Features;Titles;( S )
+reviews:3
+review:A3TPRIFSQVXY5H:4
+review:A2RW9MR92QC63N:1
+review:A3J0YE71BZQPP3:1

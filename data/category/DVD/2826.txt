@@ -1,0 +1,16 @@
+id:2826
+asin:B00006JMS0
+title:Jungle Jim [Serial]
+group:DVD
+salesrank:25063
+similar:5
+categories:5
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Classics
+category:;DVD;Actors & Actresses;( W );Withers, Grant
+category:;DVD;Genres;Action & Adventure;Jungle Action
+category:;DVD;Special Features;Titles;( J )
+reviews:3
+review:A29JFUFJSWNYFA:4
+review:A10K4TWL6VSXHU:5
+review:A2H9I08N2C066L:4

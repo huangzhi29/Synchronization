@@ -1,0 +1,24 @@
+id:12506
+asin:B00005KAQU
+title:Father of the Bride/Father of the Bride 2
+group:DVD
+salesrank:28521
+similar:5
+categories:14
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( C );Culkin, Kieran
+category:;DVD;Actors & Actresses;( G );Goetz, Peter Michael
+category:;DVD;Actors & Actresses;( K );Keaton, Diane
+category:;DVD;Actors & Actresses;( L );Levy, Eugene
+category:;DVD;Actors & Actresses;( M );Martin, Steve
+category:;DVD;Actors & Actresses;( N );Newbern, George
+category:;DVD;Actors & Actresses;( S );Short, Martin
+category:;DVD;Actors & Actresses;( S );Stewart, Kate Mcgregor
+category:;DVD;Actors & Actresses;( W );Williams, Kimberly
+category:;DVD;Directors;( S );Shyer, Charles
+category:;DVD;Special Features;Titles;( F )
+category:;DVD;Genres;Comedy;Comedy Stars;Diane Keaton
+category:;DVD;Genres;Comedy;Comedy Stars;Steve Martin
+reviews:2
+review:A30RK37F0139C1:3
+review:A1E43UVKTEGSIR:1

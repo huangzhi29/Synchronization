@@ -1,0 +1,48 @@
+id:6758
+asin:B00004R99H
+title:Fun and Fancy Free (Disney Gold Classic Collection)
+group:DVD
+salesrank:5465
+similar:5
+categories:22
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Specialty Stores;Disney Home Video;Gold Collection
+category:;DVD;Genres;Kids & Family;Adapted from Books
+category:;DVD;Genres;Kids & Family;Classics;General
+category:;DVD;Specialty Stores;Disney Home Video;By Age;3-6 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;7-11 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;For the Whole Family
+category:;DVD;Actors & Actresses;( B );Bergen, Edgar
+category:;DVD;Actors & Actresses;( E );Edwards, Cliff
+category:;DVD;Actors & Actresses;( G );Gilbert, Billy
+category:;DVD;Actors & Actresses;( P );Patten, Luana
+category:;DVD;Actors & Actresses;( S );Shore, Dinah
+category:;DVD;Directors;( L );Luske, Hamilton
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( F )
+category:;DVD;Genres;Kids & Family;Family Films
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:18
+review:A284OMAS9BMEF9:3
+review:A27H5XWFPWQ23G:5
+review:A1CVS7VX8KJO6G:5
+review:A1E4REA11S1126:4
+review:A2B951W848F8YK:3
+review:A1NWLV040TA0UR:5
+review:A39GB8QKJDWKRK:5
+review:A3476JVAQ8RH8K:1
+review:ADHA1W879JNT0:5
+review:A3HWJGNJ4BBLHO:2
+review:A2B951W848F8YK:2
+review:AA5XZVANDXGJE:3
+review:A29ETXDRMWEQD3:5
+review:A1COW0UIB5HA9J:5
+review:A39NXAD50F6YVZ:3
+review:A1Q4ZU2Y929N0A:3
+review:A32BSM2A0B5SOF:4
+review:AEGR40GALMDJ4:4

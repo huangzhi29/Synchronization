@@ -1,0 +1,79 @@
+id:1635
+asin:B00005NB93
+title:Rudolph the Red-Nosed Reindeer & The Island of Misfit Toys
+group:DVD
+salesrank:17640
+similar:5
+categories:13
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;Adventure
+category:;DVD;Actors & Actresses;( C );Curtis, Jamie Lee
+category:;DVD;Actors & Actresses;( D );Dreyfuss, Richard
+category:;DVD;Actors & Actresses;( M );Moranis, Rick
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( R )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Kids & Family;Fantasy
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Kids & Family;Fantasy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Kids & Family;Fantasy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:58
+review:A36ZCBPPL2MSRG:1
+review:A30YFBNQ52PISG:4
+review:A2SKVVVPP15UCS:1
+review:A1BDJ5AJMJYG49:1
+review:A2I0ZW7R79V930:1
+review:A38R2ZDVYRKB3:4
+review:A1F0PWU6YDC8CC:5
+review:A2LS6HFQYEQX55:4
+review:A2GNWXSY3CJB8I:1
+review:A24Q0IIV892TQU:1
+review:A16TAA6IUD5D65:3
+review:A3PHVAQAXYPZFF:2
+review:A21VD88V99FRF8:1
+review:A32LA0HS2W8MT0:4
+review:AX2946YAFQP8G:5
+review:A3UN6WX5RRO2AG:1
+review:A3OAK90HFWHZUI:1
+review:A29MKBKWQZD7PR:2
+review:A1APELGHH6ESK2:3
+review:A3N0U283FPLHGD:2
+review:AF3SF16OAY753:1
+review:A1Y3IA2TY52NS2:1
+review:A2V881WHJ2VN52:1
+review:AUQVJ02WE2H8:2
+review:A2VX220Y2WFY5L:5
+review:A3KVQ41165YF48:3
+review:A1MT5UR7NQ842S:1
+review:A3GRU9732S4V1U:4
+review:A3TD2PGGE0OPOY:1
+review:A145I2IHP4ZK19:1
+review:A212F5EUK3DSP3:4
+review:AUHBEA6PBBX3F:1
+review:ARJT54V72576E:1
+review:A2T3LYZGYDQ5JV:4
+review:A32EF488CJMVI3:1
+review:A3H82LUT1EC655:5
+review:A1SZKVQ9EOE50X:4
+review:A13PCJSIRWAKHE:3
+review:A1YKNULR482LKD:1
+review:A26ARFJIGVBX92:4
+review:A2EZNERVJW3WR4:4
+review:A11YV6VC51HJTV:1
+review:A3UN6WX5RRO2AG:5
+review:A2CHQMSVHB4H4T:4
+review:A3KYIQWUSBZWK2:5
+review:A2M0OM33ENTRZI:4
+review:A1H9FLR9G5R5YK:2
+review:A1ZZ7KR9OCWQ9N:1
+review:A1LFOYG8FNMUYK:1
+review:A2ATBE9LPBB23S:5
+review:A14KTIKMS5E5BC:5
+review:A3OI841P5R6FCH:3
+review:AG5OB571PLEJC:1
+review:A3FBTJCCNQXW2U:1
+review:A3UN6WX5RRO2AG:5
+review:A2XI2UUO3CAL43:1
+review:A3A1PZHLRNEX09:2
+review:A3UN6WX5RRO2AG:1

@@ -1,0 +1,112 @@
+id:18827
+asin:B00000K31T
+title:A Walk on the Moon
+group:DVD
+salesrank:2807
+similar:5
+categories:29
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( F );Feldshuh, Tovah
+category:;DVD;Actors & Actresses;( J );Jakub, Lisa
+category:;DVD;Actors & Actresses;( J );Jasper, Star
+category:;DVD;Actors & Actresses;( K );Kavner, Julie
+category:;DVD;Actors & Actresses;( L );Lane, Diane
+category:;DVD;Actors & Actresses;( M );Mortensen, Viggo
+category:;DVD;Actors & Actresses;( P );Paquin, Anna
+category:;DVD;Actors & Actresses;( S );Schreiber, Liev
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Drama
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Drama;Family Life;General
+category:;DVD;Genres;Drama;Love & Romance;Crumbling Marriages
+category:;DVD;Genres;Drama;Love & Romance;Infidelity & Betrayal
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Family Life
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Period Piece
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Love & Romance
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Family Life
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Period Piece
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Love & Romance
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:75
+review:A1J6IQZZZDZTXS:5
+review:A33NSEVWUHI6R3:4
+review:A95ZQQBM1CU82:5
+review:AGL2T2A45DWZ4:4
+review:ATVPDKIKX0DER:4
+review:A25K7P8BQ82LGD:5
+review:ATVPDKIKX0DER:4
+review:A1618EFK48U6NT:5
+review:AMOZDPXHTXOAI:3
+review:A22Z8S5DUZTZH3:5
+review:A3UMJWGBKFMY9C:5
+review:A3DE9V770BVDC2:5
+review:A257X03ZCFOLHS:5
+review:A3J8KQW1I8YDZ0:5
+review:AR87GQ4FMZ27Z:5
+review:A18QGFIC9SKHY1:5
+review:AYV4KIIUM2419:5
+review:ADV1OFBUS7QVI:4
+review:A2GHTSBU7IHIBO:5
+review:A1YEABPIF8EPHQ:5
+review:AX4B713E7P0XO:4
+review:AT5TREIF5CVP6:5
+review:AZWZNZ6CP2VDN:3
+review:A29FGMHIWXF7TB:4
+review:A2AP1BN2BKVRUR:5
+review:A17FLA8HQOFVIG:3
+review:A38F4BMWUPYUQ5:5
+review:A38F4BMWUPYUQ5:5
+review:A1J2931UBBJPXM:2
+review:A2CRUETJKX1WA5:5
+review:AJ9FC1GZOTA1O:5
+review:A275WB4PYH6227:4
+review:A2FJBJ947VUOGT:5
+review:A1ZSFIG1ERZ8WL:5
+review:A21HDK8Z7T8V0S:5
+review:A1ZSB55231L5XP:3
+review:A1MNYOQPZYA1YI:5
+review:A3AAESKSIRB34W:5
+review:A1MJ8PQHO2W7ES:5
+review:A3T5M9H6I3VO47:5
+review:A3DH2WJ77XRZAD:5
+review:AX5VX0JRPEABF:4
+review:A2I3CU5B18TZCM:5
+review:A1I5NGNBV8BZ92:5
+review:A2PSTU0VOT80EB:3
+review:A377HUNGEA4GJY:5
+review:AW8VW341DCVOJ:5
+review:A2KB14WCZ1DVE3:5
+review:A1JVQ2W7C2WNBT:5
+review:A10R112DVZQZJL:5
+review:A2662G7T83C1XA:5
+review:A2ODBHT4URXVXQ:5
+review:A2GRIX7SKMM0SG:5
+review:ATVPDKIKX0DER:5
+review:A3ULT4WZ1KMA4K:5
+review:A3I7EHVQ4AAKFV:4
+review:A1XHZGO4JZTZNJ:5
+review:A2ODBHT4URXVXQ:5
+review:A3UZSZIL13VQZ2:3
+review:A30HY1JQL6UZ0A:5
+review:AEPYFRFPV0JXB:5
+review:AVOHMVNCVSLNA:5
+review:A3ATN2HF8FW5AV:5
+review:AUNLFLVUJP8R:5
+review:A2YTRVX1JAVGWK:5
+review:A2AN988COWP49T:5
+review:A314CAGOWSJY6:4
+review:A1ERZIZ48CBCSB:2
+review:A2OKF3OKX898FH:5
+review:A82LIVYSX6WZ9:2
+review:A3EEH1I6YZX2ZH:5
+review:A14HHOT9999Z22:3
+review:A3V6Z4RCDGRC44:3
+review:A2QZF0UN6R65BB:3
+review:A328S9RN3U5M68:4

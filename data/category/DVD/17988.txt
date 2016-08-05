@@ -1,0 +1,47 @@
+id:17988
+asin:B000053GTF
+title:Celine Dion - All the Way... A Decade of Song & Video
+group:DVD
+salesrank:6391
+similar:5
+categories:9
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( E );Estefan, Gloria
+category:;DVD;Actors & Actresses;( S );Sinatra, Frank
+category:Music;Styles;Pop;Adult Contemporary;General
+category:;DVD;Genres;Music Video & Concerts;Artists;Dion, Celine
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Music Video & Concerts;Artists;Estefan, Gloria
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:30
+review:A1VG2OPJGFC0BJ:5
+review:A3J1YS5XDM2IS5:5
+review:A18TCCRCLXLNHP:5
+review:A19LW3FPW3SBY2:5
+review:A3D3P9HTBXBX2V:5
+review:A3V5ZWPQVYRUHF:5
+review:A329U9CDUPKXAC:5
+review:A3RC3AK8UN89I9:5
+review:A1QXGFLRJWNHDO:1
+review:A18DON5KI1ERFX:4
+review:A7U6SWOH42M5P:4
+review:A1W0ZWGTT5021T:5
+review:A29Z0OKLTIZ7MN:3
+review:AOQV6RMVYNW3G:1
+review:AOG7LYW2POPY3:5
+review:A78HJ41ZW5Y7O:5
+review:A3T1GCVTOPMVYP:5
+review:A1B2MF00TB0ECG:5
+review:A3CGAM9HUPT33X:3
+review:A2W8AATSFUMWOL:5
+review:A2W8AATSFUMWOL:5
+review:AZDSLRQOGMUPH:4
+review:A2VGRKP96F879O:3
+review:A250BI36M1IR26:5
+review:AFPQVUEI3D46K:5
+review:A3MC2FB9G2MJ5K:5
+review:A3UN6WX5RRO2AG:4
+review:ATTE3WBCJIDY9:5
+review:A3DHK7UKCCPJXJ:1
+review:ADZA821C0YRHQ:4

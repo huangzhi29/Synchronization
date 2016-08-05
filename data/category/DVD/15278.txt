@@ -1,0 +1,58 @@
+id:15278
+asin:B00005RDAI
+title:Prophecy
+group:DVD
+salesrank:29617
+similar:5
+categories:16
+category:;DVD;Genres;Horror;General
+category:;DVD;Actors & Actresses;( A );Assante, Armand
+category:;DVD;Actors & Actresses;( E );Evans, Evans
+category:;DVD;Actors & Actresses;( F );Foxworth, Robert
+category:;DVD;Actors & Actresses;( J );Jarvis, Graham
+category:;DVD;Actors & Actresses;( R );Racimo, Victoria
+category:;DVD;Actors & Actresses;( S );Shire, Talia
+category:;DVD;Directors;( F );Frankenheimer, John
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( P )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+reviews:34
+review:A3SHWOHGEAOQZE:4
+review:AUAO2KLO7OKZ:2
+review:A2S40MEQEWYPZS:2
+review:AYCH72YTL8UIG:5
+review:A2ONIL7HAD8XG7:5
+review:A56MTDM9QEVI2:4
+review:AKHVOV62ANADS:4
+review:AS1KQ8H27S80Z:2
+review:A3AY3EV2MFRFGG:3
+review:A1CZI1P1W1G6A1:5
+review:A2SND2PMZOLFRI:3
+review:A2SND2PMZOLFRI:3
+review:A2198FZZMTJ38H:1
+review:A22S7EGV2BPCUX:4
+review:A17E4Z4I7FT72Q:4
+review:AWSCX4C0JA8D9:2
+review:APM06HT7JIPZ5:3
+review:AFZ2ZDF8CLHKA:3
+review:A2I0ADZ9A2JZPM:2
+review:A2EDZH51XHFA9B:2
+review:A5RF4VO6XDGSB:5
+review:A2V3P1XE33NYC3:2
+review:A2O6KLIFWEKL51:3
+review:A4KZTH3GSO0KX:3
+review:ABYY738TBI2R2:3
+review:A3A48XEYWLWH7T:4
+review:A3AY3EV2MFRFGG:3
+review:AIMR915K4YCN:3
+review:A1N2D7LLBAY25B:2
+review:AR61Y2VWLST1V:4
+review:A2YT0RMJWQ7WBX:4
+review:A1QA409K66V0CM:2
+review:A1ZZ2EB6FCY8MW:3
+review:AMWIHOAIY1BY7:3

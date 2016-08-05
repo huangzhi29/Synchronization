@@ -1,0 +1,13 @@
+id:7252
+asin:B000058TMM
+title:Mr. Kansas City
+group:DVD
+salesrank:50193
+similar:0
+categories:3
+category:;DVD;Genres;Sports;Baseball
+category:;DVD;Specialty Stores;Independently Distributed;Documentary
+category:;DVD;Special Features;Titles;( M )
+reviews:2
+review:AQ97RHIXHX4NB:5
+review:A1RHXKRP8PUAMN:4

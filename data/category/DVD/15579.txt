@@ -1,0 +1,27 @@
+id:15579
+asin:B00008J2EA
+title:Immediate Family
+group:DVD
+salesrank:23534
+similar:5
+categories:15
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( C );Close, Glenn
+category:;DVD;Actors & Actresses;( D );Dillon, Kevin
+category:;DVD;Actors & Actresses;( G );Greer, Jane
+category:;DVD;Actors & Actresses;( K );Kennedy, Mimi
+category:;DVD;Actors & Actresses;( L );Lerner, Ken
+category:;DVD;Actors & Actresses;( M );Masterson, Mary Stuart
+category:;DVD;Actors & Actresses;( W );Woods, James
+category:;DVD;Directors;( K );Kaplan, Jonathan
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( I )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Class Differences
+category:;DVD;Genres;Drama;Family Life;General
+reviews:4
+review:ATVPDKIKX0DER:5
+review:A37OAN81726AO4:4
+review:A1RWC9HMAI014D:5
+review:A29HG51M5AX6NW:5

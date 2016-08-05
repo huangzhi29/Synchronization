@@ -1,0 +1,20 @@
+id:10072
+asin:B00005QBYK
+title:The Yellow Fountain (La Fuente Amarilla)
+group:DVD
+salesrank:39867
+similar:5
+categories:8
+category:;DVD;Genres;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Art House & International;By Original Language;Spanish
+category:;DVD;Special Features;Titles;( Y )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Specialty Stores;Studio Specials;New Yorker Films;All New Yorker Titles
+category:;DVD;Genres;Mystery & Suspense;By Theme;Haunted by the Past
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:4
+review:A3LYCJNCU3N685:4
+review:A1XNW2CJF4CNSO:5
+review:A111BH1GN0D33Z:3
+review:A2BEBWX3I5QXQL:3

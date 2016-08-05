@@ -1,0 +1,21 @@
+id:6873
+asin:B00004YZH2
+title:Showbiz Goes to War
+group:DVD
+salesrank:51286
+similar:5
+categories:12
+category:;DVD;Genres;Documentary;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Military & War;Documentary
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Military & War;Documentary
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Military & War;World War II
+category:;DVD;Special Features;Today's Deals in DVD;Military & War;World War II
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Military & War;World War II
+category:;DVD;Genres;Documentary;Military & War;General
+reviews:1
+review:A2NJO6YE954DBH:4

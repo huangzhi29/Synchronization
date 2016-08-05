@@ -1,0 +1,25 @@
+id:12511
+asin:B00005KAQZ
+title:Keeping the Faith/While You Were Sleeping
+group:DVD
+salesrank:54313
+similar:0
+categories:13
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( B );Bancroft, Anne
+category:;DVD;Actors & Actresses;( E );Elfman, Jenna
+category:;DVD;Actors & Actresses;( F );Forman, Milos
+category:;DVD;Actors & Actresses;( G );George, Brian
+category:;DVD;Actors & Actresses;( N );Norton, Edward
+category:;DVD;Actors & Actresses;( R );Rifkin, Ron
+category:;DVD;Actors & Actresses;( S );Sofer, Rena
+category:;DVD;Actors & Actresses;( S );Stiller, Ben
+category:;DVD;Actors & Actresses;( T );Taylor, Holland
+category:;DVD;Actors & Actresses;( W );Wallach, Eli
+category:;DVD;Special Features;Titles;( K )
+reviews:4
+review:A1B29T2BXOWME0:5
+review:A2N0K4W0TPNICY:5
+review:A1K157LKK9RWD6:1
+review:A20EEWWSFMZ1PN:5

@@ -1,0 +1,26 @@
+id:11646
+asin:B000068GQY
+title:I Spit on Your Corpse, I Piss on Your Grave
+group:DVD
+salesrank:37320
+similar:5
+categories:8
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Drama;By Theme;Erotic
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( I )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Specialty Stores;Independently Distributed;Horror
+reviews:10
+review:A3R5QI66053833:1
+review:A10TAS9R1Q1QDQ:4
+review:A2XW9PJOQDQRZ0:5
+review:AMGGZCWY3VNZC:1
+review:AHEFE7XS416N7:4
+review:ANX3XDZ8T09UD:3
+review:A3AAMJBE8SV9JG:1
+review:A1GF381Z4EYEAA:1
+review:A3CDJ2DVD5MZ3C:1
+review:AY0IDUU2GLLLG:3

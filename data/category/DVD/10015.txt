@@ -1,0 +1,16 @@
+id:10015
+asin:B00005NB9K
+title:Shaolin Ex-Monk
+group:DVD
+salesrank:58537
+similar:0
+categories:8
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Martial Arts;General
+category:;DVD;Genres;Action & Adventure;Hong Kong Action;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;General
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Action & Adventure;By Theme;Revenge
+reviews:0

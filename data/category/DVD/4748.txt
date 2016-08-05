@@ -1,0 +1,22 @@
+id:4748
+asin:B00005T30D
+title:The Brotherhood / The Brotherhood 2 - Young Warlocks
+group:DVD
+salesrank:34509
+similar:5
+categories:5
+category:;DVD;Genres;Horror;General
+category:;DVD;Actors & Actresses;( S );Sampson, Holly
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:9
+review:A30R6HEYBNOJX8:1
+review:AFIY76PPR8X0O:4
+review:AX2N2SWSJOV9P:1
+review:AFOK05KDCHSHL:2
+review:AJK1CQJ7OBG1A:2
+review:A89TORK8VPO9X:1
+review:A1HLC474SUY149:1
+review:A22UU4G210AII2:5
+review:A2TZUBRVWNTQT4:1

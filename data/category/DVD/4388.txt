@@ -1,0 +1,112 @@
+id:4388
+asin:B000059HB7
+title:Rio Bravo
+group:DVD
+salesrank:1877
+similar:5
+categories:25
+category:;DVD;Genres;Westerns;General
+category:;DVD;Genres;Westerns;Action & Adventure
+category:;DVD;Genres;Westerns;Classics
+category:;DVD;Genres;Westerns;Comedy
+category:;DVD;Actors & Actresses;( A );Akins, Claude
+category:;DVD;Actors & Actresses;( B );Bond, Ward
+category:;DVD;Actors & Actresses;( B );Brennan, Walter
+category:;DVD;Actors & Actresses;( D );Dickinson, Angie
+category:;DVD;Actors & Actresses;( D );Donner, Robert
+category:;DVD;Actors & Actresses;( H );Healey, Myron
+category:;DVD;Actors & Actresses;( M );Martin, Dean
+category:;DVD;Actors & Actresses;( N );Nelson, Ricky
+category:;DVD;Actors & Actresses;( R );Rodriguez, Estelita
+category:;DVD;Actors & Actresses;( R );Russell, John
+category:;DVD;Actors & Actresses;( W );Wayne, John
+category:;DVD;Actors & Actresses;( W );White, Ted
+category:;DVD;Directors;( H );Hawks, Howard
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( R )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Westerns
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Westerns;Western Directors;Howard Hawks
+category:;DVD;Genres;Westerns;Western Stars;John Wayne
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:79
+review:A2DCM32TDTXLQ3:5
+review:ATVPDKIKX0DER:5
+review:A3UBXOX91KWNWD:5
+review:ATVPDKIKX0DER:5
+review:A12TV9DHCO265Y:5
+review:ATVPDKIKX0DER:5
+review:A1WSAA9WQYFXJ8:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A3DW2APDQWBGGC:5
+review:A1NK08HYPQ8318:5
+review:A3PHMPAKPQZCFK:5
+review:A1AZMY4CFROSY9:5
+review:A1OCVWN4K4Q3FN:4
+review:A27JX9PA2DNJF4:5
+review:A1TPCAIFDQMWYD:5
+review:A359MELS6JUSL4:2
+review:A2X3WYPTH809FJ:2
+review:A12F1WTVD0H3C9:5
+review:A2H591ZT6CN1OW:5
+review:A8KKZX7WZVRSY:5
+review:ALCTVUGB5WZG1:5
+review:A14CXXI037JQDC:5
+review:AWNHBE0YBCHZB:5
+review:A2GAK89B29KSKX:5
+review:A1MPTJIR3LDGNZ:5
+review:A2DR3NLLALJBJN:4
+review:A1D2Z6UOCT9456:5
+review:A1AADZ6JYMZJ45:5
+review:A3TNM3C9ENUCFW:4
+review:A20EEWWSFMZ1PN:5
+review:AVCIAWHTON93E:5
+review:A2RN2AO4BE6F4K:5
+review:AGK4BEIQ017HY:5
+review:AENK4X1X4C5CM:4
+review:A2NJO6YE954DBH:5
+review:A3KOAAHCI18FKI:5
+review:A2WAJWFB6ZPEGW:5
+review:A3OKQJG0UM3SC4:5
+review:A2AP0VR7XU9589:2
+review:AXL4VSKT06PE9:5
+review:A17BT73RVRQYSP:5
+review:A3HR2G3F3MY7AN:5
+review:A2S26YGSVXBCFL:5
+review:ACIBQ6BQ6AWEV:4
+review:ADQ6PI9FVUM4C:5
+review:A3SFN7ECK78CEV:5
+review:A1P6NRWDD1NT4B:5
+review:A1IBC9XP2LICQL:4
+review:AHDSDEE28TO8Q:5
+review:ASIW2UYLKUJ4T:4
+review:A3U56M0Y8LYO6J:3
+review:A3N8RZSXKN1OR2:4
+review:AHCVWPLA1O4X8:5
+review:A31I3HXMD5H1EL:5
+review:A116ZH81AS2756:5
+review:A2E9NR7CBDIY3U:5
+review:A1YDOLE0BBJ7P1:5
+review:A1SVXJZ3386U2D:4
+review:A2M8G0O2K0T2JB:5
+review:AR1LU94IIZL66:3
+review:AIAGUDJEQTN28:5
+review:A1R8AO9XASQ15C:4
+review:A3W18T2ITHXW5O:3
+review:AC7MP9R2FKEAI:5
+review:A3LGDXHXYBMGCY:1
+review:A1X6K63N0V2VUV:5
+review:A2DYGO40HTQBMQ:5
+review:A16CZRQL23NOIW:5
+review:A3M0YP958H2KRX:5
+review:A3MKCR0EU13O16:5
+review:A3VQSFORKH8B7O:5
+review:A2B73CL3QSYWLB:4
+review:A1LP6O85Z894GT:5
+review:A2Q13PHEXGR48Q:5
+review:AS28WVBBZ3G99:5
+review:A1Q6NPDQ4OEKBX:4
+review:A234YMA334Q51N:5
+review:A1JJK67VXR1WSR:5

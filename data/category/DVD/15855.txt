@@ -1,0 +1,14 @@
+id:15855
+asin:B000096IAT
+title:Trading Spaces - Viewers' Choice!
+group:DVD
+salesrank:19284
+similar:5
+categories:6
+category:;DVD;Genres;Television;General
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Special Interests;Home & Garden;General
+category:;DVD;Genres;Television;TV Series;Trading Spaces
+category:;DVD;Genres;Television;Reality Shows;General
+category:;DVD;Genres;Television;By Decade;1990s and Newer;General
+reviews:0

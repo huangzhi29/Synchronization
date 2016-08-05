@@ -1,0 +1,52 @@
+id:10971
+asin:0782010660
+title:Plenty
+group:DVD
+salesrank:19869
+similar:5
+categories:27
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( D );Dance, Charles
+category:;DVD;Actors & Actresses;( F );Fairbank, Christopher
+category:;DVD;Actors & Actresses;( G );Gielgud, John
+category:;DVD;Actors & Actresses;( L );Laurie, Hugh
+category:;DVD;Actors & Actresses;( M );McKellen, Ian
+category:;DVD;Actors & Actresses;( N );Neill, Sam
+category:;DVD;Actors & Actresses;( S );Sting
+category:;DVD;Actors & Actresses;( S );Streep, Meryl
+category:;DVD;Actors & Actresses;( U );Ullman, Tracey
+category:;DVD;Directors;( S );Schepisi, Fred
+category:;DVD;Specialty Stores;Studio Specials;Lions Gate Home Entertainment;Lions Gate DVDs Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Drama;By Theme;Psychological Drama
+category:;DVD;Genres;Drama;By Theme;Haunted by the Past
+category:;DVD;Genres;Drama;Love & Romance;Crumbling Marriages
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Psychological Drama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Psychological Drama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Military & War;By Theme;Women During Wartime
+category:;DVD;Genres;Military & War;By Theme;Home From the War
+reviews:17
+review:A1W584W9UW3XEU:3
+review:ATVPDKIKX0DER:5
+review:ACIJVXJWC1SJO:5
+review:A2F8R40Z2OMIJM:5
+review:A39V4AS962XVK1:5
+review:A3I03DL8GGNXLU:3
+review:A2LHFY5QYCRB9X:4
+review:A9MPJ7G6XW1M6:4
+review:A3LYG1OCUG2OW5:5
+review:A22B5RX0BZ0I2Y:5
+review:A3AUECYM0M0YSX:5
+review:A3MPWVNJ6XHHZJ:2
+review:A14D63XS7C1GN:2
+review:A2NKJ38LELQ2YV:5
+review:ACMAUJEBY6GJF:2
+review:A30X96TL1HM2WE:1
+review:A1ABXLEBN524RG:5

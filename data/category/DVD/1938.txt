@@ -1,0 +1,51 @@
+id:1938
+asin:B00005Q409
+title:Ben Folds Five - The Complete Sessions at West 54th
+group:DVD
+salesrank:9651
+similar:5
+categories:8
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:35
+review:A201RY8Q0QETO1:5
+review:A1CD3FNTWBJZU9:5
+review:A1JA70YQTQ1XLO:5
+review:A1OJ9IL2G470PE:5
+review:A1W8U9OI8MD4HK:5
+review:A1LBZ7LN31YGT6:5
+review:A2O8HK3HHSTXI1:5
+review:AXKWPP8R8WY1S:5
+review:A3FZCUN1BQB5Q9:4
+review:A1FFRJZET6FRV4:5
+review:A2AITI5RO20TMS:5
+review:A225OQE50TE6V7:5
+review:A3QYHRFOA5C0W7:5
+review:A1TUB7VSY2D82F:5
+review:A2MRZDI7OVPQ5T:5
+review:A1MOGEXNCBZE3U:4
+review:A19ZT0ERYTC1E8:5
+review:A11YPTSES41PBA:2
+review:A1Y3K62XKQDAQW:5
+review:A1LDQTL8RYKQYE:5
+review:AA2E9ETVB384S:5
+review:AH3R2VB4YFNBO:5
+review:AK3DY70GYZB2G:5
+review:A2LSBTV6JMX0N:4
+review:A2LSBTV6JMX0N:4
+review:A2LSBTV6JMX0N:4
+review:A2BQ73KX6XBYJI:4
+review:A2BQ73KX6XBYJI:5
+review:AXANHDCWQE1HG:1
+review:A1Z0VYKLAQV2PT:5
+review:A3BD2D7UVZK9UJ:5
+review:A1VBYS3G8NQUY1:5
+review:A29VAPA4QG59JO:4
+review:A3UN6WX5RRO2AG:5
+review:AY1S8RZ7RF7JD:5

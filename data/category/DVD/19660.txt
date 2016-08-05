@@ -1,0 +1,25 @@
+id:19660
+asin:B00002ND7U
+title:Queen Emeraldas
+group:DVD
+salesrank:36422
+similar:5
+categories:7
+category:;DVD;Genres;Anime & Manga;By Studio;ADV Films
+category:;DVD;Actors & Actresses;( W );Webster, Derek
+category:;DVD;Genres;Anime & Manga;General
+category:;DVD;Genres;Art House & International;By Country;Japan;General
+category:;DVD;Genres;Art House & International;By Original Language;Japanese
+category:;DVD;Special Features;Titles;( Q )
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;General
+reviews:10
+review:A2ZHMALABM5DLA:3
+review:A1W5KX039RFF9E:5
+review:A38DQI4IO3QDZE:5
+review:AV3BGJFZ2203S:5
+review:AHOA6RL4TXZHX:5
+review:A3M0R9U6CE3KN8:3
+review:A2EHR2TWUDCJI4:3
+review:A2TZPRWK1WXPCX:2
+review:A2B8GXSCB1R05T:4
+review:A25TN5K3J49GPO:1

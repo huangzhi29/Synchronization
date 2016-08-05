@@ -1,0 +1,27 @@
+id:6529
+asin:B000067G12
+title:Pure 80's
+group:DVD
+salesrank:3945
+similar:5
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( P )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+reviews:13
+review:A1TGE1BLK1SUMW:5
+review:A1LQIW3S1SL6WK:4
+review:A14NAEWHKBW1NF:5
+review:A27WREKHGVF6RX:5
+review:A2VDFXPD184F2:2
+review:A2PXUPVH1NJ06Q:3
+review:A3M9GB9TYRYPM9:4
+review:A3M9GB9TYRYPM9:4
+review:A14GLNRU43M836:5
+review:A2U0DKQPZSD50Y:4
+review:AQKS2V96QTI1U:2
+review:AA9Y9SEYF8CPZ:3
+review:A29ZWFYVH2AAPY:2

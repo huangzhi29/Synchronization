@@ -1,0 +1,109 @@
+id:4007
+asin:B00003CY51
+title:Baby Boy
+group:DVD
+salesrank:5703
+similar:5
+categories:17
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( J );Jennings, Juanita
+category:;DVD;Actors & Actresses;( J );Jones, Tracey Cherelle
+category:;DVD;Actors & Actresses;( L );Luv, Freez
+category:;DVD;Actors & Actresses;( R );Rhames, Ving
+category:;DVD;Directors;( S );Singleton, John
+category:;DVD;Genres;African American Cinema;Drama
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Coming of Age
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Urban Life
+category:;DVD;Genres;Drama;By Theme;Down on Their Luck
+category:;DVD;Genres;Drama;Family Life;Mothers & Sons
+category:;DVD;Genres;Drama;By Theme;Haunted by the Past
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;Urban
+reviews:84
+review:A1AN6Y3BCKA5TQ:3
+review:A1BO4OU3XVUP5R:1
+review:A38EQIUG9EVNRQ:5
+review:A32NHBC3YB9RSW:1
+review:A3QIP8T46E9G9W:5
+review:A3W13GWB2L2X:4
+review:AFLXNS0MBYH9:1
+review:AY6P5CJTFXIRF:5
+review:A1VFD5P1BKTJX2:5
+review:AX5WPI5O67V9C:4
+review:A2Q1U16RH25I0:5
+review:A383R5XO6719AB:5
+review:A2KUG6IJJHSIU0:5
+review:A25OIQDGSDSA94:5
+review:ANXGNL8JVISLV:5
+review:A194RIS421V822:4
+review:A1HDNCXATAX1EX:5
+review:A352ULL611TIYJ:4
+review:A3KWXO6QE62Z5E:5
+review:A3PERVDBNCQJQV:4
+review:AIZ0YNUYUKYLW:4
+review:A25Y00PLZVCXZQ:5
+review:A3UH8EPKINJSA0:5
+review:A1F6HUEDOLUQYQ:1
+review:A3CPL7EEYY9QPV:5
+review:AGHZ4NO8ABQGM:1
+review:A2P7UQILDRTZPX:1
+review:A2O3352XMP96M7:5
+review:A3R7OFGOZAXPCN:5
+review:A2078292576FB4:2
+review:A2PW3DUH3WOH53:5
+review:A2WKKTVYS5H61M:3
+review:ADJBUPS8SJHTC:4
+review:AD5DCUFO9N6F1:5
+review:AHOP98V8UUXZB:4
+review:A3W0POMI33YQXQ:1
+review:A23VEQPFGE0R1F:3
+review:APXXJDPM28CBO:3
+review:A223RCTBRMJH52:1
+review:A2J57EQ9KPGXR9:1
+review:A3L85UHOMZIV0C:5
+review:A1ZI1OK3B7P9S2:3
+review:A23KAWGZ4RE1RI:4
+review:ARXQ5LST1DG50:2
+review:A143P0NKQDNWYL:3
+review:A2P9XTSA2C46JQ:2
+review:APPFB01NHB64:3
+review:A1XY4634O0QP35:2
+review:A3S8MTYRL0LAOX:3
+review:ADKU2BBUGPH1V:5
+review:A27FMDU5FY6CDK:2
+review:A1OYW7U2FS16Z0:5
+review:ADH7NKIF1E3FN:5
+review:A1CDZNPO7U4E6N:4
+review:A21279TEPJ8YJ9:4
+review:ABE14SVILZLNY:3
+review:ANNSDXBQ6Z7MT:5
+review:A39FXDU8PRGM1:1
+review:A136YD08SCJ2LV:4
+review:A316HU3BAFG0D2:4
+review:A3CRPTKODM67MQ:1
+review:A2I1HGEQASZW8D:2
+review:A1HFVQZIDK7UUD:2
+review:AGM907X0URUZZ:5
+review:A1R3MV725Y5EGB:4
+review:AMYW43AHO16SS:4
+review:A3HOMQCJ2SFZ2:3
+review:A1334A9QP4RW5F:3
+review:A32XW50ILWOXNO:3
+review:A3LXKO2S6G2DBI:3
+review:A3TB1OF14Z1YTS:3
+review:A3M88RCAR2T804:4
+review:A16FXW1ASB12KZ:5
+review:A1N0LCPR7O7OLL:4
+review:A1N0LCPR7O7OLL:4
+review:A1P4J7OWPC305Z:1
+review:A1G5LJ8T1IGYC5:4
+review:ACEZF6Z6VHJOG:4
+review:A1IKOYZVFHO1XP:5
+review:A2S3M34CILVB78:5
+review:A34A7QEBMYTALW:5
+review:A1X9R5I98W4S8V:5
+review:A3UN6WX5RRO2AG:5
+review:ACBSLICO32P89:5

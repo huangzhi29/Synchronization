@@ -1,0 +1,20 @@
+id:12520
+asin:B00005KAQC
+title:Kung Fu Master
+group:DVD
+salesrank:50169
+similar:0
+categories:6
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Sports;General
+category:;DVD;Actors & Actresses;( L );Li, Jet
+category:;DVD;Genres;Sports;Martial Arts
+category:;DVD;Special Features;Titles;( K )
+category:;DVD;Genres;Action & Adventure;Action Stars;Jet Li
+reviews:6
+review:A1KFEYKAZL16X0:4
+review:A48UD92FQJCXZ:4
+review:A3CE4HS7DKMDNA:4
+review:A38WSSUQAVP3R1:4
+review:A3KGLF4ORJJD20:5
+review:A2JHHYYOOO4DS6:4

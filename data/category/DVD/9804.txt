@@ -1,0 +1,36 @@
+id:9804
+asin:B00008WJDY
+title:Brigham Young
+group:DVD
+salesrank:28422
+similar:5
+categories:23
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( A );Andrews, Stanley
+category:;DVD;Actors & Actresses;( A );Astor, Mary
+category:;DVD;Actors & Actresses;( C );Carradine, John
+category:;DVD;Actors & Actresses;( D );Darnell, Linda
+category:;DVD;Actors & Actresses;( D );Darwell, Jane
+category:;DVD;Actors & Actresses;( D );Donlevy, Brian
+category:;DVD;Actors & Actresses;( J );Jackson, Selmer
+category:;DVD;Actors & Actresses;( J );Jagger, Dean
+category:;DVD;Actors & Actresses;( K );Knight, Fuzzy
+category:;DVD;Actors & Actresses;( L );Lawrence, Marc
+category:;DVD;Actors & Actresses;( O );Olsen, Moroni
+category:;DVD;Actors & Actresses;( P );Power, Tyrone
+category:;DVD;Actors & Actresses;( P );Price, Vincent
+category:;DVD;Actors & Actresses;( R );Robertson, Willard
+category:;DVD;Actors & Actresses;( R );Rogers, Jean
+category:;DVD;Directors;( H );Hathaway, Henry
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;All Fox Titles
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Fox DVD Budget Store;DVDs Under $15
+reviews:5
+review:AYM80A3K48L8F:2
+review:A3BSS2M2DPPV4T:3
+review:A2D9IEFJGB483Q:4
+review:A10V0I53Q6NXZH:4
+review:AXTWZLIZ3VQPH:5

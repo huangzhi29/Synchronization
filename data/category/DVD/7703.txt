@@ -1,0 +1,27 @@
+id:7703
+asin:B00006BS72
+title:Big Country - Final Fling
+group:DVD
+salesrank:19551
+similar:5
+categories:10
+category:Music;Styles;Folk;Traditional British & Celtic Folk;Scottish Folk
+category:Music;Styles;International;Europe;British Isles;Britain
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( B )
+category:Music;Styles;Alternative Rock;New Wave & Post-Punk
+category:;Amazon.com Stores;Travel;Categories;Music for Travelers;Europe;British Isles;Britain
+category:;Amazon.com Stores;Travel;Categories;Music for Travelers;Europe;British Isles;Scotland
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Musicals & Performing Arts;Classical;General
+reviews:9
+review:A2UT4S2DJZDSR3:5
+review:A2LHE7TQID966:5
+review:A1QI2WMJ2H5KVU:5
+review:A7EJERNB7IK3Z:5
+review:AIRF31DUR5PFX:5
+review:A2CIAC707TS86Z:5
+review:A2M311M0N2CPEO:5
+review:A26057XIJZISGO:5
+review:AYMPKQ3NKUF1M:5

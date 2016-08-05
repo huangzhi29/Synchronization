@@ -1,0 +1,57 @@
+id:19639
+asin:B00002ND7A
+title:The Goodbye Girl
+group:DVD
+salesrank:5164
+similar:5
+categories:19
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Comedy;By Theme;Parenthood
+category:;DVD;Genres;Comedy;By Theme;Opposites Attract
+category:;DVD;Actors & Actresses;( B );Benedict, Paul
+category:;DVD;Actors & Actresses;( C );Costanzo, Robert
+category:;DVD;Actors & Actresses;( D );Dreyfuss, Richard
+category:;DVD;Actors & Actresses;( M );Mason, Marsha
+category:;DVD;Actors & Actresses;( M );Merritt, Theresa
+category:;DVD;Actors & Actresses;( R );Rhoades, Barbara
+category:;DVD;Directors;( R );Ross, Herbert
+category:;DVD;Genres;Comedy;Urban
+category:;DVD;Genres;Comedy;Romantic Comedies;Contemporary
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( G )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Comedy
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $20;Comedy
+reviews:30
+review:ATVPDKIKX0DER:5
+review:A1QVKDGU107CDB:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2FQUPE0JLJVWA:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A316FKPJ2D9JUY:2
+review:AL2APHSIWU24D:4
+review:A2MB9TAB9P7JB1:4
+review:A3UJ50L3ST5G95:5
+review:A2PYKYPSJVQ43D:4
+review:A3PGV41X7B51KL:2
+review:ASH862CXI5KP8:1
+review:A26LCEMW9GG71T:5
+review:A16RN2NIUOH703:5
+review:A1E0RPGCXS4L2G:5
+review:A2JMIOAVBGLAJP:5
+review:A2NJO6YE954DBH:4
+review:A2ILHD7W0HIAVW:4
+review:A2FYQLVZ9NYDPQ:5
+review:AUGABW5AS2OXM:5
+review:A2CWRFR6HOCF1U:4
+review:A10YG5BXSCPD91:5
+review:AWAWCJX62S5OA:4
+review:A3AITVTI2N2EJP:5
+review:A2VE83MZF98ITY:5
+review:A18RQ2URRGIIEA:5
+review:A13QOK6D0CBNUG:5
+review:A51IK68MWKV5R:4

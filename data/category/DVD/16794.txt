@@ -1,0 +1,26 @@
+id:16794
+asin:B000055ZLC
+title:Erotic Survivor
+group:DVD
+salesrank:12129
+similar:5
+categories:10
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;By Theme;Erotic
+category:;DVD;Actors & Actresses;( H );Hellfire, William
+category:;DVD;Actors & Actresses;( R );Rochon, Debbie
+category:;DVD;Directors;( B );Bacchus, John
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( E )
+category:;DVD;Genres;Comedy;Parody & Spoof;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Actors & Actresses;( M );Mundae, Misty
+reviews:8
+review:ALRNOZUVL3AOT:2
+review:A3G1ATNDU80KAE:5
+review:A1FHYBBVYQHCDD:1
+review:A1FHYBBVYQHCDD:1
+review:A26KK6ZU5B3AFJ:2
+review:AW2JMPR8R39XK:3
+review:A3KF4IP2MUS8QQ:4
+review:A1MFPR1ILOQPJY:1

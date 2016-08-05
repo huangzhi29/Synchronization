@@ -1,0 +1,11 @@
+id:12515
+asin:B00005KAQY
+title:Queen's Competition
+group:DVD
+salesrank:59779
+similar:0
+categories:3
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Special Features;Titles;( Q )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;General
+reviews:0

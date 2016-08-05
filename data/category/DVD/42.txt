@@ -1,0 +1,47 @@
+id:42
+asin:B000056PNB
+title:Pixote
+group:DVD
+salesrank:19685
+similar:5
+categories:15
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Art House & International;By Country;Brazil
+category:;DVD;Directors;( B );Babenco, Hector
+category:;DVD;Genres;Art House & International;By Theme;Children
+category:;DVD;Genres;Art House & International;By Theme;Coming of Age
+category:;DVD;Genres;Drama;By Theme;Coming of Age
+category:;DVD;Genres;Art House & International;By Original Language;Portuguese
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Genres;Drama;By Theme;Childhood Drama
+category:;DVD;Genres;Drama;By Theme;Urban Life
+category:;DVD;Genres;Drama;By Theme;Down on Their Luck
+category:;DVD;Genres;Drama;By Theme;Kids in Trouble
+category:;DVD;Specialty Stores;Studio Specials;New Yorker Films;All New Yorker Titles
+category:;DVD;Specialty Stores;Studio Specials;New Yorker Films;Latin American Cinema
+reviews:24
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2LM7RE5F1P0L8:5
+review:AUUK6B3SVST4B:4
+review:A2R3FDDGZG7K9E:5
+review:A1K548TDR33DMN:5
+review:AYRNJNRVQF7MA:5
+review:A21FBLLPSKY2V2:4
+review:A33EW6QSGTGQ4D:3
+review:A3ORIJSCN4CS66:4
+review:AFOK05KDCHSHL:2
+review:A9U1ZILPIOEFH:4
+review:A3UE48FJ4CHIJF:5
+review:AOTWJS0AJHHWY:5
+review:A2YP4457Z0U6S4:5
+review:A30OND5T0XOA6F:1
+review:ABICMG56FAW08:2
+review:A3LD9XW7N5ORG7:4
+review:A2QZQA4BEMVM3W:5
+review:A21VK7VI22FCL2:5
+review:A16CZRQL23NOIW:5
+review:A3RSKSWADQ82C0:5
+review:A2KWHKLC2AYAB2:5
+review:A2XVFH3ZLZCLQ2:5

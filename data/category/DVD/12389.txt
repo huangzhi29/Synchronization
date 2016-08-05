@@ -1,0 +1,165 @@
+id:12389
+asin:0792839749
+title:Chitty Chitty Bang Bang (Full Screen Edition)
+group:DVD
+salesrank:384
+similar:5
+categories:32
+category:;DVD;Genres;Musicals & Performing Arts;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Genres;Kids & Family;10-12 Years
+category:;DVD;Genres;Kids & Family;Adapted from Books
+category:;DVD;Genres;Kids & Family;Music & Arts
+category:;DVD;Actors & Actresses;( A );Arne, Peter
+category:;DVD;Actors & Actresses;( H );Helpmann, Robert
+category:;DVD;Actors & Actresses;( H );Hill, Benny
+category:;DVD;Actors & Actresses;( H );Howes, Sally Ann
+category:;DVD;Actors & Actresses;( J );Jeffries, Lionel
+category:;DVD;Actors & Actresses;( J );Justice, James Robertson
+category:;DVD;Actors & Actresses;( L );Llewelyn, Desmond
+category:;DVD;Directors;( H );Hughes, Ken
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;General
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Musicals & Performing Arts
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;Drama
+category:;DVD;Special Features;Titles;( C )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;DVD;Genres;Kids & Family;Family Films
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;All MGM Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Musicals & Performing Arts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Daring Rescues
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Heroic Missions
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;Fantasy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;Fantasy
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:125
+review:A32HECAPPBIKD2:4
+review:A3JVA8IIKO1YJ1:5
+review:ATVPDKIKX0DER:5
+review:A3ESKPVSFTTE7R:3
+review:ATVPDKIKX0DER:3
+review:A2D7LCEP65YVB2:5
+review:ATVPDKIKX0DER:1
+review:A2IKW3MJGCXOKD:5
+review:ATVPDKIKX0DER:4
+review:ALZRSC186CPDJ:5
+review:A5OZLE07UZ8H2:5
+review:A85QY94NU4RQ4:1
+review:ATVPDKIKX0DER:5
+review:A3FX9Y3VKPIW9A:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:A30TCNF8AIMRF1:5
+review:A817Z5ZUVX5ZK:1
+review:A368K0IG4IHPVC:5
+review:A3DZP18ITECISF:2
+review:AU9BBP3DYHZI0:5
+review:A1928PHI4RBCQ9:1
+review:A1A742Q6VRVVFO:3
+review:A2EYMELYXZFO5Q:1
+review:ACVLDEBMLAU5G:2
+review:A2A68G96LIOAYE:4
+review:A1WFIXDRFI22DL:1
+review:A21S26XYPGXJZX:5
+review:ASVT1MLB34UEQ:5
+review:A7Y6AVS576M03:2
+review:ATVPDKIKX0DER:5
+review:A1KB21C2SC7ESW:1
+review:A36NW00607K49I:5
+review:A155KXFRZCA7C:5
+review:A1F8M8TLXO4IOB:5
+review:A3GQMWM2IDG49H:1
+review:A34ZRDJ51VLE8T:4
+review:A2CB4XO8IKQ9C5:4
+review:A1ZD5DNWS41VS4:4
+review:A1XK9MOA42O3SS:5
+review:A3OA9KT9KPI1Q4:3
+review:A317GOABTOPKXJ:1
+review:A1M2J3H6LYPAQ7:1
+review:AURZ4YQ270W3T:3
+review:A3OTDC1YF3A7XT:5
+review:A3OTDC1YF3A7XT:5
+review:A2UIHT8T39EJK6:5
+review:A3X58Y9KIUL2H:1
+review:A3EL79ZLLRUQMN:5
+review:A14VMK6B10ZE4I:3
+review:A2RMJ7DTHVBKAU:2
+review:ACZ25DPK5TNCK:5
+review:A26TSW6AI59ZCV:2
+review:A1M5KI0MLL9NMR:4
+review:A1WT5M0VZYQTUM:3
+review:A13EUSV15UDAUG:3
+review:A1XN6MBYDBTX16:5
+review:A2EYMELYXZFO5Q:2
+review:A1P6NRWDD1NT4B:4
+review:A3AKWA5CWSKOOH:5
+review:A1AZS45CCI72GX:4
+review:A3TB6AUOL5ZSC1:4
+review:A1IJKK6Q1GTEAY:3
+review:A37PMZVM8LR1DY:3
+review:A15D6WJV5V008:5
+review:A3ICHEO78NFE4Y:5
+review:A24916L9W2LLCQ:5
+review:AHGCGJO1AICU4:2
+review:A2RD0B8LLOSMCQ:1
+review:ACWRAL4UXC1X5:1
+review:A3EX36SNRYD5VL:4
+review:A15TNUM2PBS6F0:5
+review:A3FDTFMB4VM1NE:1
+review:A34RE5DKKE0XD:1
+review:A1ASA7MWTGXC09:2
+review:A2DT0Z0YRXM6RZ:1
+review:A396SBGKAOLTZE:4
+review:APX5B9K3VFPUL:1
+review:A4TVA3MWF6SMZ:2
+review:A25ZVUJN30Y0UL:5
+review:ACXMA1E6AWBSQ:3
+review:AR49WMIR9WKQB:4
+review:A10WCIMU2ZNM3T:3
+review:A2Y8BMUQEAV0N:3
+review:A3LCBJM5I5215W:5
+review:A3FVHZ6AVGH8JO:4
+review:A1D2JLLWMSTDXC:4
+review:A1YWL6DWQERARS:4
+review:AXYGT3CBHC1WA:5
+review:AYYIOD1MJWHO3:5
+review:A20MBUOT9S7AEP:5
+review:A1CK1RZ1M4JM7K:5
+review:A26PCTV7JTC11X:4
+review:A50DD5BLQWDMH:1
+review:ACWCPKCEUQUS0:1
+review:A2OBMNGNKY0DTZ:4
+review:AENS008HCBVC5:3
+review:A1FMLJYV0WIX55:1
+review:A3LXKO2S6G2DBI:4
+review:A2TQ0SRDL86VPH:4
+review:A37PV5GMP2ILJC:4
+review:A26W10N6HVB0ZY:5
+review:ACWCPKCEUQUS0:5
+review:A2YKJXUFBUFK01:1
+review:A2X0K7UH147NM6:5
+review:A302PIBCZJ3TZ:5
+review:A2UMOGM43FSL2C:5
+review:AME0DH54D12AA:3
+review:A1MN3BQCMU1VNE:5
+review:AQM8JERFN5IZC:5
+review:A337G9P4TQ0AQX:1
+review:A2BPQ0MAHCVFMA:4
+review:A3PQS1CCUPLC50:5
+review:ARPI7ILEOQ848:3
+review:A7Y6AVS576M03:5
+review:A37A9OEAXN8SAI:5
+review:A21A17T3TG912R:5
+review:AAOT8ZNO94H0V:4
+review:AOZ80EILRHVUJ:5
+review:A2ZA4YLOXQPFRY:5
+review:A37XXL0C9PX994:4
+review:A3QVI57VT1VGRO:4
+review:A1Z54EM24Y40LL:5
+review:ATP6LJM6ZTG1T:5

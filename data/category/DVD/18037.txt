@@ -1,0 +1,15 @@
+id:18037
+asin:B000053GT1
+title:Kamikaze
+group:DVD
+salesrank:14983
+similar:1
+categories:6
+category:;DVD;Genres;Special Interests;General
+category:;DVD;Genres;Sports;General
+category:;DVD;Genres;Sports;Bicycling
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( K )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:1
+review:A3I5N6JL53IFE6:3

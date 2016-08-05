@@ -1,0 +1,12 @@
+id:7341
+asin:B00005B3Z3
+title:Penthouse - Variations - In Vogue
+group:DVD
+salesrank:49730
+similar:0
+categories:1
+category:;DVD;Special Features;Titles;( P )
+reviews:3
+review:A32AQ2JI3W771M:4
+review:A3J9FWRBMJB83T:2
+review:A2Z1YAET7X6GK1:5

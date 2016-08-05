@@ -1,0 +1,61 @@
+id:18957
+asin:B00005NTO4
+title:The Best of Friends Collection (Vols. 1-4)
+group:DVD
+salesrank:3594
+similar:5
+categories:9
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( K );Kudrow, Lisa
+category:;DVD;Genres;Television;TV Series;Friends
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Formats;Boxed Sets;Comedy
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Television
+category:;DVD;Genres;Television;By Decade;1990s and Newer;General
+reviews:44
+review:A2BJW0QQN4129X:5
+review:A91LE0MPYE8GJ:5
+review:A3TEGICWJLHFS5:5
+review:A2TC6SSQSJ4GVF:5
+review:A2H2Q8ETDWEDCE:5
+review:A2RZBMDEKZO59J:5
+review:A38W5JXSHWR108:3
+review:A17X73TFZFWTJO:1
+review:A21X899J7FKK1Y:5
+review:A2YCMSMP13GY66:5
+review:A2EFRJV4R9WM6S:1
+review:A1RWBKI3IMUW4V:5
+review:A1RWBKI3IMUW4V:5
+review:A20WUIRQC9XYB:4
+review:A1GN8UJIZLCA59:5
+review:A1LDIMQISH07WK:4
+review:A2UMI7ZLD9MQK:5
+review:A1UFCJSBHCLIA2:3
+review:AYCADYY5UGII9:5
+review:A1SR1ZDJVZ1VWH:5
+review:A2IFZWPTFDEY4U:4
+review:A1ZE5YHH3JN79P:5
+review:A2URI51KCRX0A:5
+review:AQ6DE5KYM7TWB:5
+review:A21T8R9YSHCW0A:5
+review:A24425UKHOGEK7:5
+review:AJ8GAKE5DRTBJ:4
+review:A2QDJZFRNSJNE3:5
+review:A27YUZ4HZHPWUU:5
+review:A2MZ0LGKGBTZ9:3
+review:A25IOL64OI02RR:1
+review:AU8552YCOO5QX:1
+review:A1F794KUYAQWR5:3
+review:AELNOKD22KJLX:5
+review:A2I9K5GCGJ431W:5
+review:A3UKKYGZQDHD3G:1
+review:A2JEBQ7E5G4ROU:5
+review:A2JEBQ7E5G4ROU:5
+review:A1SC4RXKBH2R17:3
+review:A1SF7SIRZ74MC9:3
+review:A13H2JJ3GEMJN1:4
+review:A31R7SO1NATXVZ:1
+review:A3AJ5967Y9PYAB:3
+review:A3UN6WX5RRO2AG:3

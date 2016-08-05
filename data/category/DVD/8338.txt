@@ -1,0 +1,62 @@
+id:8338
+asin:B00005YUOA
+title:The Temptations - Live in Concert
+group:DVD
+salesrank:6194
+similar:5
+categories:7
+category:Music;Styles;R&B;Soul;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll
+category:;DVD;Genres;Music Video & Concerts;Other Music;R&B
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( T )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:47
+review:A31EZ2NBDY1ANS:2
+review:ATVPDKIKX0DER:2
+review:A35BKPYBYLMJ7T:2
+review:ATVPDKIKX0DER:4
+review:AMRNGHK6SUUM1:5
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:3
+review:A3FPSLJ63ONNB7:1
+review:A1R0DKF07WEYVV:4
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:4
+review:A198CA27EAJC3Y:5
+review:ANVARO63RBJTW:4
+review:A1ETYFIKW1V6XP:5
+review:ATVPDKIKX0DER:4
+review:A1RW7HFUGL1CEV:5
+review:A1HWDTWYXPX5S7:4
+review:A26HRS71V15X4B:1
+review:A3DCF2G56CK6ND:1
+review:A2V5SC0VQFWZA1:5
+review:A2V5SC0VQFWZA1:5
+review:A2KGJVFANVFA0K:4
+review:A10GVVYHCOGSRF:1
+review:A2J1PA48EO5U52:1
+review:A119PTND8P6S0J:2
+review:A243V62RDQDY8H:5
+review:A3LDVZ44FBLBHK:1
+review:A2YPVN3DZG8O88:1
+review:A3RO02J8A8HXUS:5
+review:A3BXI21JZCYT6F:5
+review:A2V0NX3N3EDC41:5
+review:A243V62RDQDY8H:5
+review:A1HI7WJILFEW31:5
+review:ASJYAN2YX8M6F:4
+review:A2OUDSHGOD67PT:5
+review:A20T4GI6ZV8U7A:5
+review:A2TMG0OTKWND2F:2
+review:A3MH60CICY6DKC:5
+review:A336NU31P1AN2L:5
+review:A2561PTXI27C9G:5
+review:AN2U4MA6J0J0P:3
+review:AN2U4MA6J0J0P:3
+review:A1YIGD4Z7Q9TO7:5
+review:A314QIDIT0IS9Q:3
+review:A3RB245W5OLVPT:1
+review:AAD2RD3SGQY1R:5

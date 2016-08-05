@@ -1,0 +1,29 @@
+id:14403
+asin:B00006FDAL
+title:American Ninja 2/American Ninja 3
+group:DVD
+salesrank:7002
+similar:5
+categories:12
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( B );Barrett, John
+category:;DVD;Actors & Actresses;( B );Bradley, David
+category:;DVD;Actors & Actresses;( G );Gortner, Marjoe
+category:;DVD;Actors & Actresses;( J );James, Steve
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:9
+review:A1HDXYGPTLYBFE:4
+review:A1ZTSOBAPOWT3:5
+review:A3N5XIM9R2OQH0:5
+review:A319P50FFUV4RP:5
+review:ATCRRP9KZNP92:5
+review:A3HU7E5F8S4AM1:5
+review:A389SV9FOJXIZ6:4
+review:A3J5BFWPIEXQ1C:5
+review:A3BARL0VWQDHI3:5

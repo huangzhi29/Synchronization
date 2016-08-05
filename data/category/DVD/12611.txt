@@ -1,0 +1,17 @@
+id:12611
+asin:B000063K1J
+title:SolarMax (Large Format)
+group:DVD
+salesrank:12845
+similar:5
+categories:5
+category:;DVD;Genres;Documentary;General
+category:;DVD;Genres;Documentary;IMAX
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:4
+review:A37C1H50CZRFM8:5
+review:A351YEOZLLR34M:5
+review:AH2MQLEHU4XXU:5
+review:A3AWLFMKGRMI5M:5

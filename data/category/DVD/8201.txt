@@ -1,0 +1,28 @@
+id:8201
+asin:B0000687BL
+title:Eminem - All Access Europe
+group:DVD
+salesrank:18236
+similar:5
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Artists;Eminem
+category:;DVD;Genres;Music Video & Concerts;Rap & Hip-Hop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Titles;( E )
+reviews:14
+review:A2BE859CU1HZJH:5
+review:A2HRP9YBEBT0RC:5
+review:A1W60SHWO8L6N0:5
+review:A1K1LAP9WW09GA:4
+review:AFI9Z9HQD1E3N:3
+review:A2A0EWUSAX0XNU:1
+review:AB3KXS2UU36QP:3
+review:A1WQFCXEZPHX51:5
+review:A3W0IM3XVPLSG2:5
+review:A2QMCHC0FBC0QP:4
+review:A2DYN40NTLOFCU:5
+review:A1SX8V30IP3NFP:3
+review:A1S5AATSWS3CJ6:1
+review:A2HE76330WLD6G:5

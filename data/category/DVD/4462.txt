@@ -1,0 +1,19 @@
+id:4462
+asin:6305936846
+title:Psychopath
+group:DVD
+salesrank:46836
+similar:5
+categories:10
+category:;DVD;Genres;Horror;General
+category:;DVD;Actors & Actresses;( A );Adams, Lynne
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( D );Dinsmore, Bruce
+category:;DVD;Actors & Actresses;( M );Mulkey, Chris
+category:;DVD;Directors;( F )
+category:;DVD;Genres;Mystery & Suspense;Crime;Courtroom Drama
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Genres;Mystery & Suspense;By Theme;Serial Killers
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:1
+review:A3LZGLA88K0LA0:4

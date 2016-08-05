@@ -1,0 +1,32 @@
+id:19391
+asin:157132528X
+title:Barney - More Barney Songs
+group:DVD
+salesrank:4501
+similar:5
+categories:12
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;Characters & Series;Barney
+category:;DVD;Genres;Kids & Family;Birth-2 Years
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;Music & Arts
+category:;DVD;Actors & Actresses;( B );Barney
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Kids & Family;Puppets
+category:;DVD;Special Features;Titles;( B )
+category:;Specialty Stores;Books, Music & More;Videos and DVDs for Babies and Toddlers;DVDs for Babies and Toddlers
+category:;Specialty Stores;Books, Music & More;Videos and DVDs for Babies and Toddlers;Barney DVDs
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:12
+review:A1E73X48IZ0W7X:5
+review:A3F4T1AN49H5WB:3
+review:A2ZY3JF8DKDYWP:5
+review:A2AD0Z6K97R8BF:5
+review:A1U900Z3YFB9ME:5
+review:A4B302H1K5P6V:5
+review:A3F1D5VLLF8NN4:5
+review:A329BM2DN9OLXD:5
+review:A3I6HOGV4CVN7J:5
+review:A14HPBJ87R556B:5
+review:A2TZW4YIUN60G8:5
+review:A3TD7B0CT1NHO4:5

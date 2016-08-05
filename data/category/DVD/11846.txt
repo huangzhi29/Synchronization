@@ -1,0 +1,27 @@
+id:11846
+asin:B00006G8GE
+title:The Brotherhood III - Young Demons
+group:DVD
+salesrank:10776
+similar:5
+categories:8
+category:;DVD;Genres;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:11
+review:A1L8YSVFP3CERM:2
+review:A1X1RWRPSAL206:2
+review:A3S1H1Q8470EJX:1
+review:A3FFKU2MTCOBM1:1
+review:A3I18ZPBL8OX6O:1
+review:A3T8G5BTQMP1J5:4
+review:A22UU4G210AII2:1
+review:A3LZGLA88K0LA0:1
+review:A1BPBB249ABHWF:5
+review:A3D2VIUT2HWP0Z:2
+review:A3UN6WX5RRO2AG:1

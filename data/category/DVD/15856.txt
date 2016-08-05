@@ -1,0 +1,29 @@
+id:15856
+asin:B000096IAU
+title:Trading Spaces - They Hated It!
+group:DVD
+salesrank:21874
+similar:5
+categories:12
+category:;DVD;Genres;Television;General
+category:;DVD;Special Features;Today's Deals in DVD;Television
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( T )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Television
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Special Interests;Home & Garden;General
+category:;DVD;Genres;Television;TV Series;Trading Spaces
+category:;DVD;Genres;Television;Reality Shows;General
+category:;DVD;Genres;Television;By Decade;1990s and Newer;General
+reviews:9
+review:A2CP9Z40TH9VFE:2
+review:ABWPWHO4SS7WS:3
+review:A67W9D5PDXPWK:5
+review:A2IL2OQT9B006R:1
+review:A14NW9H2CX38PA:1
+review:A1ILCSUVC4XN0I:1
+review:A35GW64KZOWIEZ:5
+review:A349SDBAUDKWMS:1
+review:A3GA09FYFKL4EY:5

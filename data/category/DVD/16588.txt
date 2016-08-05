@@ -1,0 +1,20 @@
+id:16588
+asin:B00004YNV3
+title:Red Skelton - Vol. 3 Holiday Collection
+group:DVD
+salesrank:49356
+similar:0
+categories:11
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( S );Skelton, Red
+category:;DVD;Special Features;Today's Deals in DVD;Television
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( R )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Television
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Television;By Decade;1950s-'60s;General
+category:;DVD;Genres;Television;TV Series;Red Skelton Show
+reviews:1
+review:A42GFMF12V7XR:1

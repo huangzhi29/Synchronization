@@ -1,0 +1,30 @@
+id:12357
+asin:B00005TPLX
+title:James Dean
+group:DVD
+salesrank:6465
+similar:5
+categories:17
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Biography
+category:;DVD;Actors & Actresses;( C );Colantoni, Enrico
+category:;DVD;Actors & Actresses;( H );Herrmann, Edward
+category:;DVD;Actors & Actresses;( L );Linville, Joanne
+category:;DVD;Actors & Actresses;( M );Moriarty, Michael
+category:;DVD;Actors & Actresses;( P );Pleshette, John
+category:;DVD;Actors & Actresses;( P );Primus, Barry
+category:;DVD;Actors & Actresses;( P );Proval, David
+category:;DVD;Actors & Actresses;( R );Rydell, Mark
+category:;DVD;Actors & Actresses;( W );Wagner, Lou
+category:;DVD;Directors;( R );Rydell, Mark
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( J )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;By Theme;Artists & Writers
+category:;DVD;Genres;Drama;Television;General
+reviews:5
+review:A82LIVYSX6WZ9:5
+review:A316FKPJ2D9JUY:5
+review:A12224Y2TZG4BY:1
+review:A1QUC9C5ESSCPP:4
+review:A3FMHXRM9FDR5N:5

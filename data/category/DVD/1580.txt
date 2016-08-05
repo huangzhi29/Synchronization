@@ -1,0 +1,38 @@
+id:1580
+asin:B00005RT35
+title:Billy Joel - The Essential Video Collection
+group:DVD
+salesrank:7608
+similar:5
+categories:12
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( J );Joel, Billy
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Special Features;Today's Deals in DVD;Music Video & Concerts
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Genres;Music Video & Concerts;Artists;Joel, Billy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Music Video & Concerts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:18
+review:AD0RXJ14X5E4Y:5
+review:A3TUZOJZM9008Y:5
+review:AEBAMHHGNBLW2:4
+review:A30LMENQ22I0Q7:3
+review:APYC3DKC6I0V7:4
+review:A2IBEDAFOFD0PQ:5
+review:A1WLZYEOIL1HLT:5
+review:A1P7CGI3PLT3ZE:5
+review:A2QOUB1KE2PYRS:2
+review:A3KMUHGAZME8VN:4
+review:AQ6SV7LDSMGBE:4
+review:A3JYWTDS82BDCL:5
+review:A2KZDYSKJ62FQN:5
+review:A36CHPMHHD1IO5:4
+review:A2ASIT0JYIGHTA:3
+review:A1PTUC73JOVD3B:4
+review:A3W4D8XOGLWUN5:3
+review:A1ZXJZI5ZY8J8U:4

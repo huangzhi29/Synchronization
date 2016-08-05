@@ -1,0 +1,24 @@
+id:6524
+asin:B000067G16
+title:Hype Williams - The Videos, Vol. 1
+group:DVD
+salesrank:27721
+similar:5
+categories:8
+category:Music;Styles;Rap & Hip-Hop;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll
+category:;DVD;Genres;Music Video & Concerts;Other Music;R&B
+category:;DVD;Genres;Music Video & Concerts;Rap & Hip-Hop;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( H )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:8
+review:A1CRRIHFLW7T17:5
+review:A23KAWGZ4RE1RI:5
+review:A1LODZUEF214FW:5
+review:A3QEYO7RM2TQKC:5
+review:AV8AQXO56LA98:4
+review:A28LKXKSFS1676:3
+review:A3A31FW36250ZL:1
+review:A1DG2IS3U7PVKS:2

@@ -1,0 +1,50 @@
+id:17992
+asin:B000053GTB
+title:MVP - Most Valuable Primate
+group:DVD
+salesrank:22936
+similar:5
+categories:23
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Kids & Family;Animals
+category:;DVD;Genres;Comedy;By Theme;Animals
+category:;DVD;Genres;Comedy;By Theme;Monkey Movies
+category:;DVD;Genres;Kids & Family;Comedy
+category:;DVD;Actors & Actresses;( D );Ducommun, Rick
+category:;DVD;Actors & Actresses;( S );Smith, Jaime Renee
+category:;DVD;Actors & Actresses;( S );Study, Lomax
+category:;DVD;Actors & Actresses;( T );Thomas, Dave
+category:;DVD;Genres;Art House & International;By Country;Canada
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Kids & Family;By Theme;Sports
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Genres;Kids & Family;Family Films
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Kids & Family;Animals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Kids & Family;Animals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:19
+review:A2YSOM1A805PQP:5
+review:A37FZWXRLWK3U1:5
+review:A2HONG3KI05QIX:1
+review:A2J2QFEKSL5TF:4
+review:A19A90K3BCEC7B:2
+review:A2V5OS0QGHIUDS:3
+review:AIHBQOLYN8ISC:5
+review:A3JWX2H71VD8N0:5
+review:A1R13RFLWY0PTY:5
+review:A1R13RFLWY0PTY:5
+review:AD8WCNNBWUJLC:5
+review:A1C0PQUYZUCHVI:5
+review:A3I7XGF2IKV5N2:5
+review:A21GP5DQVQTS7V:5
+review:A2UV6LVG9MEME9:1
+review:A9Q28YTLYREO7:4
+review:A19V0VJMKKRMC8:5
+review:AUB30ZUTV7S0T:5
+review:A5TXHE9CKU3K4:5

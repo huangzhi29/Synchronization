@@ -1,0 +1,28 @@
+id:18959
+asin:B00005NTO0
+title:Best of Friends - Volume 4
+group:DVD
+salesrank:15015
+similar:5
+categories:15
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( S );Schwimmer, David
+category:;DVD;Directors;( B );Bonerz, Peter
+category:;DVD;Directors;( H );Holland, Todd
+category:;DVD;Directors;( M );Myerson, Alan
+category:;DVD;Directors;( S );Schlamme, Thomas
+category:;DVD;Directors;( S );Steinberg, David
+category:;DVD;Genres;Television;TV Series;Friends
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Television
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+category:;DVD;Genres;Television;By Decade;1990s and Newer;General
+reviews:5
+review:A2ASEBCEN9ZWTZ:4
+review:A2AP1BN2BKVRUR:4
+review:A13KXWTN0DT878:5
+review:A2NJO6YE954DBH:5
+review:ATLZSWNP5EXW:5

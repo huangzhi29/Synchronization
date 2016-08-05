@@ -1,0 +1,31 @@
+id:14380
+asin:B00006FDAS
+title:The Barbary Coast
+group:DVD
+salesrank:31040
+similar:5
+categories:19
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( B );Brennan, Walter
+category:;DVD;Actors & Actresses;( C );Carey, Harry
+category:;DVD;Actors & Actresses;( C );Craven, Frank
+category:;DVD;Actors & Actresses;( D );Depp, Harry
+category:;DVD;Actors & Actresses;( D );Donlevy, Brian
+category:;DVD;Actors & Actresses;( H );Hopkins, Miriam
+category:;DVD;Actors & Actresses;( M );McCrea, Joel
+category:;DVD;Actors & Actresses;( M );Meek, Donald
+category:;DVD;Actors & Actresses;( R );Robinson, Edward G
+category:;DVD;Directors;( H );Hawks, Howard
+category:;DVD;Directors;( W );Wyler, William
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;Love & Romance;Star-Crossed Lovers
+reviews:4
+review:A2TC514N1CLZQC:4
+review:A3BSS2M2DPPV4T:4
+review:A1904LWW3JERMX:1
+review:A3BD4B8HW8RT5H:4

@@ -1,0 +1,40 @@
+id:2955
+asin:B00000JNTT
+title:The Cassandra Crossing
+group:DVD
+salesrank:49084
+similar:2
+categories:24
+category:;DVD;Genres;Action & Adventure;Disaster Films
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Thrillers
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Actors & Actresses;( C );Castel, Lou
+category:;DVD;Actors & Actresses;( G );Gardner, Ava
+category:;DVD;Actors & Actresses;( H );Harris, Richard
+category:;DVD;Actors & Actresses;( H );Hunter, Thomas
+category:;DVD;Actors & Actresses;( L );Lancaster, Burt
+category:;DVD;Actors & Actresses;( L );Law, John Phillip
+category:;DVD;Actors & Actresses;( L );Loren, Sophia
+category:;DVD;Actors & Actresses;( S );Sheen, Martin
+category:;DVD;Actors & Actresses;( S );Stander, Lionel
+category:;DVD;Actors & Actresses;( S );Strasberg, Lee
+category:;DVD;Actors & Actresses;( T );Thulin, Ingrid
+category:;DVD;Actors & Actresses;( T );Turkel, Ann
+category:;DVD;Actors & Actresses;( V );Valli, Alida
+category:;DVD;Genres;Art House & International;By Country;Italy;General
+category:;DVD;Genres;Mystery & Suspense;By Theme;Disaster Films
+category:;DVD;Special Features;Titles;( C )
+category:;DVD;Genres;Action & Adventure;Action Stars;Burt Lancaster
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Genres;Action & Adventure;By Theme;Hereos
+category:;DVD;Genres;Action & Adventure;By Theme;Race Against Time
+reviews:8
+review:ASYCQBBYFGGS2:4
+review:A1JM33RNL32HKW:4
+review:A3KXFQQFBPJTQE:5
+review:A3KXFQQFBPJTQE:5
+review:A1TSK0YRWA5R6X:1
+review:A31U2QT7SAL7K:5
+review:A3N94LNED0IF0R:3
+review:A326R2P2MC732S:5

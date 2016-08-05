@@ -1,0 +1,38 @@
+id:8645
+asin:6305954240
+title:Thick As Thieves
+group:DVD
+salesrank:25882
+similar:5
+categories:19
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Comedy;Comic Criminals
+category:;DVD;Actors & Actresses;( A );Alexander, Khandi
+category:;DVD;Actors & Actresses;( A );Anderson, Erich
+category:;DVD;Actors & Actresses;( B );Baldwin, Alec
+category:;DVD;Actors & Actresses;( B );Braugher, Andre
+category:;DVD;Actors & Actresses;( E );Edson, Richard
+category:;DVD;Actors & Actresses;( G );Garofalo, Janeane
+category:;DVD;Actors & Actresses;( G );Greenwood, Bruce
+category:;DVD;Actors & Actresses;( H );Harris, Ricky
+category:;DVD;Actors & Actresses;( D );DeMornay, Rebecca
+category:;DVD;Actors & Actresses;( S );Sweeney, Julia
+category:;DVD;Actors & Actresses;( W );White, Michael Jai
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:11
+review:A332MW6OA1LYDF:2
+review:A1RBOH84KT7XTI:5
+review:A1DSRMM4JPAR1N:3
+review:A3CWH6VKCTJAD:4
+review:A3CWH6VKCTJAD:4
+review:A34W7QA4J5UTOR:5
+review:A1KFBAPAKMEQUF:2
+review:A35CENP0YMQJQV:3
+review:AVW1I64A2NVB7:4
+review:A2LFHOOO57GEZJ:4
+review:A17EIRPCGLUQ9G:4

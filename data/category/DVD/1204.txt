@@ -1,0 +1,18 @@
+id:1204
+asin:B000056PPH
+title:Monteverdi - L'Incoronazione di Poppea / Jacobs, Concerto Koln
+group:DVD
+salesrank:29191
+similar:5
+categories:5
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Concertos
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;General
+reviews:5
+review:A1JOTM16PZTBID:3
+review:A3CD13PVV6EBN7:5
+review:A1DUZ40QU7QIM8:4
+review:A142J2F2TB197Z:2
+review:A1VJ7HYM1EC94M:5

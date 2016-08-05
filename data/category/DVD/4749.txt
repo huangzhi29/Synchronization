@@ -1,0 +1,30 @@
+id:4749
+asin:B00005T30G
+title:Yu Yu Hakusho - Spirit Detective - Yusuke Lost, Yusuke Found (Vol. 1)
+group:DVD
+salesrank:19832
+similar:5
+categories:2
+category:;DVD;Genres;Anime & Manga;General
+category:;DVD;Special Features;Titles;( Y )
+reviews:20
+review:A13H2Y7Q0BF2TU:5
+review:AG9Q0YB1MRKLA:4
+review:A2RPR5M639EVSI:3
+review:A1YKBUCR5K1W8V:1
+review:A1CAK2SV6884P7:5
+review:A23LP9CTPKUDH5:5
+review:AVT89RNLQ5YUB:5
+review:A217YVBBC6JOTC:5
+review:A1HM63L2PCZR4U:5
+review:A1ZLBB3OM6CER7:5
+review:A1CPDF3QII66O8:5
+review:A1S3MU819OIVZO:5
+review:A3GYK62SECR51M:4
+review:A2IXGTN71DT119:5
+review:A12N24S3ULG4TQ:5
+review:AH7B2HLX8PX2O:5
+review:A3U44XYZ21BFLK:1
+review:A3UN6WX5RRO2AG:4
+review:A12QIWPM8487SX:3
+review:A23ZP02F085DFQ:3

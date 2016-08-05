@@ -1,0 +1,44 @@
+id:7681
+asin:B00006BS7N
+title:Leslie Sansone - Weight Loss Walk
+group:DVD
+salesrank:28263
+similar:5
+categories:13
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Actors & Actresses;( S );Sansone, Leslie
+category:;DVD;Genres;Special Interests;Health;Diets & Weight Loss
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Fitness & Yoga
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Fitness & Yoga
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Fitness & Yoga;By Instructor;Leslie Sansone
+category:;DVD;Genres;Fitness & Yoga;Walking
+category:;DVD;Genres;Fitness & Yoga;General
+reviews:23
+review:ATVPDKIKX0DER:5
+review:A3BGRUK533UD75:5
+review:A130PEKTXRZJOG:2
+review:AY55R37A4ZOMG:5
+review:A3C7JXLI3N2NCA:2
+review:A24O4C7TBGD47H:2
+review:A1P4F6HIXU6WYE:4
+review:A315WS0FUYDJN2:5
+review:AOJA09U83116P:4
+review:A2WLQTVB8PQPW4:1
+review:A1PPM7GU36C9TY:1
+review:AOYPUEA0N9ND5:1
+review:AB8V8CTQHMDSJ:1
+review:A2AYJJAFNSGSU1:3
+review:AKYZ2D4LBO3VM:4
+review:A1X1592EDWIJU4:5
+review:A3LD2RQCCCLQCG:1
+review:A3LD2RQCCCLQCG:1
+review:A33RSVRCVYVU1A:5
+review:A39SS9HSYF40S:4
+review:A38VVOTC7EG8YM:1
+review:A36BWC4G3EYEIW:5
+review:ANL4XBET9ZF95:3

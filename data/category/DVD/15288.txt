@@ -1,0 +1,48 @@
+id:15288
+asin:6305650616
+title:The Lost Continent
+group:DVD
+salesrank:22848
+similar:5
+categories:14
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Actors & Actresses;( B );Beckley, Tony
+category:;DVD;Actors & Actresses;( C );Carruthers, Ben
+category:;DVD;Actors & Actresses;( K );Knef, Hildegard
+category:;DVD;Actors & Actresses;( L );Leigh, Suzanna
+category:;DVD;Actors & Actresses;( P );Porter, Eric
+category:;DVD;Directors;( C );Carreras, Michael
+category:;DVD;Genres;Horror;Classic Horror & Monsters;General
+category:;DVD;Special Features;Titles;( L )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;General
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;Fantasy Adventures
+reviews:26
+review:A3SHWOHGEAOQZE:4
+review:A1VOSDRFBUQZOI:3
+review:ATVPDKIKX0DER:3
+review:A2B9LYE453ZVM7:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2DLX21QMUGBH1:2
+review:A2JVB2NV0ZVKY3:4
+review:A3B9GUMZTSQH2R:5
+review:ARFBRSE35ZJ6A:3
+review:A2NJO6YE954DBH:4
+review:ADFUGKYCWFDQJ:4
+review:A2N8L4FH238FM7:3
+review:A3MCMTZ10WE7MA:2
+review:A70IPJ0L24YIM:5
+review:A27M6SAYKC9NVN:3
+review:A255R5WQUFI6HB:3
+review:A3GZC98GCCOPFS:1
+review:A25ZVI6RH1KA5L:2
+review:AIMR915K4YCN:2
+review:A3O536E2YOKK4Y:3
+review:A3GKPMHV4U64IY:3
+review:A2GCHG6U8HTVIT:4
+review:A2TOU0N8XE68W4:3
+review:A3DIKJP95XTKX0:5
+review:A7CGQ4T2M1OYI:5

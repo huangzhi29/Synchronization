@@ -1,0 +1,13 @@
+id:8328
+asin:B00005YUOH
+title:The Adventures of the Mini Goddess - The Belldandy (Vol. 2)
+group:DVD
+salesrank:43282
+similar:0
+categories:1
+category:;DVD;Special Features;Titles;( A )
+reviews:4
+review:A2JRJ6Y45MPXIA:5
+review:A9MP7O48U7LXS:5
+review:A3QTWI0H0AVJKH:5
+review:A3RKUXNSLN6SOD:5

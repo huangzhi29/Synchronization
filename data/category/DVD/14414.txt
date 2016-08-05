@@ -1,0 +1,55 @@
+id:14414
+asin:B000053UIE
+title:...And Justice For All
+group:DVD
+salesrank:3227
+similar:5
+categories:22
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Satire
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( B );Beck, Vincent
+category:;DVD;Actors & Actresses;( B );Bryggman, Larry
+category:;DVD;Actors & Actresses;( F );Forsythe, John
+category:;DVD;Actors & Actresses;( H );Harris, Baxter
+category:;DVD;Actors & Actresses;( L );Lahti, Christine
+category:;DVD;Actors & Actresses;( L );Levene, Sam
+category:;DVD;Actors & Actresses;( M );Morton, Joe
+category:;DVD;Actors & Actresses;( N );Nelson, Craig T
+category:;DVD;Actors & Actresses;( N );North, Alan
+category:;DVD;Actors & Actresses;( P );Pacino, Al
+category:;DVD;Actors & Actresses;( S );Strasberg, Lee
+category:;DVD;Actors & Actresses;( T );Tambor, Jeffrey
+category:;DVD;Actors & Actresses;( W );Warden, Jack
+category:;DVD;Directors;( J );Jewison, Norman
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Genres;Comedy;Black Comedy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+reviews:25
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:4
+review:A1928PHI4RBCQ9:2
+review:A16BUYFD7R4QMI:4
+review:AXMHYLSAN9ZIX:5
+review:A3K5IMGDCDBCNF:2
+review:A2TAV6XYP1UB4P:4
+review:A29BA58JGQEFWL:5
+review:A2ZLROGIL2V7GV:4
+review:A3RX54RU8R8OMH:3
+review:A1LQIGGUB7R6JS:5
+review:A3PBNWHTI4A3KZ:4
+review:A3P1A63Q8L32C5:4
+review:A1E7SJ9L5ZL5XH:4
+review:A1LQPMX21BS6N8:5
+review:A3INMIZIYJ9BQ4:5
+review:A5RXGRL4UKHDQ:4
+review:A2JLGSN8Y2Z38G:2
+review:A2H24OTYN50DA0:5
+review:A1GQQFTPA23Z1O:4
+review:A2KQFLNYW4E58Z:3
+review:AEDFI7PNFE32E:5
+review:A285ZMICEM3LH2:3
+review:AUFZKG9FL8V8Y:4
+review:A1IQW8ZIL7VXAX:5

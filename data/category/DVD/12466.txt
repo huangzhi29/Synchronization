@@ -1,0 +1,24 @@
+id:12466
+asin:B00005KAQ9
+title:Last Hero in China
+group:DVD
+salesrank:14196
+similar:5
+categories:11
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( C );Cheung, Dicky
+category:;DVD;Actors & Actresses;( L );Li, Jet
+category:;DVD;Actors & Actresses;( Y );Yuen, Anita
+category:;DVD;Genres;Action & Adventure;Martial Arts;General
+category:;DVD;Genres;Action & Adventure;Hong Kong Action;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;General
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Action & Adventure;Action Stars;Jet Li
+reviews:5
+review:ACE0A6KBNZ8QO:2
+review:A1MZQ233NL0LNU:4
+review:A1X26WCS9PJAMT:3
+review:AFIGCVTSQ4UCO:3
+review:A3KGLF4ORJJD20:3

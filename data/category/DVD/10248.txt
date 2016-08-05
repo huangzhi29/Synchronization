@@ -1,0 +1,35 @@
+id:10248
+asin:B00000J30I
+title:Naked Killer
+group:DVD
+salesrank:31468
+similar:5
+categories:7
+category:;DVD;Genres;Art House & International;By Original Language;Chinese
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Actors & Actresses;( N );Ng, Carrie
+category:;DVD;Actors & Actresses;( Y );Yam, Simon
+category:;DVD;Actors & Actresses;( Y );Yau, Chingmy
+category:;DVD;Special Features;Titles;( N )
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;Category III
+reviews:20
+review:ATVPDKIKX0DER:4
+review:A12WA2K1F7LXWB:3
+review:A3OTIQR15W4LY5:4
+review:A2Y1J15HOWDIFQ:3
+review:A2O5LHRRZHVH5K:5
+review:A4MQ75RMLWTS4:1
+review:A3BS7PNHCP2YZ2:5
+review:A10SPS907E95PB:5
+review:A3E87B9KKW9795:1
+review:A3AEF59DUCKMQC:3
+review:A5JLAU2ARJ0BO:5
+review:A2LGJE4W4WOHFQ:3
+review:A38OA1WXBX9BHG:1
+review:A1NPH15C0IFH05:1
+review:AFL8997UWKQ68:3
+review:AH7MGTXRL2LLZ:2
+review:A11Q1SZSWW4C6W:5
+review:A3872KCBJEPK57:5
+review:A2RKHIQZ6N0FRM:4
+review:A20ELE6G4N447V:4

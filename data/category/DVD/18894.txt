@@ -1,0 +1,23 @@
+id:18894
+asin:B00007AJE8
+title:Hoffman
+group:DVD
+salesrank:28526
+similar:5
+categories:12
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( L );Lodge, David
+category:;DVD;Actors & Actresses;( S );Sellers, Peter
+category:;DVD;Directors;( R );Rakoff, Alvin
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Comedy;British;General
+category:;DVD;Special Features;Titles;( H )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;Comedy
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Comedy;Comedy Stars;Peter Sellers
+reviews:3
+review:A33Q1XZN3N02QQ:4
+review:A31BBNT8C62MLU:5
+review:A2B73CL3QSYWLB:4

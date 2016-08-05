@@ -1,0 +1,136 @@
+id:19702
+asin:B00002ND77
+title:Malcolm X
+group:DVD
+salesrank:2846
+similar:5
+categories:28
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Political Drama
+category:;DVD;Genres;Drama;By Theme;Biography
+category:;DVD;Genres;Drama;Murder & Mayhem
+category:;DVD;Actors & Actresses;( B );Bassett, Angela
+category:;DVD;Actors & Actresses;( H );Hall, Albert
+category:;DVD;Actors & Actresses;( H );Hollis, Tommy
+category:;DVD;Actors & Actresses;( L );Lee, Spike
+category:;DVD;Actors & Actresses;( L );Lindo, Delroy
+category:;DVD;Actors & Actresses;( M );Mazar, Debi
+category:;DVD;Actors & Actresses;( M );McDaniel, James
+category:;DVD;Actors & Actresses;( M );McKee, Lonette
+category:;DVD;Actors & Actresses;( R );Randle, Theresa
+category:;DVD;Actors & Actresses;( S );Stickney, Phyllis Yvonne
+category:;DVD;Actors & Actresses;( V );Vernon, Kate
+category:;DVD;Actors & Actresses;( W );Washington, Denzel
+category:;DVD;Directors;( L );Lee, Spike
+category:;DVD;Genres;African American Cinema;Drama
+category:;DVD;Genres;Mystery & Suspense;Blackmail, Murder & Mayhem;Murder
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Drama
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Fighting the System
+category:;DVD;Genres;Drama;By Theme;Race Relations
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $20;Drama
+reviews:100
+review:A30XS31NVTHGWG:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2UOY8UC1GWGK4:5
+review:A2UOY8UC1GWGK4:5
+review:AROTQNRZ51CUU:3
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ACC1XVLVD26Y2:5
+review:A3N3SN2DDD4HCJ:5
+review:ATVPDKIKX0DER:5
+review:AJLAE5CI805UN:5
+review:A2YM6JTQIBZ8YC:5
+review:AGT3LFNIETRNB:5
+review:A1W1K6B2742XHF:5
+review:A2GVAMGS8A8G50:1
+review:A1EER1RTZ1NAC4:5
+review:A3ES7I5Q04QB4Y:5
+review:A12AUVPRYUH3DA:5
+review:AIXB36ZXHQUEY:5
+review:ATAH0T2AWB24Z:5
+review:A3M88RCAR2T804:5
+review:A3M88RCAR2T804:5
+review:A2WDSO1DQZ7J03:3
+review:A1BJOEQSRX2IBM:5
+review:A16E2TXUEUMWAL:5
+review:A387YLO8B1CCB8:5
+review:A18CA0GRHDVP8X:5
+review:A3UN6WX5RRO2AG:5
+review:A34DPXEGCFNZF4:5
+review:A1AADZ6JYMZJ45:5
+review:ADSKDZXN59FE5:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:4
+review:A1L0HZI35HF8OF:5
+review:A16GUEOJUC85O3:5
+review:A1JQ9CGEMIHKRP:4
+review:A3VY6T3HYARQK3:5
+review:A1CDZNPO7U4E6N:5
+review:A133T07WO5KYX3:5
+review:A38U2M9OAEJAXJ:5
+review:A1V2HIXZ51TTN1:5
+review:A1V2HIXZ51TTN1:5
+review:A18XPJ2C9UESZ0:5
+review:A39AKB7OM66L44:5
+review:A3RZNVN87W44WF:5
+review:A2W5QRIJYVPJE7:5
+review:AM509OYGNYA9L:3
+review:A2KT8LIAGWSIDN:2
+review:A1L601HLRELS4S:5
+review:A2NH4Z77A64LP:5
+review:AT393OR1JTYNR:4
+review:AI0OAQ6E2O8VF:1
+review:A2NJJ90QE4WX83:4
+review:A24B1B8TYKCUZ6:5
+review:A31U2QT7SAL7K:5
+review:A24IQBWE9XMHEH:5
+review:A2KXC94HOL85OF:5
+review:A1GC9K5TY23PGO:3
+review:A1AZ64Z84RY52T:4
+review:A227TPGJDFNHAR:4
+review:A2QFX8XTIOLDH4:4
+review:A27EI3LZ6R5STR:1
+review:A1Z5G4IOUD4B3Z:5
+review:AV3JZAYAP7GHC:4
+review:A17QZDXUAFPTD4:1
+review:A3MCC5MAJYJYMD:3
+review:A1Q0NAX2BO031E:5
+review:A1Q0NAX2BO031E:5
+review:A2BZ7QSC8FYBR5:4
+review:A1MF2Q7VUD828N:5
+review:A36LIH2PZTJOJG:3
+review:AAECAHBNP1VD2:4
+review:A38X6TC8VGCHFI:5
+review:A37HCSGGRH8UO6:5
+review:A2TAJ7OQD1P5I8:5
+review:A3AMCYTHMBMVUZ:5
+review:A2VD4FWWUGPB2G:5
+review:A1DFEBW0Y606CE:5
+review:A2XJMP5DUHY5KV:5
+review:A3L1UI1JTGFERF:5
+review:AEX4SQBS6LJ46:5
+review:A3DY46ZABF4CMQ:5
+review:A1RRC3ESHQW0YQ:4
+review:AG6VJPX1V896U:3
+review:A29QA79VLQGHY6:4
+review:A2RXC61UJQQSWZ:4
+review:A1YQ6QB2127AJ4:5
+review:A26NZL9AYOR0O:1
+review:AYPCUQS6ARWFH:5
+review:A1R602SXNGOMJ4:3
+review:A28Z9VFE69AHXB:4
+review:A3IKFC0XBX7D3R:5
+review:A3S98L5B1SR9P1:5
+review:A280N65IG7I1TY:5
+review:A2Y5SPL6VURY3D:5
+review:ANJUE84NQP3AN:5

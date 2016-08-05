@@ -1,0 +1,34 @@
+id:7223
+asin:B00007M5H8
+title:La Vallée
+group:DVD
+salesrank:7963
+similar:5
+categories:14
+category:;DVD;Genres;Art House & International;By Original Language;French
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Erotic
+category:;DVD;Genres;Action & Adventure;By Theme;Erotic
+category:;DVD;Actors & Actresses;( G );Gothard, Michael
+category:;DVD;Actors & Actresses;( O );Ogier, Bulle
+category:;DVD;Directors;( S );Schroeder, Barbet
+category:;DVD;Genres;Art House & International;By Genre;Drama
+category:;DVD;Genres;Art House & International;By Theme;Erotic
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Psychological Drama
+reviews:12
+review:A10TNNNH3H9ICP:5
+review:A3PZBGC68Q692Y:5
+review:A2DQNH3CY98Q0I:4
+review:A287N89PGHVGG7:2
+review:A22AUDG1G0QLZ7:5
+review:A32JZ9XNHMNWOO:3
+review:A3H9JSM1SUTE4O:3
+review:A3H9JSM1SUTE4O:3
+review:A3HPXBADQ1G2EE:3
+review:A1LOTXCXTV33DD:4
+review:A27EWRYSRVLRPH:4
+review:A280GY5UVUS2QH:5

@@ -1,0 +1,37 @@
+id:3592
+asin:B000077VQD
+title:Deep Purple - Machine Head
+group:DVD
+salesrank:22602
+similar:5
+categories:11
+category:Music;Styles;Hard Rock & Metal;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( D )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:Music;Styles;Classic Rock;Arena Rock
+category:;DVD;Genres;Music Video & Concerts;Artists;Deep Purple
+category:;DVD;Genres;Music Video & Concerts;Classic Rock;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:18
+review:A2D2OIB1RHDV82:5
+review:A3XDSPBCX0BG7:5
+review:A19VXN50IDDQCT:5
+review:A30BTJUBUVMOD2:5
+review:A36UHHXC97WKM0:2
+review:A1DDRHMJFGEKNK:4
+review:A1ESCCAJ5L2SSV:1
+review:A8CW6B3L06PM0:5
+review:A1RHNW28N63VJZ:1
+review:A1JBZ635HF1SVO:5
+review:A3MRCJDXWGZRIA:4
+review:ADDKYKDJTE3JM:5
+review:A2UW3CE4QCOB2H:5
+review:ARIB5N45YAVEA:5
+review:A1PYXYS5PG6ONX:3
+review:A322BIYPB3BK62:2
+review:A2JFKP56LUF6HG:1
+review:A2DXFI46OKWC8G:5

@@ -1,0 +1,15 @@
+id:10490
+asin:B00007K025
+title:Desi's Looking For A New Girl
+group:DVD
+salesrank:25231
+similar:5
+categories:6
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Art House & International;By Genre;Gay & Lesbian
+category:;DVD;Genres;Comedy;Gay & Lesbian
+category:;DVD;Actors & Actresses;( D );Domingo, Colman
+category:;DVD;Genres;Comedy;Romantic Comedies;General
+category:;DVD;Special Features;Titles;( D )
+reviews:1
+review:A333671NSQEO75:1

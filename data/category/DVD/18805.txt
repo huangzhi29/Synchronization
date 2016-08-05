@@ -1,0 +1,57 @@
+id:18805
+asin:1572522178
+title:Wild Reeds
+group:DVD
+salesrank:8594
+similar:5
+categories:18
+category:;DVD;Genres;Art House & International;By Original Language;French
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Art House & International;By Genre;Gay & Lesbian
+category:;DVD;Genres;Drama;Gay & Lesbian
+category:;DVD;Actors & Actresses;( K );Kreikenmayer, Eric
+category:;DVD;Actors & Actresses;( N );Nolot, Jacques
+category:;DVD;Genres;Art House & International;By Genre;Drama
+category:;DVD;Genres;Art House & International;By Theme;Coming of Age
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;France;Drama
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Coming of Age
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;School Days
+reviews:31
+review:A61ZA5GQ19X0Z:5
+review:ATVPDKIKX0DER:3
+review:A41FASFMDXXA:5
+review:A1FC07OO138JSY:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:AQYWENVR79B93:5
+review:A290GMK13IX85M:5
+review:A1NRGN06OPD3O:4
+review:ATVPDKIKX0DER:5
+review:A15QD7PZZS5J62:5
+review:A9ETDX5K04DY:5
+review:AL5D52NA8F67F:5
+review:A15EZ0QPHGF8J4:5
+review:A3THF5F2ZLWL6L:3
+review:A1DB7VTUYU6E23:4
+review:A2FG41L9G223QO:5
+review:AOHJQ2A5YMLNW:5
+review:A2ZTWEXXXPI02V:5
+review:A3FLMB7VZ1KZBE:5
+review:A2GL35EBQV9C8S:5
+review:A2SKEQT0WTB954:5
+review:A1GFJ7501MSWKC:5
+review:A5L9T4BOBBCBN:4
+review:A2ENAGJT3HRW10:3
+review:ABN5K7K1TM1QA:4
+review:A1WS33E7X03WOT:5
+review:A2QZQBINBG6B5N:4
+review:A31ELTOVZM5JHR:5

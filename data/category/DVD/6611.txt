@@ -1,0 +1,60 @@
+id:6611
+asin:6305929718
+title:White Men Can't Jump
+group:DVD
+salesrank:7694
+similar:5
+categories:30
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Cons & Scams
+category:;DVD;Genres;Comedy;By Theme;Buddy Films
+category:;DVD;Genres;Comedy;Sports
+category:;DVD;Actors & Actresses;( C );Cozart, Cylk
+category:;DVD;Actors & Actresses;( F );Ferrell, Tyra
+category:;DVD;Actors & Actresses;( H );Harden Jr., Ernest
+category:;DVD;Actors & Actresses;( H );Hardison, Kadeem
+category:;DVD;Actors & Actresses;( H );Harrelson, Woody
+category:;DVD;Actors & Actresses;( H );Hendricks, Jon
+category:;DVD;Actors & Actresses;( J );Johnson, Marques
+category:;DVD;Actors & Actresses;( J );Jones, John Marshall
+category:;DVD;Actors & Actresses;( M );Martin, Duane
+category:;DVD;Actors & Actresses;( P );Perez, Rosie
+category:;DVD;Actors & Actresses;( R );Roberson, David
+category:;DVD;Actors & Actresses;( R );Rossi, Frank
+category:;DVD;Actors & Actresses;( S );Snipes, Wesley
+category:;DVD;Directors;( S );Shelton, Ron
+category:;DVD;Genres;Comedy;Urban
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;All Fox Titles
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Comedy
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Fox DVD Budget Store;DVDs Under $15
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Fox DVD Budget Store;Hit Movies Under $20
+reviews:22
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:A14OWCB5GHOLJG:5
+review:ATVPDKIKX0DER:5
+review:A9Q28YTLYREO7:2
+review:A9LJRWNQTUOR1:3
+review:A1SS2BQ2SOV94B:5
+review:A3K3A26EJ9UWNC:3
+review:A2HWD9PTM7RBXN:5
+review:A2QRB6L1MCJ53G:4
+review:A1GOHTESRAC1SU:4
+review:A129896LTG2QWT:1
+review:A1FAKZ848PO3V8:3
+review:A1UMTAS144RG1A:5
+review:AMKP1OIXE0QBA:5
+review:A1OSORFH948MJ:1
+review:A1M7N5V6W0Z0H7:4
+review:A23AH4ZD60W8SK:5
+review:A37F1G84K35FCZ:4
+review:A6IKQOVUT6AI4:3
+review:A2TCO154ODLY0X:3

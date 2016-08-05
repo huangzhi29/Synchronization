@@ -1,0 +1,20 @@
+id:15375
+asin:B000094J8B
+title:KMFDM - Sturm & Drang Tour 2002
+group:DVD
+salesrank:38538
+similar:5
+categories:7
+category:;DVD;Genres;Music Video & Concerts;General
+category:Music;Styles;Alternative Rock;Goth & Industrial;Industrial;Alt Industrial
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( K )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:5
+review:A1SGT15EWKJUDI:5
+review:A3POZ5WVC2SMLJ:5
+review:AUH3SYJSWPIWV:4
+review:ADOC7S7KVZ6YC:5
+review:A27NSF8Y8DC3XZ:5

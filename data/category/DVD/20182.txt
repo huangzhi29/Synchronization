@@ -1,0 +1,45 @@
+id:20182
+asin:B000063V8U
+title:Star Trek The Next Generation - The Complete Sixth Season
+group:DVD
+salesrank:3867
+similar:5
+categories:9
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( S );Stewart, Patrick
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Genres;Television;TV Series;Star Trek: The Next Generation
+category:;DVD;Genres;Science Fiction & Fantasy;Series & Sequels;Star Trek;General
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Boxed Sets
+category:;DVD;Genres;Television;By Decade;1980s;General
+reviews:28
+review:A28FPY7E22K1J6:5
+review:A3UN6WX5RRO2AG:5
+review:AYBB3Y85A8VFY:4
+review:A2GP0K91AWQMO2:5
+review:AJQ95NA51KEQB:5
+review:A2JKPLTAAUBKYX:5
+review:A1B9CH5BWMM3A3:5
+review:AQXQ1H4TE5H47:5
+review:AQXQ1H4TE5H47:5
+review:A3BL8JDWOCF50D:4
+review:A33M1ILHGHWN8M:5
+review:A3P1A63Q8L32C5:4
+review:A2B8DJ0CKN9FAO:5
+review:A2RBE2EXK10ZTA:5
+review:A29R3O02O0PON4:5
+review:A3JJZMUNTU6KLD:3
+review:A2V9I5O33XZTO:3
+review:AQP1VPK16SVWM:5
+review:A372U17WJIPM67:4
+review:A3FPT4Z7UE7A64:5
+review:A16X61RLY1YJL7:5
+review:A2WDV3UD7QBJL3:4
+review:AK7IDQJN31163:4
+review:AZDVOFC2MTIM5:4
+review:A32W1GL1K87992:2
+review:A3SQZCA0JFB5CV:5
+review:A3DGHLV84CJRPZ:5
+review:A3OI841P5R6FCH:4

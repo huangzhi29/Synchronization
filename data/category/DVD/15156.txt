@@ -1,0 +1,39 @@
+id:15156
+asin:0783227337
+title:A Simple Wish
+group:DVD
+salesrank:26799
+similar:5
+categories:18
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Kids & Family;Adapted from Books
+category:;DVD;Genres;Kids & Family;Comedy
+category:;DVD;Actors & Actresses;( C );Capra, Francis
+category:;DVD;Actors & Actresses;( D );Dee, Ruby
+category:;DVD;Actors & Actresses;( G );Garr, Teri
+category:;DVD;Actors & Actresses;( H );Hadary, Jonathan
+category:;DVD;Actors & Actresses;( M );McGee, Jack
+category:;DVD;Actors & Actresses;( P );Pastorelli, Robert
+category:;DVD;Actors & Actresses;( P );Plummer, Amanda
+category:;DVD;Actors & Actresses;( S );Short, Martin
+category:;DVD;Actors & Actresses;( T );Turner, Kathleen
+category:;DVD;Actors & Actresses;( W );Wilson, Mara
+category:;DVD;Directors;( R );Ritchie, Michael
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Genres;Kids & Family;By Theme;Parenthood
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;General
+category:;DVD;Genres;Kids & Family;Fantasy
+reviews:13
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:3
+review:A2EZPYP0CJ9YOD:1
+review:ACJR7EQF9S6FP:3
+review:A1HU6FOZR53S9J:4
+review:A1X0PLVVXYVH0F:5
+review:A1LDIMQISH07WK:5
+review:A21GP5DQVQTS7V:4
+review:A3M932OVIO60JZ:5
+review:A20HGFRGFJH2NJ:5
+review:ACHRWC7APTO8F:5
+review:A2UWJWG6RKDD6P:4

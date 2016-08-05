@@ -1,0 +1,33 @@
+id:18966
+asin:B00007AJEL
+title:Bellydance Fitness for Weight Loss featuring Rania
+group:DVD
+salesrank:36295
+similar:5
+categories:8
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Genres;Special Interests;Health;Diets & Weight Loss
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Special Interests;Dance;Belly
+category:;DVD;Genres;Special Interests;Dance;General
+category:;DVD;Genres;Fitness & Yoga;General
+reviews:17
+review:A1935XLAV2V2GR:5
+review:A1YFU5FM579X0C:1
+review:A1935XLAV2V2GR:5
+review:A2NF8JQGXGNAFF:4
+review:A2YV4BUQOZ8O53:3
+review:A2FILHF00ZHJS4:5
+review:A284QU1MRTA8UM:4
+review:A1935XLAV2V2GR:5
+review:A2QWRQ989FPU43:3
+review:AQF3D0KX5SFCM:2
+review:ARQ2GM9HJC2B1:4
+review:A35T8ZSL7HTMF2:5
+review:A2ZXTPBCUPD074:4
+review:A1XT4961W3YCBC:5
+review:A3IA9CPZXMBEYC:4
+review:A1U5KXD0DIVM1S:4
+review:A27493GW3TEX65:4

@@ -1,0 +1,47 @@
+id:17578
+asin:B00005QW74
+title:Tupac Shakur - Before I Wake
+group:DVD
+salesrank:25662
+similar:5
+categories:15
+category:Music;Styles;Rap & Hip-Hop;Gangsta & Hardcore
+category:Music;Styles;Rap & Hip-Hop;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Documentary;General
+category:;DVD;Actors & Actresses;( S );Shakur, Tupac
+category:;DVD;Specialty Stores;Independently Distributed;Documentary
+category:;DVD;Special Features;Today's Deals in DVD;Music Video & Concerts
+category:;DVD;Genres;Music Video & Concerts;Artists;Tupac Shakur
+category:;DVD;Genres;Music Video & Concerts;Rap & Hip-Hop;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( T )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Music Video & Concerts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:24
+review:A2NAPIC96GBZVA:5
+review:A30OLZVKZ6GIJG:5
+review:A1HJD3M00VDN2M:5
+review:A1L29XEM238O1M:5
+review:A51TLFWFUFLN:5
+review:A15ASPJDIOJAUO:2
+review:A2UQ0057R6TEEH:5
+review:A2RMQV0TP9LZMA:2
+review:A2L7A4RETPWJTX:5
+review:A3VWIQASYTBXCF:4
+review:AEGMZKUURIYT6:5
+review:AF5O5011SHQFW:5
+review:A2H7BMYLE96TTI:5
+review:A2NEY8FBQNHTBS:3
+review:A32ML54CQ6ZDU5:5
+review:A1GI4P25VBXYTO:5
+review:AO5PZGC9TDJP4:5
+review:ABE14SVILZLNY:5
+review:A12LPP2U05ZF0I:4
+review:A2ZNGDDHVIN5N8:5
+review:A9Q28YTLYREO7:5
+review:A2RXGHV5HE9KE2:4
+review:AVFMCC72J7GDR:5
+review:A1EHO64ZZ0XNL3:5

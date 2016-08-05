@@ -1,0 +1,25 @@
+id:9279
+asin:B000060MVO
+title:Dark Shadows DVD Collection 2
+group:DVD
+salesrank:8921
+similar:5
+categories:7
+category:;DVD;Genres;Horror;Things That Go Bump;Vampires
+category:;DVD;Genres;Television;General
+category:;DVD;Special Features;Titles;( D )
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Formats;Boxed Sets;Horror
+category:;DVD;Genres;Television;TV Series;Dark Shadows
+category:;DVD;Genres;Television;By Decade;1950s-'60s;General
+reviews:10
+review:A2U7KY7AW0VAS5:5
+review:A205KFOFY3P8ZH:5
+review:A30HI56SE747C5:5
+review:AYOMF7LMRIQIY:4
+review:A2GMDNSPAN8CLP:5
+review:A24Q0FT8N4MK6B:4
+review:AJWMVSLEVJ1UP:5
+review:A3JEXIVCVB5A8D:5
+review:A3VHUQ85RH0BC3:5
+review:A2FVE6V3YTFIDO:5

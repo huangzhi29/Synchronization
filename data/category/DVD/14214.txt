@@ -1,0 +1,43 @@
+id:14214
+asin:6305199329
+title:The Monkees - Our Favorite Episodes
+group:DVD
+salesrank:9541
+similar:5
+categories:22
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Television;TV Series;Monkees
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( J );Jones, Davy
+category:;DVD;Actors & Actresses;( N );Nesmith, Michael
+category:;DVD;Directors;( F );Frawley, James
+category:;DVD;Directors;( K );Komack, James
+category:;DVD;Directors;( M );Mayberry, Russ
+category:;DVD;Directors;( R );Rafelson, Bob
+category:;DVD;Directors;( S );Singer, Alexander
+category:;DVD;Directors;( W );Winters, David
+category:;DVD;Special Features;Today's Deals in DVD;Television
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Television
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Television;Classic TV
+category:;DVD;Genres;Television;By Decade;1950s-'60s;General
+reviews:13
+review:A1GN8UJIZLCA59:4
+review:A1JBLEAOKSISOX:5
+review:A1B5N1V9VTSWDN:4
+review:A1SOJJPXGEJT0L:5
+review:AK6BJDHJFDSBE:4
+review:A1PP5IH6CKWRWV:2
+review:A1YIGQWYB2WN4R:3
+review:A1LHQ57AASV94E:5
+review:A30U8AV690F6W9:5
+review:A2NIQDDCSZD5GI:4
+review:AFU67HOZYDF5:2
+review:A1J5XKY649DQF5:4
+review:A3ESVM2MAFUMTT:4

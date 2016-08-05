@@ -1,0 +1,25 @@
+id:12363
+asin:6305907595
+title:The Awful Dr. Orlof
+group:DVD
+salesrank:38466
+similar:5
+categories:13
+category:;DVD;Genres;Horror;General
+category:;DVD;Actors & Actresses;( L );Lorys, Diana
+category:;DVD;Actors & Actresses;( V );Vernon, Howard
+category:;DVD;Genres;Cult Movies;Horror
+category:;DVD;Genres;Horror;Classic Horror & Monsters;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Horror;By Theme;Erotic
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:4
+review:A18MGKAS74UHVO:5
+review:A37KO6OVBPLDA5:2
+review:A1GF7BR6K22GZD:5
+review:A2S9PZCNEJEF3Y:4

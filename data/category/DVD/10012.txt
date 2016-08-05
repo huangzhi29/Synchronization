@@ -1,0 +1,24 @@
+id:10012
+asin:B00005NB9O
+title:Seducing Maarya
+group:DVD
+salesrank:59308
+similar:0
+categories:11
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Erotic
+category:;DVD;Genres;Art House & International;By Theme;Erotic
+category:;DVD;Genres;Art House & International;By Country;Canada
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Drama;Love & Romance;Marriage
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Haunted by the Past
+reviews:5
+review:ANMNRC5NQAHGN:1
+review:A15CPZCFL3SZ8F:4
+review:A3G48J33QMY07D:1
+review:A1U39DEKK8MFYO:5
+review:A24GW84KMI030F:1

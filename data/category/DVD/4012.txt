@@ -1,0 +1,20 @@
+id:4012
+asin:B00006JU7Q
+title:Napalm Death
+group:DVD
+salesrank:39284
+similar:5
+categories:7
+category:Music;Styles;Hard Rock & Metal;Death Metal
+category:Music;Styles;Hard Rock & Metal;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:Music;Styles;Hard Rock & Metal;Thrash & Speed Metal
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Titles;( N )
+reviews:5
+review:A2C5LA07JCDWTN:5
+review:A363XI8BPHP2WT:5
+review:A1OC1YLA8UFXOZ:5
+review:A3JRCHUW7I6X15:5
+review:A3HJW5KX33I5KX:5

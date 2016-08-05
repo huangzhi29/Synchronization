@@ -1,0 +1,27 @@
+id:9272
+asin:B000060MVW
+title:Big Bad Mama II
+group:DVD
+salesrank:22218
+similar:5
+categories:16
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( C );Culp, Robert
+category:;DVD;Actors & Actresses;( D );Dickinson, Angie
+category:;DVD;Actors & Actresses;( G );Glover, Bruce
+category:;DVD;Actors & Actresses;( M );McCullough, Julie
+category:;DVD;Actors & Actresses;( T );Tour, Nick La
+category:;DVD;Actors & Actresses;( Y );Yagher, Jeff
+category:;DVD;Directors;( W );Wynorski, Jim
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:3
+review:A36JZFD8IP315A:4
+review:A263VK4A224QYB:1
+review:A3SLPM1VPHTVRW:5

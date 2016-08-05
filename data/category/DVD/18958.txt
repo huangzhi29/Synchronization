@@ -1,0 +1,55 @@
+id:18958
+asin:B00005NTO3
+title:Best of Friends Vol 3 & 4
+group:DVD
+salesrank:17323
+similar:5
+categories:16
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( S );Schwimmer, David
+category:;DVD;Directors;( B );Bonerz, Peter
+category:;DVD;Directors;( H );Holland, Todd
+category:;DVD;Directors;( M );Myerson, Alan
+category:;DVD;Directors;( S );Schlamme, Thomas
+category:;DVD;Directors;( S );Steinberg, David
+category:;DVD;Genres;Television;TV Series;Friends
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Television
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+category:;DVD;Genres;Television;By Decade;1990s and Newer;General
+reviews:31
+review:A3GD0HC9QA828K:5
+review:A786OYFZBMH8M:5
+review:A21911QJJHVGD2:4
+review:A3MFGOKZO3CH63:5
+review:A2RJ751QPZ6EQZ:3
+review:A36NDRGCGGNWYJ:5
+review:A2BIZA0883H8MA:4
+review:A37J879EIAMDXK:5
+review:A2KI1TS2COTYBY:5
+review:A2ZJAXC3IIJWI8:5
+review:A37BRDSLNF731D:5
+review:A2EFRJV4R9WM6S:1
+review:A2JVHCMBLV2QPW:1
+review:A1991K44EM3JZ4:5
+review:A2CYA3J5K1ZYJ6:5
+review:A1T1S03ZDVON58:5
+review:A33Q0AI01BNO:4
+review:A5AGBM8G08446:5
+review:A1FULNZXYM28IA:5
+review:A1G7EXLIQYL7BM:5
+review:ATLZSWNP5EXW:5
+review:A2ASEBCEN9ZWTZ:4
+review:A34C5ZVS1MXRQ6:3
+review:A345BE2KETBLT8:5
+review:A7GMH59YFIQNM:5
+review:A3IX9JTCKX7PH:5
+review:A3VECI2GJGY2A1:4
+review:A381IR0TVEKZ47:5
+review:A2NJO6YE954DBH:4
+review:A1EQJ4X8EOUWMZ:5
+review:A31R7SO1NATXVZ:1

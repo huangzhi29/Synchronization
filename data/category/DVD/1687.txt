@@ -1,0 +1,60 @@
+id:1687
+asin:B00004ST9Q
+title:Whitney Houston - Greatest Hits
+group:DVD
+salesrank:11531
+similar:5
+categories:9
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( H );Houston, Whitney
+category:Music;Styles;Dance & DJ;Dance Pop;General
+category:Music;Styles;Pop;Adult Contemporary;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:43
+review:A1QS2ZVUUJOY61:5
+review:A1JET7J4YSIFJL:4
+review:A359VNXZGIO341:1
+review:A2LGRYC2FG2JI9:4
+review:A128T88L8QSDRF:5
+review:A1S3TY76TQX90E:5
+review:AB2AQMK9PCWWX:4
+review:AKG8OUCTVTF86:5
+review:A28YCAQ3XE73X2:4
+review:A3BD5USLIJ1YPA:4
+review:A3BD5USLIJ1YPA:4
+review:A3S5J24DQNZ2IW:2
+review:A1AFT20BLZ6DAA:4
+review:A3P8GSA7O1IB45:5
+review:AZWRPNNIBQ4II:4
+review:AEYMHWIDVUS4H:5
+review:A1UFECJG0IBC89:5
+review:A1CGF9EUDEUQJA:3
+review:A3RC3AK8UN89I9:4
+review:A1W0ZWGTT5021T:4
+review:A1B350OHYHQTGX:4
+review:A1XUHA1KSAME0O:5
+review:A2R9J5LULVKF6T:5
+review:A19BVB9THKBYQ2:5
+review:A3OVV2P60VPRJO:4
+review:A38U2M9OAEJAXJ:5
+review:A1S3TY76TQX90E:5
+review:A2W7JA1HUK5YYQ:4
+review:A3W4D8XOGLWUN5:4
+review:A26YQXT4RW5Q6Q:5
+review:A19FAQLQEKN54F:4
+review:A3A1LQJHLKS2BC:4
+review:A3CZBU8KBCSYXD:5
+review:A29B3N15JK6C7P:5
+review:A2M3JLE50SKA32:5
+review:A1XFNWGTPMG1AE:1
+review:ADYGXRZYQP2P3:4
+review:AWBLECBOB5OUC:5
+review:AWBLECBOB5OUC:5
+review:A2NAW8CKP4E7P5:5
+review:A1JTJEYGIV51P4:3
+review:A1N8K1X0OLLADY:5
+review:A22MMHWF8EB6Y5:5

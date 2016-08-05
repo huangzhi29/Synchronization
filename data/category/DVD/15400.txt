@@ -1,0 +1,40 @@
+id:15400
+asin:B00005LDDC
+title:Dancing in September
+group:DVD
+salesrank:34187
+similar:5
+categories:27
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Satire
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( A );Avery, James
+category:;DVD;Actors & Actresses;( B );Burton, Levar
+category:;DVD;Actors & Actresses;( C );Cavanaugh, Michael
+category:;DVD;Actors & Actresses;( F );Flanagan, Markus
+category:;DVD;Actors & Actresses;( H );Harris, Estelle
+category:;DVD;Actors & Actresses;( H );Horsford, Anna Maria
+category:;DVD;Actors & Actresses;( J );Jackson, Mel
+category:;DVD;Actors & Actresses;( J );Jennings, Juanita
+category:;DVD;Actors & Actresses;( L );Lewis, Jenifer
+category:;DVD;Actors & Actresses;( M );Marie, Constance
+category:;DVD;Actors & Actresses;( M );McBride, Chi
+category:;DVD;Actors & Actresses;( U );Underwood, Jay
+category:;DVD;Actors & Actresses;( W );Washington, Isaiah
+category:;DVD;Actors & Actresses;( W );Watkins, Royale
+category:;DVD;Actors & Actresses;( W );Williams, Malinda
+category:;DVD;Special Features;Today's Deals in DVD;Comedy
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Television;HBO;General
+category:;DVD;Genres;Television;HBO;Drama
+reviews:5
+review:AE8W6OW6A1M5M:4
+review:AVBI9COLQGYPH:5
+review:A9Q28YTLYREO7:4
+review:A15MLF38WROSWU:4
+review:A3UZJJ86N23JOZ:5

@@ -1,0 +1,150 @@
+id:16963
+asin:0783230648
+title:Liar Liar - DTS
+group:DVD
+salesrank:43052
+similar:5
+categories:24
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Parenthood
+category:;DVD;Special Features;Fully Loaded DVDs;DTS
+category:;DVD;Actors & Actresses;( A );Allen, Krista
+category:;DVD;Actors & Actresses;( B );Bernard, Jason
+category:;DVD;Actors & Actresses;( C );Carrey, Jim
+category:;DVD;Actors & Actresses;( C );Cobb, Randall Tex
+category:;DVD;Actors & Actresses;( C );Cooper, Justin
+category:;DVD;Actors & Actresses;( D );Donohoe, Amanda
+category:;DVD;Actors & Actresses;( E );Elwes, Cary
+category:;DVD;Actors & Actresses;( H );Haney, Anne
+category:;DVD;Actors & Actresses;( K );Kurtz, Swoosie
+category:;DVD;Actors & Actresses;( L );Lemon, Ben
+category:;DVD;Actors & Actresses;( M );Muellerleile, Marianne
+category:;DVD;Actors & Actresses;( P );Pierpoint, Eric
+category:;DVD;Actors & Actresses;( T );Tierney, Maura
+category:;DVD;Actors & Actresses;( T );Tilly, Jennifer
+category:;DVD;Directors;( S );Shadyac, Tom
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Comedy;Comedy Stars;Jim Carrey
+category:;DVD;Genres;Comedy;By Theme;Corporate Life
+category:;DVD;Genres;Comedy;Domestic Comedies
+reviews:118
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A1T44J9PXAVZY4:5
+review:AXYQBIF7KWO0U:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:5
+review:A3V2E4HPY9JHSL:5
+review:AL4JW2LU75ME3:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2LLEBBUX7XWSF:4
+review:A1NJLDHJ0E7L4L:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2A9SD6CLN8V7V:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A4FDW6NIJ9ZYI:3
+review:A2FNW654OSB917:2
+review:A11111P8D1L4U1:3
+review:AE86PR1C8PNRK:3
+review:A3S9887MZFNNH1:5
+review:A9Q28YTLYREO7:2
+review:AQG5QC0Z1IUA8:5
+review:A3LC2I812OWCKB:4
+review:A162ZLEU06LV5J:3
+review:A5X4SL6T92E7H:5
+review:A2ZMDU728WD0SN:5
+review:A7LMT1G8ZAJ2X:3
+review:A37AY3YMDYH7BY:4
+review:A2G3FQ0FLOUPMG:1
+review:A2PQXVHMR7JQDA:2
+review:A2QRB6L1MCJ53G:5
+review:A3JYLITZOZ66Z2:5
+review:A2LSNFBAZM33Z1:3
+review:AB5HOIFX8C79B:4
+review:ATVPDKIKX0DER:5
+review:AC32305TO79HL:4
+review:A12YVS06GZEFZE:5
+review:A25XGZX0YRTJKN:5
+review:A1RT5RQ0GPDL3:5
+review:A1RT5RQ0GPDL3:5
+review:A173G0GN4479RG:5
+review:A2OURQ017HNWN1:5
+review:AWMXF7FDATJC1:1
+review:A1VAJHFDFVGS81:4
+review:A3BJHQSDEPOPTJ:4
+review:A1GOJJQ3EK8NB9:5
+review:ATY89II353OC4:5
+review:A2DRP3UNHIKWKP:1
+review:AG4055QLVBRPW:5
+review:A1OULS186BXVGZ:4
+review:AHAJOKPTCGT4N:4
+review:A2SE6UQ1C890AJ:3
+review:A3JM7ZRLXC18UC:5
+review:A1P8MLYOXZ9GBZ:5
+review:A2WBNKY07V414Y:5
+review:AWQO371QER642:3
+review:A1C9GCHR99WX3F:5
+review:AZ38SYJKEE1PB:4
+review:AH4FPPM86UHKG:5
+review:A1Y6WAHNCKKKMG:5
+review:A1KD8NJPZ01R37:5
+review:A2HIBAJEMRFX3W:5
+review:A3P1A63Q8L32C5:4
+review:A351XMJF8DCD8Z:5
+review:A22R3OU44THKDD:5
+review:A2ZLROGIL2V7GV:5
+review:A29ON7RAVEIU4P:5
+review:A1BYZCL2YESTUX:5
+review:AWWMG0023C35I:5
+review:ABN5K7K1TM1QA:4
+review:A30ZJ9HUKYLEPA:5
+review:A2JH39V83E2BQU:5
+review:AKWV1YCQUSPXW:5
+review:A10JDPEQ8GJ2K1:4
+review:AODNTUYXZGE5P:4
+review:A2TE1FNF0OBZB2:2
+review:AEY63J261PJHV:5
+review:AOVJYIUATQKR5:3
+review:A1XJOSJN6FHFO0:5
+review:A1ZXF1MOZZYAJC:4
+review:A461VTLW9G9YB:4
+review:A2LYAGSQIU327M:5
+review:ACUUA90VVOCAS:5
+review:A36X934LXK5A4V:4
+review:A2QH5NMHW1KTJ1:5
+review:A3AIO6FSH42ECT:1
+review:A65EHAM39A8GE:1
+review:A29ON7RAVEIU4P:5
+review:A32EDSKLEUZ3Y7:4
+review:A3RDZPP3MJTS:5
+review:A1G5LJ8T1IGYC5:2
+review:AI1OOS3ZQKJK0:4
+review:A3S98L5B1SR9P1:5
+review:A1QHEQII6QRVND:2
+review:APP5MBH2BSX6I:3
+review:A2R4XG0L7Z01V8:3
+review:AOHPEC3VN9FU1:3
+review:AU8552YCOO5QX:1
+review:A2BT7IC8PT1ZC9:4
+review:A1ZKPET0VDG25V:5
+review:AF485ZL9QV9K3:4

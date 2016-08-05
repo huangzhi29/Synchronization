@@ -1,0 +1,13 @@
+id:8329
+asin:B00005YUON
+title:Sherlock Hound - Case File II
+group:DVD
+salesrank:38216
+similar:5
+categories:5
+category:;DVD;Actors & Actresses;( A );Arquette, Lewis
+category:;DVD;Actors & Actresses;( C );Camp, Hamilton
+category:;DVD;Directors;( M );Miyazaki, Hayao
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Genres;Anime & Manga;Characters & Series;Sherlock Hound
+reviews:0

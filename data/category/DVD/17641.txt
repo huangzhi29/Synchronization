@@ -1,0 +1,54 @@
+id:17641
+asin:B00006JDUE
+title:Star Wars - Episode I The Phantom Menace & Episode II Attack of the Clones (Full Screen Editions)
+group:DVD
+salesrank:7789
+similar:5
+categories:7
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Genres;Science Fiction & Fantasy;Series & Sequels;Star Wars
+category:;DVD;Genres;Cult Movies;Sci-Fi & Fantasy
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;All Fox Titles
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Science Fiction;General
+category:;Amazon.com Stores;Star Wars;DVDs
+reviews:39
+review:AZO2BYLWXIEN1:5
+review:A3UN6WX5RRO2AG:1
+review:A1VZ0OS81REB1X:5
+review:AN6SD552X82WK:1
+review:A2IOTP3INEM6AN:1
+review:A1DP2L19BNZJ2Y:5
+review:A1V1GIVUSCZFN4:1
+review:A1WUK2QZV9VNKU:1
+review:A2NG0CVUXON6GX:1
+review:A22CPUXJTM6X5K:1
+review:A3UN6WX5RRO2AG:5
+review:AU7CFOB9YK3JE:5
+review:A1B1WQDD74N57O:5
+review:AA5XZVANDXGJE:2
+review:A1Z4ZRVKRRA555:1
+review:A71JNBPV074KC:5
+review:A1SQWQ6C0H8H97:1
+review:AN6SD552X82WK:1
+review:A14PNOYQQCBGWB:3
+review:A3EJYJC25OJVKK:5
+review:A26PAH38V12GV4:5
+review:A2FEMEO5RVLBQ7:4
+review:A3EJYJC25OJVKK:5
+review:A3EJYJC25OJVKK:5
+review:A3JJA7N685ASZG:5
+review:APM06HT7JIPZ5:1
+review:A3L2U581LL17EB:2
+review:AU8552YCOO5QX:5
+review:A2SGR7LE899LGG:2
+review:AJZAJ7S963ZS6:2
+review:A175GIISFGGO31:4
+review:ANAYSRE3LX8GZ:2
+review:ABX58UAO45IXW:1
+review:AHE3D8QQ6F9UA:1
+review:A21M6XJHHBQSEC:1
+review:A2EB440PC5PMIS:1
+review:A3UN6WX5RRO2AG:4
+review:A3UN6WX5RRO2AG:4
+review:ASK27JHZK7VHF:1

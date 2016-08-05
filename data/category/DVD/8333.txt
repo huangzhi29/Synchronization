@@ -1,0 +1,16 @@
+id:8333
+asin:B00005YUOB
+title:B.B. King
+group:DVD
+salesrank:11521
+similar:5
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Artists;King, B.B.
+category:;DVD;Genres;Music Video & Concerts;Blues;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:2
+review:A3B21LIIKU1W4T:4
+review:A24SCQDYI50MWR:5

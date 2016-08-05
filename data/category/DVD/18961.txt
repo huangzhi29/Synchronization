@@ -1,0 +1,26 @@
+id:18961
+asin:B00007AJEH
+title:Usher
+group:DVD
+salesrank:12880
+similar:5
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll
+category:;DVD;Genres;Music Video & Concerts;Other Music;R&B
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( U )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:12
+review:A1GO8U8KLJ7Z2F:5
+review:A26KM847Z8JGF:5
+review:A4YM6UOLVXNQ:5
+review:A3OHXCRHV4UTLO:5
+review:A23VDCCUDQ7UF0:5
+review:A1R3SN9A7EHSYD:5
+review:A2JU01SXBVPE6F:4
+review:A2JU01SXBVPE6F:4
+review:AJBYJD8EY4ZG5:5
+review:A2A7BQHTR8OIR7:5
+review:A3OZ3YFMXPA4CH:4
+review:A1RBPJO4C0U32C:2

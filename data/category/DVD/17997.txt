@@ -1,0 +1,14 @@
+id:17997
+asin:B000053GTJ
+title:Live Concert from the Semper Opera Dresden
+group:DVD
+salesrank:58375
+similar:0
+categories:5
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Concerts;General
+category:;DVD;Special Features;Titles;( L )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;General
+reviews:1
+review:AZ9EZUGOUPKJ6:3

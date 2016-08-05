@@ -1,0 +1,46 @@
+id:15114
+asin:0780023277
+title:The Element of Crime - Criterion Collection
+group:DVD
+salesrank:25958
+similar:5
+categories:18
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Drama;Murder & Mayhem
+category:;DVD;Genres;Mystery & Suspense;Mystery
+category:;DVD;Actors & Actresses;( E );Elphick, Michael
+category:;DVD;Actors & Actresses;( K );Knight, Esmond
+category:;DVD;Actors & Actresses;( R );Roos, Camilla Overbye
+category:;DVD;Directors;( V );Von Trier, Lars
+category:;DVD;Genres;Art House & International;By Country;Denmark
+category:;DVD;Genres;Mystery & Suspense;Blackmail, Murder & Mayhem;Murder
+category:;DVD;Genres;Mystery & Suspense;Detectives
+category:;DVD;Genres;Mystery & Suspense;Neo-Noir
+category:;DVD;Genres;Art House & International;By Original Language;Danish
+category:;DVD;Special Features;Titles;( E )
+category:;DVD;Genres;Mystery & Suspense;By Theme;Serial Killers
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Drama
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Art House & International
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;All
+reviews:20
+review:ATVPDKIKX0DER:4
+review:A1LWYVLGA3N2R4:5
+review:A2I3BZWQBWQFS4:5
+review:A1MKS4PE04FC3Q:5
+review:A3R2YB0WTTB0IJ:5
+review:A20ZDV9ZEESN5K:3
+review:AMXQ2U6Y8BE1G:5
+review:A3R5AMGN15PZCD:2
+review:AW3VZ5O895LRK:3
+review:A2Y5OFSDSZQDBQ:1
+review:ATK4Z1QA9T0GH:5
+review:A1ZPEBTLKZS1I4:4
+review:A2ZZXVWFAI70J4:1
+review:A1IEKFEQFKZU2J:5
+review:A3FEZPMZUY4SJR:5
+review:A3FEZPMZUY4SJR:5
+review:A2J57EQ9KPGXR9:1
+review:AI0OAQ6E2O8VF:4
+review:A23QBPZJPMLH71:5
+review:A2FOZVHA7922QG:1

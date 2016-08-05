@@ -1,0 +1,14 @@
+id:7660
+asin:B00005UQ7P
+title:The Confessions of Robert Crumb
+group:DVD
+salesrank:26273
+similar:5
+categories:4
+category:;DVD;Genres;Special Interests;Art & Artists
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:2
+review:A3V1GBJVVOL11W:5
+review:A3H9JSM1SUTE4O:3

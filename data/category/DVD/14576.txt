@@ -1,0 +1,25 @@
+id:14576
+asin:B00005B1ZV
+title:Bloodfist 8 - Hard Way Out
+group:DVD
+salesrank:24868
+similar:5
+categories:15
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Thrillers
+category:;DVD;Actors & Actresses;( M );McWhirter, Jillian
+category:;DVD;Actors & Actresses;( W );Wilson, Don The Dragon
+category:;DVD;Directors;( J );Jacobson, Rick
+category:;DVD;Genres;Action & Adventure;Martial Arts;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;Martial Arts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;Martial Arts
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:2
+review:A2MHSWW1VBSVUL:3
+review:A2Q5K1G3S8RLWX:4

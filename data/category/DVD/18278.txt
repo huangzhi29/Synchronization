@@ -1,0 +1,43 @@
+id:18278
+asin:B000085EF8
+title:Anne of Green Gables (Classic 1934)
+group:DVD
+salesrank:18111
+similar:5
+categories:12
+category:;DVD;Genres;Kids & Family;Adapted from Books
+category:;DVD;Genres;Kids & Family;Classics;General
+category:;DVD;Actors & Actresses;( B );Brown, Tom
+category:;DVD;Actors & Actresses;( G );Granville, Bonita
+category:;DVD;Actors & Actresses;( G );Grapewin, Charley
+category:;DVD;Actors & Actresses;( H );Haden, Sara
+category:;DVD;Actors & Actresses;( M );Messinger, Gertrude
+category:;DVD;Actors & Actresses;( M );Miller, Ann
+category:;DVD;Actors & Actresses;( S );Shirley, Anne
+category:;DVD;Actors & Actresses;( W );Westley, Helen
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Genres;Kids & Family;Family Films
+reviews:23
+review:A2GVXX7SJIRUSE:1
+review:A1IJKK6Q1GTEAY:5
+review:A2NJO6YE954DBH:5
+review:A1IJKK6Q1GTEAY:5
+review:A30GG6V4YHXKNK:1
+review:A30GG6V4YHXKNK:5
+review:ALAF76Q0APC1S:5
+review:A2BPQ0MAHCVFMA:4
+review:A3UN6WX5RRO2AG:5
+review:A1781J6FHG6YED:3
+review:A3L3CDOR39NA6O:4
+review:A5VEOE1FG0UT1:5
+review:A28V2CQXWPXIR0:3
+review:A7VEJY79Y0L3Y:5
+review:A2WVTRNQMUW1HX:1
+review:A3VKUBT80M3HY8:3
+review:A7VCMN4H4JG4N:5
+review:A2RB67N8XJ52QB:5
+review:AX2UIY0LULX0I:2
+review:AX2UIY0LULX0I:2
+review:A36FCZN4ZNN7HE:1
+review:ABH4G7TVI6G2T:5
+review:A3UN6WX5RRO2AG:4

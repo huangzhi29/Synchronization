@@ -1,0 +1,28 @@
+id:12356
+asin:B00005TPLW
+title:The Anniversary Party
+group:DVD
+salesrank:5929
+similar:5
+categories:15
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Comedy;By Theme;Friends
+category:;DVD;Actors & Actresses;( B );Beals, Jennifer
+category:;DVD;Actors & Actresses;( C );Cates, Phoebe
+category:;DVD;Actors & Actresses;( C );Cumming, Alan
+category:;DVD;Actors & Actresses;( H );Hickey, John Benjamin
+category:;DVD;Actors & Actresses;( K );Kline, Kevin
+category:;DVD;Actors & Actresses;( L );Leigh, Jennifer Jason
+category:;DVD;Actors & Actresses;( M );Malloy, Matt
+category:;DVD;Actors & Actresses;( P );Posey, Parker
+category:;DVD;Actors & Actresses;( R );Reilly, John C
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+reviews:5
+review:A3BTMG6K098AV2:3
+review:A2M377P9ZS32Q:4
+review:A24KES35F9AYSB:3
+review:A3GFH2Y3IM3WO7:1
+review:AKHAW85QJ3BBY:1

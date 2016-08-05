@@ -1,0 +1,17 @@
+id:12406
+asin:0773313516
+title:Touring Through Great National Parks
+group:DVD
+salesrank:51027
+similar:2
+categories:8
+category:;DVD;Genres;Documentary;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Special Interests;Travel;General
+category:;DVD;Genres;Special Interests;Travel;North America
+category:;Amazon.com Stores;Travel;Categories;Travel DVDs;General
+category:;Amazon.com Stores;Travel;Categories;Travel DVDs;North America
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:1
+review:A1CZD2PJMDIQN7:3

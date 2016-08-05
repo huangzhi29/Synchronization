@@ -1,0 +1,60 @@
+id:2305
+asin:B00000F3CD
+title:Following
+group:DVD
+salesrank:7749
+similar:5
+categories:11
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Art House & International;By Theme;Film Noir
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Mystery & Suspense;Neo-Noir
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( F )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Mystery & Suspense;By Theme;Femme Fatales
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:41
+review:A20X10IMTSJXW4:4
+review:A2ZLROGIL2V7GV:4
+review:A2KEO12W2C0FUB:4
+review:A8XTGP5EVXKV9:5
+review:A3LP5RUMWG7GQ0:4
+review:A1IANEBSMVGHS9:4
+review:A2UEW04N38LVB:5
+review:A1DAA5BG4LVDIP:5
+review:A2EFA8TUP4TF96:5
+review:A39Z1F1TQ3ML8W:5
+review:A3UN6WX5RRO2AG:5
+review:A1VXGQD54OQEBJ:1
+review:ATE2O3KMNTSKJ:4
+review:A3BY3GW0T8476Z:4
+review:ABO2ZI2Y5DQ9T:4
+review:A1GHYICNVE0DKD:5
+review:AT558HXUXSQ8W:5
+review:A39D6I6HMIY3D:5
+review:A2KG4CXNXJVPTK:4
+review:A27PSZX2SE0B51:4
+review:A3GBS2HNVVTTHW:5
+review:A3P1A63Q8L32C5:4
+review:A1C3ZLXDBCQCPC:5
+review:A2GGKOW82LTDC5:1
+review:A319YRDK8Y39N:3
+review:ABN5K7K1TM1QA:4
+review:A3H7HJ8O42U70Z:3
+review:A1RF91FJZ1XS8G:3
+review:A24JLHNW2EDBUX:4
+review:A1PASRZ81DY9C:3
+review:A16CTTGFMY1F5E:5
+review:A16CTTGFMY1F5E:5
+review:A3CH1KT8XQE8SA:4
+review:A18STVCTM88SME:4
+review:A2DSXA1E02C86D:3
+review:A1631PDU0WGN4W:4
+review:A2DVISAU15HTK6:5
+review:A2BM5HOJHOCPF9:4
+review:A1HG2DOSBZEX4I:4
+review:ATE5SA1VTJNP8:4
+review:A25ZVI6RH1KA5L:4

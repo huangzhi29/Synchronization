@@ -1,0 +1,79 @@
+id:19640
+asin:B00002ND7B
+title:Splendor in the Grass
+group:DVD
+salesrank:3168
+similar:5
+categories:22
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( B );Beatty, Warren
+category:;DVD;Actors & Actresses;( D );Dennis, Sandy
+category:;DVD;Actors & Actresses;( D );Diller, Phyllis
+category:;DVD;Actors & Actresses;( H );Hingle, Pat
+category:;DVD;Actors & Actresses;( L );Lampert, Zohra
+category:;DVD;Actors & Actresses;( L );Lockwood, Gary
+category:;DVD;Actors & Actresses;( W );Wood, Natalie
+category:;DVD;Directors;( K );Kazan, Elia
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Coming of Age
+category:;DVD;Genres;Drama;Love & Romance;Love Story
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Genres;Drama;Love & Romance;Young Love
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Drama
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Classics
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;Love & Romance;Infidelity & Betrayal
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $20;Drama
+reviews:49
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2XYYIHVB56N6:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A316FKPJ2D9JUY:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A3URX75MJ6NL5O:5
+review:AUZ58MTEGZC3E:5
+review:A29FTXJQZRNP16:2
+review:AJXWSVKK7J0R8:5
+review:A11GVIS6AXDEAX:4
+review:A1JH5J1KQAUBMP:3
+review:A2IIDELWB0IWRO:5
+review:AU0U7UQ0WJEYH:4
+review:A3UN6WX5RRO2AG:1
+review:ANLYQVAI7TKUL:5
+review:A19CU0VKJDF9TV:5
+review:A3569PZLG2EJTZ:5
+review:A2OO9DS1RY5KXU:5
+review:A13VVJE5DGPLBL:2
+review:A1SE0NL242MEJE:5
+review:A1Z9ONCQUN5M66:5
+review:A313QON0EZMREJ:5
+review:A1JHIYDXF08AW2:5
+review:A1WKHAPIZ1YAU2:5
+review:A1L43KWWR05PCS:5
+review:A3NBALG6RE4ZJ6:5
+review:A3KUUII2GSHN7T:5
+review:A2X8RRKO765A0P:5
+review:A3G3DN6ODH3RXR:5
+review:ALVCHMXDQXDPP:5
+review:AYIQESY0MW05U:5
+review:A26JGAM6GZMM4V:3
+review:A23INWX0BIQ7SR:4
+review:A1SNB3XW2YDGD2:5
+review:AIQ15562S4FQG:3
+review:A12OF1RX5TQ61W:5
+review:A2LS2RJIL817NA:5
+review:A3LWJYFN84WBZQ:4
+review:A3RNC9BGR4J1ZF:5
+review:A32JKNQ6BABMQ2:2
+review:A2MJKH6DQIKTM3:5
+review:APP5MBH2BSX6I:4
+review:A30JNHGS0KVWPY:5
+review:A30TK6U7DNS82R:5

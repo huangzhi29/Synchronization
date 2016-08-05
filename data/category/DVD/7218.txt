@@ -1,0 +1,24 @@
+id:7218
+asin:B00007M5H7
+title:Drôle de Drame
+group:DVD
+salesrank:25678
+similar:5
+categories:14
+category:;DVD;Genres;Art House & International;By Genre;Comedy
+category:;DVD;Genres;Art House & International;By Original Language;French
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Farce
+category:;DVD;Actors & Actresses;( A );Aumont, Jean Pierre
+category:;DVD;Actors & Actresses;( B );Barrault, Jean Louis
+category:;DVD;Actors & Actresses;( J )
+category:;DVD;Actors & Actresses;( S );Simon, Michel
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;France;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( D )
+category:;DVD;Genres;Comedy;Black Comedy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:2
+review:A3H9JSM1SUTE4O:3
+review:A3L1RFRDUDMT9N:5

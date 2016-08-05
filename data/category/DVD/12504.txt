@@ -1,0 +1,29 @@
+id:12504
+asin:B00005KAQV
+title:A Civil Action/The Insider
+group:DVD
+salesrank:56071
+similar:0
+categories:21
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Actors & Actresses;( C );Chan, Michael Paul
+category:;DVD;Actors & Actresses;( C );Crouse, Lindsay
+category:;DVD;Actors & Actresses;( C );Crowe, Russell
+category:;DVD;Actors & Actresses;( F );Feore, Colm
+category:;DVD;Actors & Actresses;( G );Gambon, Michael
+category:;DVD;Actors & Actresses;( G );Gershon, Gina
+category:;DVD;Actors & Actresses;( H );Hall, Philip Baker
+category:;DVD;Actors & Actresses;( H );Harper, Robert
+category:;DVD;Actors & Actresses;( M );Mazar, Debi
+category:;DVD;Actors & Actresses;( M );McGill, Bruce
+category:;DVD;Actors & Actresses;( P );Pacino, Al
+category:;DVD;Actors & Actresses;( P );Plummer, Christopher
+category:;DVD;Actors & Actresses;( S );Serrano, Nestor
+category:;DVD;Actors & Actresses;( T );Thigpen, Lynne
+category:;DVD;Actors & Actresses;( T );Tobolowsky, Stephen
+category:;DVD;Actors & Actresses;( T );Torn, Rip
+category:;DVD;Actors & Actresses;( V );Venora, Diane
+category:;DVD;Directors;( M );Mann, Michael
+category:;DVD;Special Features;Titles;( C )
+reviews:0

@@ -1,0 +1,61 @@
+id:18826
+asin:B00000K31U
+title:Children of the Corn 666
+group:DVD
+salesrank:17841
+similar:5
+categories:21
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Occult
+category:;DVD;Actors & Actresses;( A );Allen, Nancy
+category:;DVD;Actors & Actresses;( B );Bexton, Nathan
+category:;DVD;Actors & Actresses;( B );Bullock, Gary
+category:;DVD;Actors & Actresses;( F );Franklin, John
+category:;DVD;Actors & Actresses;( K );Keach, Stacy
+category:;DVD;Actors & Actresses;( K );Koromzay, Alix
+category:;DVD;Actors & Actresses;( P );Prael, William
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Dimension Films
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Occult
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Occult
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Horror;Series & Sequels;Children of the Corn
+reviews:32
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2EP1JKI0GHYKL:1
+review:AQEFGH6Y4RO27:4
+review:A1EPGF9VZW09O5:5
+review:A2SUUUQCT406QO:5
+review:A3CSUDQKPGWMWB:3
+review:A2TZM4NRDTIT4M:4
+review:A1IZK94AO0GYYI:1
+review:A3AY28NHO0S295:5
+review:A2G0L53435S8RT:3
+review:A7INO6TBB6HC0:1
+review:A3VVX4OW8YARI3:2
+review:A1Z4VPGHNTE2BI:5
+review:ALGXCF1188W6D:2
+review:ALKVVPHBMI5K3:1
+review:A9UUYVARJE0Y2:1
+review:A2EZ8XZ7DFF7QK:4
+review:A1TKV6TID7Q241:5
+review:A3FEX9SZ1CZIZ7:2
+review:AXLW246TETRY1:3
+review:A38AXXL7DMVFMQ:1
+review:A28LAJWRFJ3STB:1
+review:A227ZLRT91AD5G:5
+review:ANQUQ8754Z1LJ:5
+review:A1HEXBVSNPX8IB:1
+review:A17W9Q6XOBYQ76:1
+review:A1W9J2Z8LJLJ34:1
+review:A3RDR1DDBQYPA7:1
+review:A3I69IXPTDVKQF:5
+review:A2V3P1XE33NYC3:1

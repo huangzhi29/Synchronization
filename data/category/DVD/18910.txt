@@ -1,0 +1,31 @@
+id:18910
+asin:B00005NTOI
+title:The Life and Times of Hank Greenberg
+group:DVD
+salesrank:11819
+similar:5
+categories:14
+category:;DVD;Genres;Documentary;General
+category:;DVD;Actors & Actresses;( G );Gehrig, Lou
+category:;DVD;Actors & Actresses;( M );Matthau, Walter
+category:;DVD;Genres;Sports;Baseball
+category:;DVD;Genres;Sports;Biography
+category:;DVD;Genres;Sports;Documentary
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( L )
+category:;DVD;Genres;Documentary;Jewish Heritage
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;All Fox Titles
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Fox DVD Budget Store;DVDs Under $15
+reviews:9
+review:A3MW5OB6IMNQI7:4
+review:A1XDMYX8QOW07N:4
+review:A2FC63MKKAKS9Q:4
+review:A2QFPPDDNWMKK7:4
+review:A47NOO8KSM2VJ:5
+review:A26TSW6AI59ZCV:5
+review:A2NJO6YE954DBH:4
+review:A3H7HJ8O42U70Z:3
+review:A17LJTQBIVDSK8:5

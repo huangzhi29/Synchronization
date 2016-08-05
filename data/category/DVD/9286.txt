@@ -1,0 +1,39 @@
+id:9286
+asin:B000060MVD
+title:Dan Curtis' Dracula
+group:DVD
+salesrank:24900
+similar:5
+categories:23
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Vampires
+category:;DVD;Actors & Actresses;( B );Brown, Murray
+category:;DVD;Actors & Actresses;( B );Brown, Pamela
+category:;DVD;Actors & Actresses;( D );Davenport, Nigel
+category:;DVD;Actors & Actresses;( D );Douglas, Sarah
+category:;DVD;Actors & Actresses;( H );Horner, Penelope
+category:;DVD;Actors & Actresses;( L );Lewis, Fiona
+category:;DVD;Actors & Actresses;( P );Palance, Jack
+category:;DVD;Actors & Actresses;( P );Pravda, George
+category:;DVD;Actors & Actresses;( W );Ward, Simon
+category:;DVD;Directors;( C );Curtis, Dan
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Vampires
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Vampires
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;By Theme;Haunted by the Past
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:8
+review:A1B51NEJXFALUS:5
+review:A1AUK3KZC0JUN6:4
+review:A3FHSLWEMH7JD8:5
+review:A1HSGQ0R0PO70I:4
+review:A23QV4QCY57EES:4
+review:A3IKBHODOTYYHM:1
+review:A3UPYGJKZ0XTU4:4
+review:A3UN6WX5RRO2AG:4

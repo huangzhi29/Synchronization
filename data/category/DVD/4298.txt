@@ -1,0 +1,46 @@
+id:4298
+asin:B000060MWA
+title:State Property
+group:DVD
+salesrank:17457
+similar:5
+categories:12
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Genre;Mystery & Thriller
+category:;DVD;Special Features;Fully Loaded DVDs;DTS
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;By Theme;Urban Life
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:26
+review:A3CGOP8O1Q3BEQ:5
+review:A38B9H34IOLOVP:5
+review:A2MK865WH4B5PW:5
+review:A7CC3NWUXOIDG:1
+review:A21FKTCA1IQK77:5
+review:AVM9G2P0WQMYP:3
+review:AFDMC92ESUBPL:5
+review:A1U46O2IQOSLVM:1
+review:AOOGWTNHUMSDP:1
+review:A3CEUI7L2A7RTI:1
+review:AAEQGWOAJR9RB:2
+review:A7OR0ZZGXAK5S:5
+review:AQI2CW6UKF1ES:2
+review:A1F33I6EQBK5E2:5
+review:AQI2CW6UKF1ES:1
+review:A2BVCY3PC0WEWX:4
+review:ABE14SVILZLNY:1
+review:A3HOMQCJ2SFZ2:3
+review:A3RW9YIWGE2CDC:5
+review:AODNTUYXZGE5P:1
+review:A9SRBBSA2LOWC:1
+review:A32XW50ILWOXNO:1
+review:A18XPEZXEFV522:5
+review:A1G5LJ8T1IGYC5:2
+review:AR5VQKQTJMYJH:1
+review:A2C5VLIJMDPWHI:1

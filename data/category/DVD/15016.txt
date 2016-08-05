@@ -1,0 +1,26 @@
+id:15016
+asin:1929732031
+title:The Inspectors
+group:DVD
+salesrank:40252
+similar:5
+categories:14
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Thrillers
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Mystery & Suspense;Thrillers
+category:;DVD;Actors & Actresses;( B );Bourne, Jr
+category:;DVD;Actors & Actresses;( G );Gossett Jr., Louis
+category:;DVD;Actors & Actresses;( J );Johnston, Shaun
+category:;DVD;Actors & Actresses;( M );Mehler, Tobias
+category:;DVD;Actors & Actresses;( R );Riley, Claire
+category:;DVD;Actors & Actresses;( S );Silverman, Jonathan
+category:;DVD;Directors;( T );Turner, Brad
+category:;DVD;Genres;Mystery & Suspense;Detectives
+category:;DVD;Special Features;Titles;( I )
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:4
+review:AZX4BW38A0D51:5
+review:A1OG43BVQ8FUFA:5
+review:A3C9CSUGJB7F51:5
+review:A2CL31ZUL0TQHP:4

@@ -1,0 +1,37 @@
+id:2783
+asin:B000050XXO
+title:Casablanca - Limited Edition Collector's Set
+group:DVD
+salesrank:37507
+similar:5
+categories:24
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( B );Bergman, Ingrid
+category:;DVD;Actors & Actresses;( B );Bogart, Humphrey
+category:;DVD;Actors & Actresses;( B );Bois, Curt
+category:;DVD;Actors & Actresses;( D );Dalio, Marcel
+category:;DVD;Actors & Actresses;( G );Greenstreet, Sydney
+category:;DVD;Actors & Actresses;( H );Henreid, Paul
+category:;DVD;Actors & Actresses;( K );Kinskey, Leonid
+category:;DVD;Actors & Actresses;( L );Lorre, Peter
+category:;DVD;Actors & Actresses;( M );Meyer, Torben
+category:;DVD;Actors & Actresses;( P );Page, Joy
+category:;DVD;Actors & Actresses;( P );Porcasi, Paul
+category:;DVD;Actors & Actresses;( Q );Qualen, John
+category:;DVD;Actors & Actresses;( R );Rains, Claude
+category:;DVD;Actors & Actresses;( V );Veidt, Conrad
+category:;DVD;Actors & Actresses;( W );Wilson, Dooley
+category:;DVD;Directors;( C );Curtiz, Michael
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Genres;Drama;Love & Romance;Love Story
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( C )
+category:;DVD;Formats;Boxed Sets;Drama
+category:;DVD;Genres;Drama;Love & Romance;Love Triangle
+category:;DVD;Formats;Boxed Sets;Classics
+reviews:5
+review:A1TSWNGRZSZTF9:5
+review:A1ET1NZ7QZKN6M:5
+review:ATXICNTT55FGC:1
+review:A35TEOVB2XJJFS:1
+review:A1VDHH1Z4MC110:4

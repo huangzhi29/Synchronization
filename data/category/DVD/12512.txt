@@ -1,0 +1,84 @@
+id:12512
+asin:B00005KAQS
+title:Rodgers & Hammerstein's South Pacific
+group:DVD
+salesrank:7150
+similar:5
+categories:25
+category:;DVD;Genres;Musicals & Performing Arts;General
+category:;DVD;Special Features;Fully Loaded DVDs;DTS
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Specialty Stores;Disney Home Video;By Age;7-11 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;For the Whole Family
+category:;DVD;Actors & Actresses;( B );Burke, Simon
+category:;DVD;Actors & Actresses;( C );Close, Glenn
+category:;DVD;Actors & Actresses;( C );Connick Jr., Harry
+category:;DVD;Actors & Actresses;( G )
+category:;DVD;Actors & Actresses;( P );Pastorelli, Robert
+category:;DVD;Actors & Actresses;( S );Serbedzija, Rade
+category:;DVD;Actors & Actresses;( T );Thompson, Jack
+category:;DVD;Directors;( P );Pearce, Richard
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;General
+category:;DVD;Special Features;Today's Deals in DVD;Musicals & Performing Arts
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;Comedy
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;Romance
+category:;DVD;Special Features;Titles;( R )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Musicals & Performing Arts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;Rodgers & Hammerstein
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Fox DVD Budget Store;DVDs Under $15
+reviews:51
+review:A3PKV5GGJC9DC6:4
+review:A1KG910GE3RR9O:1
+review:A26BP226IAPZTI:1
+review:A8T21IR0E5JJI:1
+review:A1FDET9QGUFH0C:4
+review:A2XB73UJUSPKP8:5
+review:A3EPBCFNEF8ZCV:5
+review:A3K06758DYU985:1
+review:A1TZE6HKB3EKS8:2
+review:AXNJM4C0N7SWA:1
+review:A2GF6ULJYHJPZE:1
+review:A3CZ6OEF26RRX5:5
+review:A20EEWWSFMZ1PN:2
+review:A20JYIHL1W1U54:3
+review:A370TLAS04Q49K:5
+review:A9MJQ7YYSRHWH:3
+review:AFYHNL43T6KBX:1
+review:A1FKH55E71FR03:5
+review:A1GGBVM9F7N48Q:5
+review:A3AGTNGBCUX7GI:1
+review:A11GV7T4WFAFSM:1
+review:A13TNK2OZX78PT:4
+review:A1P08EQRTROXYA:3
+review:A3QOR7DE4E54Y3:2
+review:AWMYUIBC370ML:5
+review:A3M4C7BOGJTDR5:4
+review:A1R0YWZNA71BJ8:3
+review:A281NPSIMI1C2R:5
+review:A2RFG6N5S6T7C:5
+review:ANBZVY3IESVB8:5
+review:A39WVCG8H509E6:1
+review:AQBHJ5EXOK91J:1
+review:A370TLAS04Q49K:5
+review:AH5FQ94DESIDC:4
+review:A2UGEUCFF2J40V:1
+review:A3C32SBPMCB4C5:4
+review:A2Y3827MAJBUFE:4
+review:A1FQ5RRI544GXE:5
+review:A3RVMT7R3WD903:4
+review:A28RTUIAV3D0AG:1
+review:A3KVR5QUE9L2WH:5
+review:A18QA3A3UYWFU9:1
+review:A2AMO3IKLYIIQ4:4
+review:A2FI48HNE7SL00:2
+review:A30ACY0OUGBPHX:4
+review:A3TOUCQOJI9FUC:4
+review:A1SMNK99BI7WTE:4
+review:A1TAM0HPN7J0VP:1
+review:A3FH2F6GX6QLL1:4
+review:A3E1DSVX7QJNQG:4
+review:AQTEXYK0I5TRM:1

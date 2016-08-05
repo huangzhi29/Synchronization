@@ -1,0 +1,54 @@
+id:3853
+asin:B00006HAX6
+title:Harrison's Flowers
+group:DVD
+salesrank:28509
+similar:5
+categories:17
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Military & War;Drama
+category:;DVD;Actors & Actresses;( A );Armstrong, Alun
+category:;DVD;Actors & Actresses;( B );Baker, Diane
+category:;DVD;Actors & Actresses;( B );Brody, Adrien
+category:;DVD;Actors & Actresses;( G );Gleeson, Brendan
+category:;DVD;Actors & Actresses;( G );Goodall, Caroline
+category:;DVD;Actors & Actresses;( K );Koteas, Elias
+category:;DVD;Actors & Actresses;( M );MacDowell, Andie
+category:;DVD;Actors & Actresses;( S );Strathairn, David
+category:;DVD;Actors & Actresses;( T );Trintignant, Marie
+category:;DVD;Genres;Art House & International;By Genre;Drama
+category:;DVD;Genres;Military & War;International
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( H )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;By Theme;Americans Abroad
+reviews:29
+review:A1F5B25SBII5D3:5
+review:A1C2DYWVA9DGKH:5
+review:A1X6FK5RDHNB96:5
+review:AKP004X9EZQU8:3
+review:A31EO8K3W0LH0B:4
+review:A2198FZZMTJ38H:3
+review:A3JXOXKWOIETIY:4
+review:A156P4FPL8OGXB:3
+review:AR3HGDUDMZA9A:2
+review:A3KCAFPV7MCRDP:4
+review:A2KG8WLR1AKO12:5
+review:A2FJBJ947VUOGT:4
+review:A31EO8K3W0LH0B:4
+review:A14U40MX3CPO8Q:5
+review:A1IOJE0W1NXOSE:3
+review:A2DSXA1E02C86D:4
+review:A2HOLM5I1ARX9J:4
+review:A2VMOB9SPRVC4L:5
+review:A1YNY9N6HDT65E:5
+review:A29D25XGPZ09VW:5
+review:A1MG93B9L0QTQA:3
+review:A24H4MQR1BU7CT:4
+review:ARA48345JZPZR:4
+review:AGLLMHBCF2Q9B:5
+review:AUDSM2CTLLW1Q:2
+review:ASB1VI8NQRY61:5
+review:A2HJB9J5O5CLPB:3
+review:A1D2WMRHQUGY4Y:5
+review:A1IPFS2WVJ1XP8:3

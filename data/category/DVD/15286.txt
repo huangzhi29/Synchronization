@@ -1,0 +1,25 @@
+id:15286
+asin:B00005RDAS
+title:The Tea Party (Collection) - Illuminations
+group:DVD
+salesrank:13967
+similar:5
+categories:8
+category:Music;Styles;Hard Rock & Metal;Alternative Metal
+category:;DVD;Genres;Music Video & Concerts;General
+category:Music;Styles;Alternative Rock;Goth & Industrial;Industrial;Alt Industrial
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( T )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:9
+review:A348W6AJYCRT9E:5
+review:A3G0TOEV3JXVU7:5
+review:AHILR257JLEZT:5
+review:ASQ26ZYD2N45D:5
+review:A25MN4LYBN2Z88:5
+review:A21A6YVDY733QP:3
+review:A1D0LW6VIZF4FB:5
+review:A3SOOELVHQ3RTI:5
+review:AYUFQY3XG4ZBR:4

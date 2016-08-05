@@ -1,0 +1,110 @@
+id:13828
+asin:B00004Z4RO
+title:Boys and Girls
+group:DVD
+salesrank:2528
+similar:5
+categories:19
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( B );Barrett, Brendon Ryan
+category:;DVD;Actors & Actresses;( B );Beaudene, Raquel
+category:;DVD;Actors & Actresses;( E );Eichhorn, Lisa
+category:;DVD;Actors & Actresses;( F );Forlani, Claire
+category:;DVD;Actors & Actresses;( H );Hannigan, Alyson
+category:;DVD;Directors;( I );Iscove, Robert
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Dimension Films
+category:;DVD;Genres;Comedy;Romantic Comedies;Contemporary
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Actors & Actresses;( P );Prinze Jr., Freddie
+reviews:83
+review:A1U74V0VVLGJ02:3
+review:A1GAQDYGKTE9J4:2
+review:A1SQWM03DKCD2L:3
+review:A35H4NFQR5PBCV:5
+review:A3TM8RNQV3RZ7V:4
+review:A1F0DC8B0WJ016:1
+review:A1S1SQFMUV83XR:4
+review:A10YGUKD0TFG1I:5
+review:A25Y3YS5RNX1VF:5
+review:A10DW9BW6P9IVN:4
+review:A10DW9BW6P9IVN:4
+review:A2TMW7CE560DXD:5
+review:A3UU3TBE11ZZEL:3
+review:A30UZHA2QAVSMY:5
+review:A30UZHA2QAVSMY:5
+review:A2XV1M5NALXVJH:4
+review:A1QZ2P94TQEBDV:3
+review:A3D6DPWQW509R9:1
+review:A39837HXPWMKSU:3
+review:A143MABQAODRGX:5
+review:A2Q5C5GBWWUJZS:5
+review:A3CWH6VKCTJAD:2
+review:ATVPDKIKX0DER:1
+review:A3K5IMGDCDBCNF:1
+review:A2YSOM1A805PQP:1
+review:ADDEJ7EEH666X:1
+review:A1FG08V13N40ZP:1
+review:A2S5Z69F6Q9LW:1
+review:A30RTEH33FV3OH:1
+review:AZASJSM3SBN3:5
+review:AOHOU4PDIZV37:5
+review:A6B2NJ6A6YXMH:5
+review:A2DERCT28J1VL1:2
+review:A36XJ9Q04HYFV6:3
+review:A2GYQ0WE8MBAB:3
+review:A2LDEJDDGSWNJD:2
+review:A39OWBEHJDJSXC:5
+review:A3NKDE23FP05GV:5
+review:A17RQGPMY08Y67:5
+review:A27L2TB5RXJ3NF:5
+review:A33BOK58QWF3VS:4
+review:A1N7MS82Y4F6QN:5
+review:A1Y1NBNM1QP6CJ:4
+review:AK2Q9IQPSTRDU:2
+review:A2M3C3SADGF1N:5
+review:A3W49QCJ1WFQYR:3
+review:AIODTTC01WR3C:5
+review:AR27NRC15UFLA:3
+review:A1B350OHYHQTGX:1
+review:A1D9DYA4ZJ9LRN:5
+review:AK2AQIULQDFS5:4
+review:A28DARB3QJLRJG:5
+review:A1TYIBVAMWU81M:5
+review:A12VP0GD5V8UKB:1
+review:A7LPR872LGKFZ:1
+review:A28Q8HZ51OTV5J:4
+review:A4QMXEUMKA4Q7:4
+review:A1TGIBKJ31M07L:4
+review:A2MZ433E9LE90O:3
+review:A3B06B1HOKOHZU:5
+review:A3MXDZVM7DYRIC:3
+review:A3UN6WX5RRO2AG:2
+review:A3UN6WX5RRO2AG:2
+review:A2RUTW8GI0R9VO:4
+review:A2ENV4EUUUI1EE:5
+review:AL277B4AQCWBG:2
+review:A1XYE1JGSL6S2J:1
+review:A24YCRAMZDL94Q:4
+review:A2JH39V83E2BQU:1
+review:A2JH39V83E2BQU:1
+review:A1ZLXSY8OGVF7Q:4
+review:A3NFQYHDYZOEDD:3
+review:A240PF0LTVVGKT:5
+review:AEY2513DA7DCT:2
+review:A3OZA1R0HTLTGA:3
+review:A2DZK7Q8ZEJCOJ:2
+review:A2DZK7Q8ZEJCOJ:2
+review:A2JP6WY6JHO7XC:4
+review:A2WZYL0HNUR5XH:5
+review:AE3WWUBKY282K:5
+review:AIFCHP3965C8:3
+review:ATCZBIJBKNVDO:5
+review:A1HX00DL0SZM1G:4

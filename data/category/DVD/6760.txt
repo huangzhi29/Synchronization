@@ -1,0 +1,176 @@
+id:6760
+asin:B00004R99J
+title:Pocahontas (Disney Gold Classic Collection)
+group:DVD
+salesrank:4359
+similar:5
+categories:24
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Specialty Stores;Disney Home Video;Animated Movies
+category:;DVD;Specialty Stores;Disney Home Video;Gold Collection
+category:;DVD;Genres;Kids & Family;Adapted from Books
+category:;DVD;Specialty Stores;Disney Home Video;By Age;3-6 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;7-11 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;For the Whole Family
+category:;DVD;Actors & Actresses;( B );Bale, Christian
+category:;DVD;Actors & Actresses;( B );Bedard, Irene
+category:;DVD;Actors & Actresses;( C );Connolly, Billy
+category:;DVD;Actors & Actresses;( G );Gibson, Mel
+category:;DVD;Actors & Actresses;( H );Hunt, Linda
+category:;DVD;Actors & Actresses;( J );John, Michelle St
+category:;DVD;Actors & Actresses;( K );Kassir, John
+category:;DVD;Actors & Actresses;( M );Means, Russell
+category:;DVD;Actors & Actresses;( S );Stiers, David Ogden
+category:;DVD;Actors & Actresses;( T );Tootoosis, Gordon
+category:;DVD;Actors & Actresses;( W );Welker, Frank
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Genres;Kids & Family;Family Films
+reviews:144
+review:A1R6M05D5C2GD7:1
+review:A1JZY3Z9VJH4IF:4
+review:A27ZSUWQJIKRQL:5
+review:ATVPDKIKX0DER:5
+review:AJPKSUH8POUHO:4
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:1
+review:A2NU9H8H5MJZSL:5
+review:ATVPDKIKX0DER:3
+review:AZLKSS92NH9K7:5
+review:A1246130RU4Q7Z:4
+review:A3EW2L59UBHQSG:5
+review:A3QMLAGSJX65RO:5
+review:A8OG4RCLDX3RH:2
+review:AGAR2DLEA4FF5:4
+review:A2LPUX51FHGKJ9:5
+review:A2INL3AYAT6325:4
+review:A32DTCFBBB9WIV:2
+review:A32DTCFBBB9WIV:2
+review:ACMOLKXVKQ06Z:4
+review:AM2PV53UX1JEQ:4
+review:AQDB6KMVED9PS:3
+review:AGY59U9FDMWMN:1
+review:AL96RYH08JY87:3
+review:A2RCLN8ELQE2LF:1
+review:A38ZI5IAZS3RJT:1
+review:ABVULUZ2ILKKO:4
+review:A31U2QT7SAL7K:4
+review:ANO1GZUCI7K9V:5
+review:A3P9ZI7YIR3YAJ:1
+review:A3CSRP3P4U9HI:3
+review:A3AJFO1JCNTUZM:5
+review:A2FRKEXDXDN1KI:3
+review:A2ONCCE4OKMZ42:4
+review:A2WZON0QPX7C9X:2
+review:AQDZEECOH7TI4:4
+review:ACCEC9E3BDSPR:2
+review:AFPI5YV5047WY:3
+review:A3KEAFWS6L150O:2
+review:A1CJC6ON9C3INA:3
+review:A1AVIGRF3ZFZT7:5
+review:A3SR5U38650UEB:5
+review:A7Y6AVS576M03:5
+review:A26QAGDY3C1B2E:2
+review:A2SXT52GWYQX68:3
+review:A3CNH4VHQCHP37:5
+review:A3UN6WX5RRO2AG:5
+review:A2INL3AYAT6325:5
+review:A3AU4GAYYVDT8C:5
+review:APCYHZ6YC1Y1P:1
+review:ASGCVKRC0EZ53:5
+review:AJ8TBV3FD6704:5
+review:AA5XZVANDXGJE:4
+review:A3EW2L59UBHQSG:5
+review:AOYTQFRLD8VLP:5
+review:A8VE0NR2Z9Y5J:3
+review:A1R13RFLWY0PTY:5
+review:A35ZZ5XKR5V7W5:3
+review:A1Z3VVQX4Z1X37:3
+review:A281NPSIMI1C2R:5
+review:A2KLNY5KI96YLT:5
+review:A177XSJBMSER8L:2
+review:A1F021Q6TMRQRV:5
+review:A3TJJHMWV3SFNI:1
+review:A1OWXOLN01KSII:1
+review:A2A3HZKHS9RSI2:1
+review:A2O4GC6KLK22IR:5
+review:AD6G5M3KL7GTB:5
+review:A3LETSRA2QQC84:5
+review:A1E8FN8IYTX6D1:2
+review:A3TGAD66GNHB4W:5
+review:A1E8FN8IYTX6D1:2
+review:AMWA4HWO2D4CH:4
+review:A329U9CDUPKXAC:4
+review:A3R027VNJZHFV5:5
+review:A1PIOTD9Q0BKZ9:1
+review:A3QJHUUIWLDGQ9:5
+review:A3MY0TQYO9AAC2:5
+review:A3TD7B0CT1NHO4:3
+review:A3UN6WX5RRO2AG:4
+review:A1AG37IB400YLC:4
+review:A3UN6WX5RRO2AG:3
+review:A37DZX4F5RU2PQ:5
+review:AOVJYIUATQKR5:2
+review:A3CF7B2U0IB8PS:5
+review:A2C27IQUH9N1Z:4
+review:A3UN6WX5RRO2AG:5
+review:A2M9FMPQEZ2ZEH:3
+review:A2RQI7CVN8V6BO:5
+review:A3UN6WX5RRO2AG:2
+review:A1Q4ZU2Y929N0A:4
+review:A2FS38D943KX12:1
+review:AIRWZK6WXAW6Q:4
+review:A1VHK9A4VLJTHC:3
+review:A22VNF8GION1EB:1
+review:A15RYJP7YHCEF7:4
+review:A2E4FD2XVYEXKZ:4
+review:AFHY7UE8V6JIS:5
+review:A359IT81FBX64Y:4
+review:A376AQ64SJ0O2T:5
+review:A1HTT5NLU6FMI0:4
+review:AEGR40GALMDJ4:4
+review:A32GGXUECOZFRC:1
+review:A1R1BR8TMVGNZJ:5
+review:A1Z4VWNPTID1JX:5
+review:A1L4T28OQDYBM:5
+review:A2D7V129WEUHKW:1
+review:A3A5WTXBGCHYPQ:1
+review:A2AEB3FRIOTTY2:4
+review:A387FJ753W2CDX:5
+review:A2ODF4T1AAN83E:5
+review:A320711PPRN4W5:1
+review:A23NM3ED306YFA:1
+review:A1Z90AW84K4YUS:5
+review:AJJFFA6G58VCP:5
+review:A5WLUF4G7W03U:1
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A3EIR1H3RLVF9J:4
+review:A6LT4XK3M0487:2
+review:A17YMTUNJTUJZM:5
+review:A13X0N03Z6M7J4:5
+review:A3UN6WX5RRO2AG:5
+review:ARO3L7N6B3RHM:5
+review:A1HY13551G3ZO9:5
+review:A3PHFR4M1JN5YD:5
+review:AQXAKKTKJHCQ3:2
+review:A1NLLX3IZAQUFI:1
+review:A2QKJCQMACNIAC:4
+review:A1S31XLRRB11US:5
+review:A2QKCOX5ACRHC5:4
+review:AW0W59FNCK11T:5
+review:A1COW0UIB5HA9J:5
+review:A3Q4XAQXKKV6V:4
+review:AL356VHI4QRZS:5
+review:A2VD3CYOEMJ6SR:4
+review:A3U4N7IFSZJBJ1:5
+review:A3F23E9UW3YXSY:1
+review:A3F23E9UW3YXSY:1
+review:A2PCEDGZJAWS8L:2
+review:A28ERDII8FZQQ9:5
+review:A1JYQVP71WHBTL:3
+review:A1XS6GR5YF4H73:5

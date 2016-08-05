@@ -1,0 +1,72 @@
+id:9587
+asin:6305291470
+title:Mighty Aphrodite
+group:DVD
+salesrank:3842
+similar:5
+categories:26
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Sex Comedies
+category:;DVD;Genres;Comedy;By Theme;Love & Romance;Infidelity
+category:;DVD;Actors & Actresses;( A );Abraham, F Murray
+category:;DVD;Actors & Actresses;( A );Allen, Woody
+category:;DVD;Actors & Actresses;( B );Bloom, Claire
+category:;DVD;Actors & Actresses;( C );Cameron, J Smith
+category:;DVD;Actors & Actresses;( C );Carter, Helena Bonham
+category:;DVD;Actors & Actresses;( D );Dukakis, Olympia
+category:;DVD;Actors & Actresses;( M );Murphy, Rosemary
+category:;DVD;Actors & Actresses;( R );Rapaport, Michael
+category:;DVD;Actors & Actresses;( S );Sorvino, Mira
+category:;DVD;Actors & Actresses;( S );Stiers, David Ogden
+category:;DVD;Actors & Actresses;( W );Warden, Jack
+category:;DVD;Actors & Actresses;( W );Weller, Peter
+category:;DVD;Directors;( A );Allen, Woody
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Genres;Comedy;Urban
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Comedy
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Oscar® Collection
+category:;DVD;Genres;Comedy;Romantic Comedies;Contemporary
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Comedy;Comedy Directors;Woody Allen
+category:;DVD;Genres;Comedy;Comedy Stars;Woody Allen
+reviews:38
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A2UIRCOIH8W1E4:5
+review:A3N0FLHDDNAEJ8:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:AIUGQ4PNB8T6P:5
+review:A12U7UB8297C11:5
+review:ATVPDKIKX0DER:4
+review:A2Q612V1Z6FVHF:5
+review:A1T17LMQABMBN5:5
+review:A3664K3GZV3LLY:3
+review:AZRHJBOJ9371U:4
+review:AOPPHDPD830VJ:4
+review:AC32305TO79HL:4
+review:A3VIVMVN2Z7EUW:3
+review:A2QGRE376QBRV5:4
+review:A15TNUM2PBS6F0:2
+review:A1YQCFATDUVUPH:4
+review:A2YLXRC8Y79SCE:5
+review:A2NJO6YE954DBH:4
+review:A35YWA2V4QHOJ3:5
+review:A39AKB7OM66L44:5
+review:AMMEMPM9MPS55:4
+review:AMY9VY4B2SG87:4
+review:AYYODBGYFL5SY:5
+review:A3P2SZ5WIRB5TT:4
+review:A1DZKOOMMJM1MI:4
+review:A2JA7C0WEMB1M7:4
+review:A2ZSC81MXLBELX:5
+review:A1M41U1ZKJD8YI:4
+review:A3ULT9W0O6CFFE:1
+review:AMKZHBOK7VMQR:3
+review:A1UL8LHVZUQUB9:1
+review:A20IIR0422G3A5:5

@@ -1,0 +1,152 @@
+id:1881
+asin:B00005A8TY
+title:Spartacus - Criterion Collection
+group:DVD
+salesrank:8102
+similar:5
+categories:24
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Classics
+category:;DVD;Actors & Actresses;( B );Brocco, Peter
+category:;DVD;Actors & Actresses;( D );Dall, John
+category:;DVD;Actors & Actresses;( D );Douglas, Kirk
+category:;DVD;Actors & Actresses;( F );Foch, Nina
+category:;DVD;Actors & Actresses;( G );Gavin, John
+category:;DVD;Actors & Actresses;( H );Hoyt, John
+category:;DVD;Actors & Actresses;( I );Ireland, John
+category:;DVD;Actors & Actresses;( L );Lambert, Paul
+category:;DVD;Actors & Actresses;( L );Laughton, Charles
+category:;DVD;Actors & Actresses;( L );Lom, Herbert
+category:;DVD;Actors & Actresses;( M );McGraw, Charles
+category:;DVD;Actors & Actresses;( O );Olivier, Laurence
+category:;DVD;Actors & Actresses;( S );Simmons, Jean
+category:;DVD;Actors & Actresses;( S );Stone, Harold J
+category:;DVD;Actors & Actresses;( S );Strode, Woody
+category:;DVD;Actors & Actresses;( U );Ustinov, Peter
+category:;DVD;Actors & Actresses;( W );Wilke, Robert J
+category:;DVD;Directors;( K );Kubrick, Stanley
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Classics
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Action
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;All
+reviews:120
+review:ATVPDKIKX0DER:5
+review:A19Q61OI787WHQ:5
+review:A2JS2OU5SBH1XQ:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ACQ98IHQ60MQZ:5
+review:ATVPDKIKX0DER:5
+review:A1AJAMY5KBRA4R:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A17D77DFID0GZG:5
+review:ATVPDKIKX0DER:5
+review:A1W51D767ATJHR:1
+review:A2XUXQ0TW6P761:4
+review:A107UOX7KZHZLB:5
+review:A2AMMGL7URUQ4L:5
+review:AREFZOMHE7N1H:4
+review:A9KE5RNDA8T7B:1
+review:A9KE5RNDA8T7B:1
+review:A1OCVWN4K4Q3FN:5
+review:A31U2QT7SAL7K:5
+review:A3AFXCFSIBDUEA:4
+review:A3UA06XSUA53XE:4
+review:AKYEUYXCIFPLN:3
+review:AM2PV53UX1JEQ:5
+review:ALR35EFI69S5R:4
+review:A2FRVI1Q7QLH6G:4
+review:A2K9IVPCTJUQHN:5
+review:AR3RAD2DPXBRN:3
+review:A1F3IDB5A7CB9K:4
+review:A3ONXROYIY2OKX:2
+review:A9LAPV8XNKZVZ:5
+review:A3CWH6VKCTJAD:5
+review:A1DT6QY7WJWB3Z:4
+review:A2O0DY0US172SL:5
+review:A3R84K012QENC4:5
+review:A3PC7FM6EW53BM:5
+review:AOYYRFREDY2JE:5
+review:A1VVOTYGNPPIPA:5
+review:A2YSB7BY7S8FBU:4
+review:A1GHUN5HXMHZ89:5
+review:A10ZE8HITPZ503:4
+review:ACDPTIDMKKTRV:4
+review:A2WAJWFB6ZPEGW:5
+review:A2IZSANG00BQV9:5
+review:A3H9JSM1SUTE4O:4
+review:A2MR0VRPIZF3JH:4
+review:A1I2UJI3NCR93N:5
+review:A2BY9FI2H7ABPC:1
+review:A1722QIGPBK140:4
+review:A213KQ65OELF7R:4
+review:ARA48345JZPZR:5
+review:A2BUZE5TKW8E81:2
+review:AC7EDN6GML7Q0:5
+review:A1HRH80YNJS0G:5
+review:A1L43KWWR05PCS:4
+review:A33L7G4E8CID3:5
+review:A1W4ZCSG5I0890:5
+review:A1GN8UJIZLCA59:5
+review:A2WULZ3B362ZAS:5
+review:A191ZQLBJ1L3BO:5
+review:A2S59S0TQ4BXOQ:2
+review:AD9WTAOAFUZA4:4
+review:AD9WTAOAFUZA4:4
+review:A1DGGAMLNHDHMW:5
+review:ATAJ9LRGZOSI:5
+review:A1CIW2OEVAJRM2:4
+review:A36BE5GFEZ7A91:4
+review:A2NSZ65SOUILFD:5
+review:A1WN7Y941KA2SS:5
+review:A7PBI5HADJYER:3
+review:A3CNE7FXXJ5JUJ:1
+review:A170O1E99VLM3W:3
+review:A1I07M1PUVBRNO:5
+review:A2KN89AD9G1NNX:3
+review:AD2BIAIH78QI5:5
+review:A231K716D7POU3:5
+review:A2I5406XT0H9VD:5
+review:A10MXV4CUTLM3U:4
+review:A2FRX2WDLFYAP0:1
+review:A5G2CH4DBB1UJ:3
+review:A2B8DJ0CKN9FAO:5
+review:A35YWA2V4QHOJ3:5
+review:A18XS43TLUIHT4:5
+review:A2Z28WKY1LHBKY:4
+review:A2K5HL7C5J8XWE:4
+review:A2UJD7GB0URB71:3
+review:A5ZUZ49YRDPCV:5
+review:A917UP4NA08ZY:4
+review:A3HM31FHYQT6OJ:4
+review:A2B8GXSCB1R05T:5
+review:A20VHAA0J5RFYH:4
+review:AQP1VPK16SVWM:4
+review:AHCVWPLA1O4X8:5
+review:A1RXUJQRRD1YLK:5
+review:A3U56M0Y8LYO6J:2
+review:A3MCC5MAJYJYMD:2
+review:A2VE83MZF98ITY:5
+review:AGKPTMTR3UX1R:5
+review:A3ODVVP9XO42L:5
+review:AI0OAQ6E2O8VF:3
+review:A1BED4EH3VRX5K:2
+review:A5WMBIOGE8Q6N:5
+review:A1K0XHNAJCUCMO:3
+review:A1QQPIUXWD4G0Z:5
+review:A2IUCYSLAN09A:5
+review:A1BV97LBICHSSA:5
+review:A1Y87E22UVYCE6:5
+review:A1KAR9G699RM56:3
+review:A2RFG9LI7JDILS:4
+review:A32JKNQ6BABMQ2:4
+review:A36EW68H08UOCS:5
+review:A2SVHLOWXK81NU:5
+review:A2A3VF06FR0C7D:5
+review:A25PM9JGHPU8EI:5
+review:A90GBWG28QDRH:5
+review:A2UK5P4PNKKWJQ:4
+review:A1RNPWBU36MA84:3
+review:AKA58N330RL70:5

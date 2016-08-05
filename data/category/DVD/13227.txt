@@ -1,0 +1,41 @@
+id:13227
+asin:B00005AWQT
+title:New Fist of Fury
+group:DVD
+salesrank:54349
+similar:5
+categories:22
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Military & War;Action & Combat
+category:;DVD;Actors & Actresses;( C );Chan, Jackie
+category:;DVD;Actors & Actresses;( M );Miao, Nora
+category:;DVD;Genres;Action & Adventure;Martial Arts;General
+category:;DVD;Genres;Action & Adventure;Hong Kong Action;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;General
+category:;DVD;Special Features;Titles;( N )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;Martial Arts
+category:;DVD;Special Features;Today's Deals in DVD;Military & War;Action & Combat
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;Martial Arts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;Military & War
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Action & Adventure;Action Stars;Jackie Chan
+category:;DVD;Genres;Military & War;World War II
+category:;DVD;Special Features;Today's Deals in DVD;Military & War;World War II
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Military & War;World War II
+reviews:11
+review:A1EB8WH4DMHYDR:1
+review:ATVPDKIKX0DER:1
+review:A2G2GIW06UC39N:4
+review:A2P9I1XR5RWHII:5
+review:A1TYXNOUWMP83:3
+review:A3HQVAZ4A1V7C7:1
+review:A3SBVTRU7301II:2
+review:A3QNHXO62D6C5P:4
+review:ASRVZ6PWZOFM9:2
+review:A3N3IUQ0M4PBQ4:1
+review:A2WTN1GAIBOZU:1

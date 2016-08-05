@@ -1,0 +1,23 @@
+id:17648
+asin:B00006JDUW
+title:Hamtaro - Ham-Ham Head Seaward
+group:DVD
+salesrank:33521
+similar:5
+categories:7
+category:;DVD;Actors & Actresses;( D );Dobson, Michael
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( H )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Anime & Manga;By Studio;VIZ
+reviews:8
+review:ATVPDKIKX0DER:5
+review:A2YRZTUK9HBNTI:5
+review:AZEWZJWN854QY:5
+review:A6V5UUHZWP95U:5
+review:A29V1MP4PX5ABN:1
+review:A1QZEGV543TJ7A:5
+review:A3UN6WX5RRO2AG:5
+review:A23ZP02F085DFQ:5

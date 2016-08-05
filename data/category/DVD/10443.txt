@@ -1,0 +1,18 @@
+id:10443
+asin:B000087F5B
+title:Yukmouth Presents
+group:DVD
+salesrank:24432
+similar:5
+categories:9
+category:Music;Styles;Rap & Hip-Hop;Gangsta & Hardcore
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll
+category:;DVD;Genres;Music Video & Concerts;Other Music;R&B
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( Y )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:1
+review:A1SUCY44M8NBJE:5

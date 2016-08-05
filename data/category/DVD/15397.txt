@@ -1,0 +1,148 @@
+id:15397
+asin:B00005LDDD
+title:15 Minutes (Infinifilm Edition)
+group:DVD
+salesrank:3294
+similar:5
+categories:25
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Mystery & Suspense;Thrillers
+category:;DVD;Actors & Actresses;( B );Brooks, Avery
+category:;DVD;Actors & Actresses;( B );Burns, Edward
+category:;DVD;Actors & Actresses;( C );Cattrall, Kim
+category:;DVD;Actors & Actresses;( G );Grammer, Kelsey
+category:;DVD;Actors & Actresses;( G );Grier, David Alan
+category:;DVD;Actors & Actresses;( H );Handy, James
+category:;DVD;Actors & Actresses;( M );McCrary, Darius
+category:;DVD;Actors & Actresses;( D );DeNiro, Robert
+category:;DVD;Actors & Actresses;( T );Theron, Charlize
+category:;DVD;Directors;( H );Herzfeld, John
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;Crime;Cops
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;DVD;Special Features;Fully Loaded DVDs;Infinifilm Edition
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:115
+review:A1J2931UBBJPXM:4
+review:AC6HOQITBZQYE:1
+review:A1Q0AQ2HVNSYYW:1
+review:AU8552YCOO5QX:1
+review:A1HCGU781JS9K4:4
+review:A2UEQRGTYQ0BCD:4
+review:A1D0IDWA361JP4:3
+review:AK2AQIULQDFS5:5
+review:A331OF34UX4Y1K:2
+review:A2X27FQSHP418Y:3
+review:ATLYH0VOATU0G:3
+review:A1BIZGNAY9CBL5:2
+review:A350UL2BJ716X7:1
+review:A27QCIBRATFB1V:4
+review:A33K1OK4SB7BLT:4
+review:A3BXPW5YIR4A52:5
+review:AZ1VYLH9B1HLK:4
+review:A1XHVW22L0IVDC:4
+review:A1XDMYX8QOW07N:4
+review:AVV61QOC10IOS:4
+review:A14Z0Q1DU6CBJJ:3
+review:A19ZXK9HHVRV1X:2
+review:A2NWCUQ98KAQY0:2
+review:A2ZLROGIL2V7GV:4
+review:A2BPK7ZBVQCI05:4
+review:A3HPOCPJJQNMWN:5
+review:A1MOMOURZATLTA:3
+review:A9F2URZOM65BQ:1
+review:A3RNV9JA553B17:5
+review:AHDZA9QMDJAHB:5
+review:AVNS88JIQO90D:1
+review:A1YORSNYP4GETA:1
+review:A2198FZZMTJ38H:4
+review:A3C9CCPDE7OGNH:1
+review:A3TYO5D7YVSIIE:5
+review:ANPXMT8E4XKSL:4
+review:A1Y02UDSIN0H7M:3
+review:A15G70V9OBTOVO:1
+review:A3HEOREMM29XWV:2
+review:A132TFVDOYCF2F:2
+review:A1EI65WJC85U68:3
+review:A2ICI500LRO01K:2
+review:AZ7I5GAJZA3JO:4
+review:A3DT5X9I5IAEBL:1
+review:A31ALK3OSCNQIF:5
+review:A1ER5AYS3FQ9O3:4
+review:A3FRZCZB2459YS:4
+review:AP286ZV19SLC6:5
+review:A3EC1Z2U9YKLF1:1
+review:A5NCWGM6BAE9:1
+review:A366SKEAET3CXM:1
+review:A1GIQM57MBMFOK:3
+review:A2BAUJLJCEYBYB:4
+review:A115K0RECGO0U3:1
+review:A1IANEBSMVGHS9:4
+review:A3OWUMBKIWSBBD:5
+review:AO5BRGQW2XOKI:3
+review:A1ZU8J9Y4VU1IS:4
+review:A8KDNHIYJ9339:2
+review:A1ZXN0UA0ZN21I:4
+review:A1TMGZ06IS9JYL:1
+review:A1I7U6GRJLQNG0:3
+review:A3MKHD3AKS69BH:1
+review:A30YD1DF7OR61O:4
+review:A3IK9BLS3BWM96:1
+review:A1IWPMJ3YW9BEM:1
+review:A1FA0GBB3S1MWU:1
+review:AA5HBAXILJVDK:4
+review:A2EXMGQEFLW0LD:4
+review:ALN0TTRTLHA4E:1
+review:A1CZKR9SW65VJZ:1
+review:A2TZKXU6Q0EDNP:3
+review:A1TWTULVD6F22O:3
+review:AL7LEBKKW8XCC:5
+review:A1RMT8X8IQF0E0:2
+review:A31LHED3SKLWVB:1
+review:A1WCCZGMR2VAEW:4
+review:A152C8GYY25HAH:4
+review:A2KZ2ZCE5KTKUP:5
+review:ABFJYHVD8RHLE:5
+review:AYG1U47VFZ165:2
+review:AM0G4IO57D2Z4:4
+review:A143P0NKQDNWYL:1
+review:A3TBTG31EHA0RZ:2
+review:A9Q28YTLYREO7:1
+review:AMC2RDBZ56A8R:1
+review:A19V0VJMKKRMC8:1
+review:A19HULCA8ELAUE:1
+review:A1XX5797TIZT5Q:1
+review:AW3VZ5O895LRK:4
+review:A2YFOLJQNPMQU6:1
+review:AJKWF4W7QD4NS:2
+review:A319SKSB556033:5
+review:A3B2PHI1PE5T6H:5
+review:A1NSHD4YCL5DV3:4
+review:A25LH99UQLU005:5
+review:A3O2RCKAMSE9X7:3
+review:A1L8HRCM60W0W7:3
+review:A2B0RGSLR4BYEZ:2
+review:A2XALXPBC0JKQI:5
+review:A3P1A63Q8L32C5:2
+review:A1GXDBQ1MW1O3O:4
+review:A3VQLTB724O77W:3
+review:A1ZS82R4RC0I2N:2
+review:A3LZGLA88K0LA0:5
+review:ADEJFQ5KLLVLV:4
+review:AVA6S5SQQA1KT:4
+review:A2VHV9PR80BRGM:3
+review:A2PN7Z2VTHICL8:5
+review:A300AR4IM0KW21:1
+review:A2AOZQ3WTNVVOK:3
+review:A1YQB7CGVMX3D8:4
+review:A255SZ62DYQZ1A:3
+review:A3KB1H0S7T6JX1:3
+review:A2C2E2RDW0ZIUL:5

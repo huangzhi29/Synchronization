@@ -1,0 +1,14 @@
+id:18953
+asin:B00007AJEP
+title:Flea
+group:DVD
+salesrank:13731
+similar:5
+categories:4
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( F )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:2
+review:APLZ5YVE6FA7G:3
+review:A12KPZ1Q8GAEEM:4

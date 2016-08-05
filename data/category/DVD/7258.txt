@@ -1,0 +1,36 @@
+id:7258
+asin:B00007M5HB
+title:Effi Briest
+group:DVD
+salesrank:10283
+similar:5
+categories:21
+category:;DVD;Genres;Art House & International;By Original Language;German
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Melodrama
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( C );Carstensen, Margit
+category:;DVD;Actors & Actresses;( F );Fassbinder, Rainer Werner
+category:;DVD;Actors & Actresses;( H );Hermann, Irm
+category:;DVD;Actors & Actresses;( L );Lommel, Ulli
+category:;DVD;Actors & Actresses;( M );Mattes, Eva
+category:;DVD;Actors & Actresses;( S );Schenck, Wolfgang
+category:;DVD;Actors & Actresses;( S );Scheydt, Karl
+category:;DVD;Actors & Actresses;( S );Schygulla, Hanna
+category:;DVD;Directors;( F );Fassbinder, Rainer Werner
+category:;DVD;Genres;Art House & International;By Theme;Melodrama
+category:;DVD;Genres;Art House & International;By Theme;Period Piece
+category:;DVD;Genres;Art House & International;By Country;Germany;General
+category:;DVD;Genres;Drama;Love & Romance;Marriage
+category:;DVD;Special Features;Titles;( E )
+category:;DVD;Genres;Drama;By Theme;Social Injustice
+category:;DVD;Genres;Drama;Love & Romance;Infidelity & Betrayal
+category:;DVD;Genres;Drama;Love & Romance;Love Triangle
+reviews:7
+review:A1O0H6JL5HUAD8:4
+review:A31RNXQHD106YY:3
+review:A1K548TDR33DMN:3
+review:A3RAWQSWAC7BWD:5
+review:A3R3I83DCX9KKR:5
+review:A111BH1GN0D33Z:5
+review:A16CZRQL23NOIW:5

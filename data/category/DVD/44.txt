@@ -1,0 +1,26 @@
+id:44
+asin:B000056PNE
+title:The NBA's 100 Greatest Plays
+group:DVD
+salesrank:33124
+similar:5
+categories:5
+category:;DVD;Genres;Sports;General
+category:;DVD;Genres;Sports;Basketball
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( N )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:13
+review:A3VIQXWZ00FM6E:5
+review:A3L6P4DGHSP9PC:4
+review:A2DYJR90XLQ6PY:5
+review:A2E0CB9F9BMXUJ:2
+review:A1TEZARFTKHG29:4
+review:A16DMCKV9RMQGI:5
+review:A3DM6UGX44NJ9K:4
+review:A2WTB8WJN31OH6:4
+review:AWXH63WE2TL2S:5
+review:A2GUHUNN4X6M5Q:5
+review:A2SKPM0H369TGN:3
+review:A1EMDSTJDUE6B0:5
+review:A2UM0CAKYNUQKY:4

@@ -1,0 +1,43 @@
+id:6292
+asin:B00000I1RM
+title:Winners and Sinners
+group:DVD
+salesrank:23702
+similar:5
+categories:22
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Art House & International;By Original Language;Chinese
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Comic Criminals
+category:;DVD;Actors & Actresses;( C );Chan, Jackie
+category:;DVD;Actors & Actresses;( C );Chan, Philip
+category:;DVD;Actors & Actresses;( H );Ha, Pat
+category:;DVD;Actors & Actresses;( N );Ng, Richard
+category:;DVD;Actors & Actresses;( S );Sham, John
+category:;DVD;Actors & Actresses;( T );Tien, James
+category:;DVD;Actors & Actresses;( W );Wei, Dick
+category:;DVD;Actors & Actresses;( Y );Yip, Cecilia
+category:;DVD;Directors;( H );Hung, Sammo
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;Comedy
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;General
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Action & Adventure;Action Stars;Jackie Chan
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;Cops & Triads
+category:;DVD;Genres;Action & Adventure;By Theme;Kidnapping
+reviews:13
+review:AZKPHQSUPQDUE:3
+review:ATVPDKIKX0DER:5
+review:AS53YYNB02P6S:5
+review:ATVPDKIKX0DER:4
+review:A2SPITQS3XFPKZ:2
+review:A1EB8WH4DMHYDR:2
+review:A6JQ8J1ETHEC0:3
+review:A1HTXI82HKEIWA:3
+review:A2TSS0RRK62GEV:4
+review:A3SOE7OSDTAT8E:5
+review:A2ZYBPOFUIUGCF:5
+review:ASRVZ6PWZOFM9:4
+review:AAXIW3SRA0S4R:4

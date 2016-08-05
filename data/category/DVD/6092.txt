@@ -1,0 +1,20 @@
+id:6092
+asin:B00007KK2H
+title:The Twilight Zone - Collection 5
+group:DVD
+salesrank:5896
+similar:5
+categories:5
+category:;DVD;Specialty Stores;Twilight Zone;Twilight Zone DVDs
+category:;DVD;Genres;Television;General
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Television;Classic TV
+category:;DVD;Genres;Television;By Decade;1950s-'60s;General
+reviews:7
+review:A1JQ6E8ZY3I3V0:5
+review:A1JQ6E8ZY3I3V0:5
+review:A1JQ6E8ZY3I3V0:5
+review:A1DAV28XMD83BG:5
+review:A32QD896PA5VX1:5
+review:A1I8GG2WYMWPTI:5
+review:A1KDCQJVWW5S6E:5

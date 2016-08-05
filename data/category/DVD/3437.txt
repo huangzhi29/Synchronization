@@ -1,0 +1,14 @@
+id:3437
+asin:B00005AQ4Y
+title:Statistic
+group:DVD
+salesrank:33085
+similar:0
+categories:4
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Drama;Love & Romance;Love Story
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+reviews:2
+review:A1R90KXMPXCAP:3
+review:AN6Q01K4IPYH9:5

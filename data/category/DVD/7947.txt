@@ -1,0 +1,18 @@
+id:7947
+asin:B00005OBAJ
+title:Vertical Horizon - Tour Book 1999-01
+group:DVD
+salesrank:34748
+similar:1
+categories:8
+category:Music;Styles;Rock;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( V )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:Music;Styles;Alternative Rock;American Alternative;Post Grunge
+reviews:2
+review:A2QSWSGT5ACMCG:4
+review:A191T8JDTOUG2H:4

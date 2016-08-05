@@ -1,0 +1,15 @@
+id:1627
+asin:B00005NB96
+title:Richard Strauss - Concerto for Horn
+group:DVD
+salesrank:40788
+similar:5
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Special Features;Titles;( R )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Concertos
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;By Composer;Strauss, Richard
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Historical Period;Romantic (c.1820-1910)
+reviews:1
+review:A2BBTQXL88P45:5

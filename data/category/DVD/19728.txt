@@ -1,0 +1,16 @@
+id:19728
+asin:6305186626
+title:1999 Video Playmate Calendar
+group:DVD
+salesrank:48026
+similar:5
+categories:4
+category:;DVD;Actors & Actresses;( D );Derrico, Donna
+category:;DVD;Actors & Actresses;( S );Schultz, Julia
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:4
+review:A1LC5W7CUQSG1M:4
+review:A3897QRNFPBSMQ:4
+review:A934KQO4YFLX2:3
+review:A255SZ62DYQZ1A:4

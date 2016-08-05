@@ -1,0 +1,22 @@
+id:1722
+asin:B00005RYA1
+title:The Blonde
+group:DVD
+salesrank:29691
+similar:5
+categories:13
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Art House & International;By Genre;Mystery & Suspense
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( F )
+category:;DVD;Actors & Actresses;( K );Kinski, Nastassja
+category:;DVD;Actors & Actresses;( R );Rubini, Sergio
+category:;DVD;Directors;( R )
+category:;DVD;Genres;Art House & International;By Country;Italy;General
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Genres;Drama;Love & Romance;Unrequited Love
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:1
+review:A1NF9532SQMIZT:5

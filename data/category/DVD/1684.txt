@@ -1,0 +1,44 @@
+id:1684
+asin:B00008WJD9
+title:Two Evil Eyes
+group:DVD
+salesrank:17726
+similar:5
+categories:17
+category:;DVD;Genres;Horror;General
+category:;DVD;Actors & Actresses;( A );Amos, John
+category:;DVD;Actors & Actresses;( A );Atkins, Tom
+category:;DVD;Actors & Actresses;( B );Balsam, Martin
+category:;DVD;Actors & Actresses;( B );Barbeau, Adrienne
+category:;DVD;Actors & Actresses;( H );Hunter, Kim
+category:;DVD;Actors & Actresses;( K );Keitel, Harvey
+category:;DVD;Actors & Actresses;( K );Kirkland, Sally
+category:;DVD;Actors & Actresses;( P );Potter, Madeleine
+category:;DVD;Actors & Actresses;( Z );Zada, Ramy
+category:;DVD;Directors;( A );Argento, Dario
+category:;DVD;Directors;( R );Romero, George
+category:;DVD;Genres;Art House & International;By Country;Italy;General
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Horror;Horror Masters;George Romero
+category:;DVD;Genres;Horror;Italian Horror;General
+category:;DVD;Genres;Cult Movies;Blue Underground
+reviews:19
+review:A2JCRTMYG2OG2R:3
+review:ATVPDKIKX0DER:4
+review:ADE0R0RSE3MJS:1
+review:ATVPDKIKX0DER:3
+review:A23VM3YBC8I03X:5
+review:A3R6DJXXIZ3IRA:5
+review:A10DH8FJS1PV7Y:4
+review:A3OD5SF6V3I2CO:4
+review:A1JWISQB0S4TGU:3
+review:A3C8V3BHKG422B:3
+review:A3C8V3BHKG422B:3
+review:A35C9LTFSL274I:3
+review:A230JUQIZ2YSOY:4
+review:A2HII4U9WQ0XUV:3
+review:A96JD9312DHWC:4
+review:A3AY3EV2MFRFGG:4
+review:ANBQIWHO9JRFS:5
+review:A2V3P1XE33NYC3:4
+review:A29ZD49H8W4HO7:3

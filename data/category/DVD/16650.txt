@@ -1,0 +1,57 @@
+id:16650
+asin:B00003W8NT
+title:In Too Deep
+group:DVD
+salesrank:13616
+similar:5
+categories:23
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Thrillers
+category:;DVD;Actors & Actresses;( A );Akin, Philip
+category:;DVD;Actors & Actresses;( C );Canada, Ron
+category:;DVD;Actors & Actresses;( E );Epps, Omar
+category:;DVD;Actors & Actresses;( G );Grier, Pam
+category:;DVD;Actors & Actresses;( H );Harper, Hill
+category:;DVD;Actors & Actresses;( H );Harvey, Don
+category:;DVD;Actors & Actresses;( K );Kelly, David Patrick
+category:;DVD;Actors & Actresses;( L );Long, Nia
+category:;DVD;Actors & Actresses;( T );Tucci, Stanley
+category:;DVD;Actors & Actresses;( W );Weber, Jake
+category:;DVD;Directors;( R );Rymer, Michael
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Dimension Films
+category:;DVD;Genres;Mystery & Suspense;Crime;Gangsters
+category:;DVD;Genres;Mystery & Suspense;Crime;Cops
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( I )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:26
+review:A1F4GYJQX96922:5
+review:A3BCEABOYZUVMT:3
+review:AEY8NWA47TZ0E:5
+review:A7SN7LD5PHDV6:4
+review:A36M1FVSCSTZID:4
+review:A318BWQOJE8ZEB:4
+review:A2ZAEMRNIA7PV6:5
+review:ABCHFE8WO7I9L:5
+review:AAVJQ33M5EL37:5
+review:A2UJE4TJ8J5BR:4
+review:A1C3HSVN01AIJX:4
+review:A173G0GN4479RG:3
+review:A17Y0XUN3B7BVK:4
+review:A19ZXK9HHVRV1X:3
+review:ATX3O8B1GJ9XU:5
+review:A1929NMJ6YEKVP:5
+review:A3M88RCAR2T804:4
+review:A3ECGNSRH5QASB:5
+review:AKXNSHYLPOZ3R:5
+review:A3IAXX1UO01KQ3:4
+review:A2KD81UWWWWZJ2:4
+review:A15MLF38WROSWU:4
+review:ARFRYHIVP6VPP:3
+review:A1TBHFNY5385YY:5
+review:A1EJGW6OJXC1O2:4
+review:A1J8ORO97PXP1Q:1

@@ -1,0 +1,48 @@
+id:2679
+asin:B00006JMSL
+title:The Incredible Mr. Limpet
+group:DVD
+salesrank:2331
+similar:5
+categories:18
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Military & War;Comedy
+category:;DVD;Actors & Actresses;( C );Cook, Carl D
+category:;DVD;Actors & Actresses;( D );Duggan, Andrew
+category:;DVD;Actors & Actresses;( F );Frees, Paul
+category:;DVD;Actors & Actresses;( K );Keating, Larry
+category:;DVD;Actors & Actresses;( K );Knotts, Don
+category:;DVD;Actors & Actresses;( M );Meredith, Charles
+category:;DVD;Actors & Actresses;( W );Weston, Jack
+category:;DVD;Directors;( L );Lubin, Arthur
+category:;DVD;Genres;Comedy;Animation;General
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( I )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Comedy
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:22
+review:ATVPDKIKX0DER:5
+review:A327MRPY373OPN:4
+review:A26TSW6AI59ZCV:4
+review:ART1J2FV64109:1
+review:A2L1I917YFIANQ:5
+review:A2K7QMILHA3DZ:1
+review:A2OYBWUGEANNAM:5
+review:A3Q9RCDXGO5512:3
+review:A240QB45BSMDAN:5
+review:A2B8DJ0CKN9FAO:3
+review:A9FFO06F9Y299:5
+review:A3UX2DU0NEUY08:5
+review:A3DKJFYH6X5DSA:3
+review:AM836D28P0EEU:4
+review:A23K0YD7L1CBU7:5
+review:A2ZOTZTQJ4AJX7:1
+review:A1CYPP2BUDGO7W:5
+review:A1CYPP2BUDGO7W:5
+review:A1R754POQNJO51:3
+review:AV84DDOQWBFL7:5
+review:A158DKWIEU6ZPG:3
+review:A1XYADEC7TLTSP:5

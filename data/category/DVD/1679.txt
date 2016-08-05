@@ -1,0 +1,75 @@
+id:1679
+asin:B00005NB9Z
+title:The Visitors
+group:DVD
+salesrank:8567
+similar:5
+categories:28
+category:;DVD;Genres;Art House & International;By Genre;Comedy
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Slapstick
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Comedy;By Theme;Fish Out of Water
+category:;DVD;Genres;Comedy;Farce
+category:;DVD;Actors & Actresses;( C )
+category:;DVD;Actors & Actresses;( N );Nanty, Isabelle
+category:;DVD;Actors & Actresses;( R );Reno, Jean
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Foreign Spotlight
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Art House & International
+category:;DVD;Special Features;Titles;( V )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Art House & International
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;Fantasy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;Fantasy
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;Farce
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;Slapstick
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;Farce
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;Slapstick
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:39
+review:ATVPDKIKX0DER:5
+review:A2JRC1NVHAQYGL:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A1F6K4EB6TZRJR:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:AEV3KFMJ1KYJS:5
+review:A5ONB0O7T68HL:5
+review:A3S6L0VR12PDB2:5
+review:A1NH0VVUI749W0:5
+review:A35DUJ8JIK97VQ:5
+review:ALMTVGYR6CE5H:5
+review:A3J25SRKUIMYL4:5
+review:A1VPRFPLW5ROMD:5
+review:A2UR520QZB417U:5
+review:A3EDSVY3QM0E5V:5
+review:A2WGEBIELANQMB:2
+review:A31SUC1YEGTTX2:5
+review:A2WK41VEQGDVLI:4
+review:AEV3KFMJ1KYJS:5
+review:A3RXXDCXJA1XIO:5
+review:A3ULSEGU37AR3J:5
+review:A12N6XUM5ZYLXG:5
+review:A2PUXXFIZEPQG3:5
+review:A2PUXXFIZEPQG3:5
+review:A27CFNHYZG6WS8:2
+review:A30D09D5WZJDH2:3
+review:A3KXKMIFM2VE8H:3
+review:A6ADO7B6FUVN:4
+review:A2JU9JAL5VAIRQ:5
+review:A1CV4BQ5GOBCX2:1
+review:A1A2IZ9LOO46YZ:5
+review:A3NMZ95PSSUZH8:5
+review:A1EQ64XCB46JRY:5
+review:AVJLIORVB9RJ6:2
+review:A2GX02L7RZ9TX1:4
+review:A3XHF46O8MVQK:4

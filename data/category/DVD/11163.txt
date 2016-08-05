@@ -1,0 +1,31 @@
+id:11163
+asin:B000065AYX
+title:Donnie McClurkin
+group:DVD
+salesrank:12676
+similar:5
+categories:8
+category:Music;Styles;Christian & Gospel;General
+category:Music;Styles;Christian & Gospel;Gospel
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Other Music;Christian & Gospel
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Special Interests;Religion & Spirituality;Christian DVD;Music
+reviews:15
+review:A212CK1T2VLB1G:5
+review:A2OR8DJZKT43RE:5
+review:A1L5R5Z91JQLNC:5
+review:AT6TKL4O7QFQ6:5
+review:ALP8LM4AC0L92:5
+review:AFV089PFX8L7W:5
+review:A3Q06ROGJQGGBN:5
+review:A3E2S938VJKWIM:5
+review:A1XJM81X1SUD5R:5
+review:A3AR4EIVBKB582:5
+review:A7K65MT06XGNM:5
+review:ADO5BHXABV2CT:5
+review:A1FRB8H184B1RS:5
+review:A3HTBNQC3BBW89:5
+review:A2NVS6MZOP7QX6:5

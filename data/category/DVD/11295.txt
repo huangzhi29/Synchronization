@@ -1,0 +1,30 @@
+id:11295
+asin:B00000JJHF
+title:La Separation
+group:DVD
+salesrank:34440
+similar:5
+categories:18
+category:;DVD;Genres;Art House & International;By Original Language;French
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( A );Auteuil, Daniel
+category:;DVD;Actors & Actresses;( H );Huppert, Isabelle
+category:;DVD;Actors & Actresses;( V );Viard, Karin
+category:;DVD;Directors;( V )
+category:;DVD;Genres;Art House & International;By Genre;Drama
+category:;DVD;Genres;Art House & International;By Theme;Family Interaction
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;France;Drama
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Drama;Love & Romance;Marriage
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Psychological Drama
+category:;DVD;Genres;Drama;By Theme;Domestic Violence
+category:;DVD;Genres;Drama;Love & Romance;Crumbling Marriages
+reviews:4
+review:A1MGTVNRYOGXPC:4
+review:A2X25C107CSLOR:5
+review:A2AJ980H310CFN:5
+review:A280GY5UVUS2QH:4

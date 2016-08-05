@@ -1,0 +1,78 @@
+id:12628
+asin:B000063K1U
+title:She Wore a Yellow Ribbon
+group:DVD
+salesrank:2592
+similar:5
+categories:23
+category:;DVD;Genres;Westerns;General
+category:;DVD;Genres;Westerns;Classics
+category:;DVD;Actors & Actresses;( A );Agar, John
+category:;DVD;Actors & Actresses;( D );Dru, Joanne
+category:;DVD;Actors & Actresses;( J );Johnson, Ben
+category:;DVD;Actors & Actresses;( M );McLaglen, Victor
+category:;DVD;Actors & Actresses;( N );Natwick, Mildred
+category:;DVD;Actors & Actresses;( S );Shields, Arthur
+category:;DVD;Actors & Actresses;( T );Tyler, Tom
+category:;DVD;Actors & Actresses;( W );Wayne, John
+category:;DVD;Actors & Actresses;( W );Woods, Harry
+category:;DVD;Directors;( F );Ford, John
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Westerns
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Westerns;Western Directors;John Ford
+category:;DVD;Genres;Westerns;Western Stars;Ben Johnson
+category:;DVD;Genres;Westerns;Western Stars;John Wayne
+category:;DVD;Genres;Military & War;Civil War
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $20;Westerns
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:47
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:1
+review:A3LY5TF3LOBLXZ:1
+review:A2Y3URQZB614IW:5
+review:A1YNWX0R5F9QLK:5
+review:A2A5Z3QNU5KAZ2:5
+review:A2V26ZNPRUWE2D:5
+review:A2WLZD9BY669HY:5
+review:AWNHBE0YBCHZB:5
+review:A1345VRK5MYG7:4
+review:AZ1YLZGNDS40I:5
+review:A27XVLFI8B9U0U:5
+review:A3LV9RTU8029CN:5
+review:A3UDYY6L2NH3JS:4
+review:A3C6I94IT0MZHD:5
+review:A1TR66W6SY6AK7:2
+review:A2TQTDDNR22MYM:5
+review:AD2BIAIH78QI5:5
+review:A3ED0GFRXUBYGB:2
+review:A2TIBTXEIVIWZ5:5
+review:AJ35N26OTXSIG:5
+review:AORFPMHU0V68F:5
+review:A3PDSNEBBHPH6U:5
+review:A265EPW1NCM3K5:5
+review:A30Q8X8B1S3GGT:4
+review:A1KINLEKGZN193:5
+review:A3SW79C6YSGB8W:5
+review:A25INB31V9828N:4
+review:A2GOTY2STOMEAU:5
+review:A31999RJR8MQ6A:5
+review:AKDIEY3APNBR:5
+review:A1M9DQDGE07Q0U:5
+review:A30CZJPXS05RRB:5
+review:A26JGAM6GZMM4V:4
+review:A2M8G0O2K0T2JB:5
+review:A1EBEAG4PJOIB2:5
+review:ADQ6PI9FVUM4C:5
+review:AC7MP9R2FKEAI:5
+review:A1OK1WUYW2N9G2:5
+review:A2U0WL1D6SRTO3:5
+review:A16CZRQL23NOIW:5
+review:A276YAD1NSV9LQ:5
+review:A2Q13PHEXGR48Q:5
+review:A2CW9IQAPFEYLM:4
+review:A2FTHCGH06O4Y5:2
+review:AY3AVLL5IWW9:5
+review:A3G8TTK7HAYTTY:5

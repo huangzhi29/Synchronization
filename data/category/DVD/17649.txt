@@ -1,0 +1,11 @@
+id:17649
+asin:B00006JDUU
+title:Project Arms - The Claws That Catch (Vol. 1)
+group:DVD
+salesrank:43256
+similar:5
+categories:2
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Genres;Anime & Manga;By Studio;VIZ
+reviews:1
+review:A1AR8HYZ17T5H7:5

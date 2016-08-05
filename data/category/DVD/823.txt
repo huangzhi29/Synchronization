@@ -1,0 +1,23 @@
+id:823
+asin:B00005B7D0
+title:Stalker
+group:DVD
+salesrank:56486
+similar:0
+categories:13
+category:;DVD;Genres;Art House & International;By Genre;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Actors & Actresses;( H );Howell, C Thomas
+category:;DVD;Actors & Actresses;( M );Mustain, Minor
+category:;DVD;Actors & Actresses;( S );Sarrasin, Donna
+category:;DVD;Actors & Actresses;( U );Underwood, Jay
+category:;DVD;Genres;Art House & International;By Country;Canada
+category:;DVD;Genres;Mystery & Suspense;Blackmail, Murder & Mayhem;Murder
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Mystery & Suspense;By Theme;Haunted by the Past
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:2
+review:APUMQMP9Q427V:4
+review:A3CCYAQRHUTPIQ:5

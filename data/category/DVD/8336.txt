@@ -1,0 +1,22 @@
+id:8336
+asin:B00005YUOC
+title:George Jones
+group:DVD
+salesrank:19230
+similar:5
+categories:9
+category:Music;Styles;Country;General
+category:Music;Styles;Country;Honky-Tonk
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( J );Jones, George
+category:;DVD;Genres;Music Video & Concerts;Country;General
+category:;DVD;Genres;Music Video & Concerts;Artists;Jones, George
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( G )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:5
+review:A3QA78HO93F07F:5
+review:ATVPDKIKX0DER:5
+review:AETENJ178GZB6:5
+review:A2MJ7WU0G9SCZU:5
+review:AM6SOTOKGRZGA:5

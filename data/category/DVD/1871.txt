@@ -1,0 +1,62 @@
+id:1871
+asin:B00005A8TV
+title:M. Hulot's Holiday - Criterion Collection
+group:DVD
+salesrank:8374
+similar:5
+categories:18
+category:;DVD;Genres;Art House & International;By Genre;Comedy
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Slapstick
+category:;DVD;Genres;Comedy;By Theme;Fish Out of Water
+category:;DVD;Actors & Actresses;( L );Lee, Christopher
+category:;DVD;Actors & Actresses;( P )
+category:;DVD;Actors & Actresses;( T );Tati, Jacques
+category:;DVD;Directors;( T );Tati, Jacques
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;France;Classics
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Genres;Art House & International;By Genre;Classics;General
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Comedy
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Art House & International
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Classics
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;All
+category:;DVD;Genres;Comedy;By Theme;Comedy of Manners
+category:;DVD;Genres;Comedy;By Theme;Vacations
+reviews:36
+review:ATVPDKIKX0DER:5
+review:A24B05BCJP09ZP:5
+review:A31S7A5DFHGV9E:4
+review:A2ARWIFDUJ52OL:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A1VCQVFESHP6MN:3
+review:A2KW8K3Q5PAO2F:5
+review:AYQZQ1WF7IPQD:1
+review:A1UCUF1ZF8Z4QE:5
+review:A26TSW6AI59ZCV:5
+review:A1C92W4ZT6O0GR:5
+review:AO461REE0KA4J:5
+review:A30BWARQ4EC0F2:5
+review:A1G56KHOUOFWDW:5
+review:ARDFNFDU31ZEU:5
+review:ACTNZXCCTUYRG:2
+review:A3UJ6IDO4D9KVX:2
+review:A234CRJ53L9R7U:1
+review:A2YTEEO9V9U9QF:5
+review:A2L8Z5C2K279TW:5
+review:A1QBO483BT0ZC2:5
+review:A1781J6FHG6YED:5
+review:AO461REE0KA4J:5
+review:A1EFTABYW8KN4:5
+review:A25G7WOSQ72IPG:5
+review:A39WN6QNWGKBZD:4
+review:A27M15DFUPV1CK:5
+review:AN53RAHK3JA6W:5
+review:A917UP4NA08ZY:5
+review:AZMZB6YUWIBGV:4
+review:A14SOHUCCL0606:5
+review:AI0OAQ6E2O8VF:3
+review:APP5MBH2BSX6I:5
+review:A27GZKHTN3GSE:5
+review:A2D59KBT80LZ7L:5

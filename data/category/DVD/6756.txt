@@ -1,0 +1,85 @@
+id:6756
+asin:B00004R99U
+title:Pocahontas II - Journey to a New World (Disney Gold Classic Collection)
+group:DVD
+salesrank:7781
+similar:5
+categories:21
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Specialty Stores;Disney Home Video;Animated Movies
+category:;DVD;Specialty Stores;Disney Home Video;Gold Collection
+category:;DVD;Specialty Stores;Disney Home Video;By Age;3-6 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;7-11 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;For the Whole Family
+category:;DVD;Actors & Actresses;( B );Bedard, Irene
+category:;DVD;Actors & Actresses;( B );Byram, Amick
+category:;DVD;Actors & Actresses;( G );Gibson, Donal
+category:;DVD;Actors & Actresses;( H );Hughes, Finola
+category:;DVD;Actors & Actresses;( H );Hunt, Linda
+category:;DVD;Actors & Actresses;( M );Means, Russell
+category:;DVD;Actors & Actresses;( S );Stapleton, Jean
+category:;DVD;Actors & Actresses;( S );Stiers, David Ogden
+category:;DVD;Actors & Actresses;( Z );Zane, Billy
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Genres;Kids & Family;Family Films
+reviews:56
+review:ATVPDKIKX0DER:5
+review:A2B45QC4EOE8M0:4
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:4
+review:A1E8L833IGAFZ9:1
+review:ATVPDKIKX0DER:1
+review:AQ6JN58UABXTN:4
+review:ATVPDKIKX0DER:3
+review:AHPITIQZOC12H:2
+review:ATVPDKIKX0DER:3
+review:AZLKSS92NH9K7:2
+review:A1PH5WKMM0FM2S:2
+review:A3OPZJ7CUSF9EL:5
+review:A3SN8617C618CH:5
+review:A1E4REA11S1126:4
+review:A2X27FQSHP418Y:2
+review:A3EW2L59UBHQSG:1
+review:A3VF66B2SB02C2:1
+review:A1DZKOOMMJM1MI:4
+review:A7Y6AVS576M03:5
+review:A19PSVVC17RC7X:3
+review:A2N1ZCEK156V5C:1
+review:AGDQHE72THZVT:4
+review:A2N0K4W0TPNICY:5
+review:A2OVKKP0CYA0TN:3
+review:A1R13RFLWY0PTY:5
+review:A35ZZ5XKR5V7W5:3
+review:AA5XZVANDXGJE:4
+review:A226SALQF8F3KK:1
+review:A5G49ZZVC403M:3
+review:A3TJJHMWV3SFNI:5
+review:A3H1V4HU61Z7RN:5
+review:A3UN6WX5RRO2AG:1
+review:A3UN6WX5RRO2AG:1
+review:A1C9GCHR99WX3F:5
+review:AXJTNYD3UK1BP:2
+review:AU1UGR6X0XAPP:1
+review:A36PR99BSM8KQX:1
+review:A3CF7B2U0IB8PS:1
+review:A2RQI7CVN8V6BO:2
+review:A3OAJ6MP9VDINC:1
+review:A3OAJ6MP9VDINC:1
+review:A3OAJ6MP9VDINC:1
+review:A2EU9DO5CKMSYY:1
+review:A1EEP991IE4E15:1
+review:A1HIJY67QG0DUV:1
+review:A1G6WEFXGJFQRP:5
+review:A1QC2H7ZXVA662:1
+review:ARMRWK6EPV8N4:5
+review:A1Z90AW84K4YUS:1
+review:A3DFYH7AWJVCGQ:2
+review:A31QYOK0NR2398:3
+review:A3UN6WX5RRO2AG:1
+review:A3UN6WX5RRO2AG:5
+review:A3F2CPKCI7M45U:5
+review:A1PPAFPPBM1U55:1

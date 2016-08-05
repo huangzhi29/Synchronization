@@ -1,0 +1,19 @@
+id:10081
+asin:B00005QBYU
+title:Pie in the Sky - The Brigid Berlin Story
+group:DVD
+salesrank:24198
+similar:5
+categories:6
+category:;DVD;Genres;Documentary;General
+category:;DVD;Actors & Actresses;( M );Morrissey, Paul
+category:;DVD;Actors & Actresses;( W );Warhol, Andy
+category:;DVD;Actors & Actresses;( W );Waters, John
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Genres;Documentary;Series;Docurama
+reviews:5
+review:A1UMMMLM8NHW4X:5
+review:A3VAUEC2R1F0KQ:5
+review:A2HP36R77707AO:3
+review:A3LUD0IH5R898Q:5
+review:A2HIWDD2TDXS19:5

@@ -1,0 +1,15 @@
+id:12064
+asin:B00006WV6Z
+title:Fred Hammond & Radical For Christ - Live
+group:DVD
+salesrank:21051
+similar:5
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Other Music;Christian & Gospel
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( F )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Special Interests;Religion & Spirituality;Christian DVD;Music
+reviews:1
+review:A3C2F3EOJMVNN1:5

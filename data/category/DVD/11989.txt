@@ -1,0 +1,20 @@
+id:11989
+asin:B00005AXAB
+title:Darkdrive
+group:DVD
+salesrank:58424
+similar:5
+categories:9
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Actors & Actresses;( A );Aurelius, Marcus
+category:;DVD;Actors & Actresses;( O );Olandt, Ken
+category:;DVD;Actors & Actresses;( S );Stansfield, Claire
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:3
+review:ATVPDKIKX0DER:3
+review:A17MWAB0WOWR1P:2
+review:A2NJO6YE954DBH:3

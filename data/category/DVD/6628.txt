@@ -1,0 +1,116 @@
+id:6628
+asin:B0000509C5
+title:Maximum Overdrive
+group:DVD
+salesrank:21411
+similar:5
+categories:17
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Actors & Actresses;( E );Esposito, Giancarlo
+category:;DVD;Actors & Actresses;( E );Estevez, Emilio
+category:;DVD;Actors & Actresses;( F );Faison, Frankie
+category:;DVD;Actors & Actresses;( F );Ferguson, J Don
+category:;DVD;Actors & Actresses;( H );Harrington, Laura
+category:;DVD;Actors & Actresses;( H );Hingle, Pat
+category:;DVD;Actors & Actresses;( K );King, Stephen
+category:;DVD;Actors & Actresses;( M );Murney, Christopher
+category:;DVD;Actors & Actresses;( R );Rippy, Leon
+category:;DVD;Actors & Actresses;( S );Smith, Yeardley
+category:;DVD;Directors;( K )
+category:;DVD;Genres;Horror;Horror Masters;Stephen King
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:91
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:2
+review:A2TX4KMES7VW4K:5
+review:A2TRGO042KSX9H:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:1
+review:A2V49YJ3P6I71Q:2
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:A2S8JFZ37XJSS3:5
+review:ATVPDKIKX0DER:5
+review:A3FB9503PQGV9K:5
+review:A1TF07GHSZB8B6:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:A2Q64VHTXU3ILG:1
+review:A2WGXFAAXM5ETG:5
+review:A11RMQPE98H1BM:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A3KXFQQFBPJTQE:5
+review:A2LWFZF8OC3ONC:4
+review:A1L0ICGQDEOZ3X:3
+review:A1H0VW05ZMQ43Q:4
+review:A3IPJ4VNR4RGYJ:5
+review:AP9ACFIBF0J47:4
+review:A25W89S4HGTTC9:4
+review:A2URCX943OXEI9:4
+review:A3OI841P5R6FCH:1
+review:A1TUZFBIN9EYCS:2
+review:A1TUZFBIN9EYCS:2
+review:A2ZF78RQCO57FU:2
+review:A3710JYFVQ0XM6:5
+review:A3AY3EV2MFRFGG:5
+review:A2QRH3HU4GO2YC:5
+review:A39C7SEMCJWVOI:5
+review:A37ZGSRS238GMA:5
+review:A1OX368SPU79KG:4
+review:A3IYL6LXHE8ZZ9:3
+review:APGOLI7AGLGG6:5
+review:A3UZDHRZO9FTG3:5
+review:A21OBIRJ0D2UKJ:1
+review:A31ABD2G22AA18:5
+review:A264XZUXLFMZ8B:4
+review:A39NV1YAQEJX3N:3
+review:A1YGNMA5N7UM55:1
+review:ALX68I9STZAH7:5
+review:ALX68I9STZAH7:5
+review:A1NV8HZTGKIPXQ:1
+review:A19UC4C8O6X4TN:3
+review:AEARAKXQ1W7FE:5
+review:A1I4AQ5P9429QH:4
+review:A2RNTG686ZATNP:1
+review:ADFUGKYCWFDQJ:3
+review:A7PBI5HADJYER:1
+review:AUPTRPQY4ZKG8:5
+review:A3O7YFV7VFHO8Q:5
+review:A319SKSB556033:1
+review:A2FI2F1T8EZWEF:3
+review:A3QAV7LALVG1F7:4
+review:A1CZICCYP2M5PX:4
+review:A2EAI4948TW53X:4
+review:A116JZEFSU5O2W:4
+review:A2M7BMDU8BPXYN:1
+review:A2OX54FZ4BHA37:4
+review:A30Y7DKPOM01DX:4
+review:A2GANR9I6XHTU9:1
+review:A1XXBVRRNGBG5Y:5
+review:AZBYHCBLASWY9:5
+review:A1SI6H117Q5DU6:4
+review:ABHTIZPK2F7RP:5
+review:A2B3CFT8HJ1JB5:4
+review:A38ZCGX5970J1M:2
+review:ANAYSRE3LX8GZ:3
+review:A1P6NRWDD1NT4B:1
+review:A2S166WSCFIFP5:4
+review:A6J5Q71Q9TD4O:5
+review:A1JUYF5D6TFFHB:3
+review:A12IDQSS4OW33B:4
+review:A3QJ95S5ZDKYGU:5
+review:A3S98L5B1SR9P1:5
+review:A239PIPI32FKNF:1
+review:A2TAPSNKK9AFSQ:5

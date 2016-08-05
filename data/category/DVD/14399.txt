@@ -1,0 +1,38 @@
+id:14399
+asin:B00006FDAI
+title:The Land Before Time - Journey to Big Water
+group:DVD
+salesrank:16458
+similar:5
+categories:15
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;Dinosaurs
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Actors & Actresses;( F );Flynn, Miriam
+category:;DVD;Actors & Actresses;( I );Ingle, John
+category:;DVD;Actors & Actresses;( M );Mars, Kenneth
+category:;DVD;Directors;( G );Grosvenor, Charles
+category:;DVD;Genres;Kids & Family;Characters & Series;Land Before Time
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( L )
+category:;DVD;Genres;Kids & Family;By Theme;Heroic Missions
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Kids & Family;Fantasy
+reviews:15
+review:A3OVWQ38UBKLLU:1
+review:ABXAIGU3HN8XQ:5
+review:ABXAIGU3HN8XQ:5
+review:A3597T92YNMDJ6:5
+review:A1HCL545YWXM1S:4
+review:A14PHYFHMT9HXQ:2
+review:AXJTNYD3UK1BP:5
+review:A1ZPX8C4SZLL8O:1
+review:A3KOOLO7YFNAPA:1
+review:A8BTDALQ6KYC5:5
+review:A2OQJIUZAO3IJ0:3
+review:A26KNPPFPBBYGW:5
+review:A3UN6WX5RRO2AG:3
+review:A3UN6WX5RRO2AG:3
+review:A3UN6WX5RRO2AG:1

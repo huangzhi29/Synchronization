@@ -1,0 +1,59 @@
+id:9747
+asin:B00003CXF4
+title:East-West
+group:DVD
+salesrank:20744
+similar:5
+categories:20
+category:;DVD;Genres;Art House & International;By Original Language;French
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Political Drama
+category:;DVD;Genres;Art House & International;By Country;Russia
+category:;DVD;Genres;Drama;By Theme;Melodrama
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( B );Bonnaire, Sandrine
+category:;DVD;Actors & Actresses;( D );Deneuve, Catherine
+category:;DVD;Genres;Art House & International;By Genre;Drama
+category:;DVD;Genres;Art House & International;By Theme;Family Interaction
+category:;DVD;Genres;Art House & International;By Theme;Melodrama
+category:;DVD;Genres;Art House & International;By Theme;Politics
+category:;DVD;Genres;Art House & International;By Theme;Period Piece
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;France;Drama
+category:;DVD;Genres;Drama;Love & Romance;Marriage
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( E )
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;Sony Pictures Classics
+reviews:31
+review:A1X9AB7EGU0LUA:5
+review:A31ZSZNPSU8T46:5
+review:A2Z8SIZVKESSJC:5
+review:A2HHS332RKRF5L:5
+review:APQA55PXFXWWV:2
+review:A39BV7C42RKZ85:5
+review:A16YB92FTBQJKT:5
+review:APCEHU6O5L0FC:5
+review:A1LBBULBEREVEF:4
+review:A20A1RL7J10Y1Y:5
+review:A2KAVOGWK3BRB7:4
+review:A2DSXA1E02C86D:5
+review:A2ASNGDJF23JSO:5
+review:A15J8W83DDY8KS:5
+review:A3EDSVY3QM0E5V:5
+review:A13DQTXG02HZC1:4
+review:AQ8DU6XVA3USJ:5
+review:ABO2ZI2Y5DQ9T:4
+review:AX52VAM2ZPQ49:4
+review:A20Y9ATB0HAOMR:5
+review:A1U1X1SBP4A0WJ:4
+review:A17FLA8HQOFVIG:5
+review:A2QHM5HBSIXRL4:5
+review:A35Y2PLP5QXFOV:1
+review:A2RG3C217M88VH:5
+review:A145221D4IA2XT:4
+review:A186O1VIE0N1CC:5
+review:A1A535W556ROBQ:3
+review:A1S26AK5E3VMIB:5
+review:A2D1D8AE3KTUQ3:5
+review:A2SCXG7QQA8K2H:4

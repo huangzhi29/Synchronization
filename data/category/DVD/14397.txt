@@ -1,0 +1,51 @@
+id:14397
+asin:B00006FDAK
+title:8 Heads in a Duffel Bag
+group:DVD
+salesrank:23316
+similar:5
+categories:21
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Nothing Goes Right
+category:;DVD;Genres;Comedy;By Theme;Comedy of Errors
+category:;DVD;Genres;Comedy;Comic Criminals
+category:;DVD;Actors & Actresses;( B );Basile, Joe
+category:;DVD;Actors & Actresses;( C );Cannon, Dyan
+category:;DVD;Actors & Actresses;( H );Hamilton, George
+category:;DVD;Actors & Actresses;( L );Levels, Calvin
+category:;DVD;Actors & Actresses;( P );Pesci, Joe
+category:;DVD;Actors & Actresses;( S );Spade, David
+category:;DVD;Actors & Actresses;( S );Swanson, Kristy
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Comedy;Black Comedy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;Black Comedy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;Black Comedy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;Comedy Stars;David Spade
+reviews:22
+review:AY20JU5ZIZQ2O:3
+review:ATVPDKIKX0DER:5
+review:A1XZNSQBFYNG27:1
+review:A1P2CO9KOP6TLA:5
+review:ATVPDKIKX0DER:4
+review:A3QD5LPIUQXIDP:4
+review:A34SRKK7ZG8B3J:4
+review:A3JLCYLQ4Q0X9O:4
+review:A20EEWWSFMZ1PN:5
+review:A2DQAK115I0NLT:4
+review:A2DMX249KE2BU0:1
+review:A1CHAK8NMD236F:2
+review:A1FS27RN0V551E:4
+review:A33665ZVC0HUFP:5
+review:A2MZ433E9LE90O:4
+review:A2F3HLHRHQMR6O:2
+review:A6ADO7B6FUVN:2
+review:AJSK0W7KQ19G1:3
+review:A2N03TUL3EZZDD:5
+review:A2S166WSCFIFP5:2
+review:A1G5LJ8T1IGYC5:4
+review:A2OLJM7IREKPWZ:5

@@ -1,0 +1,28 @@
+id:13928
+asin:B00006SFJ8
+title:The Stranger
+group:DVD
+salesrank:11208
+similar:5
+categories:13
+category:;DVD;Genres;Mystery & Suspense;Film Noir
+category:;DVD;Genres;Mystery & Suspense;Mystery
+category:;DVD;Actors & Actresses;( W );Welles, Orson
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;Classics
+category:;DVD;Genres;Mystery & Suspense;By Theme;Haunted by the Past
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:7
+review:AY2Z7Z2UDUUIW:2
+review:AK61LQI92GTCH:4
+review:A16CZRQL23NOIW:5
+review:A3MV1KKHX51FYT:4
+review:A12IQ99MWM9YQ8:5
+review:ATQTE464YAZM1:4
+review:A2UCOSEHTW6I0H:3

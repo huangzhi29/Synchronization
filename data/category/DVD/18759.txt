@@ -1,0 +1,23 @@
+id:18759
+asin:6305609640
+title:The Tom Cruise Action Pack (Top Gun/Days of Thunder/Mission Impossible)
+group:DVD
+salesrank:44135
+similar:5
+categories:9
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( C );Cruise, Tom
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Formats;Boxed Sets;Action & Adventure
+category:;DVD;Genres;Action & Adventure;Action Stars;Tom Cruise
+category:;DVD;Genres;Action & Adventure;Action Stars;Kirk Douglas
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Action & Adventure
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Boxed Sets
+reviews:6
+review:AK2AQIULQDFS5:5
+review:A1ZQF8VR72YFYC:5
+review:AIJ3QT934H9RH:5
+review:A1ZCJ1CYVA9PX5:5
+review:AVOEB2GGZL2N:5
+review:A2TSNKXQGBMVAQ:5

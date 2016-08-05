@@ -1,0 +1,27 @@
+id:11810
+asin:1573307211
+title:The Rainbow Fish and Dazzle the Dinosaur
+group:DVD
+salesrank:38313
+similar:5
+categories:8
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;Dinosaurs
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( R )
+category:;DVD;Genres;Kids & Family;Characters & Series;Rainbow Fish
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:11
+review:AQZYG2WY285A3:5
+review:A1M9JR0U538ANJ:5
+review:A1ZC1SXXYZSN4R:5
+review:A2VWI90LYIF581:3
+review:AQW1HLL4ZYK9N:4
+review:A1S71969FBTNQ7:2
+review:A1ICX95G0J7STA:4
+review:AAPP2Q45HUC43:2
+review:A1UAPUX2Z03SKB:5
+review:A24D8V13P6JRBN:5
+review:A19E358DPUKOLS:5

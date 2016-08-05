@@ -1,0 +1,17 @@
+id:7257
+asin:B00007M5HM
+title:Can She Bake a Cherry Pie?
+group:DVD
+salesrank:51500
+similar:0
+categories:9
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( B );Black, Karen
+category:;DVD;Actors & Actresses;( E );Emil, Michael
+category:;DVD;Actors & Actresses;( F );Fisher, Frances
+category:;DVD;Actors & Actresses;( K );Kane, Carol
+category:;DVD;Actors & Actresses;( W );Williams, Paul
+category:;DVD;Directors;( J );Jaglom, Henry
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( C )
+reviews:0

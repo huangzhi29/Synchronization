@@ -1,0 +1,16 @@
+id:15564
+asin:B000062XFY
+title:Skyline Cruisers - Special Edition
+group:DVD
+salesrank:23446
+similar:5
+categories:6
+category:;DVD;Actors & Actresses;( C );Chan, Jordan
+category:;DVD;Actors & Actresses;( L );Lai, Leon
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Special Features;Fully Loaded DVDs;Special Editions
+reviews:2
+review:A1C6WXCQPH5TL1:5
+review:ABO2ZI2Y5DQ9T:2

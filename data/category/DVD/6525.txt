@@ -1,0 +1,15 @@
+id:6525
+asin:B000067G15
+title:Major League Baseball - Rising Sons
+group:DVD
+salesrank:34273
+similar:5
+categories:5
+category:;DVD;Genres;Sports;General
+category:;DVD;Genres;Sports;Baseball
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:2
+review:AVC5ZZXMM4YYH:4
+review:A3OUXVO0O5SHDA:1

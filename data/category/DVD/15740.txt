@@ -1,0 +1,21 @@
+id:15740
+asin:B00005B34O
+title:Jeff Barry & Friends - Chapel of Love
+group:DVD
+salesrank:34823
+similar:1
+categories:8
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( J )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:5
+review:A1FJ7FKYD7KFFW:5
+review:A2LJAHUVIOVRFS:4
+review:A1VBCZAULD6TWE:5
+review:AXMKAXC0TR9AW:4
+review:A2V9I5O33XZTO:3

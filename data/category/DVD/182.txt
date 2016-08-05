@@ -1,0 +1,37 @@
+id:182
+asin:B00000IC8L
+title:W.C. Fields, Vol. 1 & 2
+group:DVD
+salesrank:36972
+similar:5
+categories:14
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( F );Fields, W.C.
+category:;DVD;Actors & Actresses;( Y );Yaconelli, Frank
+category:;DVD;Directors;( R );Ripley, Arthur
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( W )
+category:;DVD;Formats;Boxed Sets;Comedy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Formats;Boxed Sets;Classics
+reviews:15
+review:A2SR37OYFOB5C7:1
+review:AYR01NP1LAY1I:1
+review:AC96OOATCXSIR:1
+review:ATVPDKIKX0DER:1
+review:A2O36MVJBTTX7:1
+review:A375OT7C8ZJCNU:1
+review:A375OT7C8ZJCNU:1
+review:AOUVCY8QPJLR1:3
+review:A34XGN6Q0E7IX5:5
+review:A5DYTKIFTO8KQ:1
+review:A2QC555G2AMLFU:2
+review:A2YQ2BJEVSLOMZ:1
+review:AQDTEJS8YD219:1
+review:A2PAKB0NYQLCSG:1
+review:A1DJK8RV3PZKN5:1

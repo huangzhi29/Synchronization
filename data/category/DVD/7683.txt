@@ -1,0 +1,51 @@
+id:7683
+asin:B00006BS7O
+title:Leslie Sansone - Miracle Mile
+group:DVD
+salesrank:35510
+similar:5
+categories:12
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Actors & Actresses;( S );Sansone, Leslie
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Fitness & Yoga
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Fitness & Yoga
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Fitness & Yoga;By Instructor;Leslie Sansone
+category:;DVD;Genres;Fitness & Yoga;Walking
+category:;DVD;Genres;Fitness & Yoga;General
+reviews:31
+review:A3BGRUK533UD75:5
+review:ATVPDKIKX0DER:5
+review:A1LB1PY8LM7DIJ:5
+review:AY55R37A4ZOMG:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A3BMDKJPGL8ZJW:5
+review:A14BPP2IOB37M7:5
+review:A2CN4HM6RVJ112:5
+review:AYF5Y9RT6M0CF:5
+review:A1633EC7XHRCCU:5
+review:A378WCUBI0Y0AT:5
+review:A1P4F6HIXU6WYE:5
+review:A362LZPW07QDZM:5
+review:AZGH1KUCN7DOZ:5
+review:A22HGJT7QOWTKN:5
+review:A22C9CBCDO83N0:5
+review:AVNUY36R6VC9B:4
+review:A2Z45E8KXCWVFE:5
+review:AOJA09U83116P:4
+review:A3B3N58YIHXI1X:5
+review:A3B3N58YIHXI1X:5
+review:AVYW2RB1N62P1:5
+review:AM3JGI7Y67L1U:5
+review:A3E77ZKKF1LXSB:5
+review:A16AISSDIVJ5T2:5
+review:ADOZGFFXSGSLI:5
+review:A7C99HZBGI5ZX:5
+review:A1W6WBVI9DIUEF:5
+review:A2DA5Q8K74POBV:5
+review:A3FEX2RN3Q5XT4:4

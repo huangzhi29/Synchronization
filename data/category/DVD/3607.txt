@@ -1,0 +1,12 @@
+id:3607
+asin:B00005TSPK
+title:Last Call at Maud's
+group:DVD
+salesrank:13113
+similar:2
+categories:3
+category:;DVD;Genres;Drama;General
+category:;DVD;Directors;( P )
+category:;DVD;Special Features;Titles;( L )
+reviews:1
+review:A23Q1LWYQSMATN:4

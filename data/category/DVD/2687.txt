@@ -1,0 +1,21 @@
+id:2687
+asin:B00006JMSO
+title:Batman - The Animated Series - The Legend Begins/Justice League
+group:DVD
+salesrank:42285
+similar:5
+categories:13
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Actors & Actresses;( C );Conroy, Kevin
+category:;DVD;Actors & Actresses;( H );Hastings, Bob
+category:;DVD;Directors;( R );Radomski, Eric
+category:;DVD;Genres;Action & Adventure;Superheroes;Batman
+category:;DVD;Genres;Action & Adventure;Superheroes;Animated
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Kids & Family
+category:;DVD;Genres;Action & Adventure;Superheroes;Justice League
+reviews:0

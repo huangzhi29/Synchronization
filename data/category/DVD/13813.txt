@@ -1,0 +1,72 @@
+id:13813
+asin:0792838424
+title:Runaway Train
+group:DVD
+salesrank:8094
+similar:5
+categories:18
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Thrillers
+category:;DVD;Genres;Action & Adventure;By Theme;Escape Films
+category:;DVD;Actors & Actresses;( M );McMillan, Kenneth
+category:;DVD;Actors & Actresses;( D );DeMornay, Rebecca
+category:;DVD;Actors & Actresses;( R );Roberts, Eric
+category:;DVD;Actors & Actresses;( R );Ryan, John P
+category:;DVD;Actors & Actresses;( V );Voight, Jon
+category:;DVD;Directors;( K );Konchalovsky, Andrei
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;MGM DVDs Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( R )
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;All MGM Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:46
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2JS2OU5SBH1XQ:4
+review:A2VLM3Z7KYN98P:5
+review:A1KLJ37204ICWO:5
+review:AEO6MRV9LQ28S:5
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:AROTQNRZ51CUU:5
+review:ATVPDKIKX0DER:5
+review:A53LE13K1AONQ:4
+review:A10E33A7FCV0Q7:5
+review:A2YAZ2QYWNCK6Q:4
+review:AM00E4H2IGKTP:5
+review:AKCF45Z2DV6TN:5
+review:A3R2YB0WTTB0IJ:4
+review:A36MYMGM820FCX:5
+review:A1DOYVFA12C0KJ:2
+review:A1BRXLFWILNICE:5
+review:AI5A1BSRLOYJ5:5
+review:A3GBZVHOE3LLR2:5
+review:A4ANCEUA6PFCD:5
+review:A2YM2NM7YZA24Q:5
+review:A2A3XV2R7CQMBV:5
+review:A3UN6WX5RRO2AG:5
+review:A2C6TR2TC07I9O:5
+review:A2D0TCCBW2ILZK:5
+review:A2MOJN3DTLV28I:5
+review:ACMKHP9DGTNDO:4
+review:A3CDJ2DVD5MZ3C:5
+review:A1VISZTB8WMW8G:5
+review:A2Z0N6DY6IA3ET:5
+review:A2Z1K2I2EYSKFA:4
+review:A3ICCTSCBT7GS9:5
+review:A1631PDU0WGN4W:5
+review:A3VHV0NV7NKQPC:5
+review:ACMAUJEBY6GJF:5
+review:A2T049UQONS0OY:5
+review:AH1M9A3JTV7C3:5
+review:A19KOWNR6FYKGD:5
+review:A3F4BMPGOQL0U7:5
+review:A2TAPSNKK9AFSQ:5
+review:A1PY9RTSAL38I1:5
+review:AVF60NZ99H9D5:4
+review:A2QWXHB5IU8LCU:5

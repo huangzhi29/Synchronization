@@ -1,0 +1,37 @@
+id:7520
+asin:B00000JWVY
+title:Judge and Jury
+group:DVD
+salesrank:57262
+similar:0
+categories:28
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Monsters
+category:;DVD;Genres;Horror;Things That Go Bump;Occult
+category:;DVD;Actors & Actresses;( J );Johnson, Laura
+category:;DVD;Actors & Actresses;( K );Keith, David
+category:;DVD;Actors & Actresses;( K );Koslo, Paul
+category:;DVD;Actors & Actresses;( K );Kove, Martin
+category:;DVD;Actors & Actresses;( M );Minor, Bob
+category:;DVD;Actors & Actresses;( M );Miranda, Robert
+category:;DVD;Actors & Actresses;( N );Nicholas, Thomas Ian
+category:;DVD;Directors;( E );Eyres, John
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( J )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Occult
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Zombies
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Monsters
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Occult
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Zombies
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Monsters
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:1
+review:A8T21IR0E5JJI:1

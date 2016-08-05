@@ -1,0 +1,68 @@
+id:19542
+asin:6305906947
+title:Onegin
+group:DVD
+salesrank:5084
+similar:5
+categories:22
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( A );Annis, Francesca
+category:;DVD;Actors & Actresses;( A );Armstrong, Alun
+category:;DVD;Actors & Actresses;( F );Fiennes, Ralph
+category:;DVD;Actors & Actresses;( H );Headey, Lena
+category:;DVD;Actors & Actresses;( M );McMullan, Tim
+category:;DVD;Actors & Actresses;( S );Stephens, Toby
+category:;DVD;Actors & Actresses;( T );Tyler, Liv
+category:;DVD;Actors & Actresses;( W );Walter, Harriet
+category:;DVD;Actors & Actresses;( W );Worth, Irene
+category:;DVD;Genres;Art House & International;By Theme;Period Piece
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( O )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;Drama
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;Love & Romance;Love Triangle
+category:;DVD;Genres;Drama;Love & Romance;Star-Crossed Lovers
+category:;DVD;Genres;Drama;Love & Romance;Unrequited Love
+reviews:38
+review:AX47LZZ2GM793:4
+review:A10ZE8HITPZ503:4
+review:A1NAWGEG1F90MV:3
+review:A1JBPRTOJRE2SC:3
+review:A2E74ON00W72K5:5
+review:AF2C6KZQHSM4Q:5
+review:A2CVVCODXDVJO6:4
+review:A3CWH6VKCTJAD:5
+review:A19ZXK9HHVRV1X:4
+review:A1MNRQCTURUNLF:3
+review:AG9GJP91I5OT1:4
+review:A2MLA4FHL5K325:5
+review:A3REVVKKIF4JGH:5
+review:AW3VZ5O895LRK:5
+review:A9YRLPX6IJ0Y4:1
+review:A1LOHYDVB02NBO:1
+review:A23WCH25FCLW0B:5
+review:A1OBU0FTRIJQ3F:5
+review:A3Q77CS1DEQLMG:5
+review:A3MPV6UPZ3LLAM:2
+review:A4WFFBACJ4XZS:2
+review:A19241FS0CJ316:4
+review:A31UE0LJBKCHUA:5
+review:A8EBWQZIDKF78:5
+review:A3VQLTB724O77W:3
+review:A1D2C0WDCSHUWZ:5
+review:A1THJ5GJF9NLCS:5
+review:A1ASKDV8O7FMT6:5
+review:A2CMYX10636NG2:5
+review:AB34G6VKP28L:5
+review:A1L8HRCM60W0W7:3
+review:A1A535W556ROBQ:2
+review:A2U7KFAI92MYJQ:3
+review:A2WMPYQA0VDO3H:4
+review:A2GVTRGZNGWH7T:5
+review:A3O0Q743WSQ2AJ:5
+review:A1QJIQ1ZCNXOK5:5
+review:A17FLA8HQOFVIG:3

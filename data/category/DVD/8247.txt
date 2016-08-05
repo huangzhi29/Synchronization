@@ -1,0 +1,10 @@
+id:8247
+asin:B00005YUO8
+title:Intimate Loving 4-Pack
+group:DVD
+salesrank:45240
+similar:5
+categories:2
+category:;DVD;Genres;Special Interests;Health;Sexuality
+category:;DVD;Special Features;Titles;( I )
+reviews:0

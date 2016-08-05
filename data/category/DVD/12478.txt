@@ -1,0 +1,122 @@
+id:12478
+asin:B00002JWZX
+title:The Apostle
+group:DVD
+salesrank:43359
+similar:5
+categories:22
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( A );Allen, Todd
+category:;DVD;Actors & Actresses;( B );Banks, Lenore
+category:;DVD;Actors & Actresses;( B );Beasley, John
+category:;DVD;Actors & Actresses;( B );Braxton, Mary Lynette
+category:;DVD;Actors & Actresses;( B );Brock, Brett
+category:;DVD;Actors & Actresses;( C );Canady, Christian
+category:;DVD;Actors & Actresses;( C );Canady, Christopher
+category:;DVD;Actors & Actresses;( C );Cash, June Carter
+category:;DVD;Actors & Actresses;( C );Chisolm, Elizabeth
+category:;DVD;Actors & Actresses;( C );Cole, William Atlas
+category:;DVD;Actors & Actresses;( C );Craig, Naomi
+category:;DVD;Actors & Actresses;( D );DeHart, Wayne
+category:;DVD;Actors & Actresses;( D );Dial, Rick
+category:;DVD;Actors & Actresses;( D );Duvall, Robert
+category:;DVD;Actors & Actresses;( F );Fawcett, Farrah
+category:;DVD;Actors & Actresses;( R );Richardson, Miranda
+category:;DVD;Actors & Actresses;( T );Thornton, Billy Bob
+category:;DVD;Directors;( D );Duvall, Robert
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:92
+review:A3T2HQEKVF3PK2:5
+review:A1QVFHPY8418HC:5
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:4
+review:A2XOH8MG9ZP39L:1
+review:A1KGDH8UDT3KM5:5
+review:ATVPDKIKX0DER:5
+review:A25TMZQJ2MCUF2:1
+review:A3ATVZLR2PCFBV:5
+review:ATVPDKIKX0DER:3
+review:A3UI3WINTC0KT6:5
+review:A3EICS7MW1DED2:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:ANQ5LUP5C788F:5
+review:ATVPDKIKX0DER:5
+review:A2313I2AGEEYTL:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A2E87RAEGTJQIX:5
+review:AKMXCZXE0KD5H:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2M0XBNW83XYWR:5
+review:A1YH8ZATJBQTQ8:5
+review:A26NWDN0M252AQ:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A312H8XUDCC225:5
+review:A3TKZ8GUQB7ZHF:5
+review:ATVPDKIKX0DER:5
+review:A1VMEBPPFUU0J7:5
+review:ATVPDKIKX0DER:5
+review:AZYJ9TS07B02W:3
+review:AXVUFQXT9YK4R:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:AQWPE3JLI7C1N:4
+review:A3AVFTZZDUJC9N:4
+review:A2AG4RBNI87Q3P:5
+review:A2R8AJ2UYOV2JW:5
+review:A2QKKFP4U633WJ:5
+review:A31GWACAONTYFW:4
+review:A1Q0UFY6YKH3V:5
+review:ASMR6KD49M29I:3
+review:ANXYD5XVFVDCW:5
+review:A151TBPTFHOS3E:5
+review:A1X2NJSZ6XWA6G:5
+review:AI3PFAMR6RCL8:3
+review:A2Q6P6ASEL5NIZ:5
+review:A7NBCYVPM10U7:3
+review:A2QCUW1III4EWI:5
+review:A2QRB6L1MCJ53G:5
+review:A13H6DCGP4N5VC:5
+review:AQ6USUVSUGGX3:5
+review:AHKOPVTQ3IEBL:5
+review:A155KXFRZCA7C:5
+review:A3IPPKNDNB9BJ6:4
+review:A2AP1BN2BKVRUR:1
+review:A3IB1W0SVED0Z3:5
+review:A2C9DE8BJSKX0:4
+review:A2LQKZUB4GTXGV:2
+review:A3GJT5AACJ35YN:5
+review:A21XZ396MM2Y17:5
+review:A2NRJPY8LPHYJL:3
+review:ARYTGZ2LRAFGZ:5
+review:A3QVAKVRAH657N:5
+review:A3IB1W0SVED0Z3:5
+review:A17FLA8HQOFVIG:5
+review:A1CZICCYP2M5PX:5
+review:A96K1ZGW56S2I:5
+review:A3RM9S2DCDMRNZ:5
+review:A1FAKZ848PO3V8:4
+review:A152C8GYY25HAH:4
+review:A3K5I0NLLQZX0R:5
+review:A2Z9XBCYT3AHHU:4
+review:AHUT55E980RDR:4
+review:A1CROFPEPYNIZK:5
+review:A3KUUII2GSHN7T:5
+review:A2YM0JQI2IO0VS:5
+review:ALS8ZTRFM4GW7:1
+review:A1Y8CN3NM258ZU:1
+review:A1IMISKLCYFZC6:5
+review:A28Z9VFE69AHXB:5
+review:A1XJOSJN6FHFO0:5
+review:AXUU7NO3DTSHA:5
+review:A3ODGAW5Z2EJ1M:5
+review:APDPA11IZPYLN:5
+review:A1OBM38R2NOIR7:5
+review:A12CGGH53HHBC:5
+review:A1KAR9G699RM56:3
+review:A1GQQFTPA23Z1O:5

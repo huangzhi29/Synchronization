@@ -1,0 +1,27 @@
+id:4884
+asin:630587073X
+title:Something Weird
+group:DVD
+salesrank:43288
+similar:5
+categories:13
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Ghosts
+category:;DVD;Genres;Horror;Things That Go Bump;Monsters
+category:;DVD;Genres;Horror;Classic Horror & Monsters;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Monsters
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Monsters
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:6
+review:A112FAUJKVKCYQ:2
+review:AW2JMPR8R39XK:3
+review:A2ECCKXCTFTZQH:1
+review:A1SZZ3VRIANHCD:2
+review:ADAWLUDA0IZHI:4
+review:AW1ARXYCBIVY4:5

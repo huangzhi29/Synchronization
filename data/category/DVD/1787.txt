@@ -1,0 +1,15 @@
+id:1787
+asin:6305972869
+title:Business is Business
+group:DVD
+salesrank:16410
+similar:5
+categories:5
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Art House & International;By Original Language;Dutch
+category:;DVD;Genres;Art House & International;By Country;Netherlands
+category:;DVD;Directors;( V );Verhoeven, Paul
+category:;DVD;Special Features;Titles;( B )
+reviews:2
+review:A1N0LCPR7O7OLL:5
+review:A29HWR69X3S1N9:5

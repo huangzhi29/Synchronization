@@ -1,0 +1,88 @@
+id:17421
+asin:6305428522
+title:Quiz Show
+group:DVD
+salesrank:17104
+similar:5
+categories:31
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;True Story
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( A );Azaria, Hank
+category:;DVD;Actors & Actresses;( B );Busfield, Timothy
+category:;DVD;Actors & Actresses;( D );Dunne, Griffin
+category:;DVD;Actors & Actresses;( F );Fiennes, Ralph
+category:;DVD;Actors & Actresses;( G );Gilpin, Jack
+category:;DVD;Actors & Actresses;( M );Mantell, Michael
+category:;DVD;Actors & Actresses;( M );McDonald, Christopher
+category:;DVD;Actors & Actresses;( M );Morrow, Rob
+category:;DVD;Actors & Actresses;( P );Paymer, David
+category:;DVD;Actors & Actresses;( R );Rich, Allan
+category:;DVD;Actors & Actresses;( S );Scofield, Paul
+category:;DVD;Actors & Actresses;( S );Sorvino, Mira
+category:;DVD;Actors & Actresses;( T );Turturro, John
+category:;DVD;Actors & Actresses;( W );Wilson, Elizabeth
+category:;DVD;Directors;( R );Redford, Robert
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( Q )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Drama;By Theme;Class Differences
+category:;DVD;Genres;Drama;Family Life;Fathers & Sons
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Docudrama
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Period Piece
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Docudrama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Period Piece
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:49
+review:A21QLACUZJUXV5:5
+review:A1A7VEAJ2SGR9P:5
+review:A20PE12FQYK8KZ:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2UOY8UC1GWGK4:5
+review:ATVPDKIKX0DER:5
+review:ATS2855497V0I:4
+review:A2PPUITR9MBY01:5
+review:A48QK92X021VX:5
+review:A10Y596I3SL84S:5
+review:A3K2Z5QP1GYUTE:5
+review:A2ELNC5ZW7D1P3:5
+review:AWJUPCUTCXLXF:5
+review:A2KCWRGKPRVOXJ:5
+review:AKN90JSRUN4DL:5
+review:A1GN8UJIZLCA59:5
+review:A3S1YIQQW7AZO:5
+review:AYPCUQS6ARWFH:5
+review:A3GGBSW6IFB7Z5:5
+review:A3ORLBTNDUOPJ3:5
+review:A2YRDIRL316QJL:4
+review:A2Z9XBCYT3AHHU:5
+review:ATHS8GIFYL77M:5
+review:A1VOP2AY3VDAVW:5
+review:A1TK6R2JSC97HL:3
+review:A34C5ZVS1MXRQ6:5
+review:AI3PFAMR6RCL8:3
+review:A3L1RFRDUDMT9N:2
+review:A16QODENBJVUI1:5
+review:A2IG2FG7L85RMU:5
+review:A2TGFURT008O0A:5
+review:A3KF4IP2MUS8QQ:5
+review:A3H7HJ8O42U70Z:3
+review:A9FZ1DTGQSO0H:4
+review:AL5OEDM8TPTKV:5
+review:A2VE83MZF98ITY:5
+review:A2QA095LQPDBJD:5
+review:A31EZZ14E0IIME:4
+review:A3FBGVX8HFXOM6:5
+review:A3FBGVX8HFXOM6:5
+review:A17FLA8HQOFVIG:5
+review:A2NJO6YE954DBH:5
+review:A3D6TFYRMIV3ZL:5
+review:A32S2R5S1Z4TSE:5
+review:A27DP8XOIYJO0Q:4
+review:A8945SJIGJQ5X:5
+review:A1IBMUD9XXD68X:5

@@ -1,0 +1,41 @@
+id:176
+asin:B00000IC8Z
+title:Avengers '67 - Set 1, Vols. 1 & 2
+group:DVD
+salesrank:15428
+similar:5
+categories:18
+category:;DVD;Genres;Television;TV Series;Avengers
+category:;DVD;Genres;Television;A&E Home Video;All A&E Titles
+category:;DVD;Genres;Television;General
+category:;DVD;Directors;( D );Day, Robert
+category:;DVD;Directors;( F );Flemyng, Gordon
+category:;DVD;Directors;( F );Fuest, Robert
+category:;DVD;Directors;( H );Hammond, Peter
+category:;DVD;Directors;( H );Hayers, Sidney
+category:;DVD;Directors;( H );Hill, James
+category:;DVD;Directors;( O );Ohara, Gerry
+category:;DVD;Directors;( S );Sharp, Don
+category:;DVD;Directors;( S );Sykes, Peter
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Genres;Television;A&E Home Video;British Cult Television;General
+category:;DVD;Genres;Television;Classic TV
+category:;DVD;Formats;Boxed Sets;Classics
+category:;DVD;Genres;Television;By Decade;1950s-'60s;General
+reviews:15
+review:ATVPDKIKX0DER:3
+review:A1MD4HVSMEQ4O8:5
+review:A8Q7TQR7X9BM3:5
+review:ATVPDKIKX0DER:4
+review:A2WO7XFSRLK2TV:5
+review:A28RXZ72BE0UQC:5
+review:A3LRW4BQ7MSRBQ:5
+review:AE3Y35ICZYY2A:5
+review:A7Y6AVS576M03:5
+review:ATVPDKIKX0DER:5
+review:A37UPPF989N4EB:5
+review:A2KO9BQW3MPIVT:5
+review:A3GQKB1KF0CRPE:5
+review:A29COAL60SB48B:5
+review:A20EEWWSFMZ1PN:5

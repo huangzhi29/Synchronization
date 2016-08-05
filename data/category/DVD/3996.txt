@@ -1,0 +1,23 @@
+id:3996
+asin:B000055WDG
+title:Modern Drummer Festival 2000 DVD
+group:DVD
+salesrank:37847
+similar:5
+categories:5
+category:;DVD;Genres;Musicals & Performing Arts;General
+category:;DVD;Genres;Musicals & Performing Arts;Independently Distributed
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Specialty Stores;Independently Distributed;Music Video & Concerts
+category:;DVD;Specialty Stores;Independently Distributed;Special Interests
+reviews:10
+review:A2HTP1PZRO9YIX:5
+review:A2HTP1PZRO9YIX:5
+review:A174T0LZPCYQAV:5
+review:A144Y3HXCNYIQW:5
+review:A10HKSTC94WLZE:5
+review:A2I58MQ0EPWRRG:3
+review:A2I58MQ0EPWRRG:3
+review:A2CIAC707TS86Z:3
+review:A1L9RIIC1CA7ST:4
+review:A1H8MG421L1SB2:2

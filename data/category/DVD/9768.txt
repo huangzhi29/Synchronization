@@ -1,0 +1,39 @@
+id:9768
+asin:B000067IVS
+title:Blue Seed - Perfect Collection
+group:DVD
+salesrank:5996
+similar:5
+categories:4
+category:;DVD;Genres;Anime & Manga;By Studio;ADV Films
+category:;DVD;Genres;Anime & Manga;Characters & Series;Blue Seed
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Formats;Boxed Sets;Anime
+reviews:27
+review:A2IBRC1CDKVZL:5
+review:AE77XK6GD952L:4
+review:A119Y7AQ6LO1H8:5
+review:AZBHFIT7BKB03:5
+review:A14DA1D3JEQL1P:5
+review:APDZW7XB5N8CV:5
+review:A1UXEIZAWN2VM7:5
+review:AH19TVHXLFZHI:5
+review:A1E5NIB0VB74P6:5
+review:A27P61L5XDIIDB:5
+review:A1D09LESOYH2ZQ:5
+review:A1DUIWDZCNJIHA:4
+review:A27P61L5XDIIDB:5
+review:A17ANX2IZSGKAV:5
+review:A3COKJYVFF4TUU:5
+review:A3PP7RP7PIQ4LR:5
+review:AYT4YLB36MY4J:3
+review:A34V3H4AQWQ5PS:5
+review:A23OMH2BWS95ZE:4
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A2A4XXZNKYLKGZ:5
+review:A2A4XXZNKYLKGZ:5
+review:A3UN6WX5RRO2AG:5
+review:A1HFVR8HIO0R22:5
+review:A1UD9T4T8A6H1A:5

@@ -1,0 +1,50 @@
+id:4927
+asin:B00008G4H7
+title:Belle Epoque
+group:DVD
+salesrank:9167
+similar:5
+categories:16
+category:;DVD;Genres;Art House & International;By Genre;Comedy
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Siblings
+category:;DVD;Genres;Comedy;By Theme;Eccentric Families
+category:;DVD;Genres;Comedy;By Theme;Love & Romance;Love Triangle
+category:;DVD;Genres;Comedy;By Theme;Parenthood
+category:;DVD;Actors & Actresses;( G );Galabru, Michel
+category:;DVD;Actors & Actresses;( G );Gil, Ariadna
+category:;DVD;Actors & Actresses;( G );Gomez, Fernando Fernan
+category:;DVD;Actors & Actresses;( L );Lampreave, Chus
+category:;DVD;Actors & Actresses;( S );Sanz, Jorge
+category:;DVD;Directors;( T );Trueba, Fernando
+category:;DVD;Genres;Comedy;Romantic Comedies;General
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( B )
+reviews:26
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:AKZGJB7KYSF25:5
+review:A374COS93IARIR:5
+review:A1B4QRSSRT6KT:5
+review:A2RIT55ECNRSKQ:3
+review:A1JXYQ6DACB2V3:5
+review:A32KGPQ9URW4UK:5
+review:A10IU1JJSNQK67:5
+review:A1IYXWFMNZ3MYT:5
+review:A1BJOEQSRX2IBM:4
+review:AHLLACTBJKD2P:5
+review:A689W8L78ZQR5:5
+review:ABN5K7K1TM1QA:4
+review:AO4A961ZKHJPL:4
+review:A2N80QYOPB5GL4:4
+review:A84UFSF2SZS2W:4
+review:A1K679M01QIXZZ:4
+review:A251N8N4ZHKHDT:5
+review:A1M5WKSP4N9WZI:4
+review:A3TZEJV8Z5TF3R:5
+review:A356GMHKZ1CJAI:3
+review:A1QQOPSKKKFQUZ:5
+review:ASWS4J1XEQMRC:5
+review:ARAMCT36VEIZD:5
+review:A2I2DE1DJUVQOO:5

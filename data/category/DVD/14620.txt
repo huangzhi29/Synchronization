@@ -1,0 +1,13 @@
+id:14620
+asin:B00006JMSQ
+title:Action Collection (The Perfect Storm/Deep Blue Sea/Sphere)
+group:DVD
+salesrank:45633
+similar:5
+categories:5
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Formats;Boxed Sets;Action & Adventure
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Action & Adventure
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+reviews:0

@@ -1,0 +1,73 @@
+id:1631
+asin:B00005NB94
+title:Arabian Nights
+group:DVD
+salesrank:3458
+similar:5
+categories:18
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( A );Avital, Mili
+category:;DVD;Actors & Actresses;( B );Bates, Alan
+category:;DVD;Actors & Actresses;( C );Carter, Jim
+category:;DVD;Actors & Actresses;( G );Guinness, Peter
+category:;DVD;Actors & Actresses;( L );Lee, Jason Scott
+category:;DVD;Actors & Actresses;( L );Leguizamo, John
+category:;DVD;Actors & Actresses;( M );Mae,  Vanessa
+category:;DVD;Actors & Actresses;( S );Serkis, Andy
+category:;DVD;Actors & Actresses;( S );Sewell, Rufus
+category:;DVD;Directors;( B );Barron, Steve
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:47
+review:ALMWVT16TUZWE:5
+review:A3ISZH83KWQLZI:5
+review:A1JPPND3I6EJVT:5
+review:A3119LWUOTKPVW:4
+review:A2EB2ZRD6AKXA7:4
+review:A28XEJO7RBWRVR:5
+review:AFVI6OICZFKYF:5
+review:A2H4SPR6EGALAP:5
+review:A2PU8SG5UJEXIW:5
+review:A19UC4C8O6X4TN:2
+review:A3SEUZKK6CM9OD:5
+review:A71CXI2D3WEMK:2
+review:A71CXI2D3WEMK:2
+review:A1B51NEJXFALUS:5
+review:A138DVMHVS9E0J:4
+review:A5JULSL6VDI8R:4
+review:A5JULSL6VDI8R:4
+review:A8PTHZYRGIDUF:5
+review:A29X9LBM6UT8UR:5
+review:A270FA2OV37B0S:5
+review:A13NM1PES9OXVN:4
+review:A1CXQB775PWQG6:5
+review:A2PATZH9WJX28Q:5
+review:A2QML92353G4GG:5
+review:A3FUUBJ2HUS5O7:5
+review:A35YWA2V4QHOJ3:5
+review:A3ESKFYD1U3HZW:1
+review:A3PI32QUDJT5HW:5
+review:A1XN2AAQAT41HX:5
+review:A2GDEPPC8BAZRY:5
+review:AXD98Z7MBW3G4:5
+review:A12KDW2EB3JOLH:4
+review:A4FX5YCJA630V:3
+review:A31KYCQGB1B58:5
+review:A2W00XKTTF1G0Z:5
+review:A16SPLC0VO1S8J:4
+review:A3UBWCLVJ6WN2V:5
+review:A2WXD30UB4E7OY:2
+review:A39MH6RD2AQ6UL:5
+review:A3MWMXQM5KLQAU:5
+review:A1S4Q3MI4OAKWF:5
+review:A1G9FX1KV45N41:5
+review:A1G9FX1KV45N41:5
+review:AFRMRUYY92XJI:5
+review:A2DXFI46OKWC8G:5
+review:A1Z8TK53MS4CTK:3
+review:A2F1P10GGZ7K2T:5

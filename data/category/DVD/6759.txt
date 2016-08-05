@@ -1,0 +1,144 @@
+id:6759
+asin:B00004R99W
+title:The Black Cauldron (Disney Gold Classic Collection)
+group:DVD
+salesrank:9710
+similar:5
+categories:31
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Action & Adventure;By Theme;Sword & Sorcery
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Genres;Kids & Family;10-12 Years
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Specialty Stores;Disney Home Video;Animated Movies
+category:;DVD;Specialty Stores;Disney Home Video;Gold Collection
+category:;DVD;Specialty Stores;Disney Home Video;By Age;7-11 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;For the Whole Family
+category:;DVD;Actors & Actresses;( B );Byner, John
+category:;DVD;Actors & Actresses;( F );Fondacaro, Phil
+category:;DVD;Actors & Actresses;( H );Hawthorne, Nigel
+category:;DVD;Actors & Actresses;( J );Jones, Freddie
+category:;DVD;Actors & Actresses;( M );Malet, Arthur
+category:;DVD;Actors & Actresses;( M );Merin, Eda Reiss
+category:;DVD;Directors;( B )
+category:;DVD;Directors;( R );Rich, Richard
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Genres;Kids & Family;By Theme;Daring Rescues
+category:;DVD;Genres;Kids & Family;By Theme;Heroic Missions
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Sword & Sorcery
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;General
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;Fantasy Adventures
+category:;DVD;Genres;Science Fiction & Fantasy;Fantasy;Sword & Sorcery
+category:;DVD;Genres;Kids & Family;Fantasy
+category:;DVD;Genres;Action & Adventure;By Theme;Hereos
+category:;DVD;Genres;Action & Adventure;By Theme;Race Against Time
+reviews:105
+review:ATVPDKIKX0DER:5
+review:A3DADEPXDYUN6N:1
+review:ATVPDKIKX0DER:4
+review:A3G7YXJ1N2M3OZ:5
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A210VQUG2GMU06:4
+review:ATVPDKIKX0DER:5
+review:AO7SU356QUU2B:2
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:A3OMDSHIGTFY84:1
+review:A2WDDGZ3RAHFNA:1
+review:A1NRRSHN7T6E7H:1
+review:A357O4HRKNJXGH:3
+review:ATVPDKIKX0DER:5
+review:A3NC3SEYY6CA7R:4
+review:AS1PE743NK8YE:4
+review:A2SPRKR2XTQCWD:5
+review:A2NL3A22LXAPVY:4
+review:ATVPDKIKX0DER:1
+review:A3JR0G033ZSZUU:4
+review:A374ZGIVQZHH4N:3
+review:AXAT12OVCGZL2:3
+review:AXAT12OVCGZL2:4
+review:A1LH6RF4UN9VI6:4
+review:A2AD1LKUZ92L0Q:3
+review:A1R8YDAQ8SI3DL:3
+review:A3GQMWM2IDG49H:2
+review:A3PO9UQ783VUAI:5
+review:A39GB8QKJDWKRK:2
+review:A2UQIIJ2CD8REE:4
+review:A3GPQPK0O7J2HN:1
+review:A3SR5U38650UEB:4
+review:A9998RE3AEA95:2
+review:A2V664TK88FOSP:4
+review:A3M0YP958H2KRX:2
+review:A1680MN1GW4B9B:3
+review:A1ZANCPC0FXHH2:5
+review:A2EYMELYXZFO5Q:5
+review:A29ANRYJ09M424:4
+review:AF9BU3JWHOHOS:1
+review:A295CX2BDA9LO7:3
+review:A3UN6WX5RRO2AG:1
+review:A2RHV42BTJSVON:4
+review:A66GDJN6LE6YF:4
+review:AFJVM2KE3M8LV:5
+review:A2QN9I8BI63BRQ:5
+review:A5F7OSL1Q7DII:3
+review:A1BFMPKMP7RU49:2
+review:A3L93U4BT76HLG:5
+review:A169S5IRX9OGAG:4
+review:A7Y6AVS576M03:4
+review:AA5XZVANDXGJE:5
+review:A3RJMO7C032S6L:1
+review:A23DSR9XYYMNIO:2
+review:A1F19G04V2KDN3:3
+review:A13IJSSLR27SU:5
+review:A6225HHQKBE2M:5
+review:A6225HHQKBE2M:5
+review:A1UA7VJSZ2LFL4:1
+review:A65R0Q7IPDSS8:4
+review:A1COW0UIB5HA9J:5
+review:AIVK8215B8911:1
+review:A1B5XCKF7ML91:1
+review:A17VIOI125VBFN:1
+review:A2W30VRP659E73:2
+review:AMWA4HWO2D4CH:4
+review:AA4NFOPE7CW1F:2
+review:AUEZVUNX0RRGZ:3
+review:A18SPGP2R63Y79:2
+review:A1SDWFE0ETD2Z4:4
+review:A2TUCS8O6AJXKJ:2
+review:A2E6BV72H82ONA:5
+review:A3B7CWEM2YZ6TK:5
+review:A5RF4VO6XDGSB:4
+review:A1LIML32S2AL1C:1
+review:A1LIML32S2AL1C:1
+review:A8382TS6DUIJY:5
+review:A36J9S2Q8NUO1P:4
+review:A3UN6WX5RRO2AG:3
+review:AOVJYIUATQKR5:2
+review:A1D2G41AKFO688:3
+review:A1Q4ZU2Y929N0A:4
+review:A3E4IPGHBPGVKT:1
+review:A2670J1X1SRWGQ:1
+review:A27JO489Q58P79:4
+review:A2KN89AD9G1NNX:3
+review:APM06HT7JIPZ5:4
+review:A51OGQYP6GOGJ:5
+review:A11KSHX0JSRTT3:1
+review:AEGR40GALMDJ4:3
+review:A3EW2L59UBHQSG:3
+review:A1XYADEC7TLTSP:3
+review:ABVFIMV7DVWTS:1
+review:A2C27IQUH9N1Z:4
+review:A1VWQ20HG3XYRG:1
+review:A346CHRFKOJZD5:2
+review:AI1OOS3ZQKJK0:5
+review:AUS2EQT4NU3BF:4
+review:AQXAKKTKJHCQ3:4
+review:A3L6S86HGO9OUW:1
+review:A35GHITTG3WX7E:5

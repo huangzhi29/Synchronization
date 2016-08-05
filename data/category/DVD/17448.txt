@@ -1,0 +1,22 @@
+id:17448
+asin:B00005ICEC
+title:Egypt - Beyond The Pyramids
+group:DVD
+salesrank:16507
+similar:5
+categories:8
+category:;DVD;Genres;Documentary;General
+category:;DVD;Genres;Television;A&E Home Video;All A&E Titles
+category:;DVD;Actors & Actresses;( W );Woodward, Peter
+category:;DVD;Special Features;Titles;( E )
+category:;DVD;Formats;Boxed Sets;Documentary
+category:;DVD;Genres;Special Interests;Travel;Africa
+category:;Amazon.com Stores;Travel;Categories;Travel DVDs;Africa
+category:;DVD;Genres;Television;History Channel
+reviews:6
+review:A16LJX07Z55MNU:4
+review:A10CMFL520Q7Z7:4
+review:A1JG66DXVHVDE1:5
+review:A2E2W2EYSFIGQE:5
+review:A386QVFHNI08G1:5
+review:AHCVWPLA1O4X8:5

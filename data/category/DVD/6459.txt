@@ -1,0 +1,32 @@
+id:6459
+asin:1571324941
+title:Barney's Rhyme Time Rhythm
+group:DVD
+salesrank:7368
+similar:5
+categories:14
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;Characters & Series;Barney
+category:;DVD;Genres;Kids & Family;Birth-2 Years
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;Television
+category:;DVD;Genres;Kids & Family;Educational
+category:;DVD;Genres;Kids & Family;Music & Arts
+category:;DVD;Actors & Actresses;( B );Barney
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Kids & Family;Puppets
+category:;DVD;Special Features;Titles;( B )
+category:;Specialty Stores;Books, Music & More;Videos and DVDs for Babies and Toddlers;DVDs for Babies and Toddlers
+category:;Specialty Stores;Books, Music & More;Videos and DVDs for Babies and Toddlers;Barney DVDs
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:10
+review:A1DH34XFEYW100:3
+review:A2TAAKL8DQDMSA:5
+review:ACQJ9W9ZQ6N3C:5
+review:AT7RN5F6QEWCZ:5
+review:A1U900Z3YFB9ME:4
+review:A2QX20AUL59R0Y:5
+review:A4B302H1K5P6V:4
+review:A3FYWEB1S00H5N:5
+review:A1UGSESTTG16F9:4
+review:A3CKBFRM6VQJ8G:5

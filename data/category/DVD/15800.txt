@@ -1,0 +1,71 @@
+id:15800
+asin:0767817680
+title:Howards End
+group:DVD
+salesrank:31672
+similar:5
+categories:22
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( C );Carter, Helena Bonham
+category:;DVD;Actors & Actresses;( H );Hopkins, Anthony
+category:;DVD;Actors & Actresses;( R );Redgrave, Vanessa
+category:;DVD;Actors & Actresses;( S );Scales, Prunella
+category:;DVD;Actors & Actresses;( T );Tandy, Mark
+category:;DVD;Actors & Actresses;( T );Thompson, Emma
+category:;DVD;Actors & Actresses;( W );West, Samuel
+category:;DVD;Actors & Actresses;( W );Wilby, James
+category:;DVD;Directors;( I );Ivory, James
+category:;DVD;Genres;Art House & International;By Theme;Family Interaction
+category:;DVD;Genres;Art House & International;By Theme;Period Piece
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Drama;Love & Romance;Marriage
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( H )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Class Differences
+category:;DVD;Genres;Drama;Family Life;Brothers & Sisters
+category:;DVD;Genres;Drama;Love & Romance;Infidelity & Betrayal
+reviews:41
+review:ATVPDKIKX0DER:5
+review:A3NNFPNUIU3PC2:1
+review:A3F77BE1V4MW4Y:5
+review:ALQIY9KFINIF4:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:A3R2YB0WTTB0IJ:5
+review:AYX7YKYAACFEJ:5
+review:ATVPDKIKX0DER:5
+review:A1B8X2MGHT98B8:5
+review:AKH9SCCIYSSGJ:5
+review:A1V2JT73UX3DJP:5
+review:A331OF34UX4Y1K:1
+review:A3589NASCH7GX5:5
+review:AU8552YCOO5QX:4
+review:AM2PV53UX1JEQ:5
+review:A1L2OW864L4GT0:3
+review:A293RZT4PVI7KO:5
+review:AW3VZ5O895LRK:5
+review:A2TLEB18074L4S:4
+review:A1R60K9D56XYL:2
+review:A84UFSF2SZS2W:3
+review:A2ASJ0IHIAOUW8:5
+review:AF0064G3N6INL:5
+review:A1OBU0FTRIJQ3F:4
+review:A13IJSSLR27SU:5
+review:A2AN6LMBTWCH3X:5
+review:AGGVM6RAQUF6J:5
+review:A2KRGIT26652LD:5
+review:A37F1G84K35FCZ:4
+review:ALR35EFI69S5R:5
+review:AIIQZO83O821S:3
+review:A5RXGRL4UKHDQ:5
+review:A3D6TFYRMIV3ZL:5
+review:A281NPSIMI1C2R:4
+review:A1M9DQDGE07Q0U:5
+review:A2324X03HBM7XM:4
+review:ANV6NLOS3DK25:5
+review:A3IXQI6ZBFXD65:5
+review:A1SPB225CVTRUU:5
+review:A26OR9VFY3J8CT:5

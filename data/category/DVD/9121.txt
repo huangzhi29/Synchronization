@@ -1,0 +1,28 @@
+id:9121
+asin:B00000JT9A
+title:Fugitive Mind
+group:DVD
+salesrank:12745
+similar:5
+categories:15
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Science Fiction & Fantasy;Sci-Fi Action
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Actors & Actresses;( D );Dudikoff, Michael
+category:;DVD;Actors & Actresses;( G );Gabai, Richard
+category:;DVD;Actors & Actresses;( G );Greene, Michele
+category:;DVD;Actors & Actresses;( H );Hedison, David
+category:;DVD;Actors & Actresses;( L );Langenkamp, Heather
+category:;DVD;Actors & Actresses;( N );Newman, Barry
+category:;DVD;Actors & Actresses;( O );Ogilvy, Ian
+category:;DVD;Actors & Actresses;( P );Putch, John
+category:;DVD;Actors & Actresses;( V );Vennera, Chick
+category:;DVD;Directors;( R );Ray, Fred Olen
+category:;DVD;Special Features;Titles;( F )
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:5
+review:A1HEUM2I33658C:3
+review:AVEMRE2M08I6J:1
+review:A17D6T2CC6E0W7:4
+review:A17D6T2CC6E0W7:4
+review:A3LZGLA88K0LA0:3

@@ -1,0 +1,26 @@
+id:11309
+asin:B00000JJHL
+title:Bed & Board
+group:DVD
+salesrank:27103
+similar:5
+categories:15
+category:;DVD;Genres;Art House & International;By Genre;Comedy
+category:;DVD;Genres;Art House & International;By Original Language;French
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( J );Jade, Claude
+category:;DVD;Directors;( T );Truffaut, Francois
+category:;DVD;Specialty Stores;Studio Specials;Wellspring Home Video;World Class Cinema
+category:;DVD;Genres;Art House & International;By Theme;Family Interaction
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;Italy;General
+category:;DVD;Genres;Comedy;Romantic Comedies;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:3
+review:ATVPDKIKX0DER:5
+review:A31LB2LX91S6EW:5
+review:A3C6X0DAM87GN4:3

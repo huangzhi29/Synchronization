@@ -1,0 +1,16 @@
+id:2711
+asin:B00006JMSV
+title:Harrison Ford Collection (The Fugitive - Special Edition/Presumed Innocent/Frantic)
+group:DVD
+salesrank:31236
+similar:5
+categories:8
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( F );Ford, Harrison
+category:;DVD;Special Features;Titles;( H )
+category:;DVD;Formats;Boxed Sets;Action & Adventure
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Action & Adventure
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;DVD;Genres;Action & Adventure;Action Stars;Harrison Ford
+category:;DVD;Special Features;Fully Loaded DVDs;Special Editions
+reviews:0

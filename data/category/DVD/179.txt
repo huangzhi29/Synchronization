@@ -1,0 +1,42 @@
+id:179
+asin:B00000IC8F
+title:Africa Screams/Jack & The Bean
+group:DVD
+salesrank:53825
+similar:5
+categories:21
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Television;TV Series;Abbott & Costello
+category:;DVD;Actors & Actresses;( A );Abbott, Bud
+category:;DVD;Actors & Actresses;( B );Baer, Buddy
+category:;DVD;Actors & Actresses;( B );Baer, Max
+category:;DVD;Actors & Actresses;( B );Beatty, Clyde
+category:;DVD;Actors & Actresses;( B );Brooke, Hillary
+category:;DVD;Actors & Actresses;( C );Costello, Lou
+category:;DVD;Actors & Actresses;( H );Howard, Shemp
+category:;DVD;Actors & Actresses;( W );Walker, Bill
+category:;DVD;Directors;( B );Barton, Charles
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Formats;Boxed Sets;Comedy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Formats;Boxed Sets;Classics
+reviews:13
+review:A37W0TKQ3HW3HL:5
+review:AYO74WPH3B6NS:4
+review:A375OT7C8ZJCNU:1
+review:A375OT7C8ZJCNU:1
+review:A14V94PXMUI7Z1:5
+review:ATVPDKIKX0DER:5
+review:A125PQE515J3JZ:3
+review:A2JRDOWO0MKNNT:1
+review:A2W00XKTTF1G0Z:4
+review:A14W8MF7SJWC4X:5
+review:A1SEE3N1HSRJGP:1
+review:AOK51PED51KHN:4
+review:A14VJRWHDR5IUZ:5

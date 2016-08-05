@@ -1,0 +1,26 @@
+id:12459
+asin:B00002JWZE
+title:Escape Velocity
+group:DVD
+salesrank:20589
+similar:5
+categories:16
+category:;DVD;Genres;Science Fiction & Fantasy;Sci-Fi Action
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Actors & Actresses;( B );Beaudoin, Michelle
+category:;DVD;Actors & Actresses;( B );Bergin, Patrick
+category:;DVD;Actors & Actresses;( C );Crewson, Wendy
+category:;DVD;Actors & Actresses;( O );Outerbridge, Peter
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( E )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Science Fiction & Fantasy;Space Adventure
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;Sci-Fi Action
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;Sci-Fi Action
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:2
+review:A1NCL42TOOCTIL:5
+review:ASEMZ4EWD4GA4:2

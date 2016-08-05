@@ -1,0 +1,26 @@
+id:8327
+asin:B00005YUOW
+title:Petula Clark - A Sign of the Times
+group:DVD
+salesrank:37006
+similar:5
+categories:7
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( C );Clark, Petula
+category:;DVD;Actors & Actresses;( R );Rawls, Lou
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( P )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:11
+review:A1Z3T3AV78ZDZG:5
+review:A1103Y2G3Y7TEO:4
+review:A2QUPA5VD5P99I:4
+review:A894RSJ0C0X8E:3
+review:A3H72NTIVCN99S:3
+review:ACZK3JTM8VQ4P:5
+review:AIO7M83TPRGTL:5
+review:AX5WSHD1U2ANF:4
+review:A2P69Z7AJ46H4V:5
+review:A23LH157IZHKUE:5
+review:A3EID4A5PZ19X4:3

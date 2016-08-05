@@ -1,0 +1,38 @@
+id:9834
+asin:B00006DXXT
+title:The I Love Lucy 50th Anniversary Special
+group:DVD
+salesrank:6483
+similar:5
+categories:24
+category:;DVD;Actors & Actresses;( B );Ball, Lucille
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( C );Cher
+category:;DVD;Actors & Actresses;( C );Crenna, Richard
+category:;DVD;Actors & Actresses;( F );Frawley, William
+category:;DVD;Actors & Actresses;( G );Garcia, Andy
+category:;DVD;Actors & Actresses;( G );Goldberg, Whoopi
+category:;DVD;Actors & Actresses;( K );King, Larry
+category:;DVD;Actors & Actresses;( R );Rodriguez, Paul
+category:;DVD;Actors & Actresses;( R );Roseanne
+category:;DVD;Actors & Actresses;( S );Schwarzenegger, Arnold
+category:;DVD;Actors & Actresses;( T );Tomlin, Lily
+category:;DVD;Actors & Actresses;( V );Vance, Vivian
+category:;DVD;Actors & Actresses;( W );Winkler, Henry
+category:;DVD;Special Features;Today's Deals in DVD;Television
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( I )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Television
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Genres;Television;TV Series;I Love Lucy
+category:;DVD;Genres;Television;By Decade;1950s-'60s;General
+reviews:6
+review:A1HCHCL86MKX3G:5
+review:A26GM3B2M8W9N6:2
+review:A3UUQV0RTCVZY:2
+review:AJWMVSLEVJ1UP:5
+review:A21L9ZNUS6WAH0:5
+review:A2BKFX67DBRYPA:5

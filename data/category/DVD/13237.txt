@@ -1,0 +1,29 @@
+id:13237
+asin:B00005AWQR
+title:Kung Fu - The Punch of Death
+group:DVD
+salesrank:30113
+similar:5
+categories:15
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Martial Arts;General
+category:;DVD;Genres;Sports;Martial Arts
+category:;DVD;Genres;Action & Adventure;Hong Kong Action;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;General
+category:;DVD;Special Features;Titles;( K )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;Martial Arts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;Martial Arts
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Action & Adventure;By Theme;Revenge
+reviews:6
+review:A2MOVYGY1VLGAE:3
+review:A4R9MJFF8UFND:3
+review:A9UH6I9GVQZU2:3
+review:AL8JMMSDHTQLJ:3
+review:A14ME2H04AN4XQ:3
+review:A1G5LJ8T1IGYC5:3

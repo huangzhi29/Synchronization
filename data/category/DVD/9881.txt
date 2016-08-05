@@ -1,0 +1,18 @@
+id:9881
+asin:B00007G1VL
+title:Discover Bellydance
+group:DVD
+salesrank:30963
+similar:5
+categories:6
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Special Interests;Dance;Belly
+category:;DVD;Genres;Special Interests;Dance;General
+reviews:4
+review:ATVD3UHXVNLFH:5
+review:A1THJ5GJF9NLCS:3
+review:AQF3D0KX5SFCM:4
+review:A281NPSIMI1C2R:5

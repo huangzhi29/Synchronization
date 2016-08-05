@@ -1,0 +1,55 @@
+id:14384
+asin:B00006FDAP
+title:The Mechanic
+group:DVD
+salesrank:4761
+similar:5
+categories:19
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( B );Bronson, Charles
+category:;DVD;Actors & Actresses;( I );Ireland, Jill
+category:;DVD;Actors & Actresses;( K );Kova, Frank De
+category:;DVD;Actors & Actresses;( M );Morton, Howard
+category:;DVD;Actors & Actresses;( R )
+category:;DVD;Actors & Actresses;( V );Vincent, Jan Michael
+category:;DVD;Actors & Actresses;( W );Wynn, Keenan
+category:;DVD;Actors & Actresses;( Y );Yarnall, Celeste
+category:;DVD;Directors;( W );Winner, Michael
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Action & Adventure;Action Stars;Charles Bronson
+reviews:28
+review:A1EHD9FFW3274W:3
+review:A13NTM92VE1U2Y:5
+review:A3VP352QL13J0P:5
+review:A2JA25X0WDE521:5
+review:A2T7ZQEFNV2S46:5
+review:AUV3AWOFCI0H7:5
+review:AJDQFOCQSOFX3:5
+review:AA4S6GRUIS0ME:5
+review:AUGABW5AS2OXM:5
+review:A3AY3EV2MFRFGG:4
+review:A1O3M8KFZS3TDP:5
+review:A6VXZ1EEPRTLV:3
+review:A2QQ5GPXFDT59Z:5
+review:AWH6X09KD01HB:5
+review:A16VMASAEPHIZN:5
+review:AF1U6S52AJE2E:5
+review:AO37T54VEP0JQ:3
+review:A3MBMB4YYL4K7Y:5
+review:A3MLO4GAD2O9DL:4
+review:AQ8DU6XVA3USJ:5
+review:A2ZSPZOV7T7RNQ:5
+review:A2CT2SA6KFE8GC:5
+review:A16CZRQL23NOIW:5
+review:A1HX00DL0SZM1G:3
+review:A2FSHOTV0RNW7Q:4
+review:AYYOPF6RG019D:5
+review:A1JKNVM6NAU13V:4
+review:A1WPS0VO2L0QZ8:5

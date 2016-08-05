@@ -1,0 +1,33 @@
+id:8404
+asin:B000058E1L
+title:Drinking Games
+group:DVD
+salesrank:46382
+similar:0
+categories:8
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Comedy;By Theme;Friends
+category:;DVD;Genres;Drama;By Genre;Comedy
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Specialty Stores;Independently Distributed;Drama
+reviews:17
+review:A2FE3Z0Z3724I:5
+review:A1HSDZ7AZ4DDFB:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A1MEYB8H87EPZX:1
+review:ATVPDKIKX0DER:4
+review:A2RLKJVMIRZ3MO:5
+review:ASCM7749BMRK4:2
+review:A83RTFLBMIS3H:1
+review:A1DZTEGV2F7GIS:4
+review:A2VPTWAGMHL0Y:4
+review:A1X0ZOQB8G7WHB:4
+review:AL4IGB7930649:5
+review:A2X4QIP053323C:4
+review:A366EKGA1I6DI:1
+review:A3RMDGXN8T6D1F:2
+review:A3856H4ORAW6C3:4

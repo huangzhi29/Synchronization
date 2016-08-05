@@ -1,0 +1,35 @@
+id:15349
+asin:B00005LDD2
+title:Guilty Conscience
+group:DVD
+salesrank:59896
+similar:5
+categories:18
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Actors & Actresses;( D );Danner, Blythe
+category:;DVD;Actors & Actresses;( H );Hopkins, Anthony
+category:;DVD;Actors & Actresses;( K );Kurtz, Swoosie
+category:;DVD;Actors & Actresses;( M );Manning, Ruth
+category:;DVD;Directors;( G );Greene, David
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Drama;Love & Romance;Marriage
+category:;DVD;Special Features;Titles;( G )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:9
+review:A3UBXOX91KWNWD:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:2
+review:AO461REE0KA4J:1
+review:A1TC5AY7BZSH4U:3
+review:A3M13NLLULFYDG:1
+review:A3U4LMMJQY2HKM:3
+review:A3LZGLA88K0LA0:3
+review:AZ2PHKO571Y0S:4

@@ -1,0 +1,87 @@
+id:9427
+asin:1573300403
+title:Michael Jackson
+group:DVD
+salesrank:1712
+similar:5
+categories:21
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll
+category:;DVD;Actors & Actresses;( A );Arquette, Rosanna
+category:;DVD;Actors & Actresses;( A );Aykroyd, Dan
+category:;DVD;Actors & Actresses;( G );Goldberg, Whoopi
+category:;DVD;Actors & Actresses;( J );Jackson, Michael
+category:;DVD;Actors & Actresses;( J );Jones, Quincy
+category:;DVD;Actors & Actresses;( K );King, Don
+category:;DVD;Actors & Actresses;( P );Price, Vincent
+category:;DVD;Actors & Actresses;( Y );Yankovic, Weird Al
+category:;DVD;Directors;( L );Landis, John
+category:;DVD;Directors;( L );Lee, Spike
+category:;DVD;Genres;Music Video & Concerts;Other Music;R&B
+category:;DVD;Special Features;Today's Deals in DVD;Music Video & Concerts
+category:;DVD;Genres;Music Video & Concerts;Artists;Jackson, Michael
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Music Video & Concerts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:58
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2GQD84A3IND6C:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2B53PQGNEOJY2:5
+review:ATVPDKIKX0DER:5
+review:A89I7PK7TX9KE:5
+review:A1R9KVJ09BHSHI:5
+review:ATVPDKIKX0DER:5
+review:A2H9ZT6VWTXLZD:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A17CXFMNUKE3A5:5
+review:ATVPDKIKX0DER:4
+review:A20J7GB3XBV7IF:5
+review:ASI65VCZZBZDD:5
+review:A2MQT6ZAFIPR4Z:2
+review:AIWGW684VBHKA:5
+review:A2MQT6ZAFIPR4Z:5
+review:A35ELRFQ9D9VDH:5
+review:A3AYDEWU1EPF15:5
+review:A1G5VCQDRVN9TX:4
+review:A1QEIYTBLCURKT:5
+review:A9TCZP5ECHW2L:5
+review:A6C5NU8OCF76F:5
+review:A351JCJRF3ML1A:5
+review:A1B350OHYHQTGX:4
+review:A2OK73PPFODUDN:5
+review:A3U3W7URZU9259:2
+review:AFXB5D1PYPQWZ:4
+review:A29PQH8RIUG4KZ:2
+review:A1B2MF00TB0ECG:3
+review:AQZKHI8UJYXUS:5
+review:A19OOH6ANVU0KW:5
+review:A3UN6WX5RRO2AG:5
+review:A2UMYNRZJU120Y:4
+review:A237CDWLD8K6L6:4
+review:A2W7JA1HUK5YYQ:4
+review:A1474ONGAQ0L7B:5
+review:A2W00XKTTF1G0Z:5
+review:A3DF9G3BR81ZJX:5
+review:AVRTMD95LUL87:5
+review:A15TLWEAZV9FTP:5
+review:A14ME1X5AJR1JI:5
+review:A3GGZVR1I4U907:5
+review:A2GANR9I6XHTU9:5
+review:A1BGFD1QRY4IES:5
+review:A2BNRVQP2YQIQG:5
+review:AW7CV7F94ULDU:5
+review:A39MUXFVCBIBYZ:5
+review:A2GANR9I6XHTU9:5
+review:A3UN6WX5RRO2AG:5
+review:A1IKOYZVFHO1XP:5
+review:A1ZUIZSSBQYB06:4
+review:A3UN6WX5RRO2AG:5

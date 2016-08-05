@@ -1,0 +1,27 @@
+id:5205
+asin:B0000507OO
+title:Erotic Ghost Story
+group:DVD
+salesrank:26617
+similar:5
+categories:14
+category:;DVD;Genres;Art House & International;By Genre;Comedy
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Sex Comedies
+category:;DVD;Actors & Actresses;( W );Wong, Manfred
+category:;DVD;Actors & Actresses;( Y );Yip, Amy
+category:;DVD;Genres;Art House & International;By Theme;Erotic
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;Comedy
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;Fantasy
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;General
+category:;DVD;Special Features;Titles;( E )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;Category III
+reviews:5
+review:ATVPDKIKX0DER:2
+review:A2XNKSV65NBNZE:1
+review:A30LMGJWN25LGJ:5
+review:A3C7AOZ1IMS2SY:4
+review:A2H74688UQDCGV:4

@@ -1,0 +1,26 @@
+id:8211
+asin:B0000687BQ
+title:Chat Room
+group:DVD
+salesrank:21255
+similar:5
+categories:10
+category:;DVD;Genres;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;Romantic Comedies
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;Romantic Comedies
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:8
+review:A2DGP3CC6D0TKL:1
+review:A1DLUJNJCBM9D1:1
+review:A302AZ038TUVV5:1
+review:ANEDXRFDZDL18:1
+review:A39RXD8NO8O4NN:3
+review:ASQ27BAFRNQ2I:3
+review:A2GRP01Q03MMIF:5
+review:A3HDR0VQ5BN6EU:5

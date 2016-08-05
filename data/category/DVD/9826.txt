@@ -1,0 +1,23 @@
+id:9826
+asin:B00008H2MY
+title:Icebreaker
+group:DVD
+salesrank:32526
+similar:5
+categories:13
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( A );Astin, Sean
+category:;DVD;Actors & Actresses;( C );Campbell, Bruce
+category:;DVD;Actors & Actresses;( K );Keach, Stacy
+category:;DVD;Actors & Actresses;( M )
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( I )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Action & Adventure;By Theme;Hostages
+reviews:2
+review:A3LZGLA88K0LA0:3
+review:A2XBBQ36STNJ0G:2

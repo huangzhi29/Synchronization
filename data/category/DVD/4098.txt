@@ -1,0 +1,19 @@
+id:4098
+asin:B00006JU7G
+title:Kirby - Kirby Comes to Cappytown
+group:DVD
+salesrank:38685
+similar:5
+categories:3
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( K )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:8
+review:A1WDJYC6OMR08S:5
+review:A2Y10WUJP3DCMK:5
+review:A3QAX4HDD8IAB8:5
+review:A3EY49PJ6A18AC:5
+review:AYBWBHL7Z2EHS:5
+review:A1Z484GQB9IRD5:5
+review:A15VS3WE0YJGVM:2
+review:A3UN6WX5RRO2AG:5

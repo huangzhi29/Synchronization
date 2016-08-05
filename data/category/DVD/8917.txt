@@ -1,0 +1,54 @@
+id:8917
+asin:0783229399
+title:Rollercoaster
+group:DVD
+salesrank:24504
+similar:5
+categories:27
+category:;DVD;Genres;Action & Adventure;Disaster Films
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Thrillers
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( B );Bell, Michael
+category:;DVD;Actors & Actresses;( B );Bottoms, Timothy
+category:;DVD;Actors & Actresses;( F );Fonda, Henry
+category:;DVD;Actors & Actresses;( G );Guardino, Harry
+category:;DVD;Actors & Actresses;( H );Hunt, Helen
+category:;DVD;Actors & Actresses;( P );Prince, William
+category:;DVD;Actors & Actresses;( S );Segal, George
+category:;DVD;Actors & Actresses;( S );Strasberg, Susan
+category:;DVD;Actors & Actresses;( T );Tristan, Dorothy
+category:;DVD;Actors & Actresses;( W );Wasson, Craig
+category:;DVD;Actors & Actresses;( W );Widmark, Richard
+category:;DVD;Directors;( G );Goldstone, James
+category:;DVD;Genres;Mystery & Suspense;Blackmail, Murder & Mayhem;Murder
+category:;DVD;Genres;Mystery & Suspense;By Theme;Disaster Films
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( R )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;Disaster Films
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;Disaster Films
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:19
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:4
+review:A30Z6YN53Y17XP:5
+review:ADI5HFG13PWQZ:5
+review:A6OCUXZRDDRJC:5
+review:A2TBZH06JISZH2:5
+review:A3GM7I0ULH19DP:4
+review:A219HSAXEBJEEN:4
+review:A2D8CUJPOSRPNA:5
+review:A13YPKU84AF3CX:4
+review:A1MYX3IQ09D6XY:4
+review:A3JYWTDS82BDCL:5
+review:A39PME88IIGPX0:5
+review:A8GP5U9H4PNOC:4
+review:A1TK6R2JSC97HL:3
+review:A3JYWTDS82BDCL:5
+review:A3JYWTDS82BDCL:5
+review:A25ZVI6RH1KA5L:3
+review:A3AY3EV2MFRFGG:5

@@ -1,0 +1,20 @@
+id:18462
+asin:6305701202
+title:Robin Hood Gang
+group:DVD
+salesrank:57914
+similar:5
+categories:8
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Comic Criminals
+category:;DVD;Genres;Kids & Family;Comedy
+category:;DVD;Actors & Actresses;( H );Hamilton, Richard
+category:;DVD;Directors;( H );Hendershot, Eric
+category:;DVD;Special Features;Titles;( R )
+category:;DVD;Genres;Kids & Family;Family Films
+category:;DVD;Genres;Kids & Family;By Theme;Mischievous Children
+reviews:4
+review:A11S71WE0U0M7V:4
+review:A1A5RXO0HFF1MP:5
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5

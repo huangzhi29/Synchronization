@@ -1,0 +1,71 @@
+id:18232
+asin:B000085EFE
+title:The Awful Truth
+group:DVD
+salesrank:4891
+similar:5
+categories:17
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( A );Allen, Robert
+category:;DVD;Actors & Actresses;( B );Bellamy, Ralph
+category:;DVD;Actors & Actresses;( C );Clement, Dora
+category:;DVD;Actors & Actresses;( C );Compton, Joyce
+category:;DVD;Actors & Actresses;( D );Dale, Esther
+category:;DVD;Actors & Actresses;( D );Dunne, Irene
+category:;DVD;Actors & Actresses;( G );Grant, Cary
+category:;DVD;Actors & Actresses;( W );Warwick, Robert
+category:;DVD;Directors;( M );Mccarey, Leo
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Genres;Comedy;Romantic Comedies;General
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Comedy;Screwball Comedy
+category:;DVD;Genres;Comedy;Comedy Stars;Cary Grant
+reviews:46
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ACD6KAOJ9X973:4
+review:ATVPDKIKX0DER:5
+review:ANN8X5IWNPT29:2
+review:A35MDITXK7RNIP:5
+review:AQV87ZB89MPOM:5
+review:ATVPDKIKX0DER:5
+review:A13DBSCKQB0NG7:5
+review:ATVPDKIKX0DER:5
+review:A2YWR4BT2249LT:5
+review:ATVPDKIKX0DER:2
+review:A1DCX9TKR8417M:5
+review:ATVPDKIKX0DER:5
+review:A12CNVNNX7NQ8U:5
+review:A2HZIE6EC3F3N9:4
+review:A30P9NCFHZJ6MR:5
+review:A2X44DD1TN0P13:5
+review:A689W8L78ZQR5:5
+review:A1MPTJIR3LDGNZ:5
+review:AV8D2HBT9WE9H:5
+review:A1XH4KDR90ZMIV:5
+review:A3BSS2M2DPPV4T:5
+review:A2887J6P8VPB5H:5
+review:A2TV6SBCWT7P8S:5
+review:A3CFT5LHFCB46K:5
+review:A10FBB3BTH021V:5
+review:A1M9DQDGE07Q0U:3
+review:A31BGWX3E6GVRB:4
+review:A3I4IK25D7ATYY:1
+review:A35C6YGIHI93MM:3
+review:A35C6YGIHI93MM:3
+review:A1L3JKXFHGJ9TS:5
+review:A31LHED3SKLWVB:5
+review:A36ZWOLMVPALVB:5
+review:A3U56M0Y8LYO6J:3
+review:A9DQ9STYEVV60:5
+review:A16QODENBJVUI1:5
+review:A3UN6WX5RRO2AG:5
+review:AVEXFMAD0MATG:5
+review:A3B1PT4RWZG1YM:4
+review:AWAWCJX62S5OA:4
+review:A3RMVFX12MT8ET:3
+review:AQV87ZB89MPOM:1
+review:AKWQZ0YL3LTF5:4
+review:A1U6B2LDK3BUVU:2

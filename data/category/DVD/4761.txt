@@ -1,0 +1,22 @@
+id:4761
+asin:B00005T30Y
+title:Men Are from Mars, Women Are from Venus
+group:DVD
+salesrank:22142
+similar:4
+categories:9
+category:;DVD;Genres;Documentary;General
+category:;DVD;Genres;Special Interests;General
+category:;DVD;Actors & Actresses;( F )
+category:;DVD;Actors & Actresses;( P );Phillips, Samantha
+category:;DVD;Actors & Actresses;( S );Shepherd, Cybill
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Fitness & Yoga;General
+reviews:5
+review:A2VK03UD8VHFTT:5
+review:A1BGITI33P8MZG:3
+review:AGEKYWZ3PG122:4
+review:AG0H3CZBPV7GO:1
+review:A3UNFJ94EDBQHJ:5

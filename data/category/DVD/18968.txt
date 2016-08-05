@@ -1,0 +1,18 @@
+id:18968
+asin:B00007AJEN
+title:Tighter Assets with Tamilee (Weight Loss / Cardio Blast)
+group:DVD
+salesrank:5604
+similar:5
+categories:4
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Genres;Special Interests;Health;Diets & Weight Loss
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Fitness & Yoga;By Instructor;Tamilee Webb
+reviews:6
+review:AWVNUZQW7AKA5:5
+review:A2E8ESCGW0ITH:5
+review:ACCWRMERBSYQI:5
+review:A14ET217OERFOX:4
+review:A2E91AGGXZ9O4I:4
+review:A38AIYTQU3N9T0:5

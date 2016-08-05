@@ -1,0 +1,25 @@
+id:8883
+asin:B00008K7A1
+title:Adventures of Sinbad
+group:DVD
+salesrank:49462
+similar:0
+categories:17
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;Adventure
+category:;DVD;Genres;Kids & Family;Classics;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Genres;Kids & Family;By Theme;Heroic Missions
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Kids & Family;Fantasy
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Kids & Family;General
+category:;DVD;Special Features;Today's Deals in DVD;Kids & Family;Fantasy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Kids & Family;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Kids & Family;Fantasy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:0

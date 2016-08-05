@@ -1,0 +1,22 @@
+id:18032
+asin:B000053GT6
+title:Venom - Live From London
+group:DVD
+salesrank:42073
+similar:2
+categories:11
+category:Music;Styles;Hard Rock & Metal;British Metal
+category:Music;Styles;Hard Rock & Metal;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:Music;Styles;Hard Rock & Metal;Thrash & Speed Metal
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Special Features;Today's Deals in DVD;Music Video & Concerts
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( V )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Music Video & Concerts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:3
+review:A2ITV0JZAQQI43:5
+review:A1AU5YFM8L2WAP:5
+review:A2C921VW5R6VFO:4

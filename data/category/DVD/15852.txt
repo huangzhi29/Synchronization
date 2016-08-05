@@ -1,0 +1,41 @@
+id:15852
+asin:B000096IAJ
+title:R.O.D. - Read or Die
+group:DVD
+salesrank:16311
+similar:5
+categories:3
+category:;DVD;Actors & Actresses;( M );Miller, Jason
+category:;DVD;Actors & Actresses;( R );Raymont, Daniel
+category:;DVD;Special Features;Titles;( R )
+reviews:30
+review:AU5D9XYZ70B8U:4
+review:AEXTL9TZNDHW5:4
+review:APU6AXJGSS96S:5
+review:A2U499KMRW9ERN:4
+review:A4R9MJFF8UFND:4
+review:A2Y1D9287MGNQ4:5
+review:ABONZHLHC75PK:3
+review:ABVULUZ2ILKKO:4
+review:A2QLDU65W48T8Q:5
+review:A3V62YLRJ8V7LK:5
+review:A1084FCFY5QDCH:5
+review:A2J57EQ9KPGXR9:4
+review:A3J0HW7KPT3AOZ:5
+review:A3P3WYB24WLIVH:2
+review:A3ADLKJRLBUG14:5
+review:AGWOUX2YPDFSY:5
+review:A2GITGN7Q44OAP:5
+review:A338UA2HLVKICJ:3
+review:AO0OLG4UHWQFG:5
+review:A1MPZK9GFZ867B:5
+review:ATQTE464YAZM1:1
+review:A1GSR7RGCG1QYZ:5
+review:A3NIQK6ZLYEP1L:5
+review:A13W63U3PPMR13:5
+review:A2OH1U4OH5N7YC:4
+review:A2OH1U4OH5N7YC:4
+review:A3UN6WX5RRO2AG:5
+review:A1JJ8R0NTMF8DE:5
+review:A3S0IVFM83ZSE7:3
+review:A1VCLTAGM5RLND:5

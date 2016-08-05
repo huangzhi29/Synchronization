@@ -1,0 +1,80 @@
+id:4031
+asin:B00003CY5S
+title:The Affair of the Necklace
+group:DVD
+salesrank:3965
+similar:5
+categories:28
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( B );Baker, Simon
+category:;DVD;Actors & Actresses;( B );Brody, Adrien
+category:;DVD;Actors & Actresses;( C );Cox, Brian
+category:;DVD;Actors & Actresses;( E );Eyre, Peter
+category:;DVD;Actors & Actresses;( M )
+category:;DVD;Actors & Actresses;( P );Pryce, Jonathan
+category:;DVD;Actors & Actresses;( R );Richardson, Joely
+category:;DVD;Actors & Actresses;( S );Swank, Hilary
+category:;DVD;Actors & Actresses;( V )
+category:;DVD;Actors & Actresses;( W );Walken, Christopher
+category:;DVD;Directors;( S );Shyer, Charles
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Drama
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Period Piece
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Love & Romance
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Period Piece
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Love & Romance
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:44
+review:A1DNMVNP7URALA:4
+review:A2X9LGPJT1J7PK:5
+review:ABO2ZI2Y5DQ9T:3
+review:A3GSL6Y46G4EHB:4
+review:AITCPEAQXVM7T:2
+review:A3PR4ZSBDUL4EG:4
+review:A1O30ZJ181B4JH:2
+review:A31JRSZQ76YA1N:5
+review:AVESA6M18SUT1:5
+review:AN2CU1YP12J4U:2
+review:A1VTHUZIN04QQW:3
+review:AQ976KY6UG4QL:5
+review:A2N75TJAA02QTV:5
+review:A8JW0L8ELZ4DF:1
+review:AD5SVMIGFG6HV:5
+review:A2IWNR249B9O25:4
+review:A29IYGR7SNPRIV:3
+review:A1L43KWWR05PCS:3
+review:A2MSOUKNU4RN1B:2
+review:A1IWA90FHZZO3V:4
+review:AE4IRXR44ZP1Q:3
+review:A26G078WT1O9DB:4
+review:A2DSXA1E02C86D:4
+review:A22WQ09PRZLU6K:3
+review:A1D55ZWYO1OD90:4
+review:A2LU1XQU394ZL3:5
+review:AYZLXLVMJGTJV:4
+review:A1AKOT5CHGISU8:3
+review:A1B05INWIDZ74O:3
+review:A2KEIHVX3TPNBR:1
+review:AO5F3MTTFCQR8:4
+review:AUQ9WE4UVE3PZ:5
+review:AKUMC4GTRMSER:3
+review:A1T6CN4AP9675B:4
+review:A2CXZJG2GNWB4R:3
+review:A3LDVL9Z8F478B:2
+review:AIIR8E34EDKCQ:4
+review:A2T4MHPAV4HVLZ:3
+review:AEVNUEDRGTC4P:5
+review:A2GYFERIWG60ME:3
+review:A1W6B04BB8WEK6:3
+review:A14HHOT9999Z22:3
+review:A19OQ7LWE2YJL3:3
+review:A1G56KHOUOFWDW:4

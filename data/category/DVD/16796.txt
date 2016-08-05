@@ -1,0 +1,27 @@
+id:16796
+asin:B000055ZLE
+title:The Erotic Ghost
+group:DVD
+salesrank:21171
+similar:5
+categories:11
+category:;DVD;Genres;Drama;By Theme;Erotic
+category:;DVD;Genres;Horror;Things That Go Bump;Ghosts
+category:;DVD;Actors & Actresses;( F );Fedele, John P
+category:;DVD;Actors & Actresses;( P );Parks, Tammy
+category:;DVD;Actors & Actresses;( R );Rochon, Debbie
+category:;DVD;Actors & Actresses;( S );Snygg, Zachary Winston
+category:;DVD;Directors;( B );Bacchus, John
+category:;DVD;Genres;Cult Movies;Horror
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( E )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:8
+review:A1PS6K4F4YAYO5:4
+review:ANOY1OCLA9RTS:5
+review:AAKSGUZTU6WBO:4
+review:AW2JMPR8R39XK:3
+review:ALRNOZUVL3AOT:3
+review:A13HQREV09TRLU:1
+review:APYWZNEO6CI2P:2
+review:A3KF4IP2MUS8QQ:5

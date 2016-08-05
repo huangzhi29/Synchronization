@@ -1,0 +1,65 @@
+id:12617
+asin:B000063K1F
+title:Burial Ground - Night of Terror
+group:DVD
+salesrank:25845
+similar:5
+categories:6
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Zombies
+category:;DVD;Genres;Art House & International;By Country;Italy;General
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Genres;Anime & Manga;By Studio;Media Blasters;All
+reviews:51
+review:A25Y08FIK489JQ:5
+review:ASAG01AIV4AWA:4
+review:A1SI6H117Q5DU6:1
+review:A26EAGBSGKP52G:3
+review:A38K97D8GDVHO5:4
+review:A3INR9ILRHKOSB:5
+review:A34AQHLBQCHJUX:4
+review:A2JJOLN5OIUCOI:5
+review:A2PJMYGW6IAU1M:5
+review:A3KFIPN4YAIXDC:4
+review:A1KWMA5UTHJIOG:4
+review:A1UXRJ2TAZSM17:1
+review:A31X2ZUL720R8Y:1
+review:A3U5WKASUOG2LR:4
+review:A3MA46D95J3C7G:5
+review:A1AOASEAM67UNQ:5
+review:AR61Y2VWLST1V:5
+review:A2SND2PMZOLFRI:5
+review:A96JD9312DHWC:5
+review:AYPN63405Z1PO:5
+review:A39FIQXWOYG170:4
+review:A39FIQXWOYG170:4
+review:A3GLWSTNZX59Z8:4
+review:AZ7RBEOORLDSC:4
+review:A2CT2SA6KFE8GC:4
+review:A1CTATZTLP3CMZ:4
+review:A17NB397AH144H:3
+review:ADNMFFB4VCKAQ:3
+review:A38VGSIV4ILAP4:2
+review:A39KZ3EFBWQY4Z:4
+review:A3TQVI4R3CVUIZ:4
+review:AOFEI1XEW48BO:2
+review:A1RRPBF14VTAUE:4
+review:A3G602Z4DWDZKS:5
+review:AAYW1H4SMNOI:5
+review:A21XPB8AKJWGOD:1
+review:A1EQ0W58BZO9A0:1
+review:A1PID2MT8MMPAF:3
+review:A3IABRZMXEE1SO:4
+review:A2U2ZGAB2NKYU7:4
+review:A2IW3JO0NU4LF3:5
+review:A2IW3JO0NU4LF3:5
+review:A8DI0COTCMRDV:5
+review:A20WNLMBMLI30B:1
+review:A31DVDYM4887GG:4
+review:A1YAT7XJ5HP9SD:4
+review:AA3HFFNJCFXI4:4
+review:A2RNTG686ZATNP:4
+review:A1COW0UIB5HA9J:4
+review:A5OD2CTWK2EBA:4
+review:A2X68A4CORTII2:3

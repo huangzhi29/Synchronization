@@ -1,0 +1,25 @@
+id:18001
+asin:B000053GTH
+title:Gloria Estefan - Que Siga la Tradicion
+group:DVD
+salesrank:36399
+similar:5
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( E );Estefan, Gloria
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Music Video & Concerts;Artists;Estefan, Gloria
+category:;DVD;Special Features;Titles;( G )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+reviews:11
+review:A1VXPNY5Z4DBDY:5
+review:A2C2QV63SAH79N:5
+review:A3UN6WX5RRO2AG:4
+review:A3EQ4YAZ5OEVK9:5
+review:A12PSSRO0VUEIV:5
+review:A3Q7A9Y3S3BZO6:2
+review:A1KXBYKWV9ML9R:3
+review:AQM43MGWS7IL2:5
+review:AC6CJTL6YVFQV:4
+review:A2XB8587YAPYXX:4
+review:A3K2CI4PX03KMO:5

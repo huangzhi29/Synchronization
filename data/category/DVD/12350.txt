@@ -1,0 +1,25 @@
+id:12350
+asin:6305337373
+title:Lolida 2000
+group:DVD
+salesrank:4407
+similar:5
+categories:17
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Genres;Drama;By Theme;Erotic
+category:;DVD;Actors & Actresses;( A );Acsell, Eric
+category:;DVD;Actors & Actresses;( H );Hall, Gabriella
+category:;DVD;Actors & Actresses;( L );Lovell, Jacqueline
+category:;DVD;Actors & Actresses;( R );Rodd, Everett J
+category:;DVD;Directors;( R );Richards, Cybil
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Science Fiction & Fantasy;Futuristic
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;Futuristic
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;Futuristic
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:0

@@ -1,0 +1,202 @@
+id:4029
+asin:B00003CY5A
+title:Kiss of the Dragon
+group:DVD
+salesrank:7155
+similar:5
+categories:21
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Thrillers
+category:;DVD;Genres;Art House & International;By Genre;Action & Adventure
+category:;DVD;Actors & Actresses;( F );Fonda, Bridget
+category:;DVD;Actors & Actresses;( L );Li, Jet
+category:;DVD;Actors & Actresses;( Y );Young, Ric
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( K )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;By Theme;Hostage Situations
+category:;DVD;Genres;Action & Adventure;Action Stars;Jet Li
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;All Fox Titles
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Action;General
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Fox DVD Budget Store;DVDs Under $15
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:173
+review:A2OPN3M8CZHEPY:5
+review:A1GXPWNB3ZANII:4
+review:A1MJGAQSQ4S8X:4
+review:A1MR2GXXWI6DB4:3
+review:A1R09II733292R:3
+review:A2MPEBZB01NMM4:4
+review:A31G6R6ZDTPY6B:5
+review:A3FERT4E8SBFQJ:4
+review:A48UD92FQJCXZ:5
+review:A5GAKEDTW3WEA:5
+review:ADQU1Q6VKWN42:5
+review:A11U8ZWY59RQ17:4
+review:A1FJCYKOG5GTOR:5
+review:A2V4T3AG1MWG5T:4
+review:A3LJUDQ1WDW3WH:5
+review:AFXTPJOE2D4M3:2
+review:AP6WYCPLU8AZ4:3
+review:A1AG2OLS3KY1NY:1
+review:A3CCOSR9YDEC6U:5
+review:A3K5IMGDCDBCNF:4
+review:AE5O8G58JUI5L:5
+review:AFXD6FB68O667:3
+review:A1HSGRSMHZ200R:5
+review:A1Y4YG58UEN3HJ:4
+review:A27878J5HBXC0E:3
+review:A2QPC49MXXADR0:2
+review:A4O2C7RZCI5JG:4
+review:A29KE2TR9ISUUW:4
+review:A2FGH2GVAPNTHO:5
+review:AL7E03CMYMCH4:5
+review:A1YDFSHPZLSXDR:5
+review:A2LSRBVD2MK3PL:5
+review:AOADUBGSCS7H9:5
+review:A3CP8JWHFHAZDN:5
+review:A98MQSCXTMLN4:5
+review:A2RFEGGHLE9N9U:3
+review:A37RX5DO51B67N:4
+review:A3SBVTRU7301II:5
+review:A1VFCX7D378LXO:5
+review:A3RMNC4MDW8RRB:5
+review:A2ASEBCEN9ZWTZ:4
+review:ASUO4X1P6IS70:5
+review:A3OWLDCOV2U12V:5
+review:A9DNLR4954Z6C:5
+review:A3LS51OQJKG6RS:5
+review:AIZ0YNUYUKYLW:4
+review:AR0S77Z4OHK3J:4
+review:A13DQTXG02HZC1:3
+review:A1XU2VGHMZEHG4:4
+review:AR27NRC15UFLA:2
+review:A1N29A1IT4ZVN4:5
+review:A2NCQ0XFKTT86D:5
+review:A2DMKK8EY485KF:2
+review:AZK0QE7BT99US:3
+review:A2PP53697X6XWW:5
+review:A2QYF24QWJ9FV6:4
+review:A3LGXUU48B59C:5
+review:A1GXU80GNVNMJE:5
+review:A1OAAQ9SMM5RPD:5
+review:A1VFCX7D378LXO:5
+review:A24CZG01UKOZTR:5
+review:A27UKL88YNUGO7:4
+review:A3T3U15JYVHNQ5:3
+review:A191FN0R6069WX:4
+review:A3GBU5JCC43QQ5:5
+review:A2IFZM9JO3D0R8:5
+review:A20ZFWGBY4REFX:5
+review:A72120TZV1MTF:4
+review:A3KGLF4ORJJD20:5
+review:AG96854LXZHSP:4
+review:AINEXVPR5094O:4
+review:AINEXVPR5094O:5
+review:A22EUAVFE30FKU:4
+review:A2LWYRT27D8SLJ:4
+review:A1PKQR5BFHTN6K:4
+review:A3I8MUHXCTL1IM:4
+review:A8VZ4RYYLG8EF:1
+review:A11ESLGUC5SKFN:5
+review:A2AW4A1E87R9UH:5
+review:AO93LGLC367LI:5
+review:A219PI07RCZGNX:3
+review:A2BPYTCQSNGKWJ:1
+review:APMOKHK5S53MK:5
+review:A1HJGGZJPAKS4Y:5
+review:AB71SQQTY2O4F:1
+review:A294DWRBQUOIK4:3
+review:A2HWJL32UXN21X:3
+review:A1FJX9ILV2HB28:1
+review:APP45XD85ARYL:4
+review:A35YC4SHB2DVG7:5
+review:A3H9JSM1SUTE4O:3
+review:A1UNJ46NSB352E:4
+review:A1XX5797TIZT5Q:1
+review:A2004RU2K7D3WQ:4
+review:A8H23BCYS5HOR:2
+review:A3OMPSEVL59ZDK:4
+review:A1DM4HKYOGVYHM:4
+review:A1Y82T1F89V0QW:4
+review:A2IU2BSVWQLKJ7:4
+review:A2J57EQ9KPGXR9:5
+review:A2N5QMIZROR30U:1
+review:A3G9ZC9F3T63P5:4
+review:A2RN2AO4BE6F4K:3
+review:AKCF45Z2DV6TN:3
+review:A14Z0Q1DU6CBJJ:4
+review:A7P7ZBSC10APW:4
+review:A2R4HK5ZJKL0UH:5
+review:A1E0WJFWTG7R9W:5
+review:A2S1J4SB5GEI1Y:5
+review:A2H8ZHBB535RF2:5
+review:A3GAEVX42E80I1:5
+review:A1MDYZTYTVUI01:3
+review:A165UYEJI761I9:1
+review:AW7C9Y6DOYUFF:4
+review:A1OWMF3BA1BAUN:4
+review:A3CH5F65ZCJPSG:2
+review:A87SUE7R9F3JA:5
+review:AHUDPU70J9DIG:5
+review:ATU7IN379U985:4
+review:ARH5ACO67S1BL:5
+review:A3ENNPQCXYEUQL:5
+review:AU7GCW2QDNRVE:3
+review:A3LQ6XMR25MRJ9:5
+review:A33YGULPG1K4IY:3
+review:A21IFF9VTM7E0D:2
+review:A205VEX6FS1LNB:5
+review:A1GCRLV2DXZZ6S:5
+review:A2IH38ZMZDW3Z:3
+review:A1I01R0WW21Q1A:5
+review:A1F1J0QDZIVQRZ:1
+review:A1B350OHYHQTGX:3
+review:A1HR164TW1Q1IN:5
+review:A3Z3RR6B29MOJ:5
+review:A34DPXEGCFNZF4:5
+review:AEBP2J3JZADKK:4
+review:A2OEJDFBEOV159:2
+review:A3KGHA87OK1VBK:5
+review:AQL0JHPKVPHZF:4
+review:A2EXMGQEFLW0LD:3
+review:A6VXZ1EEPRTLV:3
+review:AZKPHQSUPQDUE:1
+review:A31PVKA75D4JYV:4
+review:A2VTRO4L9TE95F:4
+review:A3UN6WX5RRO2AG:5
+review:A1L0HZI35HF8OF:3
+review:A2XVRCU5DQBULH:2
+review:A3FF2O76OW66XK:5
+review:A11VNI8RQX3RWM:5
+review:A9GLEWAY2HY7Y:1
+review:A1S6KMRYJ6WG51:5
+review:A2IDPVM3G5BEIP:5
+review:APOGXH3A74CM3:5
+review:A3EF4YXBBBNVMJ:2
+review:A14DSLVE3VB6GR:5
+review:A2ZIGE5Q16OEQ1:5
+review:AE8YLQ8P45GR:5
+review:AGE0YI6WDOIT3:5
+review:A3N4B7MCPZVONN:3
+review:A3KF4IP2MUS8QQ:5
+review:A1ZS82R4RC0I2N:1
+review:A1R7N3TRWTZ4VJ:2
+review:A2JUT1W62UBCW:5
+review:A319SKSB556033:5
+review:A6B92S6DDJ30B:5
+review:AE0H66F76W2SM:5
+review:AIO7DRHJAWJNO:1
+review:A1G5LJ8T1IGYC5:3
+review:A7GWVTQC4XNY8:5
+review:AREO340US9QP8:5
+review:A2JLSHTST2SP1I:3
+review:ANRSA02G2025Y:5
+review:A2NX5UZ6WEZF0R:5
+review:A32O4GWGVV9VAG:4

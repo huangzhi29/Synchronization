@@ -1,0 +1,21 @@
+id:4290
+asin:6305836663
+title:Yosemite
+group:DVD
+salesrank:31949
+similar:5
+categories:7
+category:;DVD;Genres;Documentary;General
+category:;DVD;Genres;Special Interests;Nature & Wildlife
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( Y )
+category:;DVD;Genres;Special Interests;Travel;General
+category:;Amazon.com Stores;Travel;Categories;Travel DVDs;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:6
+review:A2TXW6DSQXYEH4:5
+review:A1VAV06T23ITLC:4
+review:A136YD08SCJ2LV:5
+review:A168MSLRU88PS5:3
+review:A1SJNRWUBWAD72:5
+review:A23JJ1J3B0BK88:1

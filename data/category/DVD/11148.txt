@@ -1,0 +1,30 @@
+id:11148
+asin:B0000560QE
+title:Double Suicide - Criterion Collection
+group:DVD
+salesrank:25395
+similar:5
+categories:15
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( I );Iwashita, Shima
+category:;DVD;Directors;( S );Shinoda, Masahiro
+category:;DVD;Genres;Art House & International;By Theme;Period Piece
+category:;DVD;Genres;Art House & International;By Country;Japan;General
+category:;DVD;Genres;Art House & International;By Country;Japan;Drama
+category:;DVD;Genres;Art House & International;By Country;Japan;Action & Adventure
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( D )
+category:;DVD;Genres;Drama;Love & Romance;Star-Crossed Lovers
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Drama
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Art House & International
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;All
+reviews:7
+review:A1H3CP6ECL5ITV:5
+review:A250LIGBOXW1K9:3
+review:A3R2YB0WTTB0IJ:3
+review:A1484U2Y4YFX2R:5
+review:A10NQI0VWDLW6D:4
+review:A2B8GXSCB1R05T:4
+review:A2VEGAL2UDF9U2:5

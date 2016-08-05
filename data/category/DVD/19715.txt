@@ -1,0 +1,44 @@
+id:19715
+asin:6305307210
+title:The Girl on a Motorcycle
+group:DVD
+salesrank:24435
+similar:5
+categories:23
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Erotic
+category:;DVD;Actors & Actresses;( D );Delon, Alain
+category:;DVD;Actors & Actresses;( D );Diamond, Arnold
+category:;DVD;Actors & Actresses;( F );Faithfull, Marianne
+category:;DVD;Actors & Actresses;( G );Goring, Marius
+category:;DVD;Directors;( C )
+category:;DVD;Genres;Cult Movies;Drama
+category:;DVD;Genres;Art House & International;By Genre;Drama
+category:;DVD;Genres;Art House & International;By Theme;Erotic
+category:;DVD;Genres;Art House & International;By Theme;On The Road
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Cult Movies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( G )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Cult Movies
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;Love & Romance;Star-Crossed Lovers
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:13
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:4
+review:A3KLJJWWU2S2RF:5
+review:A1DVG52XS5NPNC:5
+review:A1DVG52XS5NPNC:5
+review:A1DVG52XS5NPNC:5
+review:A110AFBE979HFW:1
+review:A1A8ZFGRTC7GWH:3
+review:ARWBEJYBMQMLS:5
+review:A3NHI94FA6ME71:5
+review:ALKJ2D3XP5223:3
+review:A3B2MJQKYN6WG0:1
+review:A30LMTLC9XVWKJ:5

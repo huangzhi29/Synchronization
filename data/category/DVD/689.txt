@@ -1,0 +1,103 @@
+id:689
+asin:B00004RFIE
+title:Mystery Science Theater 3000 - Eegah
+group:DVD
+salesrank:4681
+similar:5
+categories:14
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Science Fiction & Fantasy;Comedy
+category:;DVD;Actors & Actresses;( B );Beaulieu, Trace
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( H );Hodgson, Joel
+category:;DVD;Actors & Actresses;( M );Mallon, Jim
+category:;DVD;Actors & Actresses;( N );Nelson, Michael J
+category:;DVD;Directors;( M );Mallon, Jim
+category:;DVD;Genres;Television;TV Series;Mystery Science Theater 3000
+category:;DVD;Genres;Comedy;Television;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Genres;Comedy;Parody & Spoof;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+reviews:81
+review:ATVPDKIKX0DER:4
+review:A2TORR6E4EUCAF:5
+review:ATVPDKIKX0DER:5
+review:A1AAHRTQJ51J3S:5
+review:A2TORR6E4EUCAF:5
+review:A8815UMNEAR8S:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A3VEKMQ2U5437S:4
+review:A18O0MIW1YYQJK:5
+review:A3H5MS71EBGSHS:5
+review:AECIW09QOEXWU:5
+review:AS1UMI3URLRVN:5
+review:A1RP61F7NTSZ13:5
+review:A1FLD5LFCP7FDA:5
+review:AR4F820R46I1S:5
+review:A238M34Z3X2IBD:5
+review:A3FOO8469GBXOC:4
+review:AB2U893HHHG74:5
+review:A1YUBY4IO8EGYN:5
+review:A1YUBY4IO8EGYN:3
+review:A1GB1Q193DNFGR:5
+review:A1HBE82LS4PJ9M:4
+review:AQRTXMYZDE1EH:4
+review:AQRTXMYZDE1EH:4
+review:A1HBE82LS4PJ9M:4
+review:A112FAUJKVKCYQ:5
+review:A1RID4TAXDPQ06:5
+review:AUYU9S6MIET1Z:4
+review:AA21JFN2TKVCN:5
+review:A1K3WK2QHB8397:5
+review:AWOORUQZILNZ2:5
+review:A2GB9SCFXOJZZX:5
+review:A2INL3AYAT6325:4
+review:A1SIKR1LWVAV:5
+review:A3E1UIGSVRQXQ:5
+review:A3E1UIGSVRQXQ:5
+review:A2W6EDX8JKHWAA:5
+review:A1ZTE3K3EN4TS3:5
+review:A6GJ70R1C65QD:5
+review:A2I17T9XB6LSGW:4
+review:A280Q86OH9DLRZ:5
+review:A2R8THH1CDU50W:5
+review:A2F75U0YYXFO91:5
+review:A2FLRFADTGJSXE:5
+review:A2SX6KRQ1AJM50:5
+review:A1Q239XJPSI44W:5
+review:A3AUL23GMCOP2A:5
+review:A2GWZ040EO79IJ:5
+review:A2EXMGQEFLW0LD:5
+review:A3NXFFS4L2J6U1:5
+review:A1COW0UIB5HA9J:5
+review:AFBDOH8INGJYF:5
+review:AKY7BNMHYMXE2:5
+review:A2WHVLY1E8H35H:5
+review:A34WLHY06FVBKP:3
+review:A2GP0K91AWQMO2:5
+review:A1TAPIIEM2YI7E:4
+review:AMXQ338OY66T7:4
+review:A3NYATUZSZZ5AT:2
+review:A10NCNSS7PN93P:5
+review:A9289GI36SNQL:5
+review:A3KF4IP2MUS8QQ:5
+review:A169I83JL8QJGN:4
+review:A1UODWQ2K6DFXT:5
+review:A1OV0J1XIM2ZJD:5
+review:AOCZG3H4C1J1M:5
+review:A3LFMJWHJOWGSC:5
+review:A3U5JCXIXTGSLN:4
+review:A2W3ZK70GBC26R:4
+review:A1BWJ4VRY2Q6YQ:5
+review:A3EH76UZCIWDJX:3
+review:A1V3IO23FZFF9L:3
+review:A3U44XYZ21BFLK:5
+review:A1YWUPCT83WY48:5
+review:A2WSI8HOWHFDOT:5
+review:AK61LQI92GTCH:2
+review:ATP9LYGM6D3RO:5
+review:A1HFY0X38MBC02:1
+review:A1UES2KEHXOZDH:5
+review:A3OI841P5R6FCH:4

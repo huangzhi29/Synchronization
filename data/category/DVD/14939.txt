@@ -1,0 +1,29 @@
+id:14939
+asin:B00007G1TX
+title:The Stickup
+group:DVD
+salesrank:49460
+similar:5
+categories:9
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( H );Henry, Tim
+category:;DVD;Actors & Actresses;( K );Keith, David
+category:;DVD;Actors & Actresses;( L );Livingston, John
+category:;DVD;Actors & Actresses;( S );Spader, James
+category:;DVD;Actors & Actresses;( S );Stefanson, Leslie
+category:;DVD;Directors;( H );Herrington, Rowdy
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+reviews:12
+review:AAJ0EEWCGQ0L1:1
+review:AFEC3BV85IXS4:3
+review:A2AWI523UPQKNE:4
+review:A393WP17UXFMF:3
+review:A7NRGYVVT9XH9:4
+review:A328S9RN3U5M68:4
+review:A2MX1GT0THO9ND:5
+review:A10E0DB43O7C8H:5
+review:A25FN8R6BXVNEO:5
+review:A3CJXV5WVN04K2:5
+review:A312ZV97FQQA09:4
+review:A2T049UQONS0OY:5

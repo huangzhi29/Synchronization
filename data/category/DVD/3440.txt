@@ -1,0 +1,29 @@
+id:3440
+asin:B00005AQ4X
+title:Legendary World War II Movies (Gung Ho!/Go for Broke!/The Immortal Battalion)
+group:DVD
+salesrank:22109
+similar:5
+categories:18
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( D );Donald, James
+category:;DVD;Actors & Actresses;( G );Genn, Leo
+category:;DVD;Actors & Actresses;( H );Hartnell, William
+category:;DVD;Actors & Actresses;( H );Holloway, Stanley
+category:;DVD;Actors & Actresses;( L );Laurie, John
+category:;DVD;Actors & Actresses;( N );Niven, David
+category:;DVD;Actors & Actresses;( U );Ustinov, Peter
+category:;DVD;Directors;( R );Reed, Carol
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:3
+review:AC2OCDU5DXJMO:2
+review:A20EEWWSFMZ1PN:4
+review:A2D4Q0J8TVVQAU:1

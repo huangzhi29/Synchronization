@@ -1,0 +1,23 @@
+id:1622
+asin:B00008WJDS
+title:Dark Descent
+group:DVD
+salesrank:31172
+similar:5
+categories:11
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;All Fox Titles
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Action;General
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Fox DVD Budget Store;DVDs Under $15
+reviews:4
+review:A3VHPJ0MYNUUGX:1
+review:A1BPBB249ABHWF:4
+review:A3LZGLA88K0LA0:1
+review:A1CYOHNGQ1WED1:1

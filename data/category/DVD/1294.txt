@@ -1,0 +1,23 @@
+id:1294
+asin:B000056N8G
+title:Straight Out of Compton
+group:DVD
+salesrank:14478
+similar:0
+categories:10
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;By Theme;Urban Life
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:5
+review:A1RRRY0DIEOQ5T:3
+review:A1RRRY0DIEOQ5T:4
+review:A2CBNC3Q4IFXWX:5
+review:A5HVVUO2C0BH6:4
+review:A1G5LJ8T1IGYC5:1

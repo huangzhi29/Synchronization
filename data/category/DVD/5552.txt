@@ -1,0 +1,75 @@
+id:5552
+asin:6304604572
+title:The Lawnmower Man (New Line Platinum Series)
+group:DVD
+salesrank:18805
+similar:5
+categories:31
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Fully Loaded DVDs;New Line Platinum Series
+category:;DVD;Actors & Actresses;( B );Bringleson, Mark
+category:;DVD;Actors & Actresses;( B );Brosnan, Pierce
+category:;DVD;Actors & Actresses;( C );Collison, Frank
+category:;DVD;Actors & Actresses;( E );Evans, Troy
+category:;DVD;Actors & Actresses;( F );Fahey, Jeff
+category:;DVD;Actors & Actresses;( G );Gregory, Michael
+category:;DVD;Actors & Actresses;( L );Laughlin, John
+category:;DVD;Actors & Actresses;( L );Lewis, Geoffrey
+category:;DVD;Actors & Actresses;( L );Lykins, Ray
+category:;DVD;Actors & Actresses;( N );Norris, Dean
+category:;DVD;Actors & Actresses;( O );O'Brien, Austin
+category:;DVD;Actors & Actresses;( R );Raoul, Dale
+category:;DVD;Actors & Actresses;( S );Slate, Jeremy
+category:;DVD;Actors & Actresses;( W );Wright, Jenny
+category:;DVD;Directors;( L );Leonard, Brett
+category:;DVD;Genres;Horror;Horror Masters;Stephen King
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( L )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Computer Paranoia
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Technology Run Amok
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:36
+review:A30J23BVUT73WR:1
+review:ATVPDKIKX0DER:1
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:A32V2E9S14MEXO:3
+review:A1V5G1O9TRGO7M:4
+review:A17K4Y9DBHBP99:4
+review:A1FM6CJ2NZQ4C0:5
+review:A2TAWCG2SH8458:1
+review:ATVPDKIKX0DER:1
+review:A3PHBHTBBD344U:5
+review:A3S9887MZFNNH1:3
+review:A387DNH23AXDWE:1
+review:A2L7MFI5HZEUN9:2
+review:A2P9LHN8V4Y52X:3
+review:A3OI841P5R6FCH:3
+review:A31BUD04Q870J9:2
+review:A2QRB6L1MCJ53G:5
+review:ATVPDKIKX0DER:1
+review:A3UDYY6L2NH3JS:4
+review:A3DMC00WI1T9UJ:1
+review:A2JU30OX90G1JC:1
+review:A3IZB641OVOF6Z:1
+review:A2ULL5F4F3KVGZ:5
+review:AHBBL7SUR45AF:5
+review:A1V2JU1BQMF8EJ:3
+review:A3P1A63Q8L32C5:2
+review:A3BGAEASA4N4ZR:5
+review:A10VAM1WOW1M1K:3
+review:A1OS16UB24S7EI:5
+review:AWKCFBGFW76DN:1
+review:A1GHUN5HXMHZ89:2
+review:A2FS38D943KX12:1
+review:AAXIW3SRA0S4R:5
+review:A2L1RNP59X3CMN:5
+review:A3LZGLA88K0LA0:3

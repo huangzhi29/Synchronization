@@ -1,0 +1,18 @@
+id:8248
+asin:B00005YUO9
+title:The Movies Begin - A Treasury of Early Cinema, 1894-1913
+group:DVD
+salesrank:13090
+similar:5
+categories:4
+category:;DVD;Genres;Classics;General
+category:;DVD;Genres;Classics;Silent Films;General
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Formats;Boxed Sets;Classics
+reviews:6
+review:A1NX2OBV6S4QUD:5
+review:A16SS8HYJW7IEJ:5
+review:A12KDW2EB3JOLH:5
+review:A2ACDMH3ZSTM8N:5
+review:A3UN6WX5RRO2AG:5
+review:A3L031S6LBSCA0:5

@@ -1,0 +1,24 @@
+id:15283
+asin:B00005RDAP
+title:Cabin by the Lake / Return to Cabin by the Lake
+group:DVD
+salesrank:28780
+similar:5
+categories:9
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Actors & Actresses;( B );Burress, Hedy
+category:;DVD;Actors & Actresses;( C );Coulson, Bernie
+category:;DVD;Actors & Actresses;( G );Gibney, Susan
+category:;DVD;Actors & Actresses;( N );Nelson, Judd
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:7
+review:A234E049AXP16Z:5
+review:A2U7UDAOH1LNYP:1
+review:AI1JH85OW8J6B:3
+review:A3G1ATNDU80KAE:5
+review:AZN9WEGTFD3ME:5
+review:A1OKMIT8B373YD:4
+review:A3GKPMHV4U64IY:4

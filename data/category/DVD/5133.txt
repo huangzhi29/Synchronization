@@ -1,0 +1,28 @@
+id:5133
+asin:B00005NQH0
+title:Rock Icons - Psychedelic High
+group:DVD
+salesrank:39189
+similar:5
+categories:12
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Artists;Osbourne, Ozzy
+category:;DVD;Special Features;Today's Deals in DVD;Music Video & Concerts
+category:;DVD;Genres;Music Video & Concerts;Artists;Cooper, Alice
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( R )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Music Video & Concerts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:8
+review:A20OEHFRP5KK1I:1
+review:A3V4GDPNWL8PLO:1
+review:A36JWJ9QDFSYOI:1
+review:A2KHEBLWI2VNHP:1
+review:A2N0X5UF78XJ9Z:2
+review:A2N0X5UF78XJ9Z:2
+review:A21EZ3M5XP4A6O:4
+review:A3L2FTTXZ6HHFF:4

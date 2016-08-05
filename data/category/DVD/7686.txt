@@ -1,0 +1,37 @@
+id:7686
+asin:B00006BS7S
+title:Son of the Bride
+group:DVD
+salesrank:14734
+similar:5
+categories:9
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( A );Aleandro, Norma
+category:;DVD;Genres;Art House & International;By Theme;Family Interaction
+category:;DVD;Genres;Art House & International;By Country;Argentina
+category:;DVD;Genres;Art House & International;By Original Language;Spanish
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;Sony Pictures Classics
+category:;DVD;Genres;Comedy;By Theme;Family Gatherings
+reviews:20
+review:A1YFAKQCAM7P41:5
+review:A1MRLPZ0RAH99J:5
+review:A1TJPMB7N776WS:4
+review:A1C3GFZZAQD4OT:5
+review:A328S9RN3U5M68:5
+review:A3G23LG3FQ1NTF:4
+review:AR10FQI7X3JFQ:5
+review:A111BH1GN0D33Z:5
+review:A2QHM5HBSIXRL4:4
+review:AOZU717S8FS6T:5
+review:A2QKJCQMACNIAC:5
+review:A3EQ4YAZ5OEVK9:5
+review:A3EQ4YAZ5OEVK9:5
+review:A34PN9T3BVYU9W:5
+review:A2PHTC6ZYUXH84:5
+review:A1FPFWDC1ASYNJ:5
+review:ATE5SA1VTJNP8:5
+review:A2ODBHT4URXVXQ:5
+review:AY3ZGCTY5BOJ0:5
+review:AXQ8T2D9IT6UG:5

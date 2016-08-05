@@ -1,0 +1,20 @@
+id:515
+asin:B000050X32
+title:Anne-Sophie Mutter - A Life with Beethoven
+group:DVD
+salesrank:31160
+similar:5
+categories:8
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Concerts;General
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Chamber Music
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Violin
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Composer;Beethoven, Ludwig van
+category:;DVD;Genres;Musicals & Performing Arts;Classical;By Historical Period;Classical (c.1770-1830)
+reviews:4
+review:A2AQX8BXMTRD2L:5
+review:A3NW796RROIEXZ:5
+review:A2LUHMN1BYIJSN:4
+review:A28YVF72KWOJ1X:5

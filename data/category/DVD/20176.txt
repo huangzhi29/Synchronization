@@ -1,0 +1,58 @@
+id:20176
+asin:B000063V8M
+title:Tarzan & Jane
+group:DVD
+salesrank:8475
+similar:5
+categories:8
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Actors & Actresses;( A );Auberjonois, Rene
+category:;DVD;Actors & Actresses;( D );D'Abo, Olivia
+category:;DVD;Actors & Actresses;( S );Sheridan, Nicollette
+category:;DVD;Actors & Actresses;( W );Weiss, Michael T
+category:;DVD;Special Features;Titles;( T )
+reviews:42
+review:A1YQ2JSVKL2H8A:1
+review:A2AGJMHF6DN43C:1
+review:A3JFWAZS1SSPHO:4
+review:A5G49ZZVC403M:2
+review:A28GJVFCB9BHMV:4
+review:A28GJVFCB9BHMV:4
+review:A3NPX27P4U8QJF:3
+review:AL4RN82P4CIH0:1
+review:AMZQTDKAID5AC:1
+review:A3UN6WX5RRO2AG:2
+review:AA5XZVANDXGJE:3
+review:ASSQR8PQG67ET:1
+review:A10FXAHPFX25AY:1
+review:A2BNSJW5KX9M5H:2
+review:A29HL1A5MMZR63:1
+review:A3A2QP9OBXOYAK:2
+review:A1YSI3ANJ92VKA:2
+review:A34G9NXRUNW5DV:1
+review:A17SPE9NBS74YY:1
+review:A1PJWDP4M0WNK4:1
+review:A145I2IHP4ZK19:1
+review:A2QK1IXPCPTHR0:5
+review:A396VFQ0EQ2NFL:2
+review:A3VQC295KB8V50:1
+review:A1IRDHA4IZFFKX:1
+review:AUTGXZWHSXB0V:1
+review:A3BAIGZXDN2I13:4
+review:A3D0EQ3A2WO25R:1
+review:A3PTRCYDGZ5Y9N:4
+review:A3UN6WX5RRO2AG:4
+review:A1C9GCHR99WX3F:5
+review:A2O5RU9ISIKGLT:1
+review:A1XP0SG9NX4UKJ:1
+review:A2W00XKTTF1G0Z:1
+review:A3NJQ5U36RC5BY:5
+review:A2FM09EQVC5W6B:1
+review:A3UN6WX5RRO2AG:2
+review:A3G3V0IM6SC7TL:3
+review:A1KEZ1QO4K4W7G:1
+review:A20UCZESTP07IE:1
+review:A3UN6WX5RRO2AG:1
+review:A29L2RN5D8C0HM:2

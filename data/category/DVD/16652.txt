@@ -1,0 +1,53 @@
+id:16652
+asin:B00003W8NU
+title:Total Recall 2070
+group:DVD
+salesrank:19737
+similar:5
+categories:26
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Science Fiction & Fantasy;Sci-Fi Action
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Actors & Actresses;( D );Doliveira, Damon
+category:;DVD;Directors;( A );Azzopardi, Mario
+category:;DVD;Directors;( G );Gerber, Fred
+category:;DVD;Directors;( M );Mendeluk, George
+category:;DVD;Directors;( M );Montesi, Jorge
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Genres;Science Fiction & Fantasy;Television;General
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Dimension Films
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( T )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Technology Run Amok
+category:;DVD;Genres;Science Fiction & Fantasy;Futuristic
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;Sci-Fi Action
+category:;DVD;Special Features;Today's Deals in DVD;Science Fiction & Fantasy;Futuristic
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;Sci-Fi Action
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Science Fiction & Fantasy;Futuristic
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:19
+review:AHULI33AIKAJ:1
+review:A3DGI1C6OS8AOF:5
+review:A28FPY7E22K1J6:4
+review:A3G9YKIJW9KXF:1
+review:A2QG3EBVKEIP1X:1
+review:A1OF55F1BOZOS0:2
+review:A3HEQ44FOYXNXO:4
+review:A3HOI0Z8RRG4L6:5
+review:A2UMA06C7FK0UE:2
+review:A1D7Q4F7IEO2Y7:5
+review:AY86Z5DQB6YRS:5
+review:AI2356QT6UV93:5
+review:A32ABYSVD54TLD:3
+review:A2M99KB944SJ5Y:4
+review:A24SMAVOOG6LQ7:2
+review:A2A7CI7OWBOI3A:2
+review:A24TK581E3Y32S:5
+review:A3LZGLA88K0LA0:3
+review:A1LX5CW653NKBU:4

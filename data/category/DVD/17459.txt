@@ -1,0 +1,22 @@
+id:17459
+asin:B00005A07O
+title:Bloodlust/Atom Age Vampire
+group:DVD
+salesrank:50886
+similar:0
+categories:11
+category:;DVD;Genres;Horror;General
+category:;DVD;Actors & Actresses;( F );Fantoni, Sergio
+category:;DVD;Actors & Actresses;( G );Garrani, Ivo
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Horror;Italian Horror;General
+reviews:3
+review:A30SAIQ9SX0OEY:5
+review:A27E8WBZPYJX87:4
+review:A2NJO6YE954DBH:4

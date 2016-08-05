@@ -1,0 +1,21 @@
+id:308
+asin:B00006LU76
+title:Wing Chun Kung Fu
+group:DVD
+salesrank:49525
+similar:0
+categories:9
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Special Interests;General
+category:;DVD;Genres;Sports;General
+category:;DVD;Genres;Action & Adventure;Martial Arts;General
+category:;DVD;Genres;Sports;Martial Arts
+category:;DVD;Special Features;Titles;( W )
+category:;DVD;Specialty Stores;Independently Distributed;Action & Adventure
+category:;DVD;Specialty Stores;Independently Distributed;Sports
+category:;DVD;Specialty Stores;Independently Distributed;Special Interests
+reviews:4
+review:A24MDYO5UBUA5R:1
+review:AB72ESVABSWUC:1
+review:A3HNKLOZ0ZRJHY:5
+review:A2M0Q95LWJNAM8:5

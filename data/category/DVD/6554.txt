@@ -1,0 +1,19 @@
+id:6554
+asin:B00000JYXB
+title:Mars
+group:DVD
+salesrank:34865
+similar:5
+categories:5
+category:;DVD;Genres;Documentary;General
+category:;DVD;Genres;Special Interests;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:6
+review:AGM8TOZF1CNHB:5
+review:A3RGPV2QUFYOYD:1
+review:A2KR03XVI2VN6F:5
+review:A2QMG5UZM28QND:3
+review:A2NJOX5J9T6BMA:2
+review:AMD0D98AB073P:2

@@ -1,0 +1,44 @@
+id:14382
+asin:B00006FDAT
+title:The Big Knife
+group:DVD
+salesrank:31015
+similar:5
+categories:26
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Melodrama
+category:;DVD;Actors & Actresses;( A );Addy, Wesley
+category:;DVD;Actors & Actresses;( B );Boone, Richard
+category:;DVD;Actors & Actresses;( C );Corey, Wendell
+category:;DVD;Actors & Actresses;( E );Emhardt, Robert
+category:;DVD;Actors & Actresses;( H );Hagen, Jean
+category:;DVD;Actors & Actresses;( L );Langton, Paul
+category:;DVD;Actors & Actresses;( L );Lupino, Ida
+category:;DVD;Actors & Actresses;( M );Martin, Strother
+category:;DVD;Actors & Actresses;( P );Palance, Jack
+category:;DVD;Actors & Actresses;( S );Sloane, Everett
+category:;DVD;Actors & Actresses;( S );Steiger, Rod
+category:;DVD;Actors & Actresses;( V );Volkie, Ralph
+category:;DVD;Actors & Actresses;( W );Walker, Bill
+category:;DVD;Actors & Actresses;( W );Winters, Shelley
+category:;DVD;Directors;( A );Aldrich, Robert
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Drama;Love & Romance;Marriage
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Addiction & Alcoholism
+category:;DVD;Genres;Drama;By Theme;Psychological Drama
+category:;DVD;Genres;Drama;By Theme;Down on Their Luck
+category:;DVD;Genres;Drama;By Theme;Redemption
+reviews:10
+review:A1EHO1C89QIBOT:4
+review:A2LB1I6GV3N02S:5
+review:AJRPOXVAQ4JW0:4
+review:A2IN5NX3LAGDTK:5
+review:A2UUWETDYA2EKV:4
+review:A2JJOLN5OIUCOI:5
+review:A1GF7BR6K22GZD:5
+review:A388IJMJFC1BXN:5
+review:AH1M9A3JTV7C3:3
+review:A9UV0PZMQCZUF:4

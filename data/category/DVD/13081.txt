@@ -1,0 +1,34 @@
+id:13081
+asin:B000075SNH
+title:Never Again
+group:DVD
+salesrank:22979
+similar:5
+categories:13
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( A );Aaron, Caroline
+category:;DVD;Actors & Actresses;( C );Clarke, Caitlin
+category:;DVD;Actors & Actresses;( C );Clayburgh, Jill
+category:;DVD;Actors & Actresses;( D );Duke, Bill
+category:;DVD;Actors & Actresses;( D );Duncan, Sandy
+category:;DVD;Actors & Actresses;( M );McKean, Michael
+category:;DVD;Actors & Actresses;( T );Tambor, Jeffrey
+category:;DVD;Directors;( S );Schaeffer, Eric
+category:;DVD;Genres;Comedy;Romantic Comedies;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( N )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:13
+review:A18COLGRTXTA2W:5
+review:A20F530DU6MXHR:5
+review:A238UMERPBLZ1R:5
+review:A17RLBAMA0GPMK:5
+review:A3EX8ZFNVDHGPM:4
+review:A1J0MKUPW1NQ1Y:5
+review:A3BARBKDIRTP0O:5
+review:A1FIGV6FNSYXCP:5
+review:A1GQKWQQDB35NU:5
+review:A3CUOQ2FP5GQHC:1
+review:ABDB712THKGP2:5
+review:A2TJWNRBBU82FQ:5
+review:A3EUHMKN85IZOV:5

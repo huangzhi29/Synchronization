@@ -1,0 +1,19 @@
+id:15690
+asin:B000094J88
+title:Twiztid - The Purple Show
+group:DVD
+salesrank:14810
+similar:5
+categories:8
+category:Music;Styles;Rap & Hip-Hop;Gangsta & Hardcore
+category:;DVD;Genres;Music Video & Concerts;General
+category:Music;Styles;Rock;Rap Rock
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( T )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:3
+review:AHLGQG7YR37SY:5
+review:A1WJFYY7T9MP9:4
+review:A1WPA7WBWQ92YE:2

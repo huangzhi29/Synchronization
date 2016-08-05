@@ -1,0 +1,85 @@
+id:18476
+asin:6305408998
+title:The '60s
+group:DVD
+salesrank:18511
+similar:5
+categories:29
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Documentary;General
+category:;DVD;Actors & Actresses;( B );Byrne, Jenna
+category:;DVD;Actors & Actresses;( G );Gorman, Cliff
+category:;DVD;Actors & Actresses;( G );Grier, David Alan
+category:;DVD;Actors & Actresses;( H );Hamilton, Josh
+category:;DVD;Actors & Actresses;( L );Leitch, Donovan
+category:;DVD;Actors & Actresses;( M )
+category:;DVD;Actors & Actresses;( O );O'Connell, Jerry
+category:;DVD;Actors & Actresses;( S );Sisto, Jeremy
+category:;DVD;Actors & Actresses;( S );Smitrovich, Bill
+category:;DVD;Actors & Actresses;( S );Stiles, Julia
+category:;DVD;Directors;( P );Piznarski, Mark
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Drama;By Theme;Coming of Age
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Drama;By Theme;Culture Clash
+category:;DVD;Genres;Drama;By Theme;Social Injustice
+category:;DVD;Genres;Drama;By Theme;Fighting the System
+category:;DVD;Genres;Drama;By Theme;Generation Gap
+category:;DVD;Genres;Drama;By Theme;Ensemble Films
+category:;DVD;Genres;Drama;By Theme;Historical Epic
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:48
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:1
+review:A2AYDXGEMJW2I6:4
+review:A2T5EZM2NFNA7R:5
+review:A12E1MCB9M2ZQS:4
+review:ATVPDKIKX0DER:5
+review:A1UHG8FGWOFZ6D:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:3
+review:A1OE7FQ9RUHSMF:5
+review:A1B1UP8LULI8X3:5
+review:A9Q28YTLYREO7:1
+review:A3KHXE7ETQRBX8:5
+review:A3LQDXD4OSVL9W:4
+review:A2FBJK2NDAD5M0:4
+review:AS1HLLZFG0QL5:5
+review:A1OBPHRXHZF8P6:3
+review:APAWL5OYAF0K0:5
+review:A16EHVKLVS7AEQ:5
+review:A1LS7IJF6JEC1W:4
+review:A30KDZPOU49FIY:4
+review:A2HT5CTX29MRMX:4
+review:A24PDD7TR2BOT0:4
+review:A1Z15I7HY3MDM9:5
+review:A3C851870WVD5Z:1
+review:A143I4UR10CZHY:5
+review:A1RPTVW5VEOSI:1
+review:ARBXTECWZXS6O:5
+review:A1A9US805UWFPY:2
+review:A1AJKENCX6A7C3:5
+review:A3IVY7VCUYXCHF:5
+review:A2AYKBPEJLC39K:5
+review:AIEMT36ROZLHM:5
+review:A3AQMGZ1ILSUIN:5
+review:A2T5Z4K6EZWLCA:4
+review:A297GGQIC4W2YM:4
+review:A3UPXDOBXVYYVP:5
+review:A1F50G8QDFTRD7:5
+review:A2SU0F8DZS0OD7:1
+review:A3P4DKBKOY3GUW:4
+review:A2RC6ARRCTZ1NK:4
+review:A29IZHY1KNWQWV:5
+review:AXMKAXC0TR9AW:5
+review:A8FHD1LK8ZZ0K:5

@@ -1,0 +1,120 @@
+id:20180
+asin:B000063V8K
+title:Nixon - Collector's Edition
+group:DVD
+salesrank:4685
+similar:5
+categories:23
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Political Drama
+category:;DVD;Genres;Drama;By Theme;Biography
+category:;DVD;Actors & Actresses;( A );Allen, Joan
+category:;DVD;Actors & Actresses;( B );Boothe, Powers
+category:;DVD;Actors & Actresses;( B );Bower, Tom
+category:;DVD;Actors & Actresses;( D );Dunn, Kevin
+category:;DVD;Actors & Actresses;( F );Finkel, Fyvush
+category:;DVD;Actors & Actresses;( G );Gish, Annabeth
+category:;DVD;Actors & Actresses;( G );Goldwyn, Tony
+category:;DVD;Actors & Actresses;( H );Hagman, Larry
+category:;DVD;Actors & Actresses;( H );Harris, Ed
+category:;DVD;Actors & Actresses;( H );Hopkins, Anthony
+category:;DVD;Actors & Actresses;( H );Hoskins, Bob
+category:;DVD;Actors & Actresses;( P );Paymer, David
+category:;DVD;Actors & Actresses;( P );Pierce, David Hyde
+category:;DVD;Actors & Actresses;( S );Sorvino, Paul
+category:;DVD;Actors & Actresses;( S );Steenburgen, Mary
+category:;DVD;Actors & Actresses;( W );Woods, James
+category:;DVD;Directors;( S );Stone, Oliver
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( N )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:89
+review:A1P8CHG38LLE0H:4
+review:ATVPDKIKX0DER:5
+review:A2SEIL4SLLANVH:5
+review:A3O3DVZBTMNLUK:5
+review:AQI212NVGWM6:5
+review:ATVPDKIKX0DER:3
+review:A3N3SN2DDD4HCJ:5
+review:A3N3SN2DDD4HCJ:5
+review:ATSNSN593RYIG:5
+review:A3IRQ039BTWDH3:5
+review:ATVPDKIKX0DER:4
+review:AWI5YJF7TCN92:3
+review:A35GHU6BC3I1AW:2
+review:AII02UXA4DKTV:5
+review:A3LURJELGXD868:5
+review:A3KCKMRUCEE1BA:4
+review:A3VIVMVN2Z7EUW:4
+review:A2FA18B50XGXJX:5
+review:A2HQ2JE01E8K6P:4
+review:A8BK2SJMHBMHK:5
+review:A3IB1W0SVED0Z3:2
+review:A1AADZ6JYMZJ45:3
+review:A3N3SN2DDD4HCJ:5
+review:A387PO4MXB2FT1:5
+review:A4SJJVAZQ46VU:4
+review:AGSWTH7SP2256:5
+review:AJUWDV8TMBPL5:5
+review:AJUWDV8TMBPL5:5
+review:A1EKSBLRSDUE01:5
+review:A25YDJTZX2YEPC:5
+review:A2MSOMM8D4XHDL:5
+review:A6D5JWBNOKOB9:5
+review:A2D8CUJPOSRPNA:4
+review:A2887J6P8VPB5H:4
+review:A3NTNZJXQRN7QE:5
+review:ANZGV8MI6XYB1:5
+review:A2P3CT0PGRT42E:2
+review:AALEI1DQM21KA:5
+review:A1TTJASLYLHH3L:5
+review:AXA7OH47LBXZ7:2
+review:A356TJCTCLDN89:3
+review:A33IA49AB5SPG9:4
+review:A37ZMU183AZBPS:5
+review:AH3V7C2R1CGLC:5
+review:A3UN6WX5RRO2AG:4
+review:A3GK51JW3VWPRV:5
+review:A2D80I8N1BE7BF:2
+review:A3P1A63Q8L32C5:4
+review:A13EUSV15UDAUG:3
+review:AP0DQSDFSLP4P:4
+review:AP0DQSDFSLP4P:4
+review:A33FH4X2T5I5CC:5
+review:AI3PFAMR6RCL8:2
+review:AI3PFAMR6RCL8:2
+review:A17TA0XXMZ8CUQ:4
+review:AP0DQSDFSLP4P:4
+review:A17FLA8HQOFVIG:3
+review:A1RDPBXEFS35K9:3
+review:A2B8DJ0CKN9FAO:5
+review:A6983Y8CCWSAW:4
+review:A2AHR2HAGRCUET:5
+review:A3LVSBH5BUOS4X:4
+review:A1O5WCL3MNA8DN:1
+review:AQ01Q3070LT29:3
+review:A3UDYY6L2NH3JS:5
+review:ATQTE464YAZM1:3
+review:A2SOBKDCENPYZP:3
+review:A2Q42ON9CEHR4O:3
+review:AMWFJLNUGS5D3:5
+review:A2V3P1XE33NYC3:3
+review:AY9EQ7VX358XF:5
+review:A35P7ED76HLI94:4
+review:A21B2TJBWCSK1R:5
+review:A2ZSC81MXLBELX:5
+review:AC8KME18C73OC:5
+review:A3ODVVP9XO42L:5
+review:A1C57UGS28DU91:5
+review:A1DU58OZJNPUHV:5
+review:AL4MKKO24563R:5
+review:AR65T48IS7PAT:3
+review:A37ZOGOK3GKF2P:3
+review:A2HII4U9WQ0XUV:4
+review:A27GSWH88XPIEX:5
+review:A3JPFWKS83R49V:4
+review:A1A043A4JU4T7B:5
+review:A1R602SXNGOMJ4:3
+review:A3F2Z34PLHLT7D:4
+review:ABN5K7K1TM1QA:5
+review:A3CEK2IOEH0ORW:4

@@ -1,0 +1,20 @@
+id:19588
+asin:B00007E1NB
+title:Hot Hawaiian Nights
+group:DVD
+salesrank:10361
+similar:5
+categories:10
+category:Music;Styles;International;Pacific Islands;Hawaii
+category:;DVD;Genres;Musicals & Performing Arts;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Musicals & Performing Arts;Independently Distributed
+category:;DVD;Genres;Music Video & Concerts;Other Music;Independently Distributed
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( H )
+category:;Amazon.com Stores;Travel;Categories;Music for Travelers;Pacific Islands;Hawaii
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Specialty Stores;Independently Distributed;Music Video & Concerts
+reviews:2
+review:A27TIITJE9SXR5:5
+review:A319KYEIAZ3SON:5

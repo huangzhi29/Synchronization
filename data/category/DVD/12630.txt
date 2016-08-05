@@ -1,0 +1,41 @@
+id:12630
+asin:B000063K1T
+title:Scooby-Doo's Creepiest Capers
+group:DVD
+salesrank:10747
+similar:5
+categories:18
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Genres;Kids & Family;10-12 Years
+category:;DVD;Actors & Actresses;( W );Welker, Frank
+category:;DVD;Genres;Kids & Family;Characters & Series;Scooby Doo
+category:;DVD;Genres;Kids & Family;Characters & Series;Cartoon Network;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Kids & Family
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Kids & Family;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Kids & Family;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:15
+review:AGVVGZ6HOI5HT:5
+review:A2SPKZR9Z9TNHT:1
+review:A3D79JDYU6572V:1
+review:A1DZET7CRET7O6:3
+review:A1GQZOORFUAIAI:5
+review:AH9DF9PB5EK20:5
+review:A3EOHYIHQM3KK:4
+review:A2OVCJTNUUEYBX:5
+review:A2SFE3ZWTOI9WJ:5
+review:A1Q4PMGJ8O4D3Q:4
+review:A23HTHSRWOI7Y0:3
+review:AWIARNLQI6FE7:1
+review:A3E33O7XU2MYL2:5
+review:A3BO4RL9DSJNE6:1
+review:ALQ0K39323LV8:3

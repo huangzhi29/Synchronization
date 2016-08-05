@@ -1,0 +1,78 @@
+id:9182
+asin:6305511055
+title:Three Days of the Condor
+group:DVD
+salesrank:524
+similar:5
+categories:21
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Mystery & Suspense;Thrillers
+category:;DVD;Actors & Actresses;( D );Dunaway, Faye
+category:;DVD;Actors & Actresses;( G );Garrett, Hank
+category:;DVD;Actors & Actresses;( H );Houseman, John
+category:;DVD;Actors & Actresses;( R );Redford, Robert
+category:;DVD;Actors & Actresses;( R );Robertson, Cliff
+category:;DVD;Actors & Actresses;( S );Stenborg, Helen
+category:;DVD;Actors & Actresses;( S );Sydow, Max Von
+category:;DVD;Directors;( P );Pollack, Sydney
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( T )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Mystery & Suspense;By Theme;Assassination Plots
+category:;DVD;Genres;Mystery & Suspense;By Theme;Political Conspiracies
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Classics
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Drama
+reviews:49
+review:ATVPDKIKX0DER:5
+review:A1VEB87QHHGMYH:5
+review:AUHCT99R5J1L:5
+review:A3UT41TWD7N0D5:5
+review:ATRVM5Z5C5C4R:5
+review:A2HB5AKSYMT6UA:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A17D77DFID0GZG:5
+review:A3W18T2ITHXW5O:5
+review:A22RIXSX515UR0:5
+review:A5D8LBD26OSPF:5
+review:A9MNGJ3BQP36Z:5
+review:A2K9IVPCTJUQHN:4
+review:A1MJMYLRTZ76ZX:5
+review:A2X44AITMRTNC4:5
+review:A1ZM1ZNJ6BN4GO:5
+review:A1FG3A3V5IAEG9:5
+review:A3OY68WXYQ4GOF:4
+review:A3R2YB0WTTB0IJ:4
+review:ALR35EFI69S5R:5
+review:A2MNMZMM6BGLTA:5
+review:A1XOS3IJIKZDQE:5
+review:A1EFAJ4Q7XFJWD:5
+review:A1XX5797TIZT5Q:5
+review:A1SYSKR79LA2CB:5
+review:ALL1FP9104LVL:5
+review:A20EEWWSFMZ1PN:5
+review:A2KGAB4AIDVJ05:5
+review:A3PHF9UV3F177L:3
+review:A26JGAM6GZMM4V:4
+review:A2XCCY6NPRMIB:5
+review:A17INU4IPI2F8M:5
+review:A15G70V9OBTOVO:4
+review:A15G70V9OBTOVO:4
+review:A38B1TAM6HZOXA:5
+review:A3D6TFYRMIV3ZL:5
+review:A3S75QQLGAOOAO:3
+review:A3ODVVP9XO42L:4
+review:AYZLXLVMJGTJV:5
+review:A15Q7ABIU9O9YZ:5
+review:A20LY8E9NGYA4M:4
+review:A17E7K3MQ5KKR5:5
+review:AEB1FNMNHQY4U:5
+review:AEB1FNMNHQY4U:5
+review:A1ZCYC0RHTRMZF:5
+review:A16CZRQL23NOIW:5
+review:AUCY8FDXU7W8M:5
+review:AAUAOPPH3PBB2:5

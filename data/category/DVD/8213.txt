@@ -1,0 +1,30 @@
+id:8213
+asin:B0000687BP
+title:Lord Peter Wimsey - The Unpleasantness at the Bellona Club
+group:DVD
+salesrank:20038
+similar:5
+categories:14
+category:;DVD;Genres;Mystery & Suspense;Mystery
+category:;DVD;Actors & Actresses;( C );Carmichael, Ian
+category:;DVD;Actors & Actresses;( L );Law, Phyllida
+category:;DVD;Actors & Actresses;( N );Newark, Derek
+category:;DVD;Actors & Actresses;( Q );Quentin, John
+category:;DVD;Actors & Actresses;( W );Welsh, John
+category:;DVD;Genres;Mystery & Suspense;Detectives
+category:;DVD;Special Features;Titles;( L )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;DVD;Formats;Boxed Sets;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;By Theme;Whodunnit?
+category:;DVD;Genres;Mystery & Suspense;Series & Sequels;Lord Peter Wimsey
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Genres;Drama;Television;General
+reviews:8
+review:A9MAUO67ABVOB:5
+review:AY3AVLL5IWW9:5
+review:A1Z793ELUVW2ZV:4
+review:A14OJS0VWMOSWO:5
+review:A1G56KHOUOFWDW:5
+review:A37A8YTPF4IJ0K:4
+review:ANFE7Q9YIGYZA:5
+review:A2XXV9HF169LCF:5

@@ -1,0 +1,31 @@
+id:6606
+asin:B00000JYX6
+title:Coral Sea Dreaming
+group:DVD
+salesrank:11319
+similar:5
+categories:7
+category:;DVD;Genres;Documentary;General
+category:;DVD;Genres;Special Interests;General
+category:;DVD;Genres;Special Interests;Nature & Wildlife
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( C )
+category:;DVD;Genres;Special Interests;Religion & Spirituality;General
+category:;DVD;Genres;Special Interests;Home & Garden;General
+reviews:16
+review:A2XB1NA6YHPYA9:5
+review:A2D3YG3ALZ9GCC:5
+review:A1MQHE3CUJN9O9:5
+review:A36JK8MZ59X3BH:5
+review:A2NBRQEJZSL72U:5
+review:A35DQVXZZN49TT:5
+review:A2VQ2WUKSPJAP8:3
+review:A2JA25X0WDE521:5
+review:A3L5X4KHX4F4ZO:3
+review:A11ZYXHVN3I56G:5
+review:A2NGBZ5N7LJNHU:5
+review:A15Y1XKSEZKAES:5
+review:AQSNJ8HQ3WHMS:5
+review:A2UI0WEGUT7RXO:5
+review:A25BJ2XNSFUJGR:4
+review:A1S3B70QOEF8X4:5

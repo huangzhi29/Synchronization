@@ -1,0 +1,48 @@
+id:9708
+asin:B000021Y7K
+title:Van Halen
+group:DVD
+salesrank:21584
+similar:5
+categories:11
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Special Features;Today's Deals in DVD;Music Video & Concerts
+category:;DVD;Genres;Music Video & Concerts;Artists;Van Halen
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( V )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Music Video & Concerts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:29
+review:A1P2NBM3P3TS2X:3
+review:ATVPDKIKX0DER:4
+review:A29MO64O1SY8GR:4
+review:A3RGXX4G91S1XR:3
+review:A1IFAE3IFIQL7Q:2
+review:A1AG1JY30ATJVN:4
+review:A1ESYWD9UOMMNE:2
+review:A2RW8ZVCXPCQMX:2
+review:A2DT6D4QYYACAR:2
+review:A1133ONLATLKSL:4
+review:A2X9ZBQXOX842K:4
+review:AE7TUOQEG3N26:3
+review:A1YJCOTBYED056:5
+review:AILS6BC0Y9KVY:2
+review:A1HXUEZO7V9FAW:4
+review:AJHFGRMVL5TBU:2
+review:A3HLUNEJUT3MSP:4
+review:A1RAZCVTMZ95UD:5
+review:A2E2R8N7UMTLJF:3
+review:A16DMCKV9RMQGI:3
+review:A1BX6W6ITX6Y8:5
+review:A3J3V21ZG1ZMYD:4
+review:AZCOCNYXMXWG7:4
+review:AQ8DU6XVA3USJ:4
+review:AKP40TIE5SVSQ:4
+review:A19N698DWTYPHD:4
+review:A3IT4QK7OVZ7WM:5
+review:A34D06JL7LC6MU:5
+review:A3UN6WX5RRO2AG:4

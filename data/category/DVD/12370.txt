@@ -1,0 +1,19 @@
+id:12370
+asin:B00005TPLI
+title:Wet Hot American Summer
+group:DVD
+salesrank:11388
+similar:5
+categories:11
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Farce
+category:;DVD;Genres;Comedy;By Theme;Opposites Attract
+category:;DVD;Actors & Actresses;( G );Garofalo, Janeane
+category:;DVD;Actors & Actresses;( M );Marino, Ken
+category:;DVD;Actors & Actresses;( O );Orth, Zak
+category:;DVD;Actors & Actresses;( P );Pierce, David Hyde
+category:;DVD;Actors & Actresses;( R );Rudd, Paul
+category:;DVD;Special Features;Titles;( W )
+category:;DVD;Genres;Comedy;Parody & Spoof;General
+category:;DVD;Genres;Comedy;By Theme;Vacations
+reviews:0

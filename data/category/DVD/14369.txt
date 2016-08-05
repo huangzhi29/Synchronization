@@ -1,0 +1,91 @@
+id:14369
+asin:0790742012
+title:Caddyshack II
+group:DVD
+salesrank:24025
+similar:5
+categories:33
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Slapstick
+category:;DVD;Genres;Comedy;By Theme;Class Differences
+category:;DVD;Genres;Comedy;By Theme;Fish Out of Water
+category:;DVD;Actors & Actresses;( A );Aykroyd, Dan
+category:;DVD;Actors & Actresses;( B );Bartel, Paul
+category:;DVD;Actors & Actresses;( C );Cannon, Dyan
+category:;DVD;Actors & Actresses;( C );Chase, Chevy
+category:;DVD;Actors & Actresses;( L );Lundy, Jessica
+category:;DVD;Actors & Actresses;( M );Mason, Jackie
+category:;DVD;Actors & Actresses;( M );McNamara, Brian
+category:;DVD;Actors & Actresses;( M );Merrill, Dina
+category:;DVD;Actors & Actresses;( P );Phillips, Chynna
+category:;DVD;Actors & Actresses;( Q );Quaid, Randy
+category:;DVD;Actors & Actresses;( S );Serna, Pepe
+category:;DVD;Actors & Actresses;( S );Silverman, Jonathan
+category:;DVD;Actors & Actresses;( S );Stack, Robert
+category:;DVD;Actors & Actresses;( W );Warfield, Marsha
+category:;DVD;Directors;( A );Arkush, Allan
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( C )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Comedy
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;Slapstick
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;Slapstick
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;Comedy Stars;Chevy Chase
+category:;DVD;Genres;Comedy;Comedy Stars;Dan Aykroyd
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:50
+review:A2TLFXHJ4VMNL:4
+review:A2MF6TNDTBWP57:1
+review:A1SMJNF64XT7I9:2
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:3
+review:A3E19JYZAAOML3:4
+review:A1928PHI4RBCQ9:1
+review:A2LFUJ69H0ZSIF:5
+review:A339B4TZVFGH1W:1
+review:A1MKZV9P4KXX9X:1
+review:A1D9W9KUJBHMYB:5
+review:A16G3VYPGAHEZ7:4
+review:A13910TC3NZ6LE:1
+review:A3A7BJDWEE7WS8:1
+review:A2QRB6L1MCJ53G:4
+review:AIGNHBYSQ6YGI:3
+review:A10YX556I4FMG9:2
+review:A1OHFU29UVIWYV:1
+review:ASE1UZ54G88L8:2
+review:A1AZ64Z84RY52T:1
+review:A29TUVZ4LWUOD6:1
+review:A1NAWUPR4EC1FW:1
+review:A32XYVEN6POUP4:1
+review:AGMM6AC5G47AV:3
+review:AGMM6AC5G47AV:3
+review:A3H6DNR9OI9UIB:1
+review:APJLO0V5JTA1S:1
+review:A10JDPEQ8GJ2K1:1
+review:A10JDPEQ8GJ2K1:1
+review:A10JDPEQ8GJ2K1:1
+review:AGOHW680WF4KR:1
+review:AV4D30FUSOZH3:5
+review:A36HTBO5H548IC:3
+review:A36HTBO5H548IC:3
+review:AMPUHVKLU5EZ0:4
+review:A2IITV9AEOFI5G:1
+review:A15T4TWV79KGQI:3
+review:A2OX54FZ4BHA37:4
+review:AJAFP7E5FENNC:5
+review:A2LYAGSQIU327M:4
+review:A2VOWXULRJKB8R:3
+review:A11PTCZ2FM2547:1
+review:A2ZQD77EEXEPM6:5
+review:A1TAFTPNGHKH1V:2
+review:A2CT2SA6KFE8GC:4
+review:AC2G9V7H4JYKV:1
+review:A1PASRZ81DY9C:1
+review:A3M1PB13ZBJ3E3:1
+review:A36B2538XKJQGT:1
+review:APP5MBH2BSX6I:1

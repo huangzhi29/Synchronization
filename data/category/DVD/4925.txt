@@ -1,0 +1,59 @@
+id:4925
+asin:6305505802
+title:Deep Cover
+group:DVD
+salesrank:4931
+similar:5
+categories:21
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Action & Adventure;Blackmail, Murder & Mayhem
+category:;DVD;Actors & Actresses;( D );Dillard, Victoria
+category:;DVD;Actors & Actresses;( F );Fishburne, Laurence
+category:;DVD;Actors & Actresses;( G );Goldblum, Jeff
+category:;DVD;Actors & Actresses;( G );Gould, Sandra
+category:;DVD;Actors & Actresses;( L );Lassick, Sydney
+category:;DVD;Actors & Actresses;( S );Sierra, Gregory
+category:;DVD;Actors & Actresses;( S );Smith, Charles Martin
+category:;DVD;Actors & Actresses;( S );Smith, Roger Guenveur
+category:;DVD;Actors & Actresses;( T );Turner, Tyrin
+category:;DVD;Directors;( D );Duke, Bill
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Genres;Mystery & Suspense;Neo-Noir
+category:;DVD;Special Features;Titles;( D )
+category:;DVD;Genres;Mystery & Suspense;Crime;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:30
+review:A1EIG9UKU6T83L:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A1GW27E7FG0L62:5
+review:ATVPDKIKX0DER:4
+review:A1U48QKVYOQKWG:4
+review:A3ICDLUQ3V2QY2:4
+review:A3M9GB9TYRYPM9:2
+review:A3M9GB9TYRYPM9:2
+review:A9LJRWNQTUOR1:3
+review:A1CUUA2FAHN7CF:5
+review:A1J2931UBBJPXM:3
+review:A1EJU2M8UQF7XN:5
+review:A1JH5J1KQAUBMP:4
+review:A1X910WAOVYV8M:3
+review:A1OBFJDU3LWA5C:5
+review:A1I4M6ZK99JDSQ:5
+review:A2QVZVN18OSMBJ:5
+review:AP286ZV19SLC6:5
+review:A3JOZ97T0ZQFOY:5
+review:ALS0041SS519N:5
+review:A143P0NKQDNWYL:5
+review:AZ3SU0OK9YQZ3:5
+review:A20NJAPECFGIR9:2
+review:A3M9GB9TYRYPM9:3
+review:A169H0XOU70QUP:5
+review:A2363NU57MJM6K:5
+review:A13JFVWPZNMS68:4

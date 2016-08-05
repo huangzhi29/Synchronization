@@ -1,0 +1,17 @@
+id:15709
+asin:B00005BJPQ
+title:The Best of Kitaro
+group:DVD
+salesrank:46432
+similar:5
+categories:5
+category:Music;Styles;New Age;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Genres;Music Video & Concerts;New Age;General
+category:;DVD;Genres;Music Video & Concerts;New Age;Kitaro
+reviews:4
+review:A1Y02UDSIN0H7M:2
+review:AYI3PWJTVGY65:5
+review:AYI3PWJTVGY65:5
+review:A1TN7XUTL9BQNB:1

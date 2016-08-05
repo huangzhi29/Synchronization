@@ -1,0 +1,35 @@
+id:1619
+asin:B00008WJDN
+title:Baby Songs - ABC, 123, Colors & Shapes
+group:DVD
+salesrank:4350
+similar:5
+categories:12
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Kids & Family;Numbers & Letters
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Kids & Family;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Kids & Family;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;All Fox Titles
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Family Features
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Fox DVD Budget Store;DVDs Under $15
+reviews:15
+review:A227C02K8R9QJ8:1
+review:A3U4W2ADSN62LY:2
+review:AB2B1955LHANU:4
+review:A26OHYVW6M4S7P:4
+review:A3CMYRFPHAGAEU:4
+review:A2UC1ZO77D8ZRF:5
+review:A1LO2JFB2DW4EO:5
+review:AGFW667QNHDOY:5
+review:A1VJSD6MASPYG:5
+review:A3GZO9J3HMB1XD:2
+review:A1UGE9QLLHE9UP:5
+review:AYHP6TXO0JFHC:5
+review:ASI0EA8AMMNPV:4
+review:A23L5KKL7N13EM:5
+review:A8ZJ1S64RAL2T:5

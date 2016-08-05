@@ -1,0 +1,29 @@
+id:4822
+asin:B00005T302
+title:The Calling
+group:DVD
+salesrank:36441
+similar:5
+categories:16
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Horror;Things That Go Bump;Occult
+category:;DVD;Actors & Actresses;( B );Brierley, Roger
+category:;DVD;Actors & Actresses;( B );Brimble, Nick
+category:;DVD;Actors & Actresses;( K );Krige, Alice
+category:;DVD;Actors & Actresses;( S );Standing, John
+category:;DVD;Specialty Stores;Studio Specials;Lions Gate Home Entertainment;Top Sellers
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Occult
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Occult
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:5
+review:A934KQO4YFLX2:3
+review:A2U109NBAFMO88:1
+review:A275WB4PYH6227:4
+review:A30Q6FYEC4QXKY:3
+review:A3LZGLA88K0LA0:4

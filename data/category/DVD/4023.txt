@@ -1,0 +1,133 @@
+id:4023
+asin:B00003CY5P
+title:Crazy/ Beautiful
+group:DVD
+salesrank:11457
+similar:5
+categories:20
+category:;DVD;Genres;Drama;General
+category:;DVD;Special Features;Fully Loaded DVDs;DTS
+category:;DVD;Actors & Actresses;( D );Davison, Bruce
+category:;DVD;Actors & Actresses;( D );Dunst, Kirsten
+category:;DVD;Actors & Actresses;( J );Jenney, Lucinda
+category:;DVD;Actors & Actresses;( M );Molina, Rolando
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( C )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;By Theme;Class Differences
+category:;DVD;Genres;Drama;By Theme;Teen Drama
+category:;DVD;Genres;Drama;By Theme;Race Relations
+category:;DVD;Genres;Drama;By Theme;Kids in Trouble
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Love & Romance
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Love & Romance
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:105
+review:A3N7HIXSJT183I:2
+review:A22YJONXTGR4TS:5
+review:A2UBS120XE605X:5
+review:A2AIBEDH9DFI9P:5
+review:A3R57XTCC4L911:5
+review:A3UN6WX5RRO2AG:5
+review:AS88Y2SHWNVTO:5
+review:A2HKNO7HAT9C1X:2
+review:A32R2A17TI3LGE:5
+review:A13KPGP485N3TE:5
+review:A1I603XHK7TAN4:3
+review:A1UISLWSH7M76M:5
+review:A2F5OMNCGD430M:5
+review:A1F76N5NGGU0UP:4
+review:A3GZ1REWQWXPYI:1
+review:A3J9YV23CJQ61Y:5
+review:A2DEH3JHV72U5P:4
+review:A142PL0XLRKBUX:5
+review:A24YPHESDTDKUA:5
+review:A2MAP86X2DV5YI:4
+review:A30HYOU68JSKZU:5
+review:A30YD1DF7OR61O:5
+review:ALJUWINH5ZW7S:4
+review:AUOS4YF5P0ZUJ:5
+review:A2LVP0FAD3AF14:5
+review:A2MA3NWDHZD172:5
+review:A3F12ZO4SK4EYR:2
+review:AIZ0YNUYUKYLW:2
+review:A3R2EGGAWXMXHA:1
+review:AIODTTC01WR3C:5
+review:A2QARP0WOL7Y5B:5
+review:ACP5L7TNOZWMB:3
+review:A1JGBOBHB87D6W:4
+review:A22WOUH2NQX9ID:1
+review:A2PWOZ9BGHZ3T9:5
+review:A3UN6WX5RRO2AG:5
+review:A19V0VJMKKRMC8:5
+review:AK2Q9IQPSTRDU:5
+review:A3L3GS3CNCJ6T1:5
+review:A3GHBJCEA9QUWZ:5
+review:A3D6KFKN4J5ULE:5
+review:A30A5I8FG82M2E:2
+review:AV3PA7P5P3G4Q:5
+review:A37YDCPYT6VVGX:5
+review:AW3VZ5O895LRK:5
+review:A2CIRZDMZFNJ4M:1
+review:A2NLDZ1ISQV2Z7:5
+review:A2LVP0FAD3AF14:4
+review:AR27NRC15UFLA:4
+review:A3CWH6VKCTJAD:4
+review:A3K5S42TKCJJSS:5
+review:A1TYIBVAMWU81M:5
+review:A1B2MF00TB0ECG:3
+review:A1YR8XVXPYIIID:4
+review:A2J6MMNWUJQUXS:5
+review:A2EVYETZXWALS5:5
+review:A2RWHTNM5P3I8Y:5
+review:A2T6JOAC8SWXUV:4
+review:A3QAATYM09AJMU:5
+review:A1DX1XG39H0O34:3
+review:A204906HLJ443E:4
+review:A39GI3PZWS216V:5
+review:A1C6JV6CHKH7I5:5
+review:AIHADBKOAJ4EI:1
+review:A2Z83T6WL8EHHA:5
+review:AIM7YNCQN6X4O:5
+review:AL277B4AQCWBG:3
+review:A31L5TLG2TFGL5:3
+review:A35P5IQZFOCJ4J:3
+review:A37EKPSBO5HVI5:3
+review:AEI8Z3WBF5QZY:3
+review:AS7B4W4KOPQNV:3
+review:A1JDYB06KKE5TE:3
+review:AMZS7175DSNN4:4
+review:A3AHA3LTY0O0RV:5
+review:A1L43KWWR05PCS:3
+review:APXZRLC8LO165:5
+review:A285Y32IH4CRKA:5
+review:A3POLEU6T17739:4
+review:A2EYBYMO82DQF9:5
+review:A2UMHOOCSP2HFU:5
+review:AFWXH9YPMYU9J:5
+review:A2ZVERVFM25MJT:4
+review:AYKX0CR59JN40:5
+review:A2BGJ6L23X7CWU:3
+review:A6G986RS3NTYJ:5
+review:A2FEGRJQNU51P9:4
+review:ADF311J3NP0TM:4
+review:A9AD6IO1NCT8F:4
+review:A461VTLW9G9YB:4
+review:AMTN1PSC7FJEU:3
+review:A2MFYJ5PNT4W4C:5
+review:A2BI74WHSYI2W4:4
+review:A1ANW0RSBWJLS3:4
+review:A1QA5Q1P4OK8TU:5
+review:A1MDSXND6O80WY:5
+review:A1DWEZW9WIW8PV:1
+review:A1MSAII4OPUE3C:5
+review:A2YM2NM7YZA24Q:3
+review:A30FG2KXHTRPK8:1
+review:A3P1A63Q8L32C5:3
+review:AEM5QBTK4NSCU:5
+review:A2B7AWQCC6OU9B:5
+review:A2EBLL2OYEQJN9:5
+review:A3UN6WX5RRO2AG:5

@@ -1,0 +1,32 @@
+id:18969
+asin:B00007AJEA
+title:Two-Way Stretch
+group:DVD
+salesrank:28153
+similar:5
+categories:21
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Slapstick
+category:;DVD;Genres;Comedy;Comic Criminals
+category:;DVD;Actors & Actresses;( C );Cribbins, Bernard
+category:;DVD;Actors & Actresses;( D );Denham, Maurice
+category:;DVD;Actors & Actresses;( F );Fraser, Liz
+category:;DVD;Actors & Actresses;( H );Handl, Irene
+category:;DVD;Actors & Actresses;( J );Jeffries, Lionel
+category:;DVD;Actors & Actresses;( L );Lodge, David
+category:;DVD;Actors & Actresses;( R );Reid, Beryl
+category:;DVD;Actors & Actresses;( S );Sellers, Peter
+category:;DVD;Actors & Actresses;( W );Walters, Thorley
+category:;DVD;Actors & Actresses;( W );White, Wilfrid Hyde
+category:;DVD;Directors;( D );Day, Robert
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Comedy;British;General
+category:;DVD;Special Features;Titles;( T )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Comedy;Comedy Stars;Peter Sellers
+reviews:3
+review:A27M15DFUPV1CK:5
+review:AHKX15R53HTXS:5
+review:A2B73CL3QSYWLB:3

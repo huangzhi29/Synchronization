@@ -1,0 +1,30 @@
+id:4534
+asin:B00000IBQ1
+title:Love on the Run
+group:DVD
+salesrank:27023
+similar:5
+categories:17
+category:;DVD;Genres;Art House & International;By Original Language;French
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( B );Bertheau, Julien
+category:;DVD;Actors & Actresses;( J );Jade, Claude
+category:;DVD;Actors & Actresses;( P );Pisier, Marie France
+category:;DVD;Directors;( T );Truffaut, Francois
+category:;DVD;Specialty Stores;Studio Specials;Wellspring Home Video;World Class Cinema
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;France;Drama
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Drama;By Theme;Artists & Writers
+category:;DVD;Genres;Drama;Love & Romance;Crumbling Marriages
+reviews:5
+review:AXZ8OSEWYM50A:5
+review:ATVPDKIKX0DER:4
+review:A3XSMXRMIMA7N:5
+review:A24E8EFWITIH92:4
+review:A2HJB9J5O5CLPB:3

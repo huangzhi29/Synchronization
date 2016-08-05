@@ -1,0 +1,20 @@
+id:10752
+asin:B000067D0L
+title:Betty Boop & Girls Mischief
+group:DVD
+salesrank:40687
+similar:5
+categories:9
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Kids & Family;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Kids & Family;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:3
+review:A1IPQ5CTWQ2B60:5
+review:A2NI58B62O48WZ:5
+review:A3QKHRRJ3J09QE:5

@@ -1,0 +1,122 @@
+id:6821
+asin:B00004R993
+title:The Fox and the Hound (Disney Gold Classic Collection)
+group:DVD
+salesrank:2304
+similar:5
+categories:26
+category:;DVD;Genres;Kids & Family;Animation
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Specialty Stores;Disney Home Video;Animated Movies
+category:;DVD;Specialty Stores;Disney Home Video;Gold Collection
+category:;DVD;Genres;Kids & Family;Adapted from Books
+category:;DVD;Specialty Stores;Disney Home Video;By Age;3-6 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;7-11 Years
+category:;DVD;Specialty Stores;Disney Home Video;By Age;For the Whole Family
+category:;DVD;Actors & Actresses;( A );Albertson, Jack
+category:;DVD;Actors & Actresses;( B );Bailey, Pearl
+category:;DVD;Actors & Actresses;( C );Coogan, Keith
+category:;DVD;Actors & Actresses;( D );Duncan, Sandy
+category:;DVD;Actors & Actresses;( F );Feldman, Corey
+category:;DVD;Actors & Actresses;( F );Fiedler, John
+category:;DVD;Actors & Actresses;( M );McIntire, John
+category:;DVD;Actors & Actresses;( N );Nolan, Jeanette
+category:;DVD;Actors & Actresses;( R );Rooney, Mickey
+category:;DVD;Actors & Actresses;( R );Russell, Kurt
+category:;DVD;Actors & Actresses;( W );Winchell, Paul
+category:;DVD;Directors;( B )
+category:;DVD;Directors;( R );Rich, Richard
+category:;DVD;Special Features;Titles;( F )
+category:;DVD;Genres;Kids & Family;Family Films
+reviews:88
+review:ACDFK3MOXXM9A:5
+review:ATVPDKIKX0DER:5
+review:A37IGB1H15HOIH:5
+review:AB41EZPUGH4DI:5
+review:A25ZYFCUCINB7K:5
+review:A10YBKIV3X96XC:5
+review:A36LOYQC95V3VQ:5
+review:A2CSXX5QNPG1H7:5
+review:A3GIXDW2R4C87I:5
+review:AK23ZQ70YR0DJ:5
+review:A3U4RA5YBVQAZY:5
+review:A3N9OSY43FIDTQ:4
+review:A3U27J9YBGKNYZ:5
+review:A38PX06XC32MN0:5
+review:A1V8R5GQQHU2SO:4
+review:A37MQAWK9VGXII:5
+review:A2EYMELYXZFO5Q:1
+review:A1LNF5YYFAPZJV:3
+review:A2PRJNJPWR8EWB:5
+review:A2ESZAKL0RVYB5:5
+review:A3MOU4F92PJXWK:5
+review:A3LC2I812OWCKB:5
+review:A1C0L5GZ1S60S9:5
+review:A3DQBM0CUD9H7V:5
+review:A2F6RS46MJPL0L:5
+review:AXAT12OVCGZL2:5
+review:ACMOLKXVKQ06Z:5
+review:A37PVRNROQUBP8:5
+review:A2PI8EWSJARQE3:4
+review:A3CSRP3P4U9HI:4
+review:A345G0OZD8OZY8:5
+review:A1I01WDLGFZFOC:5
+review:A3VY02OGGJZVYV:5
+review:AZEPR798PSY7P:5
+review:A6225HHQKBE2M:4
+review:A39GB8QKJDWKRK:4
+review:A3LG8AVY2Z3C6S:4
+review:A1VAJHFDFVGS81:4
+review:A3UN6WX5RRO2AG:5
+review:A7JKVC5R3IGFD:1
+review:A3BHN5BGICORAW:5
+review:AYCMCOYQJ4NRH:1
+review:A1XFFJGGQA2UAL:1
+review:AY5AV7OG7UAJ7:5
+review:ATNAZ5AWTDQ1A:5
+review:AR0DLIRZJSWRF:1
+review:A32N9TLIWF9MSK:5
+review:AAWQOESYCTRDF:1
+review:A1FPFWDC1ASYNJ:2
+review:AA5XZVANDXGJE:5
+review:A13IJSSLR27SU:5
+review:A1AM13DK0PD78V:4
+review:A3QSSJOIWXBGDV:5
+review:ARDM3IVVN6L9L:2
+review:A63UGRJ7AUSS5:3
+review:AMWA4HWO2D4CH:4
+review:A7Y6AVS576M03:5
+review:A1Y0J7E4USK2RJ:5
+review:A35OWY2LTZ4DCY:4
+review:AXJTNYD3UK1BP:4
+review:A1JILOY184YHJ0:1
+review:ARKS7JQVI0YUB:5
+review:AB15R5TAHY0VO:5
+review:AU9I44SYHGLWL:5
+review:AOVJYIUATQKR5:4
+review:A3UN6WX5RRO2AG:5
+review:A3JHXVOU07YN2N:5
+review:A1NZM2JLO1ZA40:5
+review:AFTYZNWQ0CJ8H:4
+review:A38TMDJ6Z08U4G:5
+review:A2THBBQVIHGXK6:1
+review:A3O2CBQ7S36L6D:5
+review:A2IBUD9YNMRVC2:5
+review:AEGR40GALMDJ4:4
+review:A3UN6WX5RRO2AG:5
+review:A22JVW80L6AON3:5
+review:A3RDZPP3MJTS:5
+review:A19OXZ3A82UWH2:5
+review:A325O9I8GN6BJN:5
+review:A19IT5EUTAAC6X:4
+review:A3O72DJ2MQ8930:5
+review:A1ZZ2EB6FCY8MW:4
+review:A1XYADEC7TLTSP:5
+review:A2E4XR9HCYC7EX:5
+review:AOA7DLVR783CM:5
+review:A2D54OEH9L62WL:5
+review:A3JXWJ2IGUOGAG:5
+review:A282DX1OUL7ZAB:5

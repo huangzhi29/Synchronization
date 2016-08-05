@@ -1,0 +1,47 @@
+id:10911
+asin:B000089QAP
+title:Quick Fix - Stability Ball Workout
+group:DVD
+salesrank:1237
+similar:5
+categories:12
+category:;DVD;Genres;Fitness & Yoga;Fitness
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Fitness & Yoga
+category:;DVD;Special Features;Titles;( Q )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Fitness & Yoga
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Fitness & Yoga;By Instructor;Other Instructors
+category:;DVD;Genres;Fitness & Yoga;Series;Quick Fix
+category:;DVD;Genres;Fitness & Yoga;Exercise Ball
+category:;DVD;Genres;Fitness & Yoga;General
+reviews:27
+review:A14B9D2O6Y374H:4
+review:A3ALAI1JB5QVSD:5
+review:A3ALAI1JB5QVSD:5
+review:A26KYDJOAGI05S:5
+review:AXK87Y0NG4P5E:5
+review:A211GMD2G99RX3:4
+review:A3CVJON4XMGP7F:5
+review:A2375M1B7SNTEV:5
+review:A3AHDR4F2J7YXX:5
+review:AZ7KHGE656H6Z:1
+review:A3INBPWEYWZAM1:5
+review:A2J9TNG9EPPBWV:5
+review:ARMS5VUGI6QQM:5
+review:A161YP253VHLZ7:3
+review:A18JW84QDE8ZNI:5
+review:A3Q8EGV0PQJP3X:5
+review:AVCF4XY5PY3B:4
+review:A22J2T1RCEMHXC:5
+review:A3FPZLZEZO9FW2:5
+review:A35YEXYO5DPNX5:5
+review:A2BFABJSGQYGCQ:4
+review:ATKVDKXO3Q6ZM:4
+review:A2CEF79A2TSV4T:4
+review:AHOGIS6S7RR37:5
+review:AZC1748UTCTXM:5
+review:A2CSY65TSN11V:4
+review:A1R1Z44C7S1HQJ:3

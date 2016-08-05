@@ -1,0 +1,130 @@
+id:20093
+asin:6300157563
+title:Hamburger Hill
+group:DVD
+salesrank:6634
+similar:5
+categories:34
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;True Story
+category:;DVD;Genres;Military & War;Drama
+category:;DVD;Actors & Actresses;( B );Barrile, Anthony
+category:;DVD;Actors & Actresses;( B );Boatman, Michael
+category:;DVD;Actors & Actresses;( C );Cheadle, Don
+category:;DVD;Actors & Actresses;( C );Chinh, Kieu
+category:;DVD;Actors & Actresses;( D );Dolan, Michael
+category:;DVD;Actors & Actresses;( M );Mako, Kieu Chinh
+category:;DVD;Actors & Actresses;( M );McDermott, Dylan
+category:;DVD;Actors & Actresses;( N );Nickles, Michael A
+category:;DVD;Actors & Actresses;( O );O'Reilly, Harry
+category:;DVD;Actors & Actresses;( O );O'Shea, Daniel
+category:;DVD;Actors & Actresses;( S );Swerdlow, Tommy
+category:;DVD;Actors & Actresses;( V );Vance, Courtney B
+category:;DVD;Actors & Actresses;( W );Weber, Steven
+category:;DVD;Directors;( I );Irvin, John
+category:;DVD;Specialty Stores;Studio Specials;Lions Gate Home Entertainment;Top Sellers
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( H )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Docudrama
+category:;DVD;Special Features;Today's Deals in DVD;Military & War;Drama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Docudrama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Military & War
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Military & War;By Theme;Great Battles
+category:;DVD;Genres;Military & War;Anti-War Films
+reviews:88
+review:ATVPDKIKX0DER:5
+review:A2P2FEXCRNFQU1:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:ASGPP897CKQ30:5
+review:ASGPP897CKQ30:5
+review:ATVPDKIKX0DER:5
+review:A1G69WF4ZE6A27:4
+review:ATVPDKIKX0DER:4
+review:A2Y5J414Z5BGZS:4
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A2G8EWLYNCFLJQ:1
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:3
+review:A3M4QGREWR0Z3O:4
+review:ATVPDKIKX0DER:5
+review:A3IK9BLS3BWM96:2
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:APXOZCXSBHQ4F:5
+review:A3DW2APDQWBGGC:5
+review:ATVPDKIKX0DER:5
+review:A3HKU5KOUVJX79:5
+review:A17BY7TVE6N2WR:4
+review:A17BY7TVE6N2WR:5
+review:A17BY7TVE6N2WR:5
+review:ASD5S0KVOFQQK:5
+review:A3OMTZJJ07Q8KC:4
+review:A24QBU870S76XE:5
+review:A34AGA67D1H2CS:3
+review:A3GSEXSICVO843:5
+review:A3VUPPKKROADMY:5
+review:A5M79I9XD6EJL:4
+review:A1SHIG1EONVZJ4:5
+review:A21S8NDFAGSKBB:4
+review:A2RYUSRQLCTBCS:5
+review:A2XILEETU7VV7L:5
+review:A2QV0T47CNYWL8:4
+review:AE8RQHFMSLN0D:3
+review:A331OF34UX4Y1K:3
+review:AFBZK490DSCML:5
+review:A1AETM37BL2RL0:4
+review:AL36HDH6V4JY5:5
+review:A3RR9FG8RIVI97:5
+review:A29IRS7ET5Q9RT:4
+review:A10C3IAZUXZ705:1
+review:AF7YB1DXSGMLY:2
+review:A6N4JVAYSU5A1:3
+review:AL8RS2CNV1YVI:1
+review:A160EBU9Q4N711:1
+review:A18OWOHP59ASPR:4
+review:ATVPDKIKX0DER:3
+review:A1VTHUZIN04QQW:4
+review:ATVPDKIKX0DER:4
+review:AJUWDV8TMBPL5:4
+review:AXYCVEA30YX31:1
+review:AWKRVUDJUFOV3:5
+review:A2K8WA3TBVYN42:2
+review:A3P39OB1B61D4V:4
+review:A3S5DICQQKR50:4
+review:A1U0539Z7EVYVU:5
+review:A1U0539Z7EVYVU:5
+review:AYNWU2PR0FV9P:4
+review:AU8SZU7FAF1AP:5
+review:A2ZL8OD04HUJ1H:5
+review:A2NZUD34W6C5AS:4
+review:A2RMMDFFHTBKJC:1
+review:A3M5AW697S0ETO:5
+review:A2ZGVH5DNCK8I4:5
+review:A29XZX62KR9ZQO:5
+review:AR1LU94IIZL66:5
+review:ATQTE464YAZM1:4
+review:A3CCYAQRHUTPIQ:2
+review:A2DYGO40HTQBMQ:5
+review:A3MCC5MAJYJYMD:4
+review:A3TEZFWF5IXYNT:1
+review:AG7IJUUXE7974:4
+review:A3P4D8PNHJUT44:5
+review:A2BVNU568PB02J:5
+review:A3T6CVYTVIYHZ5:5
+review:AUAQCVJ1GB5PP:5
+review:A40N5P6DG7FOL:3
+review:ANBM30SCQNJHI:4
+review:A1EMDSTJDUE6B0:3
+review:A2BT7IC8PT1ZC9:2

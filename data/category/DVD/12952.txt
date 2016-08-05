@@ -1,0 +1,25 @@
+id:12952
+asin:6305079161
+title:The Metropolitan Opera
+group:DVD
+salesrank:13626
+similar:5
+categories:5
+category:;DVD;Genres;Musicals & Performing Arts;Ballet & Dance
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Genres;Musicals & Performing Arts;Classical;General
+category:;DVD;Genres;Musicals & Performing Arts;Classical;Opera;General
+reviews:12
+review:ANNHWB110NOZI:1
+review:AZQFNM0A5PZ6N:5
+review:A3T9Z952TBN290:5
+review:A2UK8KF2NDPIXP:2
+review:A2GOTY2STOMEAU:5
+review:A1T00TWPMTSD12:5
+review:A1EGUKOR3FCYAC:5
+review:AZ4KLDL9GWZL0:5
+review:ADYWTIYIC5L7M:5
+review:A1PI4Y53RGQVYB:3
+review:A3R2UM3V78QB10:5
+review:A30X96TL1HM2WE:4

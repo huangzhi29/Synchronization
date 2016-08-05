@@ -1,0 +1,27 @@
+id:15735
+asin:B00005B34L
+title:It's Black Entertainment!
+group:DVD
+salesrank:18569
+similar:5
+categories:18
+category:;DVD;Genres;Documentary;General
+category:;DVD;Actors & Actresses;( A );Allen, Debbie
+category:;DVD;Actors & Actresses;( A );Armstrong, Louis
+category:;DVD;Actors & Actresses;( E );Ellington, Duke
+category:;DVD;Actors & Actresses;( H );Horne, Lena
+category:;DVD;Actors & Actresses;( J );Jordan, Louis
+category:;DVD;Actors & Actresses;( K );Kitt, Eartha
+category:;DVD;Actors & Actresses;( L );Landis, John
+category:;DVD;Actors & Actresses;( M );Marsalis, Wynton
+category:;DVD;Actors & Actresses;( R );Robinson, Smokey
+category:;DVD;Actors & Actresses;( W );Williams, Billy Dee
+category:;DVD;Directors;( L );Lathan, Stan
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( I )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Special Interests;Dance;General
+reviews:1
+review:A1JQS9Q2XWZSBO:3

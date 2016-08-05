@@ -1,0 +1,102 @@
+id:16646
+asin:B00003W8NN
+title:Anywhere But Here
+group:DVD
+salesrank:40656
+similar:5
+categories:19
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( A );Aaron, Caroline
+category:;DVD;Actors & Actresses;( B );Baker, Ray
+category:;DVD;Actors & Actresses;( B );Bedelia, Bonnie
+category:;DVD;Actors & Actresses;( B );Bochner, Hart
+category:;DVD;Actors & Actresses;( B );Burkholder, Scott
+category:;DVD;Actors & Actresses;( D );Diehl, John
+category:;DVD;Actors & Actresses;( H );Hatosy, Shawn
+category:;DVD;Actors & Actresses;( P );Portman, Natalie
+category:;DVD;Actors & Actresses;( S );Sarandon, Susan
+category:;DVD;Actors & Actresses;( T );Tahir, Faran
+category:;DVD;Directors;( W );Wang, Wayne
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( A )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;All Fox Titles
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Comedy
+category:;DVD;Specialty Stores;Studio Specials;20th Century Fox Home Entertainment;Fox DVD Budget Store;DVDs Under $20
+reviews:75
+review:A2YNNLVXFDZ3QE:3
+review:A38NLXU1T05ACV:5
+review:A34XU754HVA02N:4
+review:AZSG1L96Z1BMD:4
+review:A10RYRO173R9JE:5
+review:A91LE0MPYE8GJ:5
+review:AWGYHTTXR2LDY:5
+review:A12HS32QE6VNKV:5
+review:A2LPN864V69FJ3:5
+review:AVOVU09093RYI:4
+review:A2DBJB4R7BZYNJ:5
+review:A3CWH6VKCTJAD:2
+review:A2SJJ66341LS3Y:5
+review:ATVPDKIKX0DER:5
+review:AOHFV2LT4MPEW:5
+review:A26BDXG9KVH7SU:4
+review:ANPXMT8E4XKSL:4
+review:A2ONVWGZF86B5L:4
+review:A2B7BUH8834Y6M:4
+review:AXI36RP6SH4BF:4
+review:A3Q074O1T5FIAS:3
+review:A211TFU7K8DHGP:5
+review:A2Z2ZCEBXPGY1Q:4
+review:ATC15RU5D2F2Y:4
+review:A21JAP6EO4J5RW:5
+review:A3BJRONQ23KMVD:4
+review:A166AQM9XLOUXI:3
+review:A2HYQD383ON9BA:5
+review:A3B1U43Q05DN2D:3
+review:A3SWX91QY7KOMB:2
+review:AN1FJYIK2BF5A:4
+review:A15N7WUCBSLL8Z:2
+review:A2KGXJYG4UYYPE:3
+review:A1IVYWMOAFQPEF:5
+review:A19VCRV29DW4EU:5
+review:A3R339V9KN1W9H:4
+review:AES7AR3T2ZMSP:5
+review:A30Q909VHUX1XX:5
+review:A2Q7YBUV8IPTLW:5
+review:AE4PW4SGKPP6P:5
+review:AQJP15L6DMEQD:1
+review:A1MG93B9L0QTQA:1
+review:A1KQ9JEI5Q514U:5
+review:A1XYE1JGSL6S2J:5
+review:A1L43KWWR05PCS:4
+review:A3K77GJCI8FRYU:2
+review:AU8552YCOO5QX:3
+review:AT04KY6MO5ZY3:2
+review:AO3KR806OCM3N:3
+review:A23AFVXWF9A0CF:1
+review:A3LU79BYMWZEW9:3
+review:A2HWRTEULOBPOP:4
+review:AWEOR1WZSMBEZ:4
+review:A1LKN0OF1CAGH8:5
+review:A3BL8JDWOCF50D:5
+review:AU25DW8KKFZ4M:5
+review:A1DOL3GLSZ98DJ:2
+review:AOVJYIUATQKR5:2
+review:A1R3OF0CF2STZA:5
+review:A2ODBHT4URXVXQ:5
+review:A1G9FX1KV45N41:4
+review:A24E2JRTV7ZK8K:5
+review:A1IU000FKBZ3CN:3
+review:AB5ZWJYO8HJ47:3
+review:A3UN6WX5RRO2AG:5
+review:A1E1ZXFK18L9OR:2
+review:AN1VQWRWGLZYE:5
+review:ABN5K7K1TM1QA:5
+review:A1DZKOOMMJM1MI:4
+review:A3DGHSE8SYSHUF:5
+review:A3DGHSE8SYSHUF:5
+review:AR65T48IS7PAT:3
+review:ASHG3OZQ1S3DQ:5
+review:A3R90OGE1EACZE:4
+review:A2MS6UV7ZGTMLR:3

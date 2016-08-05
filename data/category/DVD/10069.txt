@@ -1,0 +1,23 @@
+id:10069
+asin:B00005NB9T
+title:Love Can Seriously Damage Your Health
+group:DVD
+salesrank:43048
+similar:5
+categories:9
+category:;DVD;Genres;Art House & International;By Genre;Comedy
+category:;DVD;Genres;Art House & International;By Genre;Romance
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Art House & International;By Country;Spain
+category:;DVD;Genres;Comedy;Romantic Comedies;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Art House & International;By Original Language;Spanish
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:6
+review:AD6JZ88JWHTJK:4
+review:A3R2YB0WTTB0IJ:3
+review:ARN2BKTO14BVE:3
+review:A21NNE4AW7R9K0:4
+review:A3EOPGEDYV93KF:3
+review:A11GWO7E26FDJ1:5

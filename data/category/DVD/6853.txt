@@ -1,0 +1,30 @@
+id:6853
+asin:6305907161
+title:Kiss of Fire
+group:DVD
+salesrank:16964
+similar:5
+categories:8
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( A );Applegate, Christina
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Drama
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Special Features;Titles;( K )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:14
+review:A3BZTIB28MC82V:3
+review:A16F3T317A3EJA:5
+review:A1BPMK0MPHIDZD:2
+review:A195YV9KRZVDC:5
+review:AP0K2VV927KDB:1
+review:A8EDTKSPOMRWK:2
+review:AUZOD3NTFESHS:3
+review:A3UVJQKX0V0M6I:5
+review:AY3AL2UFXSGU7:1
+review:A2WBVYWDIITDDB:1
+review:A1VFCX7D378LXO:5
+review:A3TPRIFSQVXY5H:4
+review:A3R9I9RBD62IL8:2
+review:A2QLNPDYZR3TIX:1

@@ -1,0 +1,22 @@
+id:7951
+asin:B00005OBAN
+title:Radical Jack
+group:DVD
+salesrank:37920
+similar:3
+categories:13
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( C );Cyrus, Billy Ray
+category:;DVD;Actors & Actresses;( P );Pfeiffer, Dedee
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Action & Adventure;By Theme;Biker Films
+category:;DVD;Special Features;Titles;( R )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Action & Adventure;By Theme;Revenge
+category:;DVD;Genres;Action & Adventure;By Theme;Loners
+reviews:1
+review:A2YGWWXGX9YB60:5

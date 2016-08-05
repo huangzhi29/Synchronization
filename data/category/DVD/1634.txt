@@ -1,0 +1,27 @@
+id:1634
+asin:B00005NB91
+title:Dragon Ball Z - Babidi - Dark Prince Returns
+group:DVD
+salesrank:31726
+similar:5
+categories:4
+category:;DVD;Genres;Kids & Family;Characters & Series;Dragon Ball
+category:;DVD;Genres;Anime & Manga;General
+category:;DVD;Genres;Kids & Family;Characters & Series;Cartoon Network;General
+category:;DVD;Special Features;Titles;( D )
+reviews:15
+review:A2DHLJBB0KGLFC:5
+review:A366HOU8G4QAUV:5
+review:ATAKMIAKTQKWB:4
+review:AJ73MLH94VXXN:5
+review:A3PVTILPPRSN0O:5
+review:A6IAANZCSHK9Q:4
+review:A369SQ6E2IP3G5:5
+review:A2O0CFU9Q9XK3:4
+review:A2HOM6XN2BABJT:5
+review:A3NVNRFVGHOWHU:3
+review:A3UN6WX5RRO2AG:4
+review:A25C8GYZFU0JEQ:5
+review:A3U51SLB8733JV:4
+review:A3UN6WX5RRO2AG:4
+review:A3UN6WX5RRO2AG:4

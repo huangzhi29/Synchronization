@@ -1,0 +1,23 @@
+id:18960
+asin:B00007AJEI
+title:The Eye of Vichy
+group:DVD
+salesrank:29518
+similar:5
+categories:8
+category:;DVD;Actors & Actresses;( B );Bouquet, Michel
+category:;DVD;Actors & Actresses;( C );Cagney, James
+category:;DVD;Actors & Actresses;( C );Cox, Brian
+category:;DVD;Directors;( C );Chabrol, Claude
+category:;DVD;Genres;Art House & International;By Country;France;French New Wave
+category:;DVD;Special Features;Titles;( E )
+category:;DVD;Genres;Documentary;Military & War;General
+category:;DVD;Genres;Documentary;Military & War;World War II
+reviews:7
+review:A3J3PCQYR4MNR7:4
+review:A3J3PCQYR4MNR7:4
+review:AFF01LRZ0JB0L:5
+review:A3JOQAZKM7AACF:5
+review:A35PSVGX49GMA4:3
+review:A3VY1QHFJF0Y7H:5
+review:A3E103PT46VCHA:5

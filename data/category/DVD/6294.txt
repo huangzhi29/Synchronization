@@ -1,0 +1,40 @@
+id:6294
+asin:B00000I1RH
+title:Eastern Condors
+group:DVD
+salesrank:42841
+similar:5
+categories:18
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Art House & International;By Original Language;Chinese
+category:;DVD;Genres;Art House & International;General
+category:;DVD;Genres;Military & War;Action & Combat
+category:;DVD;Actors & Actresses;( C );Chow, Billy
+category:;DVD;Actors & Actresses;( G );Godenzi, Joyce
+category:;DVD;Actors & Actresses;( L );Lau, Billy
+category:;DVD;Actors & Actresses;( N );Ngor, Haing S
+category:;DVD;Actors & Actresses;( P );Ping, Yuen Woo
+category:;DVD;Actors & Actresses;( T );Tien, James
+category:;DVD;Actors & Actresses;( W );Wei, Dick
+category:;DVD;Directors;( H );Hung, Sammo
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;General
+category:;DVD;Special Features;Titles;( E )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Military & War;Vietnam War
+category:;DVD;Genres;Action & Adventure;By Theme;Hereos
+reviews:14
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A1M5K5TVXB512X:4
+review:A66IYA87O3626:5
+review:A3HQVAZ4A1V7C7:1
+review:A3U4TRVLLEZTFV:1
+review:AVL0JHT7M2ACI:3
+review:A21J8LD9WQSHO3:5
+review:A20UBBGEVZQZ74:4
+review:AP8ZGDBAKAL3P:5
+review:A2IFZM9JO3D0R8:5
+review:A3KGLF4ORJJD20:5
+review:A1WONQK4HV9IBL:5
+review:A4R9MJFF8UFND:4

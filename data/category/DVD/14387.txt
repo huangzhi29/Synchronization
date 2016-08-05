@@ -1,0 +1,41 @@
+id:14387
+asin:B00006FDAW
+title:How to Murder Your Wife
+group:DVD
+salesrank:6837
+similar:5
+categories:16
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Satire
+category:;DVD;Actors & Actresses;( A );Albertson, Jack
+category:;DVD;Actors & Actresses;( B );Blackmer, Sidney
+category:;DVD;Actors & Actresses;( L );Lemmon, Jack
+category:;DVD;Actors & Actresses;( L );Lisi, Virna
+category:;DVD;Actors & Actresses;( M )
+category:;DVD;Actors & Actresses;( T );Trevor, Claire
+category:;DVD;Actors & Actresses;( W );Wickes, Mary
+category:;DVD;Directors;( Q );Quine, Richard
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( H )
+category:;DVD;Genres;Comedy;Black Comedy
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Comedy;Comedy Stars;Jack Lemmon
+reviews:17
+review:A2RVR2R37H0GC5:5
+review:ATVPDKIKX0DER:5
+review:A1NSNVAY8GYGNT:5
+review:A3TKGM2JJJC1I3:5
+review:AOXATMN06GRDS:5
+review:A2MB0FJC95Y9TN:3
+review:AFZ2ZDF8CLHKA:4
+review:A1AFXJ8U72MD6L:3
+review:A20EEWWSFMZ1PN:5
+review:A1SV41EEBXTMNK:4
+review:A1MVRWG0MN99OH:5
+review:A3UN6WX5RRO2AG:5
+review:A26JV5WJ60IUX5:4
+review:A1U1X1SBP4A0WJ:5
+review:A2YT63K4RSOCFC:5
+review:A12X2J7AVZ04IQ:5
+review:A27M15DFUPV1CK:4

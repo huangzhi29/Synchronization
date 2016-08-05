@@ -1,0 +1,56 @@
+id:11627
+asin:B00005R24G
+title:Sleuth
+group:DVD
+salesrank:14415
+similar:5
+categories:14
+category:;DVD;Genres;Mystery & Suspense;Thrillers
+category:;DVD;Genres;Mystery & Suspense;Mystery
+category:;DVD;Actors & Actresses;( C );Caine, Michael
+category:;DVD;Actors & Actresses;( O );Olivier, Laurence
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;By Theme;Whodunnit?
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:34
+review:A1EHTS8QSUQ9AK:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A1KJYUIFLGJCFG:5
+review:A2AHQIAND37I87:4
+review:A1P795UQFDX69N:1
+review:A2VS4OH7SFT46C:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2SOWOPH420525:4
+review:A13NKVJ23JMSGZ:5
+review:A1UIZWVHTPR4JA:5
+review:A2WOPF5PNE6MLD:5
+review:A2WOPF5PNE6MLD:5
+review:A2WOPF5PNE6MLD:5
+review:A2WOPF5PNE6MLD:5
+review:A3MSQL0L4DM98Q:5
+review:A2OB2UWLZ3EHJ:4
+review:A3R2YB0WTTB0IJ:4
+review:A2DSXA1E02C86D:5
+review:ALXZ64A9OAPJ8:5
+review:A37ORV4GEO2Z3T:5
+review:A1YLLXRL1Y2BMZ:5
+review:A1TYQ22RMNU6ZH:5
+review:A2WOPF5PNE6MLD:5
+review:A1A3HTTKGM86VP:5
+review:A1FDW1SPYKB354:4
+review:AFFP5R0FJXJIK:5
+review:A2YAABMT80RLYA:5
+review:A1KT1GWCW8F80:5
+review:A3IXQI6ZBFXD65:5
+review:ACZYPXGXGJ2K2:5
+review:A3H4L6EWVN5VA7:5
+review:AYYOPF6RG019D:5

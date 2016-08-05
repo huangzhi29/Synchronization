@@ -1,0 +1,34 @@
+id:6060
+asin:B00008J2FC
+title:Please Teacher - Hot for Teacher (Vol. 1)
+group:DVD
+salesrank:41486
+similar:5
+categories:2
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Genres;Anime & Manga;By Studio;Bandai
+reviews:24
+review:A1NMEQQ6HK1FI5:5
+review:A20WGBEI2LD5RW:5
+review:AB5PO5ODQWWYK:3
+review:AH5BQF401B2LN:4
+review:ANEUY2FZHJDXT:5
+review:A17NCDFS094FNY:4
+review:A342EJG53J2HH4:3
+review:A1B84BMZ79KFEQ:5
+review:A112TO1ZGBIY2A:5
+review:A32MCD01AP5JP5:3
+review:A3NIQK6ZLYEP1L:5
+review:A1G9V7GWGZA0EW:5
+review:A340ZO6QSUZAPM:5
+review:A5Y0G6ZRUF4ZS:5
+review:A1ARL0WOQZ2VVJ:3
+review:A2HLFXKI1C1GPK:5
+review:A2B8GXSCB1R05T:4
+review:A3KRCQLVWYFXQG:5
+review:A3KRCQLVWYFXQG:5
+review:A7DYJO4UV51SJ:5
+review:A28RFOF6EY42F4:5
+review:A1MD3F91WVTLOK:5
+review:A2SYZIXZY0BSXC:5
+review:A2HH9HB8IVSNAH:3

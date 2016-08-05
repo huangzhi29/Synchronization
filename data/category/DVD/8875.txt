@@ -1,0 +1,23 @@
+id:8875
+asin:B000065U3G
+title:13 Erotic Ghosts
+group:DVD
+salesrank:13308
+similar:5
+categories:7
+category:;DVD;Actors & Actresses;( G );Gabai, Richard
+category:;DVD;Actors & Actresses;( R );Richardson, Jay
+category:;DVD;Actors & Actresses;( S );Spellos, Peter
+category:;DVD;Actors & Actresses;( S );Strain, Julie
+category:;DVD;Directors;( R );Ray, Fred Olen
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:8
+review:AAGFBE5EM7YKB:4
+review:AUYRVU6L4952Y:5
+review:AQPK52JT5LPA3:3
+review:A3LJID81WZ7B6L:5
+review:A13K0ANM7XEIMS:5
+review:A2K1K7UTD1K75C:1
+review:AQUJI03HGFAD3:5
+review:AWRCFU3N1MJQ6:5

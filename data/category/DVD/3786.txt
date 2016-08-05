@@ -1,0 +1,56 @@
+id:3786
+asin:6305505519
+title:Tale of the Mummy
+group:DVD
+salesrank:4612
+similar:5
+categories:27
+category:;DVD;Genres;Horror;General
+category:;DVD;Genres;Action & Adventure;By Theme;Monster Movies
+category:;DVD;Genres;Horror;Things That Go Bump;Monsters
+category:;DVD;Actors & Actresses;( A );Anthony, Lysette
+category:;DVD;Actors & Actresses;( B );Blackman, Honor
+category:;DVD;Actors & Actresses;( D );Duvall, Shelley
+category:;DVD;Actors & Actresses;( L );Lee, Christopher
+category:;DVD;Actors & Actresses;( L );Lee, Jason Scott
+category:;DVD;Actors & Actresses;( L );Lerner, Michael
+category:;DVD;Actors & Actresses;( L );Lombard, Louise
+category:;DVD;Actors & Actresses;( P );Pertwee, Sean
+category:;DVD;Actors & Actresses;( P );Pole, Edward Tudor
+category:;DVD;Actors & Actresses;( P );Polito, Jon
+category:;DVD;Directors;( M );Mulcahy, Russell
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Dimension Films
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( T )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Horror;General
+category:;DVD;Special Features;Today's Deals in DVD;Horror;Monsters
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Horror;Monsters
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:21
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:A33UI7FQF8LMJI:1
+review:A197OVP2KR26SV:5
+review:A2L80HZNWEITFT:1
+review:AS412HP2ORYH7:2
+review:A24M7KOQXS9OMB:1
+review:A1DJQEQ1MOL4Q:1
+review:A1CNP9MH26TEYU:1
+review:AL5HBA4AMYUQL:4
+review:A3K7TSDCM3G3N5:5
+review:A3GZC98GCCOPFS:1
+review:A1K0L2PKZLISWJ:5
+review:A1G1984Y0IFOAZ:1
+review:A3AIQDE2XBQJ5B:5
+review:A1NVW4NUXPOSJB:1
+review:A3SIJ2IXS7EGS2:1
+review:A3LZGLA88K0LA0:3
+review:A1HX00DL0SZM1G:5
+review:A3PA3XAJMZ4J7B:1
+review:A30WU5IMCEQ51C:1

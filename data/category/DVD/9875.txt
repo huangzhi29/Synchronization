@@ -1,0 +1,37 @@
+id:9875
+asin:B00007G1VS
+title:Indictment - The McMartin Trial
+group:DVD
+salesrank:18679
+similar:5
+categories:20
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;True Story
+category:;DVD;Actors & Actresses;( B );Blum, Mark
+category:;DVD;Actors & Actresses;( B );Bradford, Richard
+category:;DVD;Actors & Actresses;( D );Davidovich, Lolita
+category:;DVD;Actors & Actresses;( E );Elliott, Alison
+category:;DVD;Actors & Actresses;( F );Field, Chelsea
+category:;DVD;Actors & Actresses;( K );Knight, Shirley
+category:;DVD;Actors & Actresses;( R );Ruehl, Mercedes
+category:;DVD;Actors & Actresses;( T );Thomas, Henry
+category:;DVD;Actors & Actresses;( T );Thompson, Sada
+category:;DVD;Actors & Actresses;( W );Wildman, Valerie
+category:;DVD;Actors & Actresses;( W );Woods, James
+category:;DVD;Directors;( J );Jackson, Mick
+category:;DVD;Genres;Mystery & Suspense;Crime;Courtroom Drama
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( I )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Genres;Drama;By Theme;Miscarriage of Justice
+category:;DVD;Genres;Drama;Television;General
+reviews:9
+review:ATVPDKIKX0DER:4
+review:A6K9C3DVPOKKK:5
+review:AYOZF43K3V6K2:5
+review:ABN5K7K1TM1QA:4
+review:A27DHFFWMH042Y:5
+review:A1QFQ9SQZVGUK4:5
+review:AD9UP9K0F7FKH:5
+review:A2J09PU7DGGECT:2
+review:A8HXFGUZZF5C7:5

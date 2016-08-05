@@ -1,0 +1,21 @@
+id:1049
+asin:B000063JZG
+title:Soul Hunter - Game of Kings (Vol. 4)
+group:DVD
+salesrank:46751
+similar:5
+categories:3
+category:;DVD;Genres;Anime & Manga;By Studio;ADV Films
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Genres;Anime & Manga;Characters & Series;Soul Hunter
+reviews:10
+review:A1GKVVQ3EZVDNA:5
+review:A381QIL74B3NJX:5
+review:A3DXOWO1OE3745:4
+review:A2HMZNZFOZ4EL1:4
+review:A1M3S39WDV5YDZ:4
+review:A24NG644IFEYL2:5
+review:A3236AN3RP0OE8:4
+review:A7DYJO4UV51SJ:3
+review:A3UN6WX5RRO2AG:5
+review:A3B97VI1KMKRL2:4

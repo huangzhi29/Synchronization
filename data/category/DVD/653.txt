@@ -1,0 +1,41 @@
+id:653
+asin:B00004RFI7
+title:Cowboy Bebop - Session 2
+group:DVD
+salesrank:26906
+similar:5
+categories:5
+category:;DVD;Genres;Anime & Manga;Characters & Series;Cowboy Bebop
+category:;DVD;Genres;Anime & Manga;By Studio;Pioneer
+category:;DVD;Actors & Actresses;( B );Bassett, William H
+category:;DVD;Genres;Anime & Manga;General
+category:;DVD;Special Features;Titles;( C )
+reviews:28
+review:A2J9ALUHOERKSG:5
+review:A1LBINAQBD976I:5
+review:ABVULUZ2ILKKO:5
+review:ABVULUZ2ILKKO:5
+review:AYKNZDT27477Y:5
+review:A3D9IZ8BFU9X4O:5
+review:AK9IWMR9WHZMT:5
+review:A2YBT8E03BE2JZ:5
+review:A2YBT8E03BE2JZ:5
+review:A3EXR1YIFPN7G5:5
+review:A2S3FV6FQERRHL:4
+review:A5NW7SUC2BIQ2:5
+review:A2ZE6H8LHBPNW8:5
+review:A2O15IXFS0JC97:4
+review:AWVEDCHP21KM1:5
+review:A1TWNOCUFHAQYB:5
+review:A2O0CFU9Q9XK3:5
+review:A3CP1HCGZ7UT24:5
+review:AZ6PEZM83ECM5:5
+review:A170X28DQS49RX:5
+review:A3DMBC87IO6AKN:5
+review:A2HOM6XN2BABJT:5
+review:A2CRIEA7FXEFST:5
+review:A1AR8HYZ17T5H7:5
+review:A1M4NJYP0WNL8Q:5
+review:A2HT76MIGK5WDN:5
+review:A85S37WALLAD0:5
+review:A1H7IQM3WMOF11:5

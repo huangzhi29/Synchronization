@@ -1,0 +1,50 @@
+id:4282
+asin:0769712231
+title:King Lear
+group:DVD
+salesrank:6212
+similar:5
+categories:14
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( B );Blakely, Colin
+category:;DVD;Actors & Actresses;( C );Cox, Brian
+category:;DVD;Actors & Actresses;( H );Hurt, John
+category:;DVD;Actors & Actresses;( K );Kemp, Jeremy
+category:;DVD;Actors & Actresses;( K );Knight, Esmond
+category:;DVD;Actors & Actresses;( M );McKern, Leo
+category:;DVD;Actors & Actresses;( O );Olivier, Laurence
+category:;DVD;Actors & Actresses;( R );Rigg, Diana
+category:;DVD;Actors & Actresses;( T );Threlfall, David
+category:;DVD;Actors & Actresses;( T );Tutin, Dorothy
+category:;DVD;Special Features;Titles;( K )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;DVD;Genres;Drama;Family Life;Fathers & Daughters
+reviews:28
+review:ALJFE8O7KJXCS:4
+review:AC3XX5NJSOPVZ:1
+review:A16XT1MUOCHTZ6:1
+review:A1GHWG37JBAY42:4
+review:AR23UE1FQL7XN:5
+review:A3CYRD2J2OFCWY:1
+review:A1BCUHM12ABPLG:4
+review:AS2MXYG3A2E5M:4
+review:AE40EXQLK30XU:5
+review:A72QZHJU1G190:5
+review:AYA6UFLCBLDYZ:4
+review:A2NJO6YE954DBH:5
+review:AWDFOM2D4PTZD:5
+review:A33Q1XZN3N02QQ:5
+review:A2R376LKPEZWMS:5
+review:A3EAYLGG6YEL97:5
+review:A2S9TKW3Q6HECB:5
+review:A2QPAS1OMRGQPO:4
+review:A3MZXG3YL3TDCK:5
+review:A1LVZOK9F7K4CN:5
+review:A283O4HO7B9WJF:1
+review:A24MIEEENNSH3C:2
+review:A16CZRQL23NOIW:5
+review:A124PXYCXT2IY6:3
+review:A26X56TW77KQR6:5
+review:A1L5M5Q59IRPBQ:1
+review:A2W4Y7QI88F3W4:5
+review:A10HX1T9UOBF2M:5

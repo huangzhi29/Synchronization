@@ -1,0 +1,85 @@
+id:5780
+asin:6305133476
+title:Frantic
+group:DVD
+salesrank:7396
+similar:5
+categories:24
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Actors & Actresses;( B );Buckley, Betty
+category:;DVD;Actors & Actresses;( F );Ford, Harrison
+category:;DVD;Actors & Actresses;( P );Pinon, Dominique
+category:;DVD;Actors & Actresses;( S );Seigner, Emmanuelle
+category:;DVD;Actors & Actresses;( S );Spielvogel, Laurent
+category:;DVD;Directors;( P );Polanski, Roman
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;Blackmail, Murder & Mayhem;Kidnapping & Missing Persons
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( F )
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;Action & Adventure
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;All Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;By Theme;Amateur Sleuths
+category:;DVD;Genres;Action & Adventure;Action Stars;Harrison Ford
+category:;DVD;Genres;Mystery & Suspense;General
+category:;DVD;Specialty Stores;Studio Specials;Warner Home Video;DVDs Under $15
+reviews:53
+review:ANAUZFDI4AQU:5
+review:A2II7PZV95ZIZ0:5
+review:A1O3LCUUMY73U0:5
+review:A3LGJA0J6A61I5:3
+review:A2OHY6A3TTC79Q:5
+review:ATVPDKIKX0DER:4
+review:AX41LT9ZRSD2K:5
+review:A1KU6KFOO5WQRC:3
+review:A2JCC3GLWITZR6:3
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2NJU6KZVSWU1X:3
+review:AK2AQIULQDFS5:4
+review:AO1X52E1B28LO:5
+review:ARODYCYK4GZKI:5
+review:A263CS4PHEBIGI:4
+review:A331OF34UX4Y1K:4
+review:A3BTZBO1380KB1:1
+review:A275WB4PYH6227:3
+review:A3UN6WX5RRO2AG:3
+review:A3R2YB0WTTB0IJ:4
+review:A29IRS7ET5Q9RT:5
+review:A9V96D16AWBXO:2
+review:A8XUUENKM7FDL:5
+review:AT6QIE8HBCALX:3
+review:A3R1EYL25HLRC:4
+review:A13H2JJ3GEMJN1:4
+review:A3ORLBTNDUOPJ3:5
+review:A31L5TLG2TFGL5:1
+review:AYUFQY3XG4ZBR:3
+review:A2C6TR2TC07I9O:4
+review:A1OUVN4N5RXB1O:5
+review:AXPN8L8QI2Z4A:3
+review:A38ZNHOJMXWHR2:3
+review:A1P8UI63SGCTX4:1
+review:A1IY2TPKZ9HZF5:5
+review:A1X6RAJT9PMK8H:5
+review:A1X6RAJT9PMK8H:5
+review:ABS6VJX1KCAW4:5
+review:A3DU3WOGW4A9QH:1
+review:APOGXH3A74CM3:5
+review:AQ01Q3070LT29:5
+review:A2J7B7F2J7V4DM:5
+review:A2WEVBBOWCNRN4:5
+review:A19JYLHD94K94D:4
+review:A1YC9XEDFKXPLK:4
+review:A24F1UX8ZT5IXY:5
+review:AVA6S5SQQA1KT:1
+review:A1G2S7K51XIMFC:3
+review:A25JOXZFAU36L:4
+review:AKIGD8Q9LS8EC:2
+review:A20EKNHPUC2MJ5:1
+review:A38XOBYNKF9OZB:5

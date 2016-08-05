@@ -1,0 +1,23 @@
+id:9275
+asin:B000060MVJ
+title:The Speeches Collection, Vol. 1
+group:DVD
+salesrank:15673
+similar:5
+categories:5
+category:;DVD;Genres;Documentary;General
+category:;DVD;Actors & Actresses;( R );Reagan, Ronald
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Formats;Boxed Sets;Documentary
+category:;DVD;Genres;Documentary;African American Heritage
+reviews:10
+review:A3GL35KHVDHAKG:5
+review:AXUKGCBC8M2H7:1
+review:A2F6YUO7YP28R6:3
+review:A3FNOMJG1MKQYG:3
+review:AM9AXIOA1WHHT:4
+review:AM9AXIOA1WHHT:4
+review:A14OJS0VWMOSWO:5
+review:A2D8N9DNEXUNEO:1
+review:A3QCD3OEP1UE8U:5
+review:A9Q28YTLYREO7:2

@@ -1,0 +1,30 @@
+id:1287
+asin:B000056N8T
+title:Lilith Fair - A Celebration of Women in Music
+group:DVD
+salesrank:8439
+similar:5
+categories:8
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Artists;McLachlan, Sarah
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:14
+review:A3RNT2BV132AUI:5
+review:A2GAIB0LO7PB0M:5
+review:A3MNC7DO7OB7K0:3
+review:ATCNWD7R2FNKW:5
+review:A2VZ11U5DXM8J5:5
+review:A76V4N6FO8H3Z:3
+review:A2NJO6YE954DBH:5
+review:A2N276LF5OIIMO:3
+review:A2TAMD3T1LWK18:4
+review:A1CEWCG23HQJ7A:3
+review:AETTGCZ6I7KZX:4
+review:AVYSHI940LA9A:5
+review:A33ARZNBR3LH4S:5
+review:A28W123JR15E7F:4

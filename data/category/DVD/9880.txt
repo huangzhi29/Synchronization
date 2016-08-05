@@ -1,0 +1,27 @@
+id:9880
+asin:B000068QOE
+title:Poirot - The Complete Collection
+group:DVD
+salesrank:21628
+similar:5
+categories:8
+category:;DVD;Genres;Mystery & Suspense;Mystery
+category:;DVD;Genres;Television;A&E Home Video;All A&E Titles
+category:;DVD;Actors & Actresses;( S );Suchet, David
+category:;DVD;Genres;Mystery & Suspense;Mystery & Suspense Masters;Agatha Christie
+category:;DVD;Genres;Television;TV Series;Poirot
+category:;DVD;Special Features;Titles;( P )
+category:;DVD;Formats;Boxed Sets;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:11
+review:A3BWP419QBBHHE:5
+review:A3JJQ7QCZYZEQ8:5
+review:A3D6TFYRMIV3ZL:5
+review:A2QQIXEQPFC4UO:5
+review:A18UAXCTBP9F2B:4
+review:A18UAXCTBP9F2B:4
+review:A22WSFKYMDKGDE:1
+review:A2L8ZEMIRAW6JZ:2
+review:A2VLLSZ4Z91XPD:1
+review:A2743BNCIMN9PL:5
+review:A1YJ2S3HSOFWHF:1

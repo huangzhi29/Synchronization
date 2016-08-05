@@ -1,0 +1,74 @@
+id:15850
+asin:B000096IAI
+title:The Rescuers
+group:DVD
+salesrank:3444
+similar:5
+categories:15
+category:;DVD;Specialty Stores;Disney Home Video;All Disney Titles
+category:;DVD;Actors & Actresses;( F );Fiedler, John
+category:;DVD;Actors & Actresses;( F );Flynn, Joe
+category:;DVD;Actors & Actresses;( F );Fox, Bernard
+category:;DVD;Actors & Actresses;( G );Gabor, Eva
+category:;DVD;Actors & Actresses;( M );McIntire, John
+category:;DVD;Actors & Actresses;( N );Newhart, Bob
+category:;DVD;Actors & Actresses;( N );Nolan, Jeanette
+category:;DVD;Actors & Actresses;( P );Page, Geraldine
+category:;DVD;Actors & Actresses;( T );Taylor, Dub
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( R )
+category:;DVD;Genres;Kids & Family;By Theme;Daring Rescues
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:51
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:2
+review:A2V6TM7N0B8VDB:4
+review:A1OBPHRXHZF8P6:5
+review:A3EHD2IZEYRU25:5
+review:A3OBBWCDNIYT8D:4
+review:A2I8IWH4WWN76T:5
+review:A10DRJL3NJ4NCC:4
+review:A1LQPMX21BS6N8:5
+review:A3H20PDQQ0R966:5
+review:AN2B6XNP87G07:5
+review:AKT0R5RJ9FNXF:5
+review:AWD04XNW82KCQ:4
+review:A39NXAD50F6YVZ:3
+review:A1C9GCHR99WX3F:4
+review:A1T3LFK6K0X6SL:5
+review:A2TWSQJ691NO6Y:4
+review:A192NU24IK8TVM:5
+review:A39US4FTZ7H8D4:4
+review:AOVJYIUATQKR5:4
+review:A1BWA94JAYFSD5:5
+review:A5VOALGQOTA50:5
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A1HTT5NLU6FMI0:5
+review:A3UN6WX5RRO2AG:5
+review:AOFEI1XEW48BO:5
+review:AEGR40GALMDJ4:4
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A3RDZPP3MJTS:5
+review:A3UN6WX5RRO2AG:5
+review:AZ7LPCN9Y9SLJ:5
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A3Q0EWS9MV8X0B:4
+review:A9FYSQ1WW4EZ1:5
+review:A3TD7B0CT1NHO4:5
+review:AI1OOS3ZQKJK0:5
+review:A11HV501OX9MNV:5
+review:A2AOZQ3WTNVVOK:5
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:A3UN6WX5RRO2AG:5
+review:AQXAKKTKJHCQ3:5
+review:A1F2T8IHX5GAXR:5
+review:AE218NCP886EM:5
+review:A3UN6WX5RRO2AG:5

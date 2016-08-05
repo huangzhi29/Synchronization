@@ -1,0 +1,66 @@
+id:5466
+asin:0792841670
+title:Run Silent, Run Deep
+group:DVD
+salesrank:2727
+similar:5
+categories:28
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Action & Adventure;Classics
+category:;DVD;Genres;Military & War;Drama
+category:;DVD;Actors & Actresses;( B );Bond, Rudy
+category:;DVD;Actors & Actresses;( C );Cravat, Nick
+category:;DVD;Actors & Actresses;( D );Dexter, Brad
+category:;DVD;Actors & Actresses;( F );Fluellen, Joel
+category:;DVD;Actors & Actresses;( G );Gable, Clark
+category:;DVD;Actors & Actresses;( L );Lancaster, Burt
+category:;DVD;Actors & Actresses;( L );Lynch, Ken
+category:;DVD;Actors & Actresses;( R );Rickles, Don
+category:;DVD;Actors & Actresses;( W );Warden, Jack
+category:;DVD;Directors;( W );Wise, Robert
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( R )
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;All MGM Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Military & War;Drama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Military & War
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Action & Adventure;Action Stars;Burt Lancaster
+category:;DVD;Genres;Military & War;By Theme;War at Sea
+reviews:30
+review:ATVPDKIKX0DER:4
+review:A1CBBCNM894HMA:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:AIMBOX2T0HV1H:4
+review:ALR35EFI69S5R:5
+review:AGQ5S063W47TI:4
+review:A1EQC0H60QICMD:5
+review:A2Z5WEA0KOMN9G:5
+review:A2PU0E14POONX4:5
+review:A3NJXCGCLNU808:5
+review:A6T0PS1HAVU0Z:4
+review:A1TK6R2JSC97HL:4
+review:A2M9HEZIBGQ978:5
+review:A39PEWAG32QPEO:4
+review:AB33LXGISJNBL:5
+review:A6YJH65E31Q2M:5
+review:A133J11WK7HN48:4
+review:A219WNYVXIGS6D:5
+review:A1U1X1SBP4A0WJ:5
+review:A3CN9CCJUNIPKT:5
+review:A1345VRK5MYG7:4
+review:A3FM0PAT23VTNA:5
+review:A2Q13PHEXGR48Q:4
+review:A1MJMYLRTZ76ZX:5
+review:A6ADO7B6FUVN:4
+review:A20EEWWSFMZ1PN:5
+review:A1IH2JKONPBHL:5
+review:AK61LQI92GTCH:4
+review:AQP1VPK16SVWM:5

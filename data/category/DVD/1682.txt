@@ -1,0 +1,23 @@
+id:1682
+asin:B00005NB9U
+title:El Camino (The Road)
+group:DVD
+salesrank:35925
+similar:5
+categories:11
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Art House & International;By Country;Spain
+category:;DVD;Genres;Action & Adventure;By Theme;Police & Detective Films
+category:;DVD;Genres;Action & Adventure;Romantic Adventure
+category:;DVD;Genres;Action & Adventure;By Theme;On the Road
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Genres;Action & Adventure;By Theme;Chase Movies
+category:;DVD;Genres;Drama;Love & Romance;Romance
+category:;DVD;Genres;Art House & International;By Original Language;Spanish
+category:;DVD;Special Features;Titles;( E )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:4
+review:A394QIJIUAQQP2:5
+review:A17FCJE4RFV4NI:4
+review:A1LKBHO581O6J1:2
+review:AO4A961ZKHJPL:3

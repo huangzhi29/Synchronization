@@ -1,0 +1,23 @@
+id:18698
+asin:B00004TIXZ
+title:k.d. lang - Harvest of Seven Years (Cropped and Chronicled)
+group:DVD
+salesrank:18382
+similar:5
+categories:6
+category:Music;Styles;Country;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Country;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( K )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:9
+review:A20EY3EFHCOV4V:5
+review:A2OTDM4N32PP2P:5
+review:AJ0S8Z2X1YWGR:3
+review:AH9WG87ZWHSLC:5
+review:A107H3XGCV6Y4Q:5
+review:A2W7JA1HUK5YYQ:3
+review:AQ0MWUN8NEAGA:5
+review:A4XWUCKUBOL7J:5
+review:A3LN2719A08N0A:5

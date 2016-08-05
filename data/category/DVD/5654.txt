@@ -1,0 +1,135 @@
+id:5654
+asin:0767827929
+title:Godspell
+group:DVD
+salesrank:3549
+similar:5
+categories:14
+category:;DVD;Genres;Musicals & Performing Arts;General
+category:;DVD;Actors & Actresses;( G );Garber, Victor
+category:;DVD;Actors & Actresses;( H );Haskell, David
+category:;DVD;Actors & Actresses;( J )
+category:;DVD;Actors & Actresses;( L )
+category:;DVD;Actors & Actresses;( M );McCormick, Gilmer
+category:;DVD;Actors & Actresses;( S );Sroka, Jerry
+category:;DVD;Actors & Actresses;( T );Thigpen, Lynne
+category:;DVD;Directors;( G );Greene, David
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;General
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;Classics
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Genres;Musicals & Performing Arts;Musicals;Drama
+category:;DVD;Special Features;Titles;( G )
+reviews:113
+review:ATVPDKIKX0DER:4
+review:A2FIOA4EG3OL8:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A3FE8VVZ0EOYUE:4
+review:A1K2NS8E97IXRU:5
+review:A2XC92X49KNDD0:5
+review:ATVPDKIKX0DER:4
+review:A1B35CITI2O241:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A2ZGE8BJ4D7X2Q:5
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:4
+review:A25C78ON4X9JV3:5
+review:ATVPDKIKX0DER:5
+review:A1SOLJC4ZFR31O:5
+review:A1SOLJC4ZFR31O:5
+review:A2UND6NQOLKDCL:5
+review:ATVPDKIKX0DER:5
+review:A286LODOB75QOF:5
+review:A1XTB7557MY51X:5
+review:A10EATW0TEHZSG:5
+review:A1FGHA4GU5R5Y8:5
+review:ATVPDKIKX0DER:5
+review:A15IRAJ8HMRUK6:5
+review:A1CPMRQLWHAVH:1
+review:A39MZ4QVMYSYCC:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A13ZDNREY8UX6P:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A3PHGX1Q9EDE2Q:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A2O41U8FB5C3HY:3
+review:A147SPLYAFROJA:5
+review:A3OGD0I4CB6MCT:5
+review:A3L00AH5TUDHGW:5
+review:AKILFUIOW79VT:5
+review:A3TD0DHQ4CFRDS:5
+review:A3VNLYN4HLL2GF:5
+review:A2GAT7J1CUISTP:5
+review:A2GAT7J1CUISTP:5
+review:A1ES8JDIUJ3CHI:3
+review:A3DH5R23EOLXG1:5
+review:A1Q6APJWZW7OF8:4
+review:A27LXZTW0PR58P:4
+review:A2JYHQVZCLGFHU:2
+review:A2B2XN76MPV0DM:5
+review:AIWRBCDSPCDRE:5
+review:A30VBFALXERAE9:5
+review:A3UT7N10H9JMOH:5
+review:A2S7ER4CRXXJUY:3
+review:A25A0MJV5TXDR8:1
+review:AK6B5SYVL6I39:5
+review:A8T21IR0E5JJI:1
+review:A330X8HNT4XJ9L:5
+review:A31SNV1EDZZYVP:4
+review:A1GPMQTBKZHS33:1
+review:A3HSSFOKO7YSQZ:4
+review:A34ZRDJ51VLE8T:4
+review:A17UC91G2697HP:4
+review:A1IT7GPYNP9QGT:4
+review:A4PE1Y4MTBXJM:5
+review:A270VN12EAFCIQ:2
+review:A3T0YU5P78X74A:5
+review:A1RY8PL7WPIJXY:2
+review:A5ZK0TXX45BZW:5
+review:A9ZLZH59MQYW9:4
+review:A2I6MHMAZZDCRX:4
+review:A34L4IYVPY56FU:5
+review:A20O1K2BI0R2KT:4
+review:A20O1K2BI0R2KT:4
+review:A3OXSKVUWKSZ3M:2
+review:A1KMNZG93J18F6:4
+review:AK7D1BHZOSOL1:5
+review:A29RF8DYFWG0U2:4
+review:A3FSLU9BH9R9YK:5
+review:A11D3W4CFYZNHM:4
+review:A1JH5J1KQAUBMP:2
+review:A3MMX0D8RQ26FE:3
+review:A1ZJJL01LVZQGU:5
+review:ACVWZX21V4HYK:5
+review:A3KM4O3542Y206:4
+review:AM2PV53UX1JEQ:5
+review:A1NRZNAE1K86JJ:5
+review:A3OK0URGAZJU1J:5
+review:A1ZH9LWMX5UCFJ:5
+review:AQ8DU6XVA3USJ:5
+review:A3O70NJ1CL3QZ4:4
+review:A3UN6WX5RRO2AG:5
+review:A29LHKKWUUHEY8:2
+review:AEVFN5Y6Q25CX:4
+review:A3UN6WX5RRO2AG:1
+review:A1HMYMZTZ8LGFN:4
+review:A45DMDHO56OK6:5
+review:A2ECWOKRLTJY4P:1
+review:A1UYNO24EXETXE:5
+review:AZ6LYQ5Q4AJMW:5
+review:A3U94GGBVPCTE4:5
+review:A140XH16IKR4B0:3
+review:AJ1NY4Y5M4OMX:5
+review:A1SXUN9SJ66ZXQ:5
+review:A3UN6WX5RRO2AG:5
+review:A1EAF8JBOFJR8M:4
+review:AUMVXQK7OYOXC:5
+review:A23ZP02F085DFQ:5

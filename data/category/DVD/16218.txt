@@ -1,0 +1,30 @@
+id:16218
+asin:0767018877
+title:Monty Python's Flying Circus
+group:DVD
+salesrank:17706
+similar:5
+categories:15
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Television;TV Series;Monty Python's Flying Circus
+category:;DVD;Genres;Television;A&E Home Video;All A&E Titles
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( C );Chapman, Graham
+category:;DVD;Actors & Actresses;( C );Cleese, John
+category:;DVD;Actors & Actresses;( G );Gilliam, Terry
+category:;DVD;Actors & Actresses;( I );Idle, Eric
+category:;DVD;Actors & Actresses;( J );Jones, Terry
+category:;DVD;Actors & Actresses;( P );Palin, Michael
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Formats;Boxed Sets;Comedy
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Genres;Television;A&E Home Video;British Cult Television;General
+category:;DVD;Genres;Television;By Decade;1970s;General
+reviews:7
+review:A10FBJXMQPI0LL:5
+review:ADY1JQVT4QJHG:5
+review:A1LA42STKN06BG:5
+review:A1ONAFHDKFK1OF:5
+review:AFKMMW34VARXR:5
+review:A2HP9COIPKXQ1I:5
+review:A12IQ99MWM9YQ8:2

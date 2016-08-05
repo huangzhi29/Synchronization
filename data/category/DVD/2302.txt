@@ -1,0 +1,99 @@
+id:2302
+asin:B00000F3CB
+title:Johnny Mnemonic (Superbit Collection)
+group:DVD
+salesrank:20615
+similar:5
+categories:23
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Genres;Science Fiction & Fantasy;Sci-Fi Action
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Special Features;Fully Loaded DVDs;DTS
+category:;DVD;Actors & Actresses;( F );Flores, Von
+category:;DVD;Actors & Actresses;( F );Francks, Don
+category:;DVD;Actors & Actresses;( K );Kier, Udo
+category:;DVD;Actors & Actresses;( L );Lundgren, Dolph
+category:;DVD;Actors & Actresses;( M );Meyer, Dina
+category:;DVD;Actors & Actresses;( M );Miller, Sherry
+category:;DVD;Actors & Actresses;( R );Reeves, Keanu
+category:;DVD;Actors & Actresses;( R );Rollins, Henry
+category:;DVD;Actors & Actresses;( S );Sukowa, Barbara
+category:;DVD;Directors;( L );Longo, Robert
+category:;DVD;Genres;Art House & International;By Country;Canada
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;All Sony Pictures Titles
+category:;DVD;Special Features;Titles;( J )
+category:;DVD;Special Features;Fully Loaded DVDs;Superbit Collection
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Computer Paranoia
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Race Against Time
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Technology Run Amok
+category:;DVD;Genres;Science Fiction & Fantasy;Futuristic
+category:;DVD;Specialty Stores;Studio Specials;Sony Pictures Home Entertainment;Superbit Collection
+reviews:68
+review:A4J3G0IR4ZRSQ:3
+review:A30J23BVUT73WR:2
+review:A1CA02DP96G65S:1
+review:A1MD8S5G9S7LLD:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:1
+review:A1H0Y7A4I21BVZ:1
+review:A2EELER75VUJNL:3
+review:A1STJE8KFRWK3S:3
+review:ATVPDKIKX0DER:1
+review:AIM0IQSXIE4E0:5
+review:A23Q5VJSB3IYPY:4
+review:ATVPDKIKX0DER:4
+review:A9L5W2SXQEYNW:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:2
+review:A3KU1M4E0W8PCZ:5
+review:A2YPDBJ593164W:5
+review:A2HMPMAHXB68D5:5
+review:A3KFX5F12BEOR:3
+review:A3SFG3AWGFBJXC:1
+review:A8916VL3WXI3S:4
+review:ATHBGVBSAN8GY:5
+review:A3CCYAQRHUTPIQ:2
+review:A3SAU1A0IEYDNX:2
+review:A1V88XOE8RJKH1:5
+review:AQ8DU6XVA3USJ:3
+review:A32ER0AFTK1GLO:5
+review:A25X2PXXF8ZH4Q:5
+review:A1W9IFSHMYDQJU:5
+review:A2DSYA035TAJHI:5
+review:A3ICDLUQ3V2QY2:1
+review:A1JDSYG2Z5BIBS:5
+review:A2DSYA035TAJHI:5
+review:A1WS3QQRFJB2N3:3
+review:A2Q7YBUV8IPTLW:2
+review:A3SW7RWSE5MHIT:1
+review:A3SW7RWSE5MHIT:1
+review:A2KSWHGL7NT5TW:2
+review:A3MEVJ8OKBOAOI:4
+review:A1W9IFSHMYDQJU:5
+review:A2NX99GVAX4TRP:1
+review:A1CJJ1R2EL5EP:1
+review:A2JVJLLCMYDCBZ:2
+review:A1ZTSOBAPOWT3:5
+review:A3PR4ZSBDUL4EG:3
+review:A1CDZNPO7U4E6N:1
+review:A2XVRCU5DQBULH:2
+review:A2XVRCU5DQBULH:2
+review:AL277B4AQCWBG:1
+review:A1S6FTP5WPMPIV:4
+review:A1PMJ961NM8P86:5
+review:ASI74SFE1C77P:4
+review:A1VB917DL8SPQL:4
+review:A36Z412J68XRX9:5
+review:A3P1A63Q8L32C5:1
+review:A105YVLAZNYQUU:1
+review:A4YLFRSBBC3RZ:2
+review:AGVKKU8R5DI8H:2
+review:A2PYY3CNPPWGZ3:2
+review:A1VDVOO7Z6LP7Y:3
+review:A3S6A04JGVOFNS:5
+review:A2R4XG0L7Z01V8:3
+review:A306BS5R888I5Z:1
+review:A3LAY35LB1P694:2
+review:A3K0TF08U21P36:3
+review:A3D2VIUT2HWP0Z:5
+review:AO7MV47BFLA3R:1

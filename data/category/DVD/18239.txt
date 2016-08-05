@@ -1,0 +1,57 @@
+id:18239
+asin:B00005NMYY
+title:Kylie Minogue - Live In Sydney [Import]
+group:DVD
+salesrank:45193
+similar:5
+categories:6
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Actors & Actresses;( M );Minogue, Kylie
+category:;DVD;Genres;Music Video & Concerts;Country;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Other Music;Folk
+category:;DVD;Special Features;Titles;( K )
+reviews:43
+review:AEG0S8DHRK3P9:5
+review:ASO2JWEX6QNJ9:5
+review:ATAGA49C8AICR:5
+review:A2W7JA1HUK5YYQ:4
+review:A13MYTVYGX3IFA:5
+review:A3H72NTIVCN99S:5
+review:A1NY8E3WRXPWCX:5
+review:A3SPWCLAGCQBCI:5
+review:AF83ROU09VDFI:5
+review:A1BSU5ON796TWM:5
+review:A3LQDJC9VXQ43Y:5
+review:ADITQVD6UVFL5:5
+review:A29TNAVMPYFRDF:4
+review:A13MPRXAMR7ABR:3
+review:A310NUOM0JOXO7:5
+review:AH96V4I4XE9H1:5
+review:A1B9OR900SIYGY:4
+review:AHWUFMZS9EEG:3
+review:AF5E5CHE2A7VX:4
+review:A14PS7BDSYKG9U:5
+review:A3BMQWLBDBNO6C:5
+review:A28VVRL3ULDQK7:5
+review:A3BZ6W2CWSUV69:1
+review:A7DCOM24JL6D9:5
+review:ASO7VE392KWMX:5
+review:ARNM83VFLOL7Y:5
+review:A2CYS44A322ZWX:5
+review:A1AD60F9XVCXNH:5
+review:A1AD60F9XVCXNH:5
+review:A285Y6MRU4GH9:5
+review:A3HON1MV4828HQ:5
+review:A2EZ6ZA6CSUSIW:5
+review:AUW8TCRK9EDQ6:5
+review:A3U5CZ3PV82JXD:5
+review:A3CDM2G3YYKPTT:5
+review:A22XGVAAD5WCNS:5
+review:A19552QR80XTOX:5
+review:A2G0IXGK2CAU25:5
+review:A3UN6WX5RRO2AG:5
+review:A246SDNOONPOE8:5
+review:A2098ZCJTGRGFW:5
+review:A3UN6WX5RRO2AG:5
+review:A2AXTPUV6TMWYL:5

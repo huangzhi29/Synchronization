@@ -1,0 +1,86 @@
+id:17396
+asin:B00005JL72
+title:Boomerang
+group:DVD
+salesrank:1460
+similar:5
+categories:29
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Sex Comedies
+category:;DVD;Actors & Actresses;( B );Berry, Halle
+category:;DVD;Actors & Actresses;( C );Campbell, Tisha
+category:;DVD;Actors & Actresses;( G );Givens, Robin
+category:;DVD;Actors & Actresses;( G );Grier, David Alan
+category:;DVD;Actors & Actresses;( H );Holder, Geoffrey
+category:;DVD;Actors & Actresses;( H );Hudlin, Reginald
+category:;DVD;Actors & Actresses;( J );Jones, Grace
+category:;DVD;Actors & Actresses;( K );Kitt, Eartha
+category:;DVD;Actors & Actresses;( L );Lawrence, Martin
+category:;DVD;Actors & Actresses;( M );Murphy, Eddie
+category:;DVD;Actors & Actresses;( P );Peebles, Melvin Van
+category:;DVD;Actors & Actresses;( R );Rochon, Lela
+category:;DVD;Actors & Actresses;( R );Rock, Chris
+category:;DVD;Actors & Actresses;( W );Witherspoon, John
+category:;DVD;Directors;( H );Hudlin, Reginald
+category:;DVD;Genres;Comedy;Romantic Comedies;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;Comedy Stars;Eddie Murphy
+category:;DVD;Genres;Comedy;Comedy Stars;Martin Lawrence
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Comedy
+reviews:49
+review:A79IOFYMLG8FX:5
+review:ATVPDKIKX0DER:5
+review:AYX7YKYAACFEJ:5
+review:A2FRK72RI49FWD:5
+review:A2FRK72RI49FWD:5
+review:A2UOY8UC1GWGK4:5
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:4
+review:AQMID6E92SJS:4
+review:A3M88RCAR2T804:5
+review:A3M88RCAR2T804:5
+review:A2M08TLU9TIGDD:5
+review:A19A5DZT15U3TG:5
+review:A1KDP3QJ0KZ2MX:4
+review:A3SLSTBP6PARCP:5
+review:A2TAV6XYP1UB4P:1
+review:AXKQUMC2WEVTT:2
+review:A1CDZNPO7U4E6N:5
+review:A12AP0LHPNVVK3:5
+review:APT31PZIB3H9Z:5
+review:AA3NVDZI98W6H:5
+review:AKPZL0A5P914H:5
+review:A1B4CBVDET35M9:5
+review:AFJVQM0Q2TCF8:5
+review:A3TVJN5KVS3AOS:5
+review:A2N2ZODYZIP9MZ:5
+review:A2DCWIHW85MKKJ:4
+review:A27G2AKXY1PQCZ:5
+review:A2FBV6BC7N8WKW:5
+review:A3AF8P0GINFADV:5
+review:A2OV637G7USGX:4
+review:A20NJAPECFGIR9:5
+review:A3HM5G9IV1FTFP:4
+review:A3RNC9BGR4J1ZF:5
+review:A15MLF38WROSWU:5
+review:A3AVO52H9LG67G:5
+review:A3W0POMI33YQXQ:5
+review:A1XQCV5734A94Z:5
+review:A314LCGWS08QFM:5
+review:A3L7244F2T22R2:5
+review:A1B3QBZM8WHGIZ:4
+review:A2BEU7GPGNIG44:5
+review:A26LIR24MAM6VQ:4
+review:A38S8RD8XOXLVS:4
+review:AD29KEJMCAD76:4
+review:A1YB07MXGAP5QJ:5
+review:A3548RAN1T8AAD:4
+review:A31U2QT7SAL7K:5

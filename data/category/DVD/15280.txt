@@ -1,0 +1,39 @@
+id:15280
+asin:B00005RDAN
+title:Miss Evers' Boys
+group:DVD
+salesrank:10219
+similar:5
+categories:24
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;True Story
+category:;DVD;Actors & Actresses;( B );Black, Larry
+category:;DVD;Actors & Actresses;( D );Davis, Ossie
+category:;DVD;Actors & Actresses;( F );Fishburne, Laurence
+category:;DVD;Actors & Actresses;( M );Morton, Joe
+category:;DVD;Actors & Actresses;( S );Sheffer, Craig
+category:;DVD;Actors & Actresses;( V );Vaughn, Judson
+category:;DVD;Actors & Actresses;( W );Woodard, Alfre
+category:;DVD;Directors;( S );Sargent, Joseph
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Drama;By Theme;Doctors & Patients
+category:;DVD;Genres;Drama;By Theme;Social Injustice
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Docudrama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Docudrama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;African American Cinema;TV & Miniseries
+category:;DVD;Genres;Television;HBO;Based on a True Story
+category:;DVD;Genres;Drama;Television;General
+reviews:7
+review:AM4QLL70AIAVR:4
+review:A9Q28YTLYREO7:5
+review:A1VFYHGJ5M9FHU:5
+review:A2E7E9EWADK4S6:5
+review:A3LU79BYMWZEW9:4
+review:A35VH7H0FPB88Z:4
+review:A35MYCC2A7JCU7:5

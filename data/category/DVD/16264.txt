@@ -1,0 +1,54 @@
+id:16264
+asin:6305433860
+title:Operation Condor 2
+group:DVD
+salesrank:18930
+similar:5
+categories:23
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( B );Bee, Kenny
+category:;DVD;Actors & Actresses;( C );Chan, Anthony
+category:;DVD;Actors & Actresses;( C );Chan, Jackie
+category:;DVD;Actors & Actresses;( K );Kwan, Rosamund
+category:;DVD;Actors & Actresses;( L );Ladalski, John
+category:;DVD;Actors & Actresses;( T );Tam, Alan
+category:;DVD;Directors;( C );Chan, Jackie
+category:;DVD;Directors;( T );Tsang, Eric
+category:;DVD;Genres;Action & Adventure;Martial Arts;General
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;All Titles
+category:;DVD;Genres;Action & Adventure;Hong Kong Action;General
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;Comedy
+category:;DVD;Specialty Stores;Studio Specials;Miramax Home Video;Dimension Films
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Genres;Art House & International;By Country;Hong Kong;General
+category:;DVD;Special Features;Titles;( O )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Action & Adventure;Action Stars;Jackie Chan
+reviews:23
+review:ATVPDKIKX0DER:5
+review:ARZDY0TYODKHS:2
+review:A1PBTYLJG25DLY:5
+review:ATVPDKIKX0DER:3
+review:ATVPDKIKX0DER:4
+review:A3FKJ00556I4FK:5
+review:AN1PL2NVFXBND:3
+review:A1CLS5L1M31C3Q:4
+review:A2MQ0XMY64Y4PI:5
+review:A3I09T1SVGFGB2:4
+review:A3UN6WX5RRO2AG:4
+review:AZ8ZPDUHIVNUX:4
+review:A3UZ26JD9BND86:5
+review:A2F10W3O09TB76:2
+review:A1L8YCC59777O5:2
+review:A1CZICCYP2M5PX:4
+review:A3JH2DKYX26KG4:4
+review:A1UVAZUJ5IL8LA:5
+review:ASRVZ6PWZOFM9:5
+review:A1YSJMOT7LBNOW:1
+review:A1SNH3HY1MB8VT:2
+review:A1CV19Z3EDXMJ6:1
+review:AU0P3MJHOR2Y:4

@@ -1,0 +1,42 @@
+id:1641
+asin:B00006DXXR
+title:MTV's The Real World The Complete First Season - New York
+group:DVD
+salesrank:8503
+similar:5
+categories:6
+category:;DVD;Genres;Television;General
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Genres;Television;TV Series;Real World
+category:;DVD;Genres;Television;MTV;General
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Genres;Television;By Decade;1990s and Newer;General
+reviews:28
+review:A1O11XSJFQ1GO8:4
+review:A3EGY48EHBI1Q7:2
+review:A3HJ3WFEHULJIK:5
+review:A3O8O8C2IVUKEH:4
+review:A2L8VMNMKSL1N0:4
+review:A1JYNBQ49851L9:1
+review:A2LS0BSXW0AJHS:4
+review:A3GLJGGENZMFHO:4
+review:A34VYH8JJX3IV8:1
+review:A2HQX5Q78FL4ZX:3
+review:A2VAT51MQV5621:3
+review:AAI57M3OXP5NK:4
+review:A2USVHVMB9KNEB:4
+review:A3VJVVYBRW90KZ:1
+review:A2C7ZONEBL6LD4:5
+review:A11LOTGGOONRS8:1
+review:A1I8JOLW1PKPFE:4
+review:A1I8JOLW1PKPFE:4
+review:A9ITL4I7AML3S:4
+review:A3JM7ZRLXC18UC:1
+review:A82LCZ9ANBIH8:4
+review:A9YA983MXKCEL:5
+review:A2OBJH8H7ECA84:1
+review:A37VF51O89UTIV:5
+review:A2CGLAFH4K6ZFO:3
+review:A2T1XP65APNTK1:4
+review:A32C0L73LHB4NZ:5
+review:AFRJMYUEDVTPA:5

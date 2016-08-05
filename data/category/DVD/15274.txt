@@ -1,0 +1,69 @@
+id:15274
+asin:B00005RDAF
+title:Britney Spears - Britney
+group:DVD
+salesrank:25696
+similar:5
+categories:9
+category:;DVD;Genres;Music Video & Concerts;General
+category:Music;Styles;Dance & DJ;Dance Pop;General
+category:Music;Styles;Pop;Adult Contemporary;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Artists;Spears, Britney
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+reviews:52
+review:A1EVDFK373C8Z7:5
+review:AELW35ITMITW0:5
+review:A20J22BZ1H2IW7:4
+review:A3Q1OVOLC05VLM:3
+review:A1MJLWLL7MMKW4:5
+review:A3UN6WX5RRO2AG:4
+review:A3VBF9ZZFQPR82:4
+review:A2BF6ZSRDQ6VM7:3
+review:A3ENAW0REIRY53:2
+review:A3ZE4KRZS6FBR:4
+review:A3ODZ4ET4ATL6G:2
+review:A1ICD3K7Z87FOT:5
+review:A2KJR5EZKSSM7T:4
+review:A1OR0WL0H5OD0E:4
+review:A28GX0H46MMGIN:4
+review:A3OPB5N596D9LL:4
+review:A17R692RPCYI4R:5
+review:AV3PA7P5P3G4Q:4
+review:A4QJ3YC0EWNXP:1
+review:A4EAA2LD34OHS:3
+review:A1H0NFSHJ1M4F0:4
+review:AT1GMH2UHYROT:4
+review:A6KIM5TMXYUIT:5
+review:A1OR0WL0H5OD0E:5
+review:A3Q9PAT05ZRFGD:3
+review:ASCM3206SVTO0:4
+review:A2XY7164O8EJ0K:2
+review:A3JN5KKZ80ZAST:1
+review:A2HFML3ESDDBLC:5
+review:AOK1VY1BR55J0:5
+review:A1573PDWF9RLM9:4
+review:A2TD1R3LU86UU9:3
+review:A1LDIMQISH07WK:4
+review:A3VAJL6IP405BP:2
+review:A3LSD3PC0S12FA:4
+review:A2BEL24YTP0IVK:3
+review:A2N8LFYSR2IBPC:3
+review:A2BKVLM1MAS1EH:3
+review:A2DBANSABOZMC4:2
+review:A3OX0HXB80SZBT:5
+review:A3HTX1NOTTWERP:5
+review:A2QUQ5E6NQLB5K:3
+review:A2N99EMY6ZJUVP:5
+review:A3UN6WX5RRO2AG:1
+review:A37UBGOAPCEJBE:5
+review:A2PPTMU5WDBJBD:3
+review:A2W7NHH36VRO8I:4
+review:A2BM5WQR5KA5P9:1
+review:A2EUG9W2IAVCT:3
+review:A331OF34UX4Y1K:1
+review:AU8552YCOO5QX:1
+review:A3KXRZCN90F9BB:3

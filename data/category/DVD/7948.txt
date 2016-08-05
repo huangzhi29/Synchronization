@@ -1,0 +1,23 @@
+id:7948
+asin:B00005OBAH
+title:Lara Croft - Lethal and Loaded
+group:DVD
+salesrank:19437
+similar:5
+categories:9
+category:;DVD;Genres;Action & Adventure;General
+category:;DVD;Actors & Actresses;( J );Jolie, Angelina
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( L )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Action & Adventure;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Action & Adventure;General
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:6
+review:A2DRHY9HJ4DE1F:5
+review:A1TGXBJ96E9B8B:4
+review:A3QY51UOKAQ6IC:3
+review:A1V2JU1BQMF8EJ:2
+review:A2GF6858BD9KQ2:4
+review:ALTB4BBE5LI5N:5

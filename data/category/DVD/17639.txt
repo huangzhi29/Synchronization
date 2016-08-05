@@ -1,0 +1,23 @@
+id:17639
+asin:B00006JDUY
+title:Sound of Jazz
+group:DVD
+salesrank:35143
+similar:5
+categories:5
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Jazz;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( S )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:10
+review:A21ZM6AALH4QVI:3
+review:A11Q4DC4YPPZGF:3
+review:A2SQLQ3RRTDYG0:5
+review:A3AKTJ1V4A7CLT:5
+review:A3Q33YQFUH67GY:1
+review:A1MG4ZWP6NS4V7:1
+review:AH59VVDFPWR9F:5
+review:A3O1W8K849UM5X:1
+review:A3AKTJ1V4A7CLT:3
+review:A1JWRAZ81RZI1L:1

@@ -1,0 +1,23 @@
+id:690
+asin:B00004RFIC
+title:Soundstage
+group:DVD
+salesrank:18726
+similar:5
+categories:8
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;Satire
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( K );Kaufman, Andy
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Genres;Comedy;Parody & Spoof;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+reviews:7
+review:A2TOZDMQM1XM8I:4
+review:A2LS0FB861DZR1:5
+review:ANVMYQWSEWUJX:4
+review:A2SAUBG8ITOZ02:4
+review:AS10WQY30971N:5
+review:AY2MW9P28HQ5G:5
+review:A1M49WFQRJO7OA:5

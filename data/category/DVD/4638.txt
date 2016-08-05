@@ -1,0 +1,82 @@
+id:4638
+asin:0780021312
+title:Hamlet -  Criterion Collection
+group:DVD
+salesrank:7186
+similar:5
+categories:27
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;Period Piece
+category:;DVD;Actors & Actresses;( A );Aylmer, Felix
+category:;DVD;Actors & Actresses;( B );Bushell, Anthony
+category:;DVD;Actors & Actresses;( C );Cushing, Peter
+category:;DVD;Actors & Actresses;( H );Holloway, Stanley
+category:;DVD;Actors & Actresses;( K );Knight, Esmond
+category:;DVD;Actors & Actresses;( L );Laurie, John
+category:;DVD;Actors & Actresses;( L );Llewelyn, Desmond
+category:;DVD;Actors & Actresses;( M );MacGinnis, Niall
+category:;DVD;Actors & Actresses;( O );Olivier, Laurence
+category:;DVD;Actors & Actresses;( Q );Quayle, Anthony
+category:;DVD;Actors & Actresses;( S );Simmons, Jean
+category:;DVD;Actors & Actresses;( S );Sydney, Basil
+category:;DVD;Actors & Actresses;( T );Troughton, Patrick
+category:;DVD;Directors;( O );Olivier, Laurence
+category:;DVD;Genres;Art House & International;By Theme;Period Piece
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Titles;( H )
+category:;DVD;Genres;Art House & International;By Country;United Kingdom;General
+category:;DVD;Genres;Drama;Family Life;Mothers & Sons
+category:;DVD;Genres;Drama;By Theme;Haunted by the Past
+category:;DVD;Genres;Drama;Love & Romance;Star-Crossed Lovers
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Drama
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Art House & International
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;Classics
+category:;DVD;Specialty Stores;Studio Specials;Criterion Collection;All
+reviews:47
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A1686H7Q24XZ3E:4
+review:A1BJOEQSRX2IBM:5
+review:A1NPNGWBVD9AK3:5
+review:A1AUO4FIP0IYZ8:4
+review:A591T7Y696C2Q:5
+review:A3EOHYIHQM3KK:4
+review:A3SLA4ADDSYZJ2:5
+review:A3O8ZTJPRRJPBW:4
+review:A2D8YD38EN1D2:3
+review:A2STY2Y51CG8N4:4
+review:A1CG09GKHGVW22:5
+review:A2Q07KQAAFWVL7:5
+review:A34DA5GTPVWAFC:4
+review:AQ8DU6XVA3USJ:5
+review:A3K1RVYM3JQZZS:4
+review:A133T07WO5KYX3:3
+review:A1FAKZ848PO3V8:4
+review:A34J4ZKC515VZM:5
+review:A1QJM67B7NF26Z:3
+review:A2VUP5US1F5HG5:5
+review:A20EEWWSFMZ1PN:5
+review:A2ZSC81MXLBELX:5
+review:A105B8V248S2WH:5
+review:A1GN8UJIZLCA59:5
+review:AAQX9QE13582U:3
+review:A1WT96X9NC0D9G:5
+review:A2I5406XT0H9VD:5
+review:ADSKDZXN59FE5:3
+review:A1M9DQDGE07Q0U:3
+review:A23QOAXJSWIBS6:4
+review:AVCRD98TH48RN:4
+review:A2FEGRJQNU51P9:5
+review:AI0OAQ6E2O8VF:4
+review:A16CZRQL23NOIW:5
+review:A2GPN2VKS8E77C:5
+review:AEE2GJR0VF6R7:5
+review:A3MYJECJ7DG0DB:5
+review:A3D6TFYRMIV3ZL:5
+review:A2XGV7S2MBEAJ:2

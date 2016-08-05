@@ -1,0 +1,123 @@
+id:8334
+asin:B00005YUOO
+title:The Wiggles - Hoop-Dee-Doo! It's a Wiggly Party
+group:DVD
+salesrank:5851
+similar:5
+categories:11
+category:;DVD;Genres;Kids & Family;General
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Kids & Family;3-6 Years
+category:;DVD;Genres;Kids & Family;7-9 Years
+category:;DVD;Genres;Kids & Family;Music & Arts
+category:;DVD;Genres;Art House & International;By Country;Australia & New Zealand
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( W )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Kids & Family;Characters & Series;Wiggles
+category:;Specialty Stores;Books, Music & More;Videos and DVDs for Babies and Toddlers;The Wiggles DVDs
+reviews:104
+review:AZK9CCTYQNRNL:5
+review:A2DQ6NM4PYW4CH:4
+review:A2KJ13IHBNXL6Y:5
+review:A29QWASM35RMN6:3
+review:A36MTYZT9GRZY3:5
+review:APEW91IQVTQZM:5
+review:APEW91IQVTQZM:5
+review:A1DMTCSU93YD6T:3
+review:A16MJD0MJI6FWV:3
+review:A2TB083OAG15CD:4
+review:AN6BSGN35TLW0:5
+review:ARF0Z0YGXMBA3:5
+review:A7DHR21PT61QB:3
+review:A8CO4G8S114MD:5
+review:A1EZ62AUBNLEIG:5
+review:AZSUNDA3H8HK:2
+review:A1CNHHOVE47YCR:5
+review:A3HL16L87369HT:1
+review:A2IR8QZDNXOLLL:5
+review:AQG0YTU8GP6Z:5
+review:A3NLIKSMKFL7VK:5
+review:A2N6K3XG3PXW9W:3
+review:A1CLZZ344P9DKG:5
+review:A336HVZMKKYY1S:2
+review:AHNPUTPGZXVA0:5
+review:A2CRYKFCO0YZ4Z:2
+review:A201PMWQFE0LTP:5
+review:ACIJAQ0XDRD7V:3
+review:A89F69NYKGO40:3
+review:A1N1K7SRCMRUJL:5
+review:A2NPN70SRMZTHT:4
+review:A37AQ4ZZIZTL2Q:2
+review:A2UGKRRD27E8HN:5
+review:A2NKMHECS62UWR:4
+review:A19I2BQQH19QTC:4
+review:A1NN49B1P8UT3J:1
+review:A3REMEAZI9RRAE:5
+review:A2KRHEXW4XKBCQ:2
+review:A1TK6UH4VTFXIT:5
+review:A269YOC1OGAQGU:2
+review:A1SOEY6P4N2F5B:4
+review:A3FNTP7Y0HED0X:5
+review:A14SLS9M9UB7PG:4
+review:A15TNUM2PBS6F0:4
+review:A3AE7K00NNS2K4:1
+review:A17W7U47TGLPEA:5
+review:A1TJEQ8QY68BHW:5
+review:A3I39Q8544DZFW:5
+review:A37G0P9FDIKBMI:5
+review:A2RNUPVSNW1ZXX:4
+review:A31EM6KWC8QBCT:5
+review:A3THAGHC52LX09:3
+review:A2C711TXDF3M2H:5
+review:A1CV6OR380A92W:4
+review:A1ZGPU16CKJ4ZP:2
+review:AS0GU55HIYN08:5
+review:A324R6LIIUDTR:5
+review:A1YO153R1VLJ3N:2
+review:AZL0P9J95ON7D:4
+review:A3Q2ELDR854X7P:1
+review:A19NFN05CP6AI4:5
+review:A3QQO9GVE0GOFE:3
+review:AW5RPK9OMYP2H:5
+review:A3J97SXIL1ZBLS:1
+review:A3Q61XMG4AF0NE:2
+review:AVBGCS8OLE74Y:5
+review:A18EOP6ZY3EX1B:5
+review:A168ZLJDURLT87:5
+review:A36PUHGHPB9EJP:5
+review:ALDRUZ14QVQFI:4
+review:A2XRY4KL1X0VB1:5
+review:A3G1WDBH64M8XV:4
+review:A1IG6SZHTGB1LV:5
+review:A399HZYEGUEX2U:3
+review:A2TVVN2JWDAE8A:4
+review:A3RJ304KQT6T43:4
+review:A2IE1692EAKD8P:5
+review:A1Z54EM24Y40LL:5
+review:A2PLC0VDGC47XS:5
+review:A2XUQN9HUD6ISG:5
+review:A37PV5GMP2ILJC:5
+review:A3399EFVZB20XF:5
+review:A1ZKEJUON29OO0:3
+review:A93HI9Z8Q0D39:5
+review:A4T3E1GHQW07G:5
+review:A1N9EL4PXUDSAO:2
+review:A19XI2256A23IR:5
+review:A2AGSLLJ164M5M:5
+review:A2I1RJP9SCFKX7:4
+review:A1OZL8RMD20SG4:5
+review:AKAB1B40TBVAH:5
+review:A10NHBPDVC8EOH:5
+review:A2DJ077S7Q8OX9:5
+review:A13EM9F6YDPQE2:5
+review:A1Z54EM24Y40LL:5
+review:A2IVRTD7FDWF57:5
+review:A139WVXEW9CXF3:5
+review:A1ZCYC0RHTRMZF:5
+review:A2U2L3RF9XCEB6:5
+review:AN92S28RV1FQ4:4
+review:A3TD7B0CT1NHO4:5
+review:A1BOJ3936IE1E0:5
+review:A166IF8J3N8LUI:5
+review:A1AQK4BN6TI79I:5

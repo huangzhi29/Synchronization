@@ -1,0 +1,40 @@
+id:11664
+asin:6305989397
+title:Buck Rogers [Serial]
+group:DVD
+salesrank:14488
+similar:5
+categories:22
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Genres;Science Fiction & Fantasy;Classic Sci-Fi
+category:;DVD;Actors & Actresses;( B );Brandon, Henry
+category:;DVD;Actors & Actresses;( C );Chandler, Lane
+category:;DVD;Actors & Actresses;( C );Crabbe, Buster
+category:;DVD;Actors & Actresses;( D );Duncan, Kenne
+category:;DVD;Actors & Actresses;( G );Gould, William
+category:;DVD;Actors & Actresses;( H );Hackett, Karl
+category:;DVD;Actors & Actresses;( H );Howes, Reed
+category:;DVD;Actors & Actresses;( M );Moran, Jackie
+category:;DVD;Actors & Actresses;( O );Oakman, Wheeler
+category:;DVD;Actors & Actresses;( S );Sharpe, David
+category:;DVD;Actors & Actresses;( U );Usher, Guy
+category:;DVD;Actors & Actresses;( W );Warde, Anthony
+category:;DVD;Actors & Actresses;( Y );Young, Carleton
+category:;DVD;Directors;( B );Beebe, Ford
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $20
+category:;DVD;Special Features;Titles;( B )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+category:;DVD;Genres;Science Fiction & Fantasy;By Theme;Heroic Missions
+category:;DVD;Genres;Science Fiction & Fantasy;Futuristic
+category:;DVD;Genres;Science Fiction & Fantasy;Space Adventure
+reviews:10
+review:A3Q6M1VM2M60U9:4
+review:A2T9DKV8V96AMI:5
+review:A38V9TBPOBRILP:3
+review:A2QRX8NCTWDKGD:5
+review:AQ2BC2TN40GG3:5
+review:AHUT55E980RDR:4
+review:A267XQ6Q5P4Y35:5
+review:AR2775SOI7RV:4
+review:A28EK408TYZ1X0:5
+review:A2JP0URFHXP6DO:4

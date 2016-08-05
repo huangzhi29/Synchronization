@@ -1,0 +1,72 @@
+id:686
+asin:B00004RFIF
+title:Mystery Science Theater 3000 - The Brain That Wouldn't Die
+group:DVD
+salesrank:4312
+similar:5
+categories:14
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Science Fiction & Fantasy;Comedy
+category:;DVD;Actors & Actresses;( B );Beaulieu, Trace
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( H );Hodgson, Joel
+category:;DVD;Actors & Actresses;( M );Mallon, Jim
+category:;DVD;Actors & Actresses;( N );Nelson, Michael J
+category:;DVD;Directors;( M );Mallon, Jim
+category:;DVD;Genres;Television;TV Series;Mystery Science Theater 3000
+category:;DVD;Genres;Comedy;Television;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Genres;Comedy;Parody & Spoof;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $20
+reviews:50
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:2
+review:ATVPDKIKX0DER:5
+review:AYT637QZLQI8P:5
+review:A2NTNE2KABDK59:5
+review:A2TORR6E4EUCAF:5
+review:A2M8CILGD2NNPI:4
+review:A18O0MIW1YYQJK:5
+review:A3ETCAWQSRX99W:5
+review:A1BMXROX3UCLZO:5
+review:A2QPFN4AJDY3XE:4
+review:A203GG76ILPS1A:5
+review:A2ZL2B7Q2EEIVC:5
+review:A3FOO8469GBXOC:5
+review:AB2U893HHHG74:5
+review:AT3OEQV6KD47R:5
+review:A1HBE82LS4PJ9M:4
+review:A1HBE82LS4PJ9M:4
+review:AQ6CB4P2GBFJP:5
+review:A1K3WK2QHB8397:5
+review:A3OZKZEHTTQDBX:4
+review:A3DV3AWG5PFN4G:5
+review:A3UP8DUC8M8NT:5
+review:AI4C0UTOQJICR:4
+review:A3HSIXJL85N8UK:5
+review:A1SIKR1LWVAV:5
+review:A2W6EDX8JKHWAA:4
+review:A2I17T9XB6LSGW:3
+review:A3AUL23GMCOP2A:5
+review:A2GWZ040EO79IJ:5
+review:A2EXMGQEFLW0LD:5
+review:A1COW0UIB5HA9J:5
+review:A2SX6KRQ1AJM50:3
+review:A3NYATUZSZZ5AT:4
+review:A2X3IT1PUWYMQY:5
+review:A1L0MZB36QJAQ7:5
+review:ACCB800B14TS9:4
+review:AYR35AVQ1Z94T:5
+review:A6GJ70R1C65QD:5
+review:A2W3ZK70GBC26R:5
+review:ANBOOQR5NVJPM:5
+review:A1NDYL6D6QNVCI:4
+review:A37563JES12QF:4
+review:A1V51M8M216Y69:5
+review:A38QJ7JUUTVLKX:5
+review:A2WSI8HOWHFDOT:5
+review:A1WEBVLOT3SF60:5
+review:A3OI841P5R6FCH:4

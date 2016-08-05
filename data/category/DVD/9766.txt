@@ -1,0 +1,39 @@
+id:9766
+asin:B000067IVR
+title:Space 1999, Set 8
+group:DVD
+salesrank:21930
+similar:5
+categories:20
+category:;DVD;Genres;Science Fiction & Fantasy;General
+category:;DVD;Genres;Television;A&E Home Video;All A&E Titles
+category:;DVD;Actors & Actresses;( B );Bain, Barbara
+category:;DVD;Genres;Television;General
+category:;DVD;Actors & Actresses;( L );Landau, Martin
+category:;DVD;Actors & Actresses;( M );Morse, Barry
+category:;DVD;Actors & Actresses;( T );Tate, Nick
+category:;DVD;Directors;( A );Austin, Ray
+category:;DVD;Directors;( C );Clegg, Tom
+category:;DVD;Directors;( C );Connor, Kevin
+category:;DVD;Directors;( C );Crichton, Charles
+category:;DVD;Directors;( G );Guest, Val
+category:;DVD;Directors;( M );Medak, Peter
+category:;DVD;Special Features;Titles;( S )
+category:;DVD;Formats;Boxed Sets;Sci-Fi & Fantasy
+category:;DVD;Formats;Boxed Sets;Television
+category:;DVD;Genres;Television;TV Series;Space: 1999
+category:;DVD;Genres;Television;A&E Home Video;British Cult Television;General
+category:;DVD;Genres;Television;A&E Home Video;Gerry Anderson
+category:;DVD;Genres;Television;By Decade;1970s;General
+reviews:11
+review:A20AFUMU7Q279S:5
+review:ABR9YCTY9BTCR:5
+review:A2YJ1K8M0KPHMF:3
+review:A30Q8X8B1S3GGT:5
+review:A2RPQXROPB6Z22:5
+review:A2W00XKTTF1G0Z:3
+review:A3P7M442XII0WT:1
+review:A53NSI0GCK8EV:4
+review:A3559I6Q7RCPP3:2
+review:A1E6Z9JIL4EO9A:5
+review:A33C64DVYNQ8Z2:5

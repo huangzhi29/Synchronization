@@ -1,0 +1,174 @@
+id:9132
+asin:0792838289
+title:The Manchurian Candidate
+group:DVD
+salesrank:20929
+similar:5
+categories:35
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Mystery & Suspense;Suspense
+category:;DVD;Genres;Mystery & Suspense;Thrillers
+category:;DVD;Genres;Drama;Murder & Mayhem
+category:;DVD;Actors & Actresses;( B );Bissell, Whit
+category:;DVD;Actors & Actresses;( C );Corrigan, Lloyd
+category:;DVD;Actors & Actresses;( E );Edwards, James
+category:;DVD;Actors & Actresses;( G );Gregory, James
+category:;DVD;Actors & Actresses;( H );Harvey, Laurence
+category:;DVD;Actors & Actresses;( L );Lansbury, Angela
+category:;DVD;Actors & Actresses;( L );Leigh, Janet
+category:;DVD;Actors & Actresses;( M );McGiver, John
+category:;DVD;Actors & Actresses;( N );Nalder, Reggie
+category:;DVD;Actors & Actresses;( P );Parrish, Leslie
+category:;DVD;Actors & Actresses;( S );Silva, Henry
+category:;DVD;Actors & Actresses;( S );Sinatra, Frank
+category:;DVD;Directors;( F );Frankenheimer, John
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;MGM DVDs Under $15
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Mystery & Suspense
+category:;DVD;Genres;Mystery & Suspense;Blackmail, Murder & Mayhem;Murder
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;All MGM Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Mystery & Suspense
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Mystery & Suspense;By Theme;Assassination Plots
+category:;DVD;Genres;Mystery & Suspense;By Theme;Political Conspiracies
+category:;DVD;Genres;Military & War;By Theme;Korean War
+category:;DVD;Genres;Military & War;By Theme;Cold War
+category:;DVD;Genres;Mystery & Suspense;General
+reviews:131
+review:A3LOOY5ARW50FX:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:ATVPDKIKX0DER:5
+review:A3CQMA4Z50T0T1:5
+review:A1L21T4GVIC0OR:5
+review:AJ2RNTKOFXF3L:4
+review:A25M7Z95FSDQ9X:5
+review:A2XDQ24PZLSDMH:5
+review:ATVPDKIKX0DER:5
+review:A14ZJGG2MIA77Q:5
+review:A38LNLINNGZJQA:4
+review:A17D77DFID0GZG:5
+review:ATVPDKIKX0DER:5
+review:A1LOT93D6QXZ0X:4
+review:A1MOMCAJB5KXLN:5
+review:A3M4QGREWR0Z3O:4
+review:AZPEP907CR2UY:5
+review:A16QODENBJVUI1:5
+review:A32W3ELQICGOL6:5
+review:A3SJAPBBED0MCB:5
+review:ATVPDKIKX0DER:4
+review:A1G1VYBLUR9Q1O:5
+review:A14LSB0DIPVXVM:5
+review:A27LQDQYMOPP6H:5
+review:A2GAG9QHLFDD3R:5
+review:ADES8B01WRPI3:4
+review:A2VXZYVRBWRG0A:5
+review:A1BJOEQSRX2IBM:5
+review:AJ8UIBQ7H5D75:5
+review:AGLQGJ1PZGLK3:4
+review:AQIRPO9O8I8P0:4
+review:A1110E06W6VWO3:5
+review:A11MNKGD2VLZOB:5
+review:A31U2QT7SAL7K:5
+review:A2KAVOGWK3BRB7:4
+review:A3F6G79DF5VAHR:5
+review:A3J7AWNRMRGOT9:4
+review:A7Y6AVS576M03:5
+review:A2441CXD8TXS0R:5
+review:A1FG91CM8221X1:5
+review:A1JH5J1KQAUBMP:5
+review:A3DR2VZACXHRIZ:5
+review:AHU4RRDISEPJU:2
+review:AW3VZ5O895LRK:5
+review:AC62SNVRI158P:5
+review:AIUCOKLG6COYZ:4
+review:AB062TMM0BH9C:5
+review:AH6J8O7XGSOFS:5
+review:A26HFSVLAGULIM:5
+review:A92LD431P843F:5
+review:A22TOR5C3KLZW5:5
+review:A3JNVI7XF1LE4A:5
+review:A9GHUUBM6HPF2:4
+review:A1JCOLQL6ENZJG:5
+review:A1JGGXKIEHXAOR:5
+review:A3L84JNFS2DJBM:5
+review:A3LFMJWHJOWGSC:5
+review:A2Y3VGSSH29U9U:5
+review:A1IZOLJPZK76WU:5
+review:A31JRSZQ76YA1N:5
+review:A1DTCJV6KOMJOA:5
+review:AS1KQ8H27S80Z:5
+review:A1345VRK5MYG7:4
+review:A20EEWWSFMZ1PN:5
+review:A3FXKNKPWT5XT8:5
+review:A1R7TXCKWDZNOQ:5
+review:A1EV76DBSPEZJQ:5
+review:A3GK9LT41X73NC:4
+review:AMUQFJS88LNSR:5
+review:A3OY68WXYQ4GOF:5
+review:AA9QNIWWLCT77:5
+review:A2OO9DS1RY5KXU:5
+review:A2C6TR2TC07I9O:4
+review:AOY341ELZ7V8D:5
+review:A2BHWOS5PUGU78:5
+review:A92LD431P843F:5
+review:AXA7OH47LBXZ7:5
+review:A3FNOMJG1MKQYG:5
+review:A3CFT5LHFCB46K:4
+review:A1PL8JA0TEHBVN:5
+review:A1HXNLXRELBU8A:5
+review:AZ2UA4EY641O0:3
+review:A319YRDK8Y39N:4
+review:A3CYIPH534ZD09:5
+review:A3CYIPH534ZD09:5
+review:A3CYIPH534ZD09:5
+review:A36KS1IQTNH10M:5
+review:A1HYGEDA3GUQX:3
+review:A6ADO7B6FUVN:4
+review:A8X147D9E4GS3:3
+review:A3GQKB1KF0CRPE:5
+review:A3GQKB1KF0CRPE:5
+review:A1O30ZJ181B4JH:5
+review:AMYW43AHO16SS:5
+review:A26JGAM6GZMM4V:5
+review:ALR35EFI69S5R:5
+review:AL6JIT43D8D4Z:5
+review:A2L4ZGN7GZJ95T:4
+review:A2M1N8G4W4END8:5
+review:A27RJ30RN5K9MX:5
+review:A1EOCWCGAZRRN3:5
+review:A17IW44FV0HUTY:4
+review:A2JNUIG0H2SZ0C:5
+review:A2IRATR53843WU:3
+review:A1TKM36EYEQNSM:5
+review:A2MFNDNS1L7D16:5
+review:A16CZRQL23NOIW:5
+review:A5WMBIOGE8Q6N:3
+review:ADJBUPS8SJHTC:5
+review:A3ODVVP9XO42L:5
+review:A2PNTEDGMOLMOY:5
+review:AX54V83LZ5C8A:5
+review:A2WSI8HOWHFDOT:5
+review:A3E830FPNNRHAY:5
+review:A2FEJIORC1MBG3:5
+review:A39GH2BZBPH7ED:5
+review:A2JA7C0WEMB1M7:5
+review:A3L5QAK4BFDHEP:4
+review:A9I40WFF40R4:5
+review:A1UDMUAFCQO4M3:4
+review:A3MV1KKHX51FYT:4
+review:A1LVZOK9F7K4CN:5
+review:A32RAMPV65HXBV:5
+review:A1MIFU0YKLG40T:4
+review:A2D8CUJPOSRPNA:5
+review:AUTBHG6070SL4:5
+review:ABVX4O1Q0OW5B:5
+review:A1Q4FFIDD52VF2:5
+review:AF3X7J0XC391L:5
+review:A2VD3CYOEMJ6SR:5

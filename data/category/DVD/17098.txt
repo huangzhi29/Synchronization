@@ -1,0 +1,45 @@
+id:17098
+asin:B00004WLVS
+title:The Man with the Golden Arm
+group:DVD
+salesrank:22005
+similar:5
+categories:24
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;By Theme;Melodrama
+category:;DVD;Actors & Actresses;( K );Kinskey, Leonid
+category:;DVD;Actors & Actresses;( M );McGavin, Darren
+category:;DVD;Actors & Actresses;( M );Merande, Doro
+category:;DVD;Actors & Actresses;( N );Novak, Kim
+category:;DVD;Actors & Actresses;( P );Parker, Eleanor
+category:;DVD;Actors & Actresses;( S );Sinatra, Frank
+category:;DVD;Actors & Actresses;( S );Stang, Arnold
+category:;DVD;Actors & Actresses;( S );Stone, George E
+category:;DVD;Actors & Actresses;( S );Strauss, Robert
+category:;DVD;Actors & Actresses;( W );Wright, Will
+category:;DVD;Directors;( P );Preminger, Otto
+category:;DVD;Genres;Drama;Classics
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( M )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Genres;Drama;By Theme;Addiction & Alcoholism
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;DVD;Special Features;Today's Deals in DVD;Drama;Melodrama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;Melodrama
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:13
+review:A3O0IREZ8YUP67:5
+review:ATVPDKIKX0DER:5
+review:A1SSEZ8V1H6IB2:4
+review:A2DECMCGKASEV1:5
+review:AR10HXX4V4ADX:4
+review:A3UDYY6L2NH3JS:4
+review:A192KEPM0HW6AC:5
+review:AJKUP1WBFELFV:4
+review:A3TD7B0CT1NHO4:5
+review:A16CZRQL23NOIW:5
+review:A3SH9XRYW8UZSL:1
+review:A3G79A8QKT1G0P:1
+review:AQ8DU6XVA3USJ:5

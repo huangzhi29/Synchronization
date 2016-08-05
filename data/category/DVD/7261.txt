@@ -1,0 +1,29 @@
+id:7261
+asin:B00007M5HI
+title:Alias Betty
+group:DVD
+salesrank:21489
+similar:5
+categories:14
+category:;DVD;Genres;Art House & International;By Original Language;French
+category:;DVD;Genres;Drama;General
+category:;DVD;Genres;Drama;Crime & Criminals
+category:;DVD;Genres;Drama;By Genre;Mystery & Thriller
+category:;DVD;Actors & Actresses;( G );Garcia, Nicole
+category:;DVD;Actors & Actresses;( G );Guesmi, Samir
+category:;DVD;Actors & Actresses;( K );Kiberlain, Sandrine
+category:;DVD;Directors;( M );Miller, Claude
+category:;DVD;Genres;Art House & International;By Genre;Drama
+category:;DVD;Genres;Art House & International;By Country;France;General
+category:;DVD;Genres;Art House & International;By Country;Canada
+category:;DVD;Special Features;Titles;( A )
+category:;DVD;Genres;Drama;By Theme;Psychological Drama
+category:;DVD;Genres;Drama;Family Life;Mothers & Daughters
+reviews:7
+review:A280GY5UVUS2QH:4
+review:A3MLO4GAD2O9DL:4
+review:A1DRM3JV6T5O6P:5
+review:AYG1U47VFZ165:5
+review:A3RG6TSWAQZ1YY:4
+review:ABN5K7K1TM1QA:5
+review:A17X4B27GDCJEY:5

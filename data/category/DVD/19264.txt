@@ -1,0 +1,53 @@
+id:19264
+asin:6305537348
+title:Barefoot in the Park
+group:DVD
+salesrank:43630
+similar:5
+categories:19
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Comedy;By Theme;Opposites Attract
+category:;DVD;Actors & Actresses;( B );Bird, Billie
+category:;DVD;Actors & Actresses;( B );Boyer, Charles
+category:;DVD;Actors & Actresses;( B );Burns, Paul E
+category:;DVD;Actors & Actresses;( E );Edelman, Herb
+category:;DVD;Actors & Actresses;( F );Feld, Fritz
+category:;DVD;Actors & Actresses;( F );Fonda, Jane
+category:;DVD;Actors & Actresses;( N );Natwick, Mildred
+category:;DVD;Actors & Actresses;( R );Redford, Robert
+category:;DVD;Actors & Actresses;( R );Roberts, Doris
+category:;DVD;Directors;( S );Saks, Gene
+category:;DVD;Genres;Comedy;Classic Comedies
+category:;DVD;Genres;Comedy;Romantic Comedies;Classics
+category:;DVD;Special Features;Titles;( B )
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;All Paramount
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Classics
+category:;DVD;Specialty Stores;Studio Specials;Paramount Home Entertainment;Comedy
+category:;DVD;Genres;Comedy;Domestic Comedies
+reviews:26
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:4
+review:ATVPDKIKX0DER:5
+review:A6TGXURZ5635Q:5
+review:ATVPDKIKX0DER:5
+review:A2K8YH7Y5XSWEJ:5
+review:ACD6KAOJ9X973:3
+review:A3SCGAOEABN2AB:5
+review:A53LE13K1AONQ:4
+review:A39837HXPWMKSU:4
+review:A2MB0FJC95Y9TN:5
+review:A1FDW1SPYKB354:4
+review:ADPWW8NW5N4BH:5
+review:A2NJO6YE954DBH:5
+review:A22X60JRXWHXRH:3
+review:A2JJGIJI8X6KRS:5
+review:ACIBQ6BQ6AWEV:4
+review:A1A535W556ROBQ:4
+review:A1A535W556ROBQ:4
+review:AW4MT9WP95TVD:4
+review:A3E03XC85QZCGN:4
+review:A6TGXURZ5635Q:5
+review:AWAWCJX62S5OA:5
+review:ASJ89T42CIUHU:4
+review:A20EEWWSFMZ1PN:5
+review:A25AXWGBGJ5KBS:4

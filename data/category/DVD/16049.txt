@@ -1,0 +1,48 @@
+id:16049
+asin:6305784892
+title:Molly
+group:DVD
+salesrank:30069
+similar:5
+categories:22
+category:;DVD;Genres;Comedy;General
+category:;DVD;Genres;Drama;General
+category:;DVD;Actors & Actresses;( A );Acovone, Jay
+category:;DVD;Actors & Actresses;( C );Chan, Michael Paul
+category:;DVD;Actors & Actresses;( E );Eckhart, Aaron
+category:;DVD;Actors & Actresses;( H );Harper, Robert
+category:;DVD;Actors & Actresses;( H );Hendrix, Elaine
+category:;DVD;Actors & Actresses;( H );Hennessy, Jill
+category:;DVD;Actors & Actresses;( J );Jane, Thomas
+category:;DVD;Actors & Actresses;( M );Mitchell, Elizabeth
+category:;DVD;Actors & Actresses;( P );Pryor, Nicholas
+category:;DVD;Actors & Actresses;( S );Shue, Elisabeth
+category:;DVD;Directors;( D );Duigan, John
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;MGM DVDs Under $15
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( M )
+category:;DVD;Specialty Stores;Studio Specials;MGM Home Entertainment;All MGM Titles
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Drama;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:18
+review:A36O8DIWTEHSZH:5
+review:ATRYT5ZKNLN9C:3
+review:A1HUBEP5DJ6W51:1
+review:A3CWH6VKCTJAD:4
+review:ANPXMT8E4XKSL:3
+review:A1X80H3GWU409C:3
+review:A2AMA9MEEO4XVV:4
+review:A2AMA9MEEO4XVV:4
+review:A17XFBVD8WLUPD:3
+review:A15W56T3VV86EB:5
+review:A1U3F0F8D7I75P:2
+review:A2B6QZ055YIBX0:4
+review:A26LMECH4TFLYL:5
+review:A281NPSIMI1C2R:5
+review:A3328YYH8BDZXA:5
+review:A2M2PLKYZCWLOF:2
+review:AVAOW37WXKITN:4
+review:AF8SC4MVYZ657:3

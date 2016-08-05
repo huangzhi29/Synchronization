@@ -1,0 +1,89 @@
+id:7524
+asin:B00000JWVS
+title:Jerry Seinfeld Live on Broadway
+group:DVD
+salesrank:88
+similar:5
+categories:23
+category:;DVD;Genres;Comedy;General
+category:;DVD;Actors & Actresses;( C );Carlin, George
+category:;DVD;Actors & Actresses;( K );King, Alan
+category:;DVD;Actors & Actresses;( K );Klein, Robert
+category:;DVD;Actors & Actresses;( L );Leno, Jay
+category:;DVD;Actors & Actresses;( M );McMahon, Ed
+category:;DVD;Actors & Actresses;( M );Miller, Larry
+category:;DVD;Actors & Actresses;( R );Reiser, Paul
+category:;DVD;Actors & Actresses;( S );Seinfeld, Jerry
+category:;DVD;Actors & Actresses;( S );Shandling, Garry
+category:;DVD;Directors;( C );Callner, Marty
+category:Music;Styles;Miscellaneous;Comedy;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $10
+category:;DVD;Special Features;Titles;( J )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $10
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;DVD;Special Features;Today's Deals in DVD;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Comedy;General
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+category:;DVD;Genres;Comedy;Stand-Up
+category:;DVD;Genres;Television;HBO;General
+category:;DVD;Genres;Television;HBO;Comedy
+category:;DVD;Genres;Television;HBO;Concerts & Shows
+reviews:58
+review:ATVPDKIKX0DER:5
+review:A2WB7V4HHZ09C6:2
+review:A3TF228A92XYS9:5
+review:AV3ZIHYL7W3RZ:2
+review:ATVPDKIKX0DER:5
+review:A15HR8J2N8NVM0:5
+review:A2R1GNQVQWLMD0:5
+review:ATVPDKIKX0DER:5
+review:A3EK7NVIJ3S48S:5
+review:ADJ1SKR6OHKBJ:4
+review:A320WHX2PH8HUT:5
+review:AEAI825SBJ1DV:5
+review:A33LRTBMUV19K3:2
+review:AXM64PBUPFG6E:5
+review:A39HF3KKWW4FZP:5
+review:A1VFIY34F94XHY:5
+review:A2YPDG4KPCOCNR:5
+review:A2JNGWD3C4OLV:5
+review:A2A48MJ302VKT4:4
+review:A13VS9UTDAQUFM:5
+review:A2OVR63TMZ8FJJ:5
+review:A3ZAE37SGWV1G:5
+review:A40FJUMIKSEXD:5
+review:A1LMAD3NFQS6JB:5
+review:A1JKWXKA1PKGHJ:4
+review:A11KTYTE2T1MX8:5
+review:AXYV0UTBURJXF:1
+review:A1F8JG3FFF7I10:4
+review:A3JA9IZWAQA6HA:5
+review:AHXKUFZ6CO51E:5
+review:A2SSQ15OM3UXPR:2
+review:A3KF4IP2MUS8QQ:4
+review:ATVPDKIKX0DER:3
+review:A1V49ISKYSZ2YZ:5
+review:A1LWRB6H39YVLA:5
+review:AQ8WON1G0VG3L:4
+review:ADKNMWWJCI41C:5
+review:A3UN4EI5BTHV9P:4
+review:A3IRJJYNJ0TML4:3
+review:AE9NFI93JTDTY:5
+review:A195OEK27B2CK6:4
+review:A20IME7TVKLBDS:4
+review:A2ZLROGIL2V7GV:5
+review:A3I8VWXAU8FWI3:1
+review:AORNJ4E7Q5RE7:5
+review:A2LYAGSQIU327M:5
+review:AV5UHOOAXF5FN:3
+review:A2CVIZITBL0N8W:5
+review:A3NW14D34TJLQV:3
+review:A1P1WJTZGC955H:4
+review:A2VNGAWQVBY8XT:5
+review:A35S28DAGB6GR1:5
+review:A2X6GEC6LCDN4S:5
+review:A1DZF8Z85C1X0:5
+review:A1Y01961GKDLO:5
+review:A3MTQTCJXF07XT:5
+review:A39476Z41H9VK3:5
+review:A26YOAU6R2N7QT:5

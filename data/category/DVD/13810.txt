@@ -1,0 +1,32 @@
+id:13810
+asin:B00004RETB
+title:Dokken
+group:DVD
+salesrank:35288
+similar:5
+categories:14
+category:Music;Styles;Hard Rock & Metal;General
+category:Music;Styles;Hard Rock & Metal;Pop Metal
+category:;DVD;Genres;Music Video & Concerts;General
+category:;DVD;Genres;Music Video & Concerts;Hard Rock & Metal;General
+category:;DVD;Genres;Music Video & Concerts;Pop;General
+category:;DVD;Genres;Music Video & Concerts;Concerts;General
+category:;DVD;Special Features;Today's Deals in DVD;Music Video & Concerts
+category:;DVD;Genres;Music Video & Concerts;Rock & Roll;General
+category:;DVD;Special Features;Today's Deals in DVD;Deals Under $15
+category:;DVD;Special Features;Titles;( D )
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Music Video & Concerts
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;Deals Under $15
+category:;DVD;Special Features;Today's Deals in DVD;All Deals
+category:;Amazon.com Stores;Amazon.com Outlet;Categories;DVD Outlet;All Deals
+reviews:10
+review:AQCF1H6VLOGDG:4
+review:A2UHQ9I97067EO:1
+review:A25AZC1ZNDYQNI:5
+review:A38LY1SK4XJBJU:4
+review:A3DOZNH8CRVVQX:4
+review:AUF6FDVDLET0W:4
+review:A2WBR9C5KZVVON:1
+review:A2WBR9C5KZVVON:1
+review:A29BHHXZM46ABY:5
+review:A1NH393E5MQ04I:5
